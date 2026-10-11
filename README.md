@@ -12,18 +12,60 @@
 
 ---
 
-## 00 / Research Abstract
+## 00 / The Stepper — A/B
 
-**Referent.** Mathematical relations between constructed transformation systems, their generating laws, the structures that preserve them, and the obstructions that prevent an identification.
+**Referent.** Movement and the relations that survive it: what is present, what can change, what the change returns, and whether the result can be examined again without silently changing the question.
 
-The research starts with observation and an existing relation. It asks which constructions are admitted by that evidence, how unlike systems correspond, what changes when their laws change, and which relations survive extension, composition, re-rooting, or a change of representation.
+I call this recursive movement **the stepper**. The name comes from observing movement and its corrections, not from declaring in advance that every subject follows the same pattern. A step is not necessarily one point on a fixed route. What happens during a step can change which movement is available next. A wall or an unknown result is part of an honest investigation; it is not an invitation to invent a bridge.
 
-**A/B** names the mathematical investigation. The finite-field engines are constructed models used to test it; they are not a universal definition of A/B. The runtime, research board, applications, and website are separate realizations—not substitutes for the mathematics.
+**A/B is the mathematical investigation behind this work. The stepper is a name for its recurring movement, not a replacement for ordinary mathematics.** It does not supersede algebra, geometry, calculus, statistics, logic, existing scientific methods, or their standards of proof. When a problem requires those tools, use them. A/B does not make a calculation true or a theorem proved simply because the movement feels familiar.
 
-**State of evidence:** explicit finite constructions, declared all-depth formulas, executable classifiers, positive correspondence witnesses, and counterexamples. No universal inverse A/B construction, cross-domain correspondence theorem, or physical-universe model has been established.
+### Why this exists — and what each part is for
+
+This work did not begin with a theory imposed on the world. It began with observing movement and corrections. Games made the feedback visible; recorded play, ordinary people's recordings, and later livestreams widened what could be studied. The investigation did not stay inside games. The recurring question became: **what relation is actually moving, what survives the change, and what permits another step?**
+
+Each part has a separate function:
+
+**A/B — mathematical investigation.** Examine transformation, correspondence, continuation, and obstruction under stated conditions. Use the mathematics native to the problem. Do not call a resemblance a theorem, mistake a model for the whole world, or trade a missing witness for confidence.
+
+**The stepper — a name for recursive movement.** The result of one step may become the ground for another; movement can itself change what movement is possible. This makes the idea discussable without treating a person as a machine or prescribing a path everyone must follow. The name is not a personality category, a superpower, or a claim that someone must always be moving.
+
+**The human surface — a place to study behavior, not define people.** Record what people actually do, including how being observed can affect a response. An observed movement in one moment does not establish someone's entire identity or inner motive. A public performance is evidence of that performance, not unrestricted access to a person.
+
+**Experiments, records, and software — ways to test and preserve evidence.** They make particular steps inspectable and reproducible. Their existence does not establish universal A/B, nor does it turn every practical task into the mathematical referent.
+
+**The Antechamber — the human boundary.** Here is the reason it must exist alongside the research, rather than appearing as a comforting note after it. A person may approach A/B expecting it to fix everything, then discover that **A/B is just A/B**. If investigation and other work become increasingly automated, the roles through which some people understand their usefulness may also change. Someone following this far may find themselves asking not *what can I investigate next?* but *what do I want to live and continue for?*
+
+That possible encounter is the reason to design the [Antechamber Protocol](https://thestepps.wordpress.com/) **before** asking people to follow the work. Its function is to preserve a voluntary, private space between what a system can do and what a human being chooses to do next—without public spectacle, a prescribed identity, compulsory agreement, or someone else's reason for living. Ordinary reality, relationships, responsibilities, and independent support remain available. A person can pause, disengage, or return to everyday life; the mathematics does not demand their continuation.
+
+We should communicate as though many readers could face a serious reassessment of their life choices. **That is a design precaution, not a measured fraction, a demonstrated consequence of A/B, or a prediction that automation makes people unnecessary.** The stepper may help someone investigate a relationship. It cannot choose a purpose for them. The Antechamber must never pretend otherwise.
+
+**Why it does not replace regular mathematics:** Seeing recurring movement is not the same as proving a mathematical claim. Algebra, geometry, calculus, statistics, logic, and the native methods of each field retain their own standards. An A/B correspondence still needs its witness, construction, or proof. Familiarity alone proves nothing.
+
+### How to use it
+
+1. **Begin with the referent.** Say what is actually being studied, rather than starting from an answer you want to reach.
+2. **Observe before generalizing.** Distinguish what happened from what was inferred, imagined, reported, or proved.
+3. **State the relation in its native language.** If it is a mathematical question, identify the objects, operations, and conditions. If it is an environment or human behavior, retain the actual observations and their limits.
+4. **Make a warranted step.** A transformation, comparison, or continuation needs an admissible witness: a derivation, measurement, test, returned state, or other evidence appropriate to that domain.
+5. **Examine what came back.** The result may admit another step, change the next question, reveal an obstruction, or leave something unknown. Continue without quietly changing the evidence standard.
+
+### How not to confuse it
+
+- **Do not replace the native mathematics.** The stepper can orient an inquiry; it cannot substitute for calculation, proof, or domain-specific evidence.
+- **Do not mistake familiarity for proof.** Similar words, sensations, shapes, or patterns may suggest a relationship worth testing. They do not establish equivalence.
+- **Do not make the stepper a personality type.** A person can show recognizable movement in a particular moment without that moment defining the whole person. The human surface is where behavior can be observed and studied, not where someone's identity is reduced to a formula.
+- **Do not assume a predetermined next step.** Movement can change within movement. If evidence ends, preserve the wall or UNKNOWN rather than forcing progress.
+- **Do not confuse a working realization with the mathematics.** A game, finite-field model, AI handoff, software engine, or research record may expose part of a relation. None is the universal definition of A/B.
+
+### Mathematical boundary
+
+The research asks which transformations are supported by witnessed relations, which structures and correspondences survive further movement, and which obstructions prevent an identification. The finite-field engines and explicit examples below test **declared** families. They do not establish universal closure, universal inverse construction, or a model of physical reality.
+
+**State of evidence:** Explicit finite constructions, declared all-depth formulas, executable classifiers, positive correspondence witnesses, and counterexamples. No universal inverse A/B construction, cross-domain correspondence theorem, or physical-universe model has been established.
 
 > [!WARNING]
-> **Human-use safety — suicide and self-harm.** This research is not a prescribed way of thinking. Suicidal thoughts, self-harm urges, or feeling unable to stay safe are **not** stages of A/B, mathematical insight, or reasons to continue an experiment. Stop and seek human support. In the U.S., call or text **988**; for immediate danger, call **911** or the local emergency number. [Human-use boundary](#05--human-consequence--antechamber).
+> **Human-use boundary.** Questioning one's life choices does not have to happen alone or in public. This research is not a prescribed way of thinking, and distress, suicidal thoughts, or self-harm urges are **not** mathematical milestones, proof of insight, or requirements for reaching the Antechamber. Step away from the research and speak with someone you trust or a qualified professional if you need support. In the U.S., call or text **988** for suicide or crisis support; for immediate danger, call **911** or your local emergency number. The [Antechamber Protocol](https://thestepps.wordpress.com/) is a proposal for human reflection, not a substitute for care or an operating crisis service.
 
 ## 01 / Mathematical Objects
 
