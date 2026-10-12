@@ -1,6 +1,6 @@
 # James Muneoka
 
-**RELATIONAL SYSTEMS RESEARCH** / motion · language · mathematics · systems engineering
+**RELATIONAL SYSTEMS RESEARCH** / change · human learning · AI-assisted investigation · mathematics · engineering
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/huntingthereferent/language-network)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/huntingthereferent/language-network)
@@ -12,13 +12,63 @@
 
 ---
 
-## 00 / Research Position
+## 00 / Change — The Starting Observation
+
+Human understanding changes through experience. A conversation, a movement, a disagreement, or an unexpected result can alter how the next experience is perceived.
+
+The more specific observation is **correction of the process doing the understanding**. A conclusion changes; that correction changes what becomes recognizable next; eventually, even the way corrections are made may change. This can occur in language, physical learning, relationships, and technical work. The result is not a completed ideal of a person. It is continuing from what has changed without discarding what still holds.
+
+This investigation began in such ordinary, repeated observation, not in a selected theorem or academic program. The word *change* led back to how understanding changes from within. A/B became language for following that movement and retaining the relationship under investigation. It is not offered as a mathematical definition of human beings.
+
+## 01 / Expanded Reach — Generative AI
+
+For an individual without formal mathematical training, a question could previously reach a boundary of available vocabulary, technical knowledge, time, or the capacity to carry intermediate steps.
+
+Generative AI altered those practical limits. An observation expressed in everyday language could be unpacked, compared with established ideas, developed into a proposed mathematical construction, implemented, challenged, and revised. A question could move into unfamiliar disciplines without its originator first completing every conventional educational prerequisite.
+
+This was an expansion of **accessible investigative work**, not the disappearance of boundaries. AI can produce mistakes, supply an attractive but unrelated framework, or lose the original question. Explicit definitions, executable checks, proof, and independent review are still necessary where results are claimed.
+
+The consequential development was the ability to continue an existing process of observation and correction through many more layers of explanation and construction.
+
+## 02 / Intelligence — Capacity, Error, and Choice
+
+Human intelligence cannot be read directly from a person's current stock of knowledge, educational credentials, or fluency in technical notation.
+
+A second distinction matters: **being able to understand a correction and being willing to accept it are not the same operation**.
+
+Admitting error can be uncomfortable, including in private. An established explanation may be tied to identity, pride, belonging, certainty, or years of prior effort. Someone may recognize a contradiction and still defend the familiar conclusion. Someone else may use that contradiction to revise not only an answer, but the assumptions that made the answer seem inevitable.
+
+The ability to learn is shaped by many things, including health, opportunity, environment, education, and cognitive differences. Choice is not the whole of intelligence. Yet the decision to examine an unwelcome possibility rather than automatically reject it can change **how available intelligence is exercised and developed**.
+
+Generative AI sharpens this distinction. Greater access to explanations and methods gives a person more opportunities to learn, but also more ways to reinforce an existing belief. The tools expand what can be explored; they do not decide whether correction will be welcomed.
+
+**Access expands the possible investigation. Willingness to revise affects what is learned from it.**
+
+## 03 / Autism — Support Without Surrendering Judgment
+
+This question has a direct human application wherever differences in communication, perception, or support needs are taken as reasons to presume a person cannot direct their own thinking.
+
+Autism is not a single profile of intelligence, independence, or decision-making ability. Autistic people have varied abilities, circumstances, and support needs. A diagnosis can inform useful accommodations; it does not by itself transfer ownership of a person's decisions to someone else.
+
+**Receiving assistance and surrendering authority are different things.**
+
+Professional knowledge, trusted people, accessible information, and supported decision-making can make participation possible. The relevant measure of support is not whether a person performs every task alone. It is whether the assistance respects the person's preferences and expands meaningful participation and self-determination, including for people with substantial support needs.
+
+Likewise, being corrected is not the same as being overruled. Expertise deserves consideration, and disagreement deserves examination, but neither a diagnostic label nor an outsider's expectation should substitute automatically for the individual's voice.
+
+The invitation is to reconsider a common assumption: **when help is provided, is it increasing the person's room to think and choose, or unnecessarily choosing in their place?**
+
+This is a question of human agency, not a claim that autism itself explains or validates the mathematical research.
+
+---
+
+## 04 / Research Position
 
 **Primary subject:** Motion and relational change
 **Method:** Observation → Language → Mathematics → Verification
 **Status:** Active investigation; universal correspondence not established
 
-My research concerns motion.
+The research concerns motion.
 
 The investigation is not limited to the displacement of objects. It extends to changes in relationships, distinctions, operations, and the mathematical descriptions through which motion is understood. In particular, the movement may participate in producing the distinctions used to describe it. The in-between is not assumed to be empty space between independently fixed objects.
 
@@ -32,7 +82,7 @@ The objective is to investigate possible correspondences, not to assert that a u
 
 [**A/B — Language and the Referent →**](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
 
-## 01 / Origin of Investigation
+## 05 / Origin of Investigation
 
 The investigation developed through observation and correction rather than starting from a chosen mathematical framework.
 
@@ -42,7 +92,7 @@ The initial description was linguistic. Relationships were expressed in ordinary
 
 Formal mathematical notation is an area of continuing study and technical collaboration, including computational assistance. Research claims retain their own definitions, evidence, proofs, and limitations independently of the investigator's notation fluency.
 
-## 02 / Research Method
+## 06 / Research Method
 
 The investigation proceeds by returning to the current referent whenever a proposed description loses the relation being studied.
 
@@ -62,7 +112,7 @@ A movement can change which movement becomes possible afterward. The result of o
 
 These are research procedures, not a prescribed human personality, a physical mechanism, or a replacement for the methods native to another discipline.
 
-## 03 / Mathematical Investigation
+## 07 / Mathematical Investigation
 
 The current formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
 
@@ -107,7 +157,7 @@ The following results concern **different finite mathematical families or equiva
 
 **In-progress integration.** [Continuity Engine / fifth-coupling classification — PR #18](https://github.com/huntingthereferent/language-network/pull/18) records further experiments, a scoped 243-state model, and 19,683 coupling laws. At the time of this profile draft the integration was open and unmerged, with validation unresolved. Check current PR/CI state before treating it as integrated.
 
-## 04 / Open Mathematical Boundaries
+## 08 / Open Mathematical Boundaries
 
 The next question is not simply how to construct more states. It is what happens **when the construction relationship itself changes**.
 
@@ -128,7 +178,7 @@ Those are boundaries of James's current investigative construction, not demonstr
 
 A more general boundary account would require justified connections through the relevant mathematics and explicit demonstrations of where those descriptions succeed, fail, or cease to preserve the motion under investigation. That remains an open aim rather than an established end-state.
 
-## 05 / Computational and Engineering Work
+## 09 / Computational and Engineering Work
 
 These projects provide evidence and implementations of *particular* relations. None is a complete definition of A/B.
 
@@ -150,7 +200,7 @@ A solved problem does not automatically impose indefinite maintenance. Record a 
 
 </details>
 
-## 06 / Evidence and Limitations
+## 10 / Evidence and Limitations
 
 Observation, interpretation, formal definition, derivation, executable test, measurement, and independent verification are distinct evidence states.
 
@@ -158,7 +208,7 @@ A correspondence between two specified mathematical systems requires a suitable 
 
 **The objective is not to declare a completed theory of motion.** It is to construct and test descriptions that preserve the relationships under investigation while keeping uncertainty and counterexamples visible.
 
-## 07 / Human Consequence & Antechamber Protocol
+## 11 / Human Consequence & Antechamber Protocol
 
 Mathematical and computational capabilities do not determine what a person should value or pursue. Questions of agency, livelihood, responsibility, and purpose remain human questions.
 
@@ -171,19 +221,15 @@ This is a *proposal*, not an operating crisis service or therapeutic program. Th
 > [!WARNING]
 > **Human-use boundary.** Severe distress, isolation, suicidal thoughts, and self-harm urges are not mathematical milestones or evidence of insight. Anyone in distress deserves ordinary human support and qualified care. In the United States, call or text **988** for crisis support; call **911** for immediate danger. The Antechamber does not replace professional care.
 
-## 08 / Personal Context
+## 12 / Communication and Interpretive Scope
 
-My approach to observation also applies to my own behavior and reasoning. I do not automatically privilege my perspective over the relationship being examined.
+The originating observations include long-term attention to how understanding changes. Communication may express several related distinctions before all intermediate explanations have been supplied. Readers should ask what relationship is being described before assigning a fixed personality, motive, or capacity from a phrase.
 
-This can produce communication that differs from conventional expectations. I may express a relationship before communicating all the intermediate distinctions another person needs to follow it. A literal reading of my words may therefore miss what I am describing.
+Autism has been suggested as a possible explanation for some communication differences, but no diagnostic conclusion is asserted in this profile. The discussion of autism, assistance, and autonomy above stands independently of the researcher's diagnostic status.
 
-When wording is unclear, clarification is preferable to interpretation on my behalf.
+Personal observation is an investigative starting point, not proof of a universal psychological, biological, or mathematical mechanism.
 
-Autism has been suggested as a possible explanation for aspects of my communication and behavior. I am still investigating that possibility.
-
-This information is included as personal context. It does not establish, explain, or validate the mathematical research.
-
-## 09 / Research Record
+## 13 / Research Record
 
 **Primary notebook:** [Finite-field constructions and proofs](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) · [Research notebook](RESEARCH.md)
 
