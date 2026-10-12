@@ -3,12 +3,43 @@
 
 [← Profile](../README.md) · [Writing](../writing/README.md) · [Evidence index](../PROVENANCE.md)
 
+**This is a selected presentation, not the full inventory.** The [complete project catalog](PROJECT_INVENTORY.md) enumerates all project families found across the connected public and private repositories, distinguishing code, historical work, local reports, drafts, and planned projects. The [source-path snapshot](SOURCE_INDEX.md) provides the entire tracked public `main` tree. **Engine 2 is listed by its historical name and current Cyclic Action Engine name.**
+
+[**COMPLETE PROJECT INVENTORY →**](PROJECT_INVENTORY.md) · [**SOURCE INDEX / 889 tracked entries →**](SOURCE_INDEX.md)
+
 **Construction method:** code, mathematical formalization, documentation, and tests were developed through generative-AI-assisted vibe coding, with human-directed observations, project choices, corrections, and referent control.
 
 **How to read this index:** `Public code` means an inspectable repository artifact; `Recorded local` means reported observations with specified limits; `Simulated` is not physical realization; `Private` is documented but not source-accessible; `Planned` is not delivered. Multiple labels can apply to the same project.
 
 > [!NOTE]
 > This is an index of project families, not a claim that every module has passed CI, shipped to customers, or been independently validated. The full file history is in the [Continuity Layer repository](https://github.com/huntingthereferent/language-network).
+
+## 00 / Previously omitted independent projects
+
+<details open>
+<summary><strong>Engine 2 / Cyclic Action Engine</strong> · Historical name preserved / merged research kernel</summary>
+
+Engine 2 entered through [merged PR #16](https://github.com/huntingthereferent/language-network/pull/16), and the implementation was renamed in [PR #17](https://github.com/huntingthereferent/language-network/pull/17). The [current code](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_engine.py) preserves a bounded mathematical research WATCH, not unrestricted autonomous research. [Historical compatibility module](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_two_research.py).
+
+</details>
+
+<details>
+<summary><strong>Six standalone engineering builds</strong> · Public source and scoped tests</summary>
+
+[Multi-source state platform](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md) · [Application security](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/README.md) · [Applied ML](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/README.md) · [Networking](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/README.md) · [Embedded systems](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/README.md) · [St. Joseph physical-system benchmark](https://github.com/huntingthereferent/language-network/blob/main/work/projects/st-joseph-complete-stack/README.md).
+
+[Individual scope and status →](PROJECT_INVENTORY.md#04--standalone-engineering-builds)
+
+</details>
+
+<details>
+<summary><strong>Other distinct systems and project histories</strong></summary>
+
+Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Day, Personal Operations, autonomous ARC experiments, A/B chatbot, GEMS, P001/P002, 21 job records, four separate private research repositories, and historical Axioms / Eggy experiments are indexed separately, not absorbed into one generic Continuity label.
+
+[Find every project →](PROJECT_INVENTORY.md)
+
+</details>
 
 ## 01 / Systems and infrastructure
 
