@@ -9,6 +9,16 @@ A formal equation in this page states a particular mathematical definition or wi
 
 ---
 
+## Engine lineage and current names
+
+**Engine 1:** [bounded inverse construction](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md).
+
+**Engine 2:** [merged historical research kernel — PR #16](https://github.com/huntingthereferent/language-network/pull/16), subsequently [renamed to Cyclic Action Engine — PR #17](https://github.com/huntingthereferent/language-network/pull/17). Current source: [`cyclic_action_engine.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_engine.py). Compatibility import: [`engine_two_research.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_two_research.py).
+
+**Continuity Engine import:** [PR #18](https://github.com/huntingthereferent/language-network/pull/18) remains unmerged; its archived work is not assumed to be current main-branch code.
+
+[Complete project inventory →](PROJECT_INVENTORY.md)
+
 ## Mathematical investigation
 
 The AI-assisted formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
