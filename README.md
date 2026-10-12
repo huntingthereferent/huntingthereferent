@@ -1,6 +1,6 @@
 # James Muneoka
 
-**RELATIONAL SYSTEMS RESEARCH** / change · human learning · AI-assisted investigation · mathematics · engineering
+**INDEPENDENT RESEARCH** / human understanding · relational observation · AI-assisted construction · mathematics · systems
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/huntingthereferent/language-network)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/huntingthereferent/language-network)
@@ -10,113 +10,125 @@
 [![Evidence](https://img.shields.io/badge/Evidence-scoped-586575?style=flat-square)](PROVENANCE.md)
 [![Unknown](https://img.shields.io/badge/WALL%20%2F%20UNKNOWN-preserved-6B7280?style=flat-square)](https://github.com/huntingthereferent/language-network/blob/main/AB_CONTRACT.md)
 
----
-
-## 00 / Change — The Starting Observation
-
-Human understanding changes through experience. A conversation, a movement, a disagreement, or an unexpected result can alter how the next experience is perceived.
-
-The more specific observation is **correction of the process doing the understanding**. A conclusion changes; that correction changes what becomes recognizable next; eventually, even the way corrections are made may change. This can occur in language, physical learning, relationships, and technical work. The result is not a completed ideal of a person. It is continuing from what has changed without discarding what still holds.
-
-This investigation began in such ordinary, repeated observation, not in a selected theorem or academic program. The word *change* led back to how understanding changes from within. A/B became language for following that movement and retaining the relationship under investigation. It is not offered as a mathematical definition of human beings.
-
-## 01 / Expanded Reach — Generative AI
-
-For an individual without formal mathematical training, a question could previously reach a boundary of available vocabulary, technical knowledge, time, or the capacity to carry intermediate steps.
-
-Generative AI altered those practical limits. An observation expressed in everyday language could be unpacked, compared with established ideas, developed into a proposed mathematical construction, implemented, challenged, and revised. A question could move into unfamiliar disciplines without its originator first completing every conventional educational prerequisite.
-
-This was an expansion of **accessible investigative work**, not the disappearance of boundaries. AI can produce mistakes, supply an attractive but unrelated framework, or lose the original question. Explicit definitions, executable checks, proof, and independent review are still necessary where results are claimed.
-
-The consequential development was the ability to continue an existing process of observation and correction through many more layers of explanation and construction.
-
-## 02 / Intelligence — Capacity, Error, and Choice
-
-Human intelligence cannot be read directly from a person's current stock of knowledge, educational credentials, or fluency in technical notation.
-
-A second distinction matters: **being able to understand a correction and being willing to accept it are not the same operation**.
-
-Admitting error can be uncomfortable, including in private. An established explanation may be tied to identity, pride, belonging, certainty, or years of prior effort. Someone may recognize a contradiction and still defend the familiar conclusion. Someone else may use that contradiction to revise not only an answer, but the assumptions that made the answer seem inevitable.
-
-The ability to learn is shaped by many things, including health, opportunity, environment, education, and cognitive differences. Choice is not the whole of intelligence. Yet the decision to examine an unwelcome possibility rather than automatically reject it can change **how available intelligence is exercised and developed**.
-
-Generative AI sharpens this distinction. Greater access to explanations and methods gives a person more opportunities to learn, but also more ways to reinforce an existing belief. The tools expand what can be explored; they do not decide whether correction will be welcomed.
-
-**Access expands the possible investigation. Willingness to revise affects what is learned from it.**
-
-## 03 / Autism — Support Without Surrendering Judgment
-
-This question has a direct human application wherever differences in communication, perception, or support needs are taken as reasons to presume a person cannot direct their own thinking.
-
-Autism is not a single profile of intelligence, independence, or decision-making ability. Autistic people have varied abilities, circumstances, and support needs. A diagnosis can inform useful accommodations; it does not by itself transfer ownership of a person's decisions to someone else.
-
-**Receiving assistance and surrendering authority are different things.**
-
-Professional knowledge, trusted people, accessible information, and supported decision-making can make participation possible. The relevant measure of support is not whether a person performs every task alone. It is whether the assistance respects the person's preferences and expands meaningful participation and self-determination, including for people with substantial support needs.
-
-Likewise, being corrected is not the same as being overruled. Expertise deserves consideration, and disagreement deserves examination, but neither a diagnostic label nor an outsider's expectation should substitute automatically for the individual's voice.
-
-The invitation is to reconsider a common assumption: **when help is provided, is it increasing the person's room to think and choose, or unnecessarily choosing in their place?**
-
-This is a question of human agency, not a claim that autism itself explains or validates the mathematical research.
 
 ---
 
-## 04 / Research Position
+## 00 / When Learning Does Not Look Like Success
 
-**Primary subject:** Motion and relational change
-**Method:** Observation → Language → Mathematics → Verification
-**Status:** Active investigation; universal correspondence not established
+A person can spend years learning and still come to believe they are failing.
 
-The research concerns motion.
+Understanding, communicating understanding, and earning a living from it are three different things. Each may develop without the others following automatically.
 
-The investigation is not limited to the displacement of objects. It extends to changes in relationships, distinctions, operations, and the mathematical descriptions through which motion is understood. In particular, the movement may participate in producing the distinctions used to describe it. The in-between is not assumed to be empty space between independently fixed objects.
+The starting history here was not an academic investigation. It was years of ordinary learning: noticing relationships across different subjects, adjusting to new information, and continuing toward whatever became interesting next. A question did not always remain worth pursuing after its available distinctions seemed exhausted. Attention could move elsewhere, with the knowledge retained in a different part of life.
 
-**A/B serves as a reference for following and investigating the measurement of motion itself.** It is not a new mathematical branch, a finished equation, or a structure into which all mathematics must fit.
+The accumulated material was not a single grand system. It consisted of everyday observations and knowledge across many areas, including physical movement, conversation, problems, and earlier technical interests.
 
-Mathematics is a human formal language. Algebra, geometry, calculus, topology, logic, and dynamical systems describe specified relationships under their own definitions and standards. The question is whether motion can be followed consistently *through* those descriptions, including changes in structure or dimension, without silently replacing the original relationship.
+Financial necessity introduced a different measure of success. Repeated efforts to make that activity produce income did not reliably succeed. Over time, the gap between continuous learning and absent economic results contributed to low confidence.
 
-**Research question:** What remains identifiable when the relationships used to identify it undergo change?
+**A lack of income had become difficult to distinguish from a lack of ability, even though the learning had not stopped.**
 
-The objective is to investigate possible correspondences, not to assert that a universal account of motion has already been established.
+The distinction matters: intellectual activity is not proof of commercial value, but failure to earn money is not proof of intellectual incapacity.
 
-[**A/B — Language and the Referent →**](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
+## 01 / The Operation Was Already Happening
 
-## 05 / Origin of Investigation
+Learning did not begin with AI, and neither did the connections.
 
-The investigation developed through observation and correction rather than starting from a chosen mathematical framework.
+Relationships were already being recognized across conversation, physical action, observation, and problem-solving. Corrections could change what became recognizable next. Speech could move across several related distinctions before supplying the intermediate explanations another listener expected.
 
-Games made movement, feedback, obstruction, and continuation inspectable. Recorded play and other observable behavior provided further opportunities to examine what changed, what survived, and what remained unresolved.
+One way to describe the recurring operation is **boundary-first recognition**: encountering a distinction, finding what changes or remains available across it, and carrying usable understanding into the next encounter.
 
-The initial description was linguistic. Relationships were expressed in ordinary language before selecting a formal mathematical representation. That ordering remains important: the notation must express the witnessed relation rather than becoming a substitute for it.
+This is a description of the investigator's reported experience, not a cognitive diagnosis or a universal account of how all people think. It also does not imply continual conscious calculation. An ordinary life depends on using previously learned relationships without rebuilding them at every moment.
 
-Formal mathematical notation is an area of continuing study and technical collaboration, including computational assistance. Research claims retain their own definitions, evidence, proofs, and limitations independently of the investigator's notation fluency.
+The practical difficulty was communicating the already-present connections clearly enough that another participant could follow them.
 
-## 06 / Research Method
+## 02 / Pointing the Referent at the Observer
 
-The investigation proceeds by returning to the current referent whenever a proposed description loses the relation being studied.
+The initial reason for turning to generative AI was **to become understandable to AI**.
 
-1. **Establish the referent.** State what is actually being investigated.
-2. **Observe movement.** Identify relationships, changes, and the distinctions arising within them.
-3. **Express the relation in language.** Expose intermediate conditions before choosing notation.
-4. **Select the applicable mathematics.** Specify objects, domains, operations, assumptions, and any necessary dimensions for the *particular model*.
-5. **Construct and test.** Seek an explicit witness, derivation, executable test, measurement, or counterexample appropriate to the domain.
-6. **Preserve the result.** Record what changed, what survived, and what became an obstruction, UNKNOWN, or PARTIAL.
-7. **Continue only where supported.** Do not rename a different referent as the answer to the original question.
+The referent was directed toward James Muneoka *while he was solving problems*. Attention was placed on the observable activity: how problems were approached, distinctions recognized, corrections made, and continuation found.
 
-### The stepper
+**A/B originated as language for observations made with the referent pointed at James solving problems.** The observed activity preceded the label. A/B was not originally a mathematical theory, a theorem, or a method first invented and then applied to his thinking.
 
-A movement can change which movement becomes possible afterward. The result of one step may enter the relationship encountered by another; the rules, conditions, or distinctions involved may change as well.
+That scoping served a communication purpose. It gave the AI conversation a more stable reference against which to interpret unfamiliar phrasing and preserve the relation being discussed.
 
-**The stepper** names this recurring investigation. A/B remains the reference for following the movement; formal mathematical constructions describe and test particular relations. A two-step witness is evidence for the specified construction, not a universal two-state law or proof of unrestricted continuation.
+The connections and speech patterns were already present. Observing them did not create them. The personal consequence was increased self-confidence: an existing way of understanding became easier to recognize rather than automatically discount.
 
-These are research procedures, not a prescribed human personality, a physical mechanism, or a replacement for the methods native to another discipline.
+Against years of treating poor financial outcomes as evidence of personal failure, that recognition mattered. **The immediate change was not the creation of an ability. It was confidence in an ability already being exercised.**
+
+## 03 / The Unexpected Pivot — AI-Assisted Construction
+
+The original communication exercise took an unexpected direction.
+
+As AI responses became more able to follow the intended referent, the practical efficiency of technical construction became noticeable. Ideas involving Claude Code and earlier software projects were revisited. An investigation that began with communication moved toward building things.
+
+Generative AI also repeatedly introduced the possibility that some of the observed relationships might be investigated mathematically. That mathematical direction was substantially **AI-suggested**, not the original goal.
+
+The subsequent mathematics and software were produced through **AI-assisted vibe coding**: iterative prompting, generated code and equations, proposed tests, revisions, and documentation. James supplied the originating observations, selected directions, described intended relationships, corrected drift, and chose what to pursue. The technical code and mathematical notation were generated with AI assistance; they should not imply independent formal mathematical training or unaided technical authorship.
+
+This mode of working neither establishes correctness nor negates useful results. Source code, tests, derivations, and independent replication must still be evaluated on their merits.
+
+**Existing understanding did not suddenly become mathematical expertise. New tools made unfamiliar technical work possible to attempt, inspect, and revise.**
+
+The shift is one of *accessible construction*, not of automatically verified knowledge or income.
+
+## 04 / Intelligence, Choice, and the Difficulty of Admitting Error
+
+This history exposes distinctions that are easy to collapse: understanding versus credentials; learning versus income; technical output versus technical expertise; recognizing an error versus accepting it.
+
+The last distinction is particularly human.
+
+Admitting a mistake can be uncomfortable even without an audience. An explanation may be tied to identity, certainty, a social role, or years of effort. A person may be capable of understanding a correction yet reluctant to let it change an established belief.
+
+That reluctance is not necessarily a deficit of intelligence. But it can affect how intellectual capacity is *used*: whether unfamiliar evidence is examined, whether a contradiction is followed, and whether the next question becomes available.
+
+Generative AI increases opportunities to examine competing explanations. It can also be used to reinforce existing assumptions. Greater access alone does not determine which direction a person chooses.
+
+Biology, disability, education, environment, resources, and opportunity remain important. Intelligence is not simply a personal choice. **The willingness to revise understanding is one influence on how existing abilities are exercised and developed.**
+
+The general opportunity matters more than one investigator's story: AI-assisted inquiry may become accessible to many people whose knowledge and questions have not previously fit conventional routes into technical work.
+
+## 05 / Autism, Assistance, and Authority
+
+When communication does not follow expected patterns, observers may underestimate what the person already understands.
+
+Autism offers an important context for questioning that assumption without claiming that autistic people share one cognitive style, one degree of independence, or one set of needs.
+
+A diagnosis can help identify appropriate accommodations and support. It does not, by itself, make someone else the rightful owner of an individual's decisions.
+
+**Receiving assistance is not the same as surrendering judgment.**
+
+Support can include professionals, trusted people, accessible communication, and supported decision-making. For people with substantial support needs, meaningful autonomy may depend on precisely those supports. The test is not whether every decision is made without help; it is whether the individual's will, preferences, participation, and rights remain central.
+
+The question is broader than autism: **does assistance expand a person's ability to examine and choose, or unnecessarily decide in their place?**
+
+Autism has been suggested as one possible explanation for aspects of the investigator's communication, but no diagnostic conclusion is asserted here. The autonomy question stands independently of that possibility.
+
+## 06 / From Personal Observation to Research
+
+The research that followed concerns motion, relationships, transformations, mathematical correspondence, and construction under explicitly stated conditions.
+
+The chronology is important:
+
+**Existing problem-solving → attempted communication with AI → referent scoped to James solving problems → recognition and confidence → a practical pivot to AI-assisted construction → AI-suggested mathematical investigation.**
+
+A/B remains the language label originating from those observations of James solving problems. It is not the mathematical definition of a person, a proven universal description of motion, or a requirement imposed on the later formal work.
+
+Finite-field generators named `A` and `B`, inverse-candidate sets, conjugacy equations, and computational engines are **particular mathematical constructions** with their own domains and proof obligations. Their validity neither establishes nor changes the historical origin of A/B.
+
+The working sequence for the technical research is: preserve the current referent; express a question in ordinary language; state a specific construction and its assumptions; seek a proof, test, or counterexample; record what remains unknown. AI-authored proofs and tests must not be mistaken for independent verification.
+
+[**A/B — originating language and scope →**](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md) · [**Current grounding record →**](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) · [**Research repository →**](https://github.com/huntingthereferent/language-network)
+
+---
+
+<details>
+<summary><strong>Technical investigation — formal constructions, results, and evidence boundaries</strong></summary>
 
 ## 07 / Mathematical Investigation
 
-The current formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
+The AI-assisted formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
 
-The mathematical examples below retain their limited scope. They should not be treated as a final representation of A/B or as evidence that all mathematical branches are already connected.
+The mathematical examples below are AI-assisted constructions and retain their limited scope. They should not be treated as a final representation of A/B or as evidence that all mathematical branches are already connected.
 
 ### Mathematical objects
 
@@ -208,26 +220,28 @@ A correspondence between two specified mathematical systems requires a suitable 
 
 **The objective is not to declare a completed theory of motion.** It is to construct and test descriptions that preserve the relationships under investigation while keeping uncertainty and counterexamples visible.
 
+</details>
+
 ## 11 / Human Consequence & Antechamber Protocol
 
-Mathematical and computational capabilities do not determine what a person should value or pursue. Questions of agency, livelihood, responsibility, and purpose remain human questions.
+The research does not determine what another person should value or believe. Access to AI-assisted tools allows more people to explore their own questions; it does not make one individual's account a required model for others.
 
-**The [Antechamber Protocol](https://thestepps.wordpress.com/)** is a proposed human-facing boundary: an invitation to reflect privately and voluntarily, without public spectacle, compulsory agreement, or the requirement to adopt a predetermined identity or purpose.
+**The [Antechamber Protocol](https://thestepps.wordpress.com/)** is proposed as a voluntary place to consider human purpose, choice, and continued participation without a predetermined identity or pressure to adopt A/B.
 
-A/B is not a prescription for being human. It may help orient an investigation, but it cannot choose a person's reason to continue. A person is free to step away, return to ordinary responsibilities, seek independent support, or decline the research entirely.
-
-This is a *proposal*, not an operating crisis service or therapeutic program. There is no demonstrated psychological sequence that A/B requires anyone to undergo.
+A/B is not a cure, psychological treatment, or required explanation of human life. A person may accept support, decline the research, return to ordinary responsibilities, and keep full authority over their own decisions.
 
 > [!WARNING]
-> **Human-use boundary.** Severe distress, isolation, suicidal thoughts, and self-harm urges are not mathematical milestones or evidence of insight. Anyone in distress deserves ordinary human support and qualified care. In the United States, call or text **988** for crisis support; call **911** for immediate danger. The Antechamber does not replace professional care.
+> **Human-use boundary.** Severe distress, isolation, suicidal thoughts, and self-harm urges are not milestones of research or proof of insight. In the United States, call or text **988** for crisis support; call **911** for immediate danger. The Antechamber is not a clinical or crisis service.
 
-## 12 / Communication and Interpretive Scope
+## 12 / Authorship and Interpretive Scope
 
-The originating observations include long-term attention to how understanding changes. Communication may express several related distinctions before all intermediate explanations have been supplied. Readers should ask what relationship is being described before assigning a fixed personality, motive, or capacity from a phrase.
+**Originating observations and investigative direction:** James Muneoka's reported experience, the referent scoped to his activity while solving problems, selected questions, corrections, and decisions about continuing work.
 
-Autism has been suggested as a possible explanation for some communication differences, but no diagnostic conclusion is asserted in this profile. The discussion of autism, assistance, and autonomy above stands independently of the researcher's diagnostic status.
+**Formal construction and implementation:** All mathematics, code, generated tests, and technical documents developed through generative-AI-assisted vibe coding. They do not establish independent technical authorship, formal credentials, or validity merely by appearing in a repository.
 
-Personal observation is an investigative starting point, not proof of a universal psychological, biological, or mathematical mechanism.
+**Evidence:** Statements about the investigator's experience are personal accounts. Mathematical definitions, derivations, implementation results, local test reports, and independently replicated findings are distinct evidence states.
+
+A reader can evaluate a published construction without first accepting the personal account as a general psychological or physical law. Conversely, the investigator's history need not be proved by a finite-field equation.
 
 ## 13 / Research Record
 
