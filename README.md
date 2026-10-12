@@ -1,10 +1,10 @@
 # James Muneoka
 
-**RELATIONAL SYSTEMS RESEARCH** / language · mathematical exploration · engineering
+**RELATIONAL SYSTEMS RESEARCH** / motion · language · mathematics · systems engineering
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/huntingthereferent/language-network)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/huntingthereferent/language-network)
-[![Mathematics](https://img.shields.io/badge/Mathematics-F%E2%82%83%20systems-364152?style=flat-square)](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md)
+[![Mathematics](https://img.shields.io/badge/Mathematics-formal%20constructions-364152?style=flat-square)](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md)
 [![Inverse construction](https://img.shields.io/badge/Inverse-construction-43546A?style=flat-square)](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md)
 [![Continuity](https://img.shields.io/badge/Continuity-research-43546A?style=flat-square)](https://github.com/huntingthereferent/language-network)
 [![Evidence](https://img.shields.io/badge/Evidence-scoped-586575?style=flat-square)](PROVENANCE.md)
@@ -12,176 +12,178 @@
 
 ---
 
-## 00 / The Stepper — A/B
+## 00 / About Me — The Referent
 
-**Movement precedes its description.** The world changes, and language changes with it. Yet established names and categories can remain long after the relationships they were meant to describe have moved. The mistake is to treat a description as though it were the referent itself.
+**I study motion.**
 
-**A/B is a primitive relational language built to move with its referent.** Its looseness is deliberate: relationships can be decompressed, compressed, re-expressed, approached from another side, or followed across scales and disciplines. The referent need not stand still for the investigation to maintain continuity. What matters is that the movement remains traceable without quietly substituting a new subject.
+Not only the movement of objects through space, but movement in the relationships through which objects, boundaries, dimensions, and mathematical structures become distinguishable.
 
-**The stepper** names the recurring movement under investigation. A step can change which relationships are available for another step. It does not prescribe a direction, a final configuration, or a permanent form. An obstruction or unknown remains visible rather than being filled by assumption.
+The part that interests me most is what happens **in between**.
 
-James Muneoka's research grew from observing movement and correction, then expanded into language, mathematical exploration, computational experiments, and engineering. The relationships are communicated in ordinary language; formal notation is an area of continuing study, developed through sustained exposure and technical collaboration. The mathematics stays visible, with its own proofs, limitations, and standards of verification.
+We often describe change by identifying two things first, then asking what connects them. But the movement under investigation may participate in producing the very distinctions we use to identify those things. A description can be valid within its scope and still miss the relation that gave it meaning.
+
+**A/B is a reference I use to follow and investigate the measurement of motion itself.** It is not a competing branch of mathematics, a finished equation, or a fixed structure intended to contain everything.
+
+Mathematics is a human language. Algebra, geometry, calculus, topology, logic, and dynamical systems each have precise ways of expressing relationships. My investigation asks whether the movement can be followed *through* those descriptions, including transitions between dimensions and structures, without losing the relation being measured.
+
+A formula may describe a movement. But what happens when that movement changes the conditions under which the formula applies?
+
+**That is the problem I keep returning to.**
+
+The larger possibility is a mathematical account of motion that preserves its referent across representations and dimensions. That is an **open research question**, not a theorem established by the present work. Each mathematical correspondence still requires its own assumptions, witness, and proof.
 
 [**A/B — Language and the Referent →**](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
 
-**A/B does not replace mathematics.** Algebra, geometry, calculus, statistics, logic, and native scientific methods retain their own rigor. A formal construction proves only what its specified assumptions and evidence support.
+### Where the work began
 
-### Why this exists — and what each part is for
+My approach developed through observation and correction rather than selecting a theory and fitting the observations to it. Games made movement, feedback, failure, and continuation visible; recorded play and other observable behavior broadened the questions.
 
-This work did not begin with a theory imposed on the world. It began with observing movement and corrections. Games made the feedback visible; recorded play, ordinary people's recordings, and later livestreams widened what could be studied. The investigation did not stay inside games. The recurring question became: **what relation is actually moving, what survives the change, and what permits another step?**
+I describe the relation in ordinary language before choosing formal notation. Formal mathematics is an area of continuing study and technical collaboration, including computational assistance. The evidence, definitions, proofs, and limitations of a construction stand independently of personal notation fluency.
 
-Each part has a separate function:
+I am not trying to make mathematics fit a preferred answer. I am investigating whether the motion that prompted the question can be followed through the mathematics without silently replacing the referent.
 
-**A/B — relational language.** A deliberately lightweight way to express, recompress, and revisit changing relationships without assigning a final shape to the referent. Its flexibility is functional, not a substitute for the evidence each investigation requires.
+## 01 / The Stepper — A/B
 
-**The stepper — a name for recursive movement.** The result of one step may become the ground for another; movement can itself change what movement is possible. This makes the idea discussable without treating a person as a machine or prescribing a path everyone must follow. The name is not a personality category, a superpower, or a claim that someone must always be moving.
+A movement can change what movement becomes possible afterward.
 
-**The human surface — a place to study behavior, not define people.** Record what people actually do, including how being observed can affect a response. An observed movement in one moment does not establish someone's entire identity or inner motive. A public performance is evidence of that performance, not unrestricted access to a person.
+The result of one step may become part of the relationship encountered in the next. The conditions of an operation, the distinctions it acts upon, or the available next movement may themselves change.
 
-**Experiments, records, and software — ways to test and preserve evidence.** They make particular steps inspectable and reproducible. Their existence does not establish a universal mathematical or physical account of A/B, nor does it turn every practical task into the language's definition.
+I use **the stepper** to name this recurring investigation. **A/B is a reference for following the relation; the stepper names the continuing movement; mathematical constructions specify and test particular versions.** None of these roles should be collapsed into another.
 
-**The Antechamber — the human boundary.** Here is the reason it must exist alongside the research, rather than appearing as a comforting note after it. A person may approach A/B expecting it to fix everything, then discover that **A/B is just A/B**. If investigation and other work become increasingly automated, the roles through which some people understand their usefulness may also change. Someone following this far may find themselves asking not *what can I investigate next?* but *what do I want to live and continue for?*
+The two-step is a practical question: after a witnessed movement, does the resulting relationship still admit another movement under the specified conditions? It is not a universal two-state law, an instruction to force a next step, or a proof that every system is equivalent.
 
-That possible encounter is the reason to design the [Antechamber Protocol](https://thestepps.wordpress.com/) **before** asking people to follow the work. Its function is to preserve a voluntary, private space between what a system can do and what a human being chooses to do next—without public spectacle, a prescribed identity, compulsory agreement, or someone else's reason for living. Ordinary reality, relationships, responsibilities, and independent support remain available. A person can pause, disengage, or return to everyday life; the research does not demand their continuation.
+### Research method
 
-We should communicate as though many readers could face a serious reassessment of their life choices. **That is a design precaution, not a measured fraction, a demonstrated consequence of A/B, or a prediction that automation makes people unnecessary.** The stepper may help someone investigate a relationship. It cannot choose a purpose for them. The Antechamber must never pretend otherwise.
+1. **Locate the referent.** Identify what is actually moving or being investigated, rather than starting from the desired result.
+2. **Describe the relationship in language.** Decompress its relevant conditions and the in-between movement before imposing a particular structure.
+3. **Choose a mathematical description.** State the objects, operations, dimensions, and assumptions that this *specific* model requires.
+4. **Test the continuation.** Seek a derivation, explicit correspondence, counterexample, measurement, or executable witness appropriate to the domain.
+5. **Retain what survived.** Record what changed, what was preserved, and what became a wall or UNKNOWN. A changed description must not silently become a changed referent.
 
-**Why it does not replace regular mathematics:** Seeing recurring movement is not the same as proving a mathematical claim. Algebra, geometry, calculus, statistics, logic, and the native methods of each field retain their own standards. A proposed mathematical correspondence still needs its witness, construction, or proof. Familiarity alone proves nothing.
+These are research disciplines, not a mandatory model of how a human thinks. They do not make A/B a definition of a person, a claim about a physical machine, or a replacement for native mathematical methods.
 
-### How to use it
+### Human and mathematical boundaries
 
-1. **Begin with the referent.** Say what is actually being studied, rather than starting from an answer you want to reach.
-2. **Observe before generalizing.** Distinguish what happened from what was inferred, imagined, reported, or proved.
-3. **State the relation in its native language.** If it is a mathematical question, identify the objects, operations, and conditions. If it is an environment or human behavior, retain the actual observations and their limits.
-4. **Make a warranted step.** A transformation, comparison, or continuation needs an admissible witness: a derivation, measurement, test, returned state, or other evidence appropriate to that domain.
-5. **Examine what came back.** The result may admit another step, change the next question, reveal an obstruction, or leave something unknown. Continue without quietly changing the evidence standard.
+A/B does not replace regular mathematics. The finite fields, state systems, classifiers, and other mathematical engines in the repository test *declared* families. They are not a universal proof of A/B, a complete account of physical motion, or a final mathematical container.
 
-### How not to confuse it
+The research remains grounded in the witnessed relationship. The mathematical results below are useful because they can be checked—not because they bear the A/B name.
 
-- **Do not replace the native mathematics.** The stepper can orient an inquiry; it cannot substitute for calculation, proof, or domain-specific evidence.
-- **Do not mistake familiarity for proof.** Similar words, sensations, shapes, or patterns may suggest a relationship worth testing. They do not establish equivalence.
-- **Do not make the stepper a personality type.** A person can show recognizable movement in a particular moment without that moment defining the whole person. The human surface is where behavior can be observed and studied, not where someone's identity is reduced to a formula.
-- **Do not assume a predetermined next step.** Movement can change within movement. If evidence ends, preserve the wall or UNKNOWN rather than forcing progress.
-- **Do not confuse a working realization with the language.** A game, finite-field model, AI handoff, software engine, or research record may expose part of a relation. None is the definition of A/B.
+## 02 / Mathematical Objects
 
-### Language and mathematical boundary
-
-The formal research asks which transformations are supported by witnessed relations, which structures and correspondences survive further movement, and which obstructions prevent an identification. The finite-field engines and explicit examples below test **declared** families. They do not establish universal closure, universal inverse construction, or a model of physical reality.
-
-**State of evidence:** Explicit finite constructions, declared all-depth formulas, executable classifiers, positive correspondence witnesses, and counterexamples. No universal inverse A/B construction, cross-domain correspondence theorem, or physical-universe model has been established.
-
-> [!WARNING]
-> **Human-use boundary.** Questioning one's life choices does not have to happen alone or in public. This research is not a prescribed way of thinking, and distress, suicidal thoughts, or self-harm urges are **not** mathematical milestones, proof of insight, or requirements for reaching the Antechamber. Step away from the research and speak with someone you trust or a qualified professional if you need support. In the U.S., call or text **988** for suicide or crisis support; for immediate danger, call **911** or your local emergency number. The [Antechamber Protocol](https://thestepps.wordpress.com/) is a proposal for human reflection, not a substitute for care or an operating crisis service.
-
-## 01 / Mathematical Objects
-
-**Inverse construction.** Start with a stated family of possible laws and requirements witnessed by evidence. Keep every law in that family that satisfies those requirements; do not assume the result is unique or reaches outside the declared family.
+**Inverse construction.** Begin with a specified family of possible laws and requirements witnessed by evidence. Retain those laws satisfying the requirements; do not assume uniqueness or applicability outside the declared family.
 
 ![Inverse construction: Inv sub F of R equals the set of all W in F satisfying R.](assets/math/inverse-construction.svg)
 
-**Full-state correspondence.** To show two specified A/B systems are conjugate, one bijection of their complete state spaces must preserve **both** generating transformations, with their labels intact:
+**Full-state correspondence.** Two specified A/B transformation systems are conjugate only if one bijection of their *full* state spaces preserves both labeled generating transformations:
 
 ![Full-state correspondence: H composed with A sub P equals A sub Q composed with H; H composed with B sub P equals B sub Q composed with H.](assets/math/full-state-correspondence.svg)
 
-A correspondence on an invariant B-fiber alone proves neither of these full two-generator conditions automatically. Rooted history, whole-state equivalence, quotient alignment, and transport of a **selected** symmetry are separate mathematical claims.
-
-The research moves through several distinct operations:
+A correspondence on a restricted invariant B-fiber does not automatically establish full two-generator conjugacy. Rooted history, whole-state equivalence, quotient alignment, and transport of a selected symmetry are separate claims.
 
 | Relation under investigation | Mathematical question | Entry |
 | :--- | :--- | :--- |
-| **Inverse construction** | Which candidate laws satisfy the witnessed requirements? Can an admitted construction path produce another law? | [Engine 1](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_one.py) |
-| **Extension / inverse limits** | Can compatible projections carry a relation through every declared coordinate depth? | [Inverse-limit mathematics](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/inverse_limit.py) · [full record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
-| **Processes of changing laws** | When are entire rule streams equivalent, not just individual state snapshots? | [Process alignment](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_alignment.py) |
-| **Operators on rule systems** | Does a reversible construction preserve the relational quotient, or only a description of it? | [Process operators](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_operators.py) · [non-diagonal transport](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/NONDIAGONAL_TRANSPORT.md) |
-| **Pointed / full-state distinctions** | Which maps preserve an origin, a selected witness, and both A/B actions? Which invariant obstructs them? | [Two-predecessor laws](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_TWO.md) · [pointed coupling classification](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md) |
-| **Continuation of a WATCH** | Can an inconclusive inquiry resume the same transformation and keep all prior observations intact? | [Cyclic Action Engine](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) · [continuation tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_cyclic_action_continuation.py) |
+| **Inverse construction** | Which candidate laws satisfy witnessed requirements? Can an admitted construction path produce another law? | [Engine 1](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_one.py) |
+| **Extension / inverse limits** | Can compatible projections carry a relation through every declared coordinate depth? | [Inverse-limit mathematics](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/inverse_limit.py) · [record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
+| **Processes of changing laws** | When are entire rule streams equivalent, rather than individual state snapshots? | [Process alignment](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_alignment.py) |
+| **Operators on rule systems** | Does a reversible construction preserve a relational quotient or only a particular description? | [Process operators](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_operators.py) · [non-diagonal transport](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/NONDIAGONAL_TRANSPORT.md) |
+| **Pointed / full-state distinctions** | Which maps preserve an origin, witness, and both actions? Which invariant obstructs them? | [Two-predecessor laws](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_TWO.md) · [pointed coupling classification](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md) |
+| **Continuation of a WATCH** | Can an inconclusive inquiry resume the same transformation and preserve all prior observations? | [Cyclic Action Engine](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) · [tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_cyclic_action_continuation.py) |
 
-The admission rule is not *“a construction looks similar.”* It is a concrete witness: an explicit transformation, compatibility equation, classifier, invariant, or counterexample under the declared conditions.
+Admission requires a concrete witness: an explicit transformation, compatibility equation, classifier, invariant, or counterexample under declared conditions. Resemblance is not proof.
 
-## 02 / Results & Witnesses
+## 03 / Results & Witnesses
 
-Selected finite-field results. These numbers refer to **different mathematical families or equivalence notions**; they are not interchangeable totals.
+The following results concern **different finite mathematical families or equivalence notions**. Their counts cannot be combined into one universal total.
 
 | Investigation | Recorded result | Scope / witness |
 | :--- | :--- | :--- |
-| Coupling-tower rooted classification | **81 → 21**, **729 → 85**, **6,561 → 341** | Constructed finite families and origin-rooted A/B classes; not a universal classification. [Research source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
-| Two-predecessor full-state classification | **48 laws; 14 full-state classes; 16 origin-preserving classes** | Changing the mark can change the classification without changing the underlying full-state relation. [Exact family](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_COMBINED.md) |
-| Construction processes | **81 two-phase rule templates; 34 diagonal process classes** | Coinductive, all-depth alignment for the declared eventually periodic grammar. [Process record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
-| Process-level operators | **324** template/gauge alignments; **1,296** tested compositions | A four-element period-two coordinate-gauge subgroup preserves the specified relation; shifting raw descriptions need not. [Operator source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_operators.py) |
-| New law versus new representation | Depth-three B-fixed states **9 vs. 6** | An independently edited two-input coupling gives a genuine full-state obstruction; nonlinear shear conjugacy by itself does not. [Construction proof](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_TWO.md) |
-| Fifth-coordinate admission and selected symmetry | **486** fourth-coordinate configurations; **30,510** admitted configuration/coupling combinations | Distinct correction choices, admissibility, cyclic orders, and marked-point transport retained separately. [Classifier](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md) |
-| Restricted cyclic B-action | Distinction at B⁹; separate positive B-intertwiner at B²⁷ | The declared **81-state invariant fiber**, not a full A/B equivalence theorem. [Case](docs/FINITE_STATE_CONJUGACY.md) |
+| Coupling-tower rooted classification | **81 → 21**, **729 → 85**, **6,561 → 341** | Constructed finite families and origin-rooted A/B classes; not a universal classification. [Source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
+| Two-predecessor full-state classification | **48 laws; 14 full-state classes; 16 origin-preserving classes** | Different equivalence standards give different classes. [Family](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_COMBINED.md) |
+| Construction processes | **81 two-phase rule templates; 34 diagonal process classes** | Coinductive, all-depth alignment in a declared eventually periodic grammar. [Record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
+| Process-level operators | **324** template/gauge alignments; **1,296** tested compositions | A four-element period-two coordinate-gauge subgroup preserves a specified relation; raw description shifts need not. [Source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_operators.py) |
+| New law versus new representation | Depth-three B-fixed states **9 vs. 6** | An independently edited two-input coupling gives a full-state obstruction; nonlinear shear conjugacy alone does not. [Proof](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_TWO.md) |
+| Fifth-coordinate admission and symmetry | **486** fourth-coordinate configurations; **30,510** admitted configuration/coupling combinations | Correction choices, admissibility, orders, and marked-point transport retained separately. [Classifier](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md) |
+| Restricted cyclic B-action | Distinction at **B⁹**; separate positive B-intertwiner at **B²⁷** | A declared 81-state invariant fiber; not a full A/B equivalence theorem. [Case](docs/FINITE_STATE_CONJUGACY.md) |
 
-**In-progress integration.** [Continuity Engine / fifth-coupling classification — PR #18](https://github.com/huntingthereferent/language-network/pull/18) preserves further historical experiments, a scoped 243-state model and 19,683 coupling laws. It remains **open and unmerged** while integrated validation is unresolved. Do not promote local classification or archive integrity results into a passing CI claim.
+**In-progress integration.** [Continuity Engine / fifth-coupling classification — PR #18](https://github.com/huntingthereferent/language-network/pull/18) records further experiments, a scoped 243-state model, and 19,683 coupling laws. At the time of this profile draft the integration was open and unmerged, with validation unresolved. Check current PR/CI state before treating it as integrated.
 
-## 03 / Open Mathematical Boundary
+## 04 / Open Mathematical Boundary
 
-The present frontier is not simply more states or larger numbers. It is understanding what happens **when the construction relation itself changes**.
+The next question is not simply how to construct more states. It is what happens **when the construction relationship itself changes**.
 
 - **Backwards:** recover candidate generating rules from a witnessed relation without inventing a unique predecessor.
-- **Across:** distinguish actual correspondence from collisions of finite invariants or chosen projections.
-- **Nested / higher order:** determine which constructions on entire rule systems preserve their admitted relations under further construction.
-- **Re-entry:** preserve the original mathematical question through UNKNOWN, obstruction, further evidence, and valid continuation.
+- **Across:** distinguish established correspondence from collisions of finite invariants or chosen projections.
+- **Nested / higher order:** determine which constructions acting on entire rule systems preserve admitted relations under further construction.
+- **Re-entry:** preserve the same mathematical question through UNKNOWN, obstruction, further evidence, and continuation.
 
-**Known wall:** closure under a *selected* set of construction operators is not closure under every possible operator. A reversible rewrite of a rule description need not descend to an equivalence class. Agreement at finite depth need not establish identity at every depth.
+A selected family of construction operators is not every possible operator. A reversible rewrite of a rule description need not descend to a quotient. Agreement at finite depth need not establish identity at every depth.
 
-The next construction is selected by the **current witnessed mathematical question**, not by a product roadmap or a requirement to keep inventing new engines.
+A boundary reached in one investigation or formal representation is **not automatically a boundary of mathematics**. The next construction follows the witnessed question, not a requirement to build an ever-larger engine.
 
-## 04 / Experimental & Engineering Surfaces
+## 05 / Engineering & Experimental Surfaces
 
-These records test and preserve particular relations. They are **not** competing definitions of A/B as language.
+These projects provide evidence and implementations of *particular* relations. None is a complete definition of A/B.
 
-| Surface | Relation to research | Evidence |
+| Surface | Function | Evidence |
 | :--- | :--- | :--- |
-| [Continuity Layer](https://github.com/huntingthereferent/language-network) | Cross-system evidence, state, handoffs, trace ancestry and re-entry. A software carrier, not A/B. | [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [entry contract](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md) |
-| [ARC-AGI-3 investigation](ARC_EVIDENCE.md) | Independent interactive environments expose real observation/action boundaries. | [Saved routes, replay source, visual policy and negative trials](https://github.com/huntingthereferent/language-network/tree/main/research/arc_native_runs); local reported completions are not independent first-contact solver verification. |
-| [Construction comparison — PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Controlled preserve/explore proposals against other ways to generate candidates. | Draft branch, unresolved newer CI; no comparative advantage is asserted. |
+| [Continuity Layer](https://github.com/huntingthereferent/language-network) | Preserve cross-system evidence, state, handoffs, trace ancestry, and re-entry. | [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [entry protocol](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md) |
+| [Mathematical construction engines](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) | Construct, classify, compare, and test explicitly declared transformations. | [Research and source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
+| [ARC-AGI-3 investigation](ARC_EVIDENCE.md) | Examine real observation/action boundaries in independent interactive environments. | [Evidence and replay](https://github.com/huntingthereferent/language-network/tree/main/research/arc_native_runs) · local outcomes are not independently verified first-contact success |
+| [Construction comparison — PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Controlled comparisons of methods for generating candidates. | Draft work with unresolved validation; no comparative advantage asserted |
 
 <details>
-<summary><b>Adjacent practical work / retained records</b></summary>
+<summary><b>Adjacent work / retained records</b></summary>
 
-Jobs, paid work, applications, school, factory, personal operations, and complete-stack engineering may become the **current practical problem** because circumstances require them. They are valid problems, not failures of research focus. Each retains its own evidence and follow-through conditions; entering one does not silently replace the mathematical referent.
+Engineering, orchestration, school, factory, personal operations, jobs, and applications may become the current practical task. They retain their own evidence, acceptance criteria, and handoff conditions. A practical problem does not silently replace the mathematical research question.
 
-Solving a problem does not by itself imply an indefinite maintenance obligation. A usable result, remaining wall, and explicit handoff should make the boundary visible.
+A solved problem does not automatically impose indefinite maintenance. Record a usable result, the remaining wall, and the next responsible handoff.
 
-Historical work is preserved under [project records](PROJECTS.md), [selected cases](SELECTED_WORK.md), [technical range](ABILITY.md), and the [underlying repository](https://github.com/huntingthereferent/language-network).
+[Projects](PROJECTS.md) · [Selected work](SELECTED_WORK.md) · [Technical range](ABILITY.md)
 
 </details>
 
-## 05 / Human Consequence & Antechamber Protocol
+## 06 / Human Consequence & Antechamber Protocol
 
-**Long-horizon question:** What becomes possible for independent people and institutions if investigation, coordination, and execution can be carried without forcing unlike actors into one objective or requiring one participant to remain the permanent operator?
+Mathematical and computational capabilities do not determine what a person should value or pursue. Questions of agency, livelihood, responsibility, and purpose remain human questions.
 
-This is a research motivation, **not** a demonstrated mathematical or social consequence. Automating reasoning does not itself resolve economic pressure, institutional responsibility, relationships, physical needs, or access to resources.
+**The [Antechamber Protocol](https://thestepps.wordpress.com/)** is a proposed human-facing boundary: an invitation to reflect privately and voluntarily, without public spectacle, compulsory agreement, or the requirement to adopt a predetermined identity or purpose.
 
-**Human-facing reference:** [The Antechamber Protocol — The Steppers](https://thestepps.wordpress.com/).
+A/B is not a prescription for being human. It may help orient an investigation, but it cannot choose a person's reason to continue. A person is free to step away, return to ordinary responsibilities, seek independent support, or decline the research entirely.
 
-A/B is not a prescription for being human. Someone may encounter A/B expecting it to fix everything and then discover that **A/B is just A/B**. The Antechamber Protocol describes why a quieter, voluntary space might matter at that point: to distinguish what the evidence establishes from what was hoped for, and to find or recover a personal reason to continue without public spectacle, compulsory agreement, or disclosure.
+This is a *proposal*, not an operating crisis service or therapeutic program. There is no demonstrated psychological sequence that A/B requires anyone to undergo.
 
-This is a **proposed human-use boundary**, not an operating private refuge, a therapeutic program, membership, diagnosis, or theorem. It does not establish that James has physically left, completed, or enacted the possible movements studied in mathematics. People may participate, return to ordinary responsibilities, disengage, or decline without treating their responses as evidence of A/B. Privacy must not require isolation or loss of independent support.
+> [!WARNING]
+> **Human-use boundary.** Severe distress, isolation, suicidal thoughts, and self-harm urges are not mathematical milestones or evidence of insight. Anyone in distress deserves ordinary human support and qualified care. In the United States, call or text **988** for crisis support; call **911** for immediate danger. The Antechamber does not replace professional care.
 
-**Safety boundary.** No interpretation of A/B requires enduring severe distress, sleep loss, isolation, suicidal thinking, or urges to self-harm. Those concerns warrant ordinary human and professional support, not further immersion as a supposed mathematical test. There is no established evidence that A/B causes a predictable psychological sequence.
+## 07 / Research Record
 
-## 06 / Research Record
+**Primary notebook:** [Finite-field constructions and proofs](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) · [Research notebook](RESEARCH.md)
 
-**Primary notebook:** [Finite-field A/B constructions and proofs](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) · [Research notebook](RESEARCH.md).
+**Proof and source:** [Inverse construction](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [Cyclic Action Engine](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) · [Mathematical terminology](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/TERMINOLOGY.md)
 
-**Proof and source:** [Inverse construction](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [Cyclic Action Engine](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) · [Mathematical terminology](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/TERMINOLOGY.md).
+**Ground:** [A/B Ground Record — October 11, 2026](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) · [A/B language](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md) · [AI entry protocol](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md)
 
-**Evidence and limitations:** [Witness ledger](PROVENANCE.md) · [ARC evidence](ARC_EVIDENCE.md) · [Selected experimental records](SELECTED_WORK.md).
+**Evidence and limitations:** [Witness ledger](PROVENANCE.md) · [ARC evidence](ARC_EVIDENCE.md) · [Selected records](SELECTED_WORK.md)
 
 <details>
 <summary><b>Method / reproduction contract</b></summary>
 
 ```text
 CURRENT REFERENT
-  -> observe source / state / transformation
-  -> state an admissible relation and mathematical question
-  -> construct / compare / continue under declared conditions
-  -> verify a witness, counterexample, or exact wall
-  -> preserve source + ancestry + uncertainty + next referent
+  -> describe the observed relation in language
+  -> identify what changed, including the in-between movement
+  -> state a specific mathematical construction and its assumptions
+  -> test a witness, counterexample, or explicit obstruction
+  -> preserve the evidence, unknowns, and original question
+  -> continue only where the witnessed relation admits continuation
 ```
 
-An equation with an all-depth proof, an executable finite check, an unrun committed test, a locally reported run, and externally reproduced behavior are different evidence states. Do not substitute one for another.
+An all-depth proof, executable finite check, unrun committed test, locally reported run, and externally reproduced result are different evidence states. Do not substitute one for another.
 
 </details>
+
+---
+
+*Language first. Mathematical precision where established. The referent preserved through movement.*
+
+[**GitHub research account →**](https://github.com/huntingthereferent) · [**Research repository →**](https://github.com/huntingthereferent/language-network) · [**The Antechamber →**](https://thestepps.wordpress.com/)
