@@ -1,3 +1,5 @@
+> **Catalog notice:** This older page is a selected project/visibility map, **not** the complete build inventory. See [**All projects**](showcase/PROJECT_INVENTORY.md) and [**Full public source index**](showcase/SOURCE_INDEX.md). Engine 2 is documented under its historical name and renamed Cyclic Action Engine implementation.
+
 ## Projects and research surfaces
 
 The projects are not interchangeable. Each has a different native purpose, evidence standard, and publication boundary.
