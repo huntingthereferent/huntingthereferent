@@ -26,10 +26,18 @@ The result is a growing body of **AI-assisted, vibe-coded software, formal exper
 
 ---
 
+## Project index
+
+**The full catalog matters more than the featured projects.** The inventory now traces the mathematical engines (including historical **Engine 2**), application labs, school and factory systems, ARC agent generations, products, challenges, private research projects, and older experimental work, preserving distinct evidence states.
+
+[**ALL PROJECTS / complete inventory →**](showcase/PROJECT_INVENTORY.md) · [**Every public source file →**](showcase/SOURCE_INDEX.md) · [**Engine 2 / PR #16 →**](https://github.com/huntingthereferent/language-network/pull/16)
+
 ## Selected builds
 
 | Work | Actual surface | Inspect |
 | :--- | :--- | :--- |
+| **Engine 1 / Engine 2 (Cyclic Action Engine)** | Bounded inverse construction and native mathematical research continuation; Engine 2 was renamed in PR #17 | [Engine lineage →](showcase/PROJECT_INVENTORY.md#01--mathematical-engines-and-construction-research) |
+| **Engineering labs** | Application security, ML, embedded firmware, TCP networking, and St. Joseph benchmark | [All six builds →](showcase/PROJECT_INVENTORY.md#04--standalone-engineering-builds) |
 | **Continuity Layer** | Cross-system handoffs, evidence lineage, runtime, external feeds, system adapters | [Source & architecture →](https://github.com/huntingthereferent/language-network) |
 | **System integrations** | Online School, Personal Operations, Factory stage flow, shared handoff journal | [System bindings →](https://github.com/huntingthereferent/language-network/blob/main/systems/README.md) |
 | **Finite mathematical research** | Inverse constructions, coupling classes, conjugacy, continuity/re-entry checks | [Math catalog →](showcase/MATHEMATICS.md) |
@@ -93,6 +101,6 @@ Code in a repository establishes availability. Passing tests, local observations
 
 ---
 
-**INDEX** · [Work](showcase/README.md) / [Mathematics](showcase/MATHEMATICS.md) / [Writing](writing/README.md) / [Opinions](writing/OPINIONS.md) / [Cases](SELECTED_WORK.md) / [Evidence](PROVENANCE.md)
+**INDEX** · [All projects](showcase/PROJECT_INVENTORY.md) / [Every source](showcase/SOURCE_INDEX.md) / [Work](showcase/README.md) / [Mathematics](showcase/MATHEMATICS.md) / [Writing](writing/README.md) / [Opinions](writing/OPINIONS.md) / [Cases](SELECTED_WORK.md) / [Evidence](PROVENANCE.md)
 
 <sub>Public research notebook and project index. Most of the work is experimental. Claims should be read at the evidence level shown in their source records.</sub>
