@@ -12,63 +12,63 @@
 
 ---
 
-## 00 / About Me — The Referent
+## 00 / Research Position
 
-**I study motion.**
+**Primary subject:** Motion and relational change
+**Method:** Observation → Language → Mathematics → Verification
+**Status:** Active investigation; universal correspondence not established
 
-Not only the movement of objects through space, but movement in the relationships through which objects, boundaries, dimensions, and mathematical structures become distinguishable.
+My research concerns motion.
 
-The part that interests me most is what happens **in between**.
+The investigation is not limited to the displacement of objects. It extends to changes in relationships, distinctions, operations, and the mathematical descriptions through which motion is understood. In particular, the movement may participate in producing the distinctions used to describe it. The in-between is not assumed to be empty space between independently fixed objects.
 
-We often describe change by identifying two things first, then asking what connects them. But the movement under investigation may participate in producing the very distinctions we use to identify those things. A description can be valid within its scope and still miss the relation that gave it meaning.
+**A/B serves as a reference for following and investigating the measurement of motion itself.** It is not a new mathematical branch, a finished equation, or a structure into which all mathematics must fit.
 
-**A/B is a reference I use to follow and investigate the measurement of motion itself.** It is not a competing branch of mathematics, a finished equation, or a fixed structure intended to contain everything.
+Mathematics is a human formal language. Algebra, geometry, calculus, topology, logic, and dynamical systems describe specified relationships under their own definitions and standards. The question is whether motion can be followed consistently *through* those descriptions, including changes in structure or dimension, without silently replacing the original relationship.
 
-Mathematics is a human language. Algebra, geometry, calculus, topology, logic, and dynamical systems each have precise ways of expressing relationships. My investigation asks whether the movement can be followed *through* those descriptions, including transitions between dimensions and structures, without losing the relation being measured.
+**Research question:** What remains identifiable when the relationships used to identify it undergo change?
 
-A formula may describe a movement. But what happens when that movement changes the conditions under which the formula applies?
-
-**That is the problem I keep returning to.**
-
-The larger possibility is a mathematical account of motion that preserves its referent across representations and dimensions. That is an **open research question**, not a theorem established by the present work. Each mathematical correspondence still requires its own assumptions, witness, and proof.
+The objective is to investigate possible correspondences, not to assert that a universal account of motion has already been established.
 
 [**A/B — Language and the Referent →**](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
 
-### Where the work began
+## 01 / Origin of Investigation
 
-My approach developed through observation and correction rather than selecting a theory and fitting the observations to it. Games made movement, feedback, failure, and continuation visible; recorded play and other observable behavior broadened the questions.
+The investigation developed through observation and correction rather than starting from a chosen mathematical framework.
 
-I describe the relation in ordinary language before choosing formal notation. Formal mathematics is an area of continuing study and technical collaboration, including computational assistance. The evidence, definitions, proofs, and limitations of a construction stand independently of personal notation fluency.
+Games made movement, feedback, obstruction, and continuation inspectable. Recorded play and other observable behavior provided further opportunities to examine what changed, what survived, and what remained unresolved.
 
-I am not trying to make mathematics fit a preferred answer. I am investigating whether the motion that prompted the question can be followed through the mathematics without silently replacing the referent.
+The initial description was linguistic. Relationships were expressed in ordinary language before selecting a formal mathematical representation. That ordering remains important: the notation must express the witnessed relation rather than becoming a substitute for it.
 
-## 01 / The Stepper — A/B
+Formal mathematical notation is an area of continuing study and technical collaboration, including computational assistance. Research claims retain their own definitions, evidence, proofs, and limitations independently of the investigator's notation fluency.
 
-A movement can change what movement becomes possible afterward.
+## 02 / Research Method
 
-The result of one step may become part of the relationship encountered in the next. The conditions of an operation, the distinctions it acts upon, or the available next movement may themselves change.
+The investigation proceeds by returning to the current referent whenever a proposed description loses the relation being studied.
 
-I use **the stepper** to name this recurring investigation. **A/B is a reference for following the relation; the stepper names the continuing movement; mathematical constructions specify and test particular versions.** None of these roles should be collapsed into another.
+1. **Establish the referent.** State what is actually being investigated.
+2. **Observe movement.** Identify relationships, changes, and the distinctions arising within them.
+3. **Express the relation in language.** Expose intermediate conditions before choosing notation.
+4. **Select the applicable mathematics.** Specify objects, domains, operations, assumptions, and any necessary dimensions for the *particular model*.
+5. **Construct and test.** Seek an explicit witness, derivation, executable test, measurement, or counterexample appropriate to the domain.
+6. **Preserve the result.** Record what changed, what survived, and what became an obstruction, UNKNOWN, or PARTIAL.
+7. **Continue only where supported.** Do not rename a different referent as the answer to the original question.
 
-The two-step is a practical question: after a witnessed movement, does the resulting relationship still admit another movement under the specified conditions? It is not a universal two-state law, an instruction to force a next step, or a proof that every system is equivalent.
+### The stepper
 
-### Research method
+A movement can change which movement becomes possible afterward. The result of one step may enter the relationship encountered by another; the rules, conditions, or distinctions involved may change as well.
 
-1. **Locate the referent.** Identify what is actually moving or being investigated, rather than starting from the desired result.
-2. **Describe the relationship in language.** Decompress its relevant conditions and the in-between movement before imposing a particular structure.
-3. **Choose a mathematical description.** State the objects, operations, dimensions, and assumptions that this *specific* model requires.
-4. **Test the continuation.** Seek a derivation, explicit correspondence, counterexample, measurement, or executable witness appropriate to the domain.
-5. **Retain what survived.** Record what changed, what was preserved, and what became a wall or UNKNOWN. A changed description must not silently become a changed referent.
+**The stepper** names this recurring investigation. A/B remains the reference for following the movement; formal mathematical constructions describe and test particular relations. A two-step witness is evidence for the specified construction, not a universal two-state law or proof of unrestricted continuation.
 
-These are research disciplines, not a mandatory model of how a human thinks. They do not make A/B a definition of a person, a claim about a physical machine, or a replacement for native mathematical methods.
+These are research procedures, not a prescribed human personality, a physical mechanism, or a replacement for the methods native to another discipline.
 
-### Human and mathematical boundaries
+## 03 / Mathematical Investigation
 
-A/B does not replace regular mathematics. The finite fields, state systems, classifiers, and other mathematical engines in the repository test *declared* families. They are not a universal proof of A/B, a complete account of physical motion, or a final mathematical container.
+The current formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
 
-The research remains grounded in the witnessed relationship. The mathematical results below are useful because they can be checked—not because they bear the A/B name.
+The mathematical examples below retain their limited scope. They should not be treated as a final representation of A/B or as evidence that all mathematical branches are already connected.
 
-## 02 / Mathematical Objects
+### Mathematical objects
 
 **Inverse construction.** Begin with a specified family of possible laws and requirements witnessed by evidence. Retain those laws satisfying the requirements; do not assume uniqueness or applicability outside the declared family.
 
@@ -91,7 +91,7 @@ A correspondence on a restricted invariant B-fiber does not automatically establ
 
 Admission requires a concrete witness: an explicit transformation, compatibility equation, classifier, invariant, or counterexample under declared conditions. Resemblance is not proof.
 
-## 03 / Results & Witnesses
+### Results and witnesses
 
 The following results concern **different finite mathematical families or equivalence notions**. Their counts cannot be combined into one universal total.
 
@@ -107,7 +107,7 @@ The following results concern **different finite mathematical families or equiva
 
 **In-progress integration.** [Continuity Engine / fifth-coupling classification — PR #18](https://github.com/huntingthereferent/language-network/pull/18) records further experiments, a scoped 243-state model, and 19,683 coupling laws. At the time of this profile draft the integration was open and unmerged, with validation unresolved. Check current PR/CI state before treating it as integrated.
 
-## 04 / Open Mathematical Boundary
+## 04 / Open Mathematical Boundaries
 
 The next question is not simply how to construct more states. It is what happens **when the construction relationship itself changes**.
 
@@ -120,7 +120,15 @@ A selected family of construction operators is not every possible operator. A re
 
 A boundary reached in one investigation or formal representation is **not automatically a boundary of mathematics**. The next construction follows the witnessed question, not a requirement to build an ever-larger engine.
 
-## 05 / Engineering & Experimental Surfaces
+### Boundary Math — distinction of scope
+
+**Boundary Math is not presently the boundary of human mathematics.** The existing construction began with a language-first investigation in which the investigator did not assume the formal mathematical description needed in advance. It records the boundaries reached *from that starting position*.
+
+Those are boundaries of James's current investigative construction, not demonstrated limits on what humans can mathematically describe or measure. Treating the present construction as Boundary Math's final form would confuse a local investigative boundary with a general result.
+
+A more general boundary account would require justified connections through the relevant mathematics and explicit demonstrations of where those descriptions succeed, fail, or cease to preserve the motion under investigation. That remains an open aim rather than an established end-state.
+
+## 05 / Computational and Engineering Work
 
 These projects provide evidence and implementations of *particular* relations. None is a complete definition of A/B.
 
@@ -142,7 +150,15 @@ A solved problem does not automatically impose indefinite maintenance. Record a 
 
 </details>
 
-## 06 / Human Consequence & Antechamber Protocol
+## 06 / Evidence and Limitations
+
+Observation, interpretation, formal definition, derivation, executable test, measurement, and independent verification are distinct evidence states.
+
+A correspondence between two specified mathematical systems requires a suitable witness or proof. An implementation establishes only what was actually executed or measured. A finite example does not imply universal closure, and a formal mathematical result does not independently establish a physical mechanism.
+
+**The objective is not to declare a completed theory of motion.** It is to construct and test descriptions that preserve the relationships under investigation while keeping uncertainty and counterexamples visible.
+
+## 07 / Human Consequence & Antechamber Protocol
 
 Mathematical and computational capabilities do not determine what a person should value or pursue. Questions of agency, livelihood, responsibility, and purpose remain human questions.
 
@@ -155,7 +171,19 @@ This is a *proposal*, not an operating crisis service or therapeutic program. Th
 > [!WARNING]
 > **Human-use boundary.** Severe distress, isolation, suicidal thoughts, and self-harm urges are not mathematical milestones or evidence of insight. Anyone in distress deserves ordinary human support and qualified care. In the United States, call or text **988** for crisis support; call **911** for immediate danger. The Antechamber does not replace professional care.
 
-## 07 / Research Record
+## 08 / Personal Context
+
+My approach to observation also applies to my own behavior and reasoning. I do not automatically privilege my perspective over the relationship being examined.
+
+This can produce communication that differs from conventional expectations. I may express a relationship before communicating all the intermediate distinctions another person needs to follow it. A literal reading of my words may therefore miss what I am describing.
+
+When wording is unclear, clarification is preferable to interpretation on my behalf.
+
+Autism has been suggested as a possible explanation for aspects of my communication and behavior. I am still investigating that possibility.
+
+This information is included as personal context. It does not establish, explain, or validate the mathematical research.
+
+## 09 / Research Record
 
 **Primary notebook:** [Finite-field constructions and proofs](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) · [Research notebook](RESEARCH.md)
 
