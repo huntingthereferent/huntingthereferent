@@ -4,7 +4,7 @@ Each case keeps the **question, intervention, returned result, and unresolved bo
 
 ### 01 / Interactive environments
 
-**Public source and evidence map:** [ARC native code, mathematical solvers, run records and missing artifacts](ARC_EVIDENCE.md) · [native SDK frame observer](https://github.com/huntingthereferent/language-network/blob/main/runtime/arc_native_observer.py) · [observer integration tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_native_observer.py). The observer tests include synthetic frames and an opt-in real FT09 **single-step** test; neither constitutes a full-game solving policy or replay of the completion reports below.
+**Public source and evidence map:** [ARC native code, mathematical solvers, run records and missing artifacts](ARC_EVIDENCE.md) · [native SDK frame observer](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/arc_native_observer.py) · [observer integration tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_native_observer.py). The observer tests include synthetic frames and an opt-in real FT09 **single-step** test; neither constitutes a full-game solving policy or replay of the completion reports below.
 
 **Referent:** native ARC-AGI-3 games. **Status:** measured local outcomes, October 2026; full source/test bundles are not public here.
 
@@ -22,7 +22,7 @@ The local SDK reported a **100.0 game score** on each completed run. FT09 was ad
 
 **What it does not support:** an ARC Prize leaderboard result, an unseen-game generalization rate, or a broadly capable autonomous agent. FT09's execution used rendered frames; earlier investigation was source-assisted. Those are different evidence conditions.
 
-**Witness status:** [Actual saved actions for SK48, LS20, and FT09](https://github.com/huntingthereferent/language-network/tree/main/research/arc_native_runs) and a [native replay entrypoint](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/replay_saved_paths.py) are now public. [Archived LS20](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/original_ls20_complete_replay.py) and [SK48](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/original_sk48_complete_replay.py) replay source transcriptions are also linked. This is route/replay evidence, **not** publication of every original solver, native frame trace, or independent fresh SDK verification. [Provenance index](PROVENANCE.md#arc-native-game-experiments).
+**Witness status:** [Actual saved actions for SK48, LS20, and FT09](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) and a [native replay entrypoint](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/arc_native_runs/replay_saved_paths.py) are now public. [Archived LS20](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/arc_native_runs/original_ls20_complete_replay.py) and [SK48](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/arc_native_runs/original_sk48_complete_replay.py) replay source transcriptions are also linked. This is route/replay evidence, **not** publication of every original solver, native frame trace, or independent fresh SDK verification. [Provenance index](PROVENANCE.md#arc-native-game-experiments).
 
 ### 02 / Local generative agent canary
 
