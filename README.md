@@ -1,114 +1,48 @@
 # James Muneoka
 
-**Independent research / AI-assisted construction**  
-*Human understanding · Systems · Mathematical experiments · Interactive environments*
+**Independent research · AI-assisted construction**  
+*Communication · Mathematics · Software experiments*
 
-[![GitHub research](https://img.shields.io/badge/RESEARCH-EXPERIMENTS%20%26%20EVIDENCE-273449?style=flat-square)](https://github.com/huntingthereferent/language-network)
-[![Construction](https://img.shields.io/badge/BUILD%20METHOD-AI%20VIBE%20CODING-43546A?style=flat-square)](writing/ORIGIN.md)
-[![Evidence](https://img.shields.io/badge/EVIDENCE-SCOPED-425A54?style=flat-square)](PROVENANCE.md)
-[![Writing](https://img.shields.io/badge/WRITING-OPINIONS%20%26%20REPORTS-675A72?style=flat-square)](writing/README.md)
+[![Research](https://img.shields.io/badge/RESEARCH-SOURCE%20%26%20TESTS-273449?style=flat-square)](https://github.com/huntingthereferent/language-network)
+[![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
+[![Writing](https://img.shields.io/badge/WRITING-ORIGIN%20%26%20OPINIONS-675A72?style=flat-square)](writing/README.md)
 
 ---
 
 ### About me
 
-I don't see my work as a collection of separate projects. I'm following one continuous investigation.
+I can move between subjects and still be following the same connection. Explaining that connection so someone else can follow it is harder. Communication is what started this investigation, and it still runs through the work.
 
-The starting point is what I can observe: what changes, what remains, and what becomes possible next. I use language to point toward the referent. The mathematics and software come afterward, as ways to construct and test particular questions—not as proof that everything operates under one universal law.
+I use generative AI to help express questions in mathematics and software, then examine whether the results actually address what I meant. I'm still learning the technical vocabulary. The code and formal mathematics are AI-assisted; the observations, direction, and corrections are mine.
 
-Most of this happens in the middle of the life Dessy and I share, raising our children, running our household, and handling whatever comes our way. I move between subjects as the investigation develops, rather than treating each project as something that must be finished before another can begin.
+Most of this happens alongside life with Dessy and our children. I move between problems as they develop, keeping the work and its evidence available to return to.
 
-Where a result has been demonstrated, I keep the evidence with it. Where something remains unresolved, I leave it open and continue investigating.
+[**How this started →**](writing/ORIGIN.md) · [**Opinions →**](writing/OPINIONS.md)
 
----
+## Selected code and experiments
 
-### The investigation
+These are links to source and tests, not just project descriptions. Public code is evidence of an implementation, not a claim that it has been deployed or independently verified.
 
-The work began with ordinary questions about how things change, how problems are solved, and which relationships remain recognizable after a change. It did not start with a completed mathematical theory.
-
-I use generative AI to help turn questions into code, mathematical examples, test harnesses, and other inspectable artifacts. I test specific claims and keep the source and evidence so I can revisit, correct, or extend the work.
-
-Some experiments are small, some are unfinished, and some have reproducible results. **Keeping them is a record of what I have done, not a promise that every experiment will become a product.**
-
-[**Origin / provenance →**](writing/ORIGIN.md) · [**Explore all work →**](showcase/README.md) · [**Current opinions →**](writing/OPINIONS.md)
-
----
-
-## Project index
-
-**The full catalog matters more than the featured projects.** The inventory now traces the mathematical engines (including historical **Engine 2**), application labs, school and factory systems, ARC agent generations, products, challenges, private research projects, and older experimental work, preserving distinct evidence states.
-
-[**ALL PROJECTS / complete inventory →**](showcase/PROJECT_INVENTORY.md) · [**Every public source file →**](showcase/SOURCE_INDEX.md) · [**Engine 2 / PR #16 →**](https://github.com/huntingthereferent/language-network/pull/16)
-
-## Selected builds
-
-| Work | Actual surface | Inspect |
-| :--- | :--- | :--- |
-| **Engine 1 / Engine 2 (Cyclic Action Engine)** | Bounded inverse construction and native mathematical research continuation; Engine 2 was renamed in PR #17 | [Engine lineage →](showcase/PROJECT_INVENTORY.md#01--mathematical-engines-and-construction-research) |
-| **Engineering labs** | Application security, ML, embedded firmware, TCP networking, and St. Joseph benchmark | [All six builds →](showcase/PROJECT_INVENTORY.md#04--standalone-engineering-builds) |
-| **Cross-system experiments** | Handoffs, evidence lineage, runtime, external feeds, and system adapters | [Source & architecture →](https://github.com/huntingthereferent/language-network) |
-| **System integrations** | Online School, Personal Operations, Factory stage flow, shared handoff journal | [System bindings →](https://github.com/huntingthereferent/language-network/blob/main/systems/README.md) |
-| **Finite mathematical research** | Inverse constructions, coupling classes, conjugacy, continuity/re-entry checks | [Math catalog →](showcase/MATHEMATICS.md) |
-| **ARC-AGI-3 investigations** | Native observer, saved action routes, replay interfaces, local case reports | [ARC evidence →](ARC_EVIDENCE.md) |
-| **Program Foundation** | Reusable program structures and complete-stack dependency modeling | [Foundation →](https://github.com/huntingthereferent/language-network/blob/main/foundation/PROGRAM_FOUNDATION.md) |
-| **Multi-source reconciliation** | Changing external data, identity/provenance, state comparison and exposure | [Build record →](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md) |
-
-<details>
-<summary><strong>Open the full project index</strong> — systems, applications, mathematics, agents, artifacts and physical research</summary>
-
-The [complete showcase](showcase/README.md) groups public implementations, local experiments, simulated workflows, private records and proposed work without merging their evidence levels.
-
-- **Infrastructure experiments:** [Source repository](https://github.com/huntingthereferent/language-network) · [Runtime](https://github.com/huntingthereferent/language-network/tree/main/runtime) · [Cross-system verification](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_continuity_unlike_systems.py)
-- **Applications and operations:** [Systems](https://github.com/huntingthereferent/language-network/blob/main/systems/README.md) · [Project map](PROJECTS.md) · [Public-data platform](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md)
-- **Mathematics:** [Mathematical archive](showcase/MATHEMATICS.md) · [Engine 1](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [Finite coupling research](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md)
-- **Interactive research:** [ARC saved route evidence](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/README.md) · [Selected cases](SELECTED_WORK.md)
-- **Representations:** [Artifact generation](https://github.com/huntingthereferent/language-network/blob/main/artifacts/README.md) · [Complete Stack](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md)
-- **Writing and earlier explorations:** [Writing archive](writing/README.md)
-
-</details>
-
-## Writing
-
-*Opinions stay with opinions. Research claims stay with their evidence.*
-
-| Reading | Focus |
+| Investigation | Inspect |
 | :--- | :--- |
-| **[Origin of the investigation](writing/ORIGIN.md)** | Learning, income, confidence, the referent directed at James solving problems, and the pivot to AI-assisted building |
-| **[Opinions / working positions](writing/OPINIONS.md)** | Self-correction, AI access, the difficulty of admitting error, communication, autism and autonomy |
-| **[Research notebook](RESEARCH.md)** | Experiments, unresolved questions and native evidence |
-| **[Evidence & provenance](PROVENANCE.md)** | What can be checked publicly, what was reported locally, and what remains open |
+| **Mathematical construction** | [Engine 1](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_one.py) · [tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_engine_one.py) · [Cyclic Action Engine](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_engine.py) |
+| **Finite chatbot experiment** | [Goal-priority model](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/chatbot/finite_goal_priority.py) · [tests](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/chatbot/test_finite_goal_priority.py) |
+| **Cross-system handoffs** | [Orchestrator](https://github.com/huntingthereferent/language-network/blob/main/runtime/orchestrator.py) · [integration tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_continuity_unlike_systems.py) |
+| **Online School prototype** | [Placement](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/app/placement.py) · [worksheet engine](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/app/worksheet_engine.py) · [web interface](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/app/index.html) |
+| **Multi-source data platform** | [FastAPI application](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/app/main.py) · [API tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/tests/test_api.py) |
+| **Interactive environment research** | [Native frame observer](https://github.com/huntingthereferent/language-network/blob/main/runtime/arc_native_observer.py) · [observer tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_native_observer.py) · [recorded cases](ARC_EVIDENCE.md) |
 
-[**Browse the writing library →**](writing/README.md)
+### Smaller engineering labs
 
-## Evidence and authorship
+[Application security — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/appsec_lab/audit.py) · [tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/tests/test_security.py)  
+[Applied ML — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/tests/test_modeling.py)  
+[Networking — server](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/tests/test_networking.py)  
+[Embedded systems — firmware](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/firmware/controller.c) · [host simulation](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/sim/sim.c)
 
-<details>
-<summary><strong>How this work was produced</strong></summary>
+## More of the work
 
-All software, mathematical formalization, code, tests and research documentation in this project history were developed through **generative-AI-assisted vibe coding**.
+The front page is a selection, not the complete history. Earlier experiments, incomplete projects, and documentation-only ideas remain available without being presented as finished builds.
 
-The human contribution includes the questions being investigated, observation of what happened, project direction, interpretation, selection, and correction. Technical symbols used in the mathematical experiments are defined within their own models; they do not describe a person or establish a general explanation of thought.
+[**Research repository →**](https://github.com/huntingthereferent/language-network) · [**Full project inventory →**](showcase/PROJECT_INVENTORY.md) · [**Evidence and limits →**](PROVENANCE.md) · [**Writing →**](writing/README.md)
 
-Code in a repository establishes availability. Passing tests, local observations, simulation, independent reproduction, deployment, and paid adoption remain separate evidence claims.
-
-[Provenance →](PROVENANCE.md) · [Mathematical terminology →](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/TERMINOLOGY.md) · [Technical entry and source records →](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md)
-
-</details>
-
-<details>
-<summary><strong>What has not been established</strong></summary>
-
-- A universal mathematical or physical theory inferred from these bounded experiments.
-- Independent confirmation of every locally reported game result or mathematical experiment.
-- A generally autonomous system that reliably completes arbitrary software projects.
-- Physical fabrication or production operation from simulated factory/engineering records.
-- Customer deployment or income merely from the presence of project files.
-- A diagnosis, universal theory of cognition, or implication that autonomy eliminates the need for support.
-
-</details>
-
----
-
-**INDEX** · [All projects](showcase/PROJECT_INVENTORY.md) / [Every source](showcase/SOURCE_INDEX.md) / [Work](showcase/README.md) / [Mathematics](showcase/MATHEMATICS.md) / [Writing](writing/README.md) / [Opinions](writing/OPINIONS.md) / [Cases](SELECTED_WORK.md) / [Evidence](PROVENANCE.md)
-
-<sub>Public research notebook and project index. Most of the work is experimental. Claims should be read at the evidence level shown in their source records.</sub>
+<sub>All technical construction and formalization described here was AI-assisted. The linked source and test records show what can be inspected; they do not by themselves establish external deployment, independent verification, or commercial delivery.</sub>
