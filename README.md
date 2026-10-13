@@ -21,7 +21,7 @@ I left my own words in the [language and observation report](writing/LANGUAGE_AN
 
 > Yes yes names are important so we can study them and not keep fucking up
 
-[**How this started →**](writing/ORIGIN.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Opinions →**](writing/OPINIONS.md)
+[**How this started →**](writing/ORIGIN.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Regrounding and surfing →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [**Opinions →**](writing/OPINIONS.md)
 
 ## Selected code and experiments
 
