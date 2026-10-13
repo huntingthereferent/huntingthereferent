@@ -69,7 +69,7 @@ Two systems over F₃⁵ differ by one admissible next-coordinate coupling. Rest
 
 A separate positive control reports an explicit verified bijection intertwining the restricted B-actions of two distinct laws with matching 27-cycle structures. In the declared observation procedure, the negative case remains UNKNOWN at budget 8 and becomes DISTINGUISHED at 9; the positive case remains UNKNOWN at budget 26 and yields a verified restricted-B correspondence at 27.
 
-Reported tests: **13/13** for native continuation and **17/17** for serialization, re-entry, and continued observation. The results do not assert simultaneous A/B conjugacy, an unrestricted construction method, or independent public reproducibility.
+Reported tests: **13/13** for native continuation and **17/17** for serialization, re-entry, and continued observation. The results do not assert simultaneous two-generator conjugacy, an unrestricted construction method, or independent public reproducibility.
 
 [Detailed mathematical record](docs/FINITE_STATE_CONJUGACY.md) · [Witness status](PROVENANCE.md#finite-state-conjugacy-testing)
 
