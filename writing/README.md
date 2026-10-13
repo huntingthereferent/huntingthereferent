@@ -17,9 +17,9 @@ Writing is separate from the technical showcase. A position can be worth examini
 <details>
 <summary><strong>Related technical and historical records</strong></summary>
 
-- [Historical language investigation](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
-- [Complete Stack](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md)
-- [AI Session Protocol](https://github.com/huntingthereferent/language-network/blob/main/protocols/ai/session.md)
+- [Historical language investigation](https://github.com/huntingthereferent/autobots-assemble/blob/main/AB_LANGUAGE.md)
+- [Complete Stack](https://github.com/huntingthereferent/autobots-assemble/blob/main/COMPLETE_STACK.md)
+- [AI Session Protocol](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/ai/session.md)
 - [The Antechamber](https://thestepps.wordpress.com/) — a separate, voluntary human-facing proposal
 
 </details>
