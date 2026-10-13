@@ -29,7 +29,7 @@ The first restricted action has **nine cycles of length 9**; the second has **th
 A separate positive pair has matching three 27-cycles on its declared 81-state fiber. The report describes an explicit bijection F, checked against all relevant states, satisfying
 
 ![Restricted B-action correspondence: F composed with B sub left equals B sub right composed with F.](../assets/math/restricted-b-conjugacy.svg)
-This is evidence of **conjugacy of the restricted B-actions**, not simultaneous full-space A/B conjugacy. Matching a few invariant counts alone would not suffice; the bijection is the essential positive witness.
+This is evidence of **conjugacy of the restricted B-actions**, not simultaneous full-space two-generator conjugacy. Matching a few invariant counts alone would not suffice; the bijection is the essential positive witness.
 
 ## Observation budgets
 
@@ -50,7 +50,7 @@ The result is an evidence-preserving research record, not merely a final classif
 
 The researcher reported **13/13** local native-continuation regression checks and **17/17** local re-entry checks. The complete executable experiment is not included in this public repository, and external replication has not yet been established.
 
-This report does not claim a universal relation-construction operation, unrestricted equivalence checking, simultaneous A/B conjugacy for the positive case, live ARC execution, or production readiness.
+This report does not claim a universal relation-construction operation, unrestricted equivalence checking, simultaneous two-generator conjugacy for the positive case, live ARC execution, or production readiness.
 
 **For public reproduction:** publish the exact generating laws, fiber condition and invariance proof, full periodic-point tables and cycle decompositions, explicit positive bijection, serialized checkpoints, test source, and runtime instructions.
 
