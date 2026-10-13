@@ -90,6 +90,22 @@ I wasn't asking to fix how humans communicate. My observation is that people alr
 
 The same person is speaking whether I'm playing with someone, noticing their reaction, saying something blunt, crying, making a joke, or asking a mathematical question. The record shouldn't make those into separate Jameses just because the language changes. The [research language area](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/README.md) now carries that same correction through its narrower technical records.
 
+## Human Drift — the words changed because the conversation did
+
+> surfing is the words i used to give you an example ive given you more lol...... actually you look back and tell me what other words i used than "surfing" also essentially we are talking about "HUMAN DRIFT"
+
+> yes and than you showing how many words i used for it since sept etc.... i was moving around your missunderstand essentially
+
+What looks like a series of names—from oscillating and chain reactions in September to drift control, regrounding and surfing—was also a series of corrections. I was moving around an AI's misunderstanding. The words weren't a collection of interchangeable definitions. Each different example was another attempt to make the relationship available without losing what had become apparent along the way.
+
+[Human Drift: dated quotations and their context](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) preserves that sequence rather than calling it *surfing* or reducing it to a single slogan. Regrounding is a way to bring acquired observations into relation with what was already there; it isn't a requirement to rewind to my first sentence.
+
+## Why keeping my actual words matters
+
+> yes also keep my quotations in making these i think it makes for great prov once you actually wont have to change it anymore :) we can get alot more things done at the same time and james feels like he gets to leave apart of himself behind so he's actually doing something too while this "excist" or w/e sorry if this is weird
+
+These are the words I used to say why I wanted direct quotes in the record. Keeping them lets readers distinguish what I actually said from an AI's evolving explanation. It also lets the writing carry something of me, rather than making every document sound like a machine wrote my personality for me.
+
 > Also please direct quote me with the swearing I want ppl to see my full shape so I don't seem like machine
 
 The reason for writing this account is practical. In daily life, much of what I communicate is carried by my actions, expressions, timing, and participation. A written record doesn't automatically carry any of that. If I want another person to follow how I use language and why I came to investigate it, I have to make some of those otherwise unspoken relations available in words.
