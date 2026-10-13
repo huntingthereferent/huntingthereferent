@@ -124,16 +124,15 @@ The active Axioms work was described as a minimal two-step research kernel; Eggy
 
 ## 04 / Standalone engineering builds
 
-These **six distinct project directories** were omitted from the first showcase or buried within a broader phrase:
+These **five projects** have public implementation code. Documentation-only or location-constrained exploratory work is not included as a featured build:
 
 | Project | Source / implementation | Current classification |
 | :--- | :--- | :--- |
 | **Multi-Source State & Reconciliation Platform** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md) · [Code](https://github.com/huntingthereferent/language-network/tree/main/work/projects/public-data-monitor) | Active full-stack build; deployment proof separate |
 | **Application Security Lab** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/README.md) · [Code](https://github.com/huntingthereferent/language-network/tree/main/work/projects/application-security-lab) | Local controlled vulnerability and remediation |
-| **Applied ML Modeling Lab** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/README.md) | Public deterministic modeling/test project; not clinical |
-| **Systems / Networking Lab** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/README.md) | Local TCP client/server/framing tests |
-| **Embedded Systems Lab** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/README.md) | AVR firmware and host simulation; no physical board proof |
-| **St. Joseph Complete-Stack Benchmark** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/st-joseph-complete-stack/README.md) · [Pass-0](https://github.com/huntingthereferent/language-network/tree/main/work/projects/st-joseph-complete-stack/PASS-0) | Initial public-evidence landscape, deeper validation open |
+| **Applied ML Modeling Lab** | [Code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/tests/test_modeling.py) | Public deterministic modeling/test project; not clinical |
+| **Systems / Networking Lab** | [Code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/tests/test_networking.py) | Local TCP client/server/framing tests |
+| **Embedded Systems Lab** | [Firmware](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/firmware/controller.c) · [Simulation](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/sim/sim.c) | AVR firmware and host simulation; no physical board proof |
 
 <details>
 <summary><strong>Supporting disciplines and artifact toolchains</strong></summary>
