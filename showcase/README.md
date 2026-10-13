@@ -12,7 +12,7 @@
 **How to read this index:** `Public code` means an inspectable repository artifact; `Recorded local` means reported observations with specified limits; `Simulated` is not physical realization; `Private` is documented but not source-accessible; `Planned` is not delivered. Multiple labels can apply to the same project.
 
 > [!NOTE]
-> This is an index of project families, not a claim that every module has passed CI, shipped to customers, or been independently validated. The full file history is in the [Continuity Layer repository](https://github.com/huntingthereferent/language-network).
+> This is an index of project families, not a claim that every module has passed CI, shipped to customers, or been independently validated. The full file history is in the [research repository](https://github.com/huntingthereferent/language-network).
 
 ## 00 / Previously omitted independent projects
 
@@ -35,7 +35,7 @@ Engine 2 entered through [merged PR #16](https://github.com/huntingthereferent/l
 <details>
 <summary><strong>Other distinct systems and project histories</strong></summary>
 
-Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Day, Personal Operations, autonomous ARC experiments, A/B chatbot, GEMS, P001/P002, 21 job records, four separate private research repositories, and historical Axioms / Eggy experiments are indexed separately, not absorbed into one generic Continuity label.
+Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Day, Personal Operations, autonomous ARC experiments, finite-state chatbot, GEMS, P001/P002, 21 job records, four separate private research repositories, and historical Axioms / Eggy experiments are indexed separately, not absorbed into one generic Continuity label.
 
 [Find every project →](PROJECT_INVENTORY.md)
 
@@ -44,9 +44,9 @@ Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Da
 ## 01 / Systems and infrastructure
 
 <details open>
-<summary><strong>Continuity Layer — cross-system evidence and workflow infrastructure</strong> · Public code / ongoing development</summary>
+<summary><strong>Cross-system evidence and workflow experiments</strong> · Public code / ongoing development</summary>
 
-Repository: [Continuity Layer](https://github.com/huntingthereferent/language-network) · [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [AI entry](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md)
+Repository: [research source](https://github.com/huntingthereferent/language-network) · [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [AI entry](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md)
 
 A common lineage across files, feeds, tasks, external sources, research and application systems, while individual systems retain their own internal state. Current public documentation includes a mixed external-feed frontage, scoped provenance, handoff execution, and source categorization.
 
@@ -210,7 +210,7 @@ Expansion into mechanics, materials, electronics, controls, fabrication, manufac
 ## 06 / Human-facing and writing work
 
 <details>
-<summary><strong>The Antechamber / The Steppers</strong> · Public human-facing proposal</summary>
+<summary><strong>Historical website experiment</strong> · Public human-facing proposal</summary>
 
 A proposed voluntary, reflective entrance separate from mathematical claims, psychological treatment and universal meaning. Not an active crisis service.
 
