@@ -173,11 +173,11 @@ These are representation/toolchain projects. A design is not automatically manuf
 | **Hard-work opportunity scans** | [Scan](https://github.com/huntingthereferent/language-network/blob/main/work/scans/SCAN-0001_2026-10-03.md) | Research list, not executed projects |
 
 <details>
-<summary><strong>21 retained job/opportunity records</strong> · A ledger, not 21 claimed completed contracts</summary>
+<summary><strong>20 retained job/opportunity records</strong> · A ledger, not 20 claimed completed contracts</summary>
 
-The project history includes `JOB-001` through `JOB-021`, spanning data work, Excel automations, APIs, scraping, reporting, cloud engineering, and browser workflow opportunities. These are retained as scoped opportunity records; they are not automatically verified deliverables, clients, submissions, or payments.
+The current ledger retains 20 opportunity records numbered `JOB-001` through `JOB-021`, excluding withdrawn `JOB-016`. These are scoped opportunity records, not 20 completed projects, clients, submissions, or payments. The removed record is available in Git history.
 
-[Browse all 21 records](https://github.com/huntingthereferent/language-network/tree/main/jobs) · [Job retention contract](https://github.com/huntingthereferent/language-network/blob/main/jobs/README.md)
+[Browse retained job records](https://github.com/huntingthereferent/language-network/tree/main/jobs) · [Job retention contract](https://github.com/huntingthereferent/language-network/blob/main/jobs/README.md)
 
 </details>
 
