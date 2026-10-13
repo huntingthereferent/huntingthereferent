@@ -132,7 +132,7 @@ Operating-company models, external opportunity records, service/product directio
 <details open>
 <summary><strong>Finite-state systems, construction, and correspondence</strong> · Public source / scoped mathematics</summary>
 
-Inverse candidate construction, full-state and pointed conjugacy, couplings over finite fields, process operators, inverses, and explicitly bounded claims. These are particular mathematical objects—not a mathematical definition of James or of the language-level A/B observation.
+Inverse candidate construction, full-state and pointed conjugacy, couplings over finite fields, process operators, inverses, and explicitly bounded claims. These are particular mathematical objects—not a general explanation of human thought or behavior.
 
 [Readable mathematical catalog](MATHEMATICS.md) · [Main mathematical source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) · [Terminology](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/TERMINOLOGY.md)
 
@@ -207,14 +207,14 @@ Expansion into mechanics, materials, electronics, controls, fabrication, manufac
 
 </details>
 
-## 06 / Human-facing and writing work
+## 06 / Earlier web experiments and writing
 
 <details>
-<summary><strong>Historical website experiment</strong> · Public human-facing proposal</summary>
+<summary><strong>Earlier website experiment</strong> · Historical exploration</summary>
 
-A proposed voluntary, reflective entrance separate from mathematical claims, psychological treatment and universal meaning. Not an active crisis service.
+An earlier page was used to explore communication, presentation, and what could be built with AI assistance. It is retained as a record of that experiment, not a current product or service.
 
-[The Antechamber](https://thestepps.wordpress.com/) · [Human-use boundary](../README.md)
+[Historical page](https://thestepps.wordpress.com/)
 
 </details>
 
