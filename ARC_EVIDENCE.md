@@ -43,11 +43,11 @@ These newly published **action sequences** are a stronger artifact than narrativ
 
 ## 03 / ARC-like finite-field mathematical research — public solvers and tests
 
-This is a separate investigation of **constructed finite-state A/B transformation systems**, not execution of ARC-AGI-3 native games.
+This is a separate investigation of **constructed finite-state two-generator transformation systems**, not execution of ARC-AGI-3 native games.
 
 | Mathematical artifact | Executable source | Tests or contract |
 | :--- | :--- | :--- |
-| Finite-field state-transition construction | [`math.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/math.py) | [Inverse A/B tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_inverse_ab.py) |
+| Finite-field state-transition construction | [`math.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/math.py) | [Finite transformation tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_inverse_ab.py) |
 | Rooted relational alignment and finite closure | [`alignment.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/alignment.py) | [Alignment tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_alignment.py) |
 | Bounded inverse construction | [`engine_one.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_one.py) | [Engine 1 contract](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_engine_one.py) |
 | B-action continuation / witness verification | [`cyclic_action_engine.py`](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_engine.py) | [Cyclic Action Engine contract](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) · [tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_cyclic_action_engine.py) |
