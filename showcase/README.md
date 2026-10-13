@@ -24,9 +24,9 @@ Engine 2 entered through [merged PR #16](https://github.com/huntingthereferent/l
 </details>
 
 <details>
-<summary><strong>Six standalone engineering builds</strong> · Public source and scoped tests</summary>
+<summary><strong>Five engineering projects with source code</strong> · Public implementation and scoped tests</summary>
 
-[Multi-source state platform](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md) · [Application security](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/README.md) · [Applied ML](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/README.md) · [Networking](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/README.md) · [Embedded systems](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/README.md) · [St. Joseph physical-system benchmark](https://github.com/huntingthereferent/language-network/blob/main/work/projects/st-joseph-complete-stack/README.md).
+[Multi-source data platform — API](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/app/main.py) · [Application security — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/appsec_lab/audit.py) · [Applied ML — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [Networking — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [Embedded firmware — code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/firmware/controller.c).
 
 [Individual scope and status →](PROJECT_INVENTORY.md#04--standalone-engineering-builds)
 
