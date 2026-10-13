@@ -35,7 +35,7 @@ Engine 2 entered through [merged PR #16](https://github.com/huntingthereferent/l
 <details>
 <summary><strong>Other distinct systems and project histories</strong></summary>
 
-Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Day, Personal Operations, autonomous ARC experiments, finite-state chatbot, GEMS, P001/P002, 21 job records, four separate private research repositories, and historical Axioms / Eggy experiments are indexed separately, not absorbed into one generic Continuity label.
+Online School / Worksheet Studio, Education Kernel, Factory, Calendar, Day-to-Day, Personal Operations, autonomous ARC experiments, finite-state chatbot, GEMS, P001/P002, 20 retained job records, four separate private research repositories, and historical Axioms / Eggy experiments are indexed separately, not absorbed into one generic Continuity label.
 
 [Find every project →](PROJECT_INVENTORY.md)
 
