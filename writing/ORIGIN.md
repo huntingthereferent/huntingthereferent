@@ -67,4 +67,4 @@ The investigation has helped me communicate what I understand and test particula
 
 The repository keeps the work where it can be examined: what I asked, what was built, what was tested, what failed, and what remains open. The investigation is still about communication—being able to follow a relationship and let someone else follow it too, without either of us having to change what we mean just to agree.
 
-The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). The [historical research notes](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) preserve the earlier terminology and subsequent corrections.
+The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). The [historical research notes](https://github.com/huntingthereferent/autobots-assemble/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) preserve the earlier terminology and subsequent corrections.
