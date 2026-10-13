@@ -8,7 +8,7 @@ Writing is separate from the technical showcase. A position can be worth examini
 | Collection | Contents |
 | :--- | :--- |
 | **[Origin of the investigation](ORIGIN.md)** | Early problem-solving observations, questions of communication and income, and the shift into AI-assisted construction. |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | A first-person account of how communication, outward observation, silence, playfulness, and technical correction shaped the language investigation. |
+| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | AI-assisted account with James's verbatim conversation excerpts, including his swearing, playfulness, correction, and the name *the language referent* for the same A/B investigation. |
 | **[Opinions / Working Positions](OPINIONS.md)** | A living, revisable set of positions on learning, self-correction, AI access, provenance, autism, and autonomy. |
 | **[Research notebook](../RESEARCH.md)** | Questions, native observations, agent handoffs, and what can be inferred from a result. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | How an unknown behavior is probed and what a checkable investigation retains. |
