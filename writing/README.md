@@ -7,7 +7,7 @@ Writing is separate from the technical showcase. A position can be worth examini
 
 | Collection | Contents |
 | :--- | :--- |
-| **[Origin of the investigation](ORIGIN.md)** | Learning and income, confidence, pointing the referent at James solving problems, and the pivot from AI communication to vibe-coded work. |
+| **[Origin of the investigation](ORIGIN.md)** | Early problem-solving observations, questions of communication and income, and the shift into AI-assisted construction. |
 | **[Opinions / Working Positions](OPINIONS.md)** | A living, revisable set of positions on learning, self-correction, AI access, provenance, autism, and autonomy. |
 | **[Research notebook](../RESEARCH.md)** | Questions, native observations, agent handoffs, and what can be inferred from a result. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | How an unknown behavior is probed and what a checkable investigation retains. |
@@ -15,10 +15,9 @@ Writing is separate from the technical showcase. A position can be worth examini
 | **[ARC case notes](../SELECTED_WORK.md)** | Selected investigations, local observations, and their stated limits. |
 
 <details>
-<summary><strong>Related writings in the Continuity Layer research repository</strong></summary>
+<summary><strong>Related technical and historical records</strong></summary>
 
-- [A/B — Language and the Referent](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
-- [A/B Ground Record — October 11](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md)
+- [Historical language investigation](https://github.com/huntingthereferent/language-network/blob/main/AB_LANGUAGE.md)
 - [Complete Stack](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md)
 - [AI Session Protocol](https://github.com/huntingthereferent/language-network/blob/main/protocols/ai/session.md)
 - [The Antechamber](https://thestepps.wordpress.com/) — a separate, voluntary human-facing proposal
