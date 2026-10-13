@@ -15,11 +15,11 @@ That difference is where much of this started.
 
 I've spent years learning across subjects. Something from an old problem might become useful in a new one, sometimes long after I first encountered it. That happens in conversation, physical work, technical interests, and ordinary life.
 
-Following those connections was familiar. Turning what I learned into a reliable income was another matter.
+Learning itself doesn't put much pressure on me. I can follow a subject because I want to understand it. It doesn't have to earn anything for that time to have value.
 
-I kept learning, but the economic results weren't there. After enough time, that affected my confidence. I was measuring the value of what I understood against what I could earn from it, as though they were the same result.
+Money is different. I need to make it, and that need comes with pressure. Years of learning haven't automatically taught me how to earn. For a long time, I measured what I was learning against the money it wasn't producing, and that affected my confidence.
 
-They aren't. Learning something, explaining it, demonstrating it, and getting paid for it are different things.
+That's the mismatch: I know how to keep learning, but I still need to learn how to make money.
 
 ## An existing operation, not a new ability
 
@@ -57,18 +57,13 @@ The interest in finding a mathematical description was there from the beginning.
 
 Some experiments produced results that can be checked. Others failed or remain unresolved. A result belongs to the specific model, assumptions, and evidence behind it. It doesn't become a general answer just because the explanation sounds convincing.
 
-## What the experience raises
+## The question that remains
 
-I keep coming back to a few questions:
+Learning has value to me without needing to produce money. I can continue learning without the pressure that comes from needing income. But that pressure exists when it comes to earning, and knowing how to learn hasn't automatically shown me how to make money.
 
-- How do two people preserve what they mean when the conversation keeps moving?
-- When is difficulty communicating mistaken for a lack of understanding?
-- What changes when someone gains access to tools before mastering all the technical vocabulary?
-- What happens when we recognize a correction but resist accepting it?
-- How do we distinguish the value of learning from the money it earns?
-- When does assistance help someone express their own judgment, and when does it begin replacing that judgment?
+**The question is still: How do I learn to make money?**
 
-These are questions I'm still working through, not conclusions about everyone else's thinking or a diagnosis of my own.
+The investigation has helped me communicate what I understand and test particular questions through mathematics and software. That's progress in the work, but it doesn't answer the income question. I don't want to mistake one for the other.
 
 The repository keeps the work where it can be examined: what I asked, what was built, what was tested, what failed, and what remains open. The investigation is still about communication—being able to follow a relationship and let someone else follow it too, without either of us having to change what we mean just to agree.
 
