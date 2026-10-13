@@ -15,7 +15,7 @@ I can move between subjects and still be following the same connection. Explaini
 
 I use generative AI to help express questions in mathematics and software, then examine whether the results actually address what I meant. I'm still learning the technical vocabulary. The code and formal mathematics are AI-assisted; the observations, direction, and corrections are mine.
 
-Most of this happens alongside life with Dessy and our children. I move between problems as they develop, keeping the work and its evidence available to return to.
+Circumstances around me have changed, including family responsibilities and the practical need for income. That's part of why I'm making more of this work public. I move between problems as they develop, keeping the work and its evidence available to return to.
 
 I left my own words in the [language and observation report](writing/LANGUAGE_AND_OBSERVATION.md), including the parts an edited biography would usually smooth out:
 
