@@ -44,8 +44,8 @@ Autism does not imply one intelligence profile, communication style, or degree o
 **11 — Other people's opinions are useful input, not compulsory conclusions.**  
 Listening and agreeing are separate operations.
 
-**12 — No one is required to adopt A/B.**  
-The original term names language drawn from observations of James solving problems; others may investigate their own questions using their own starting points.
+**12 — A researcher's vocabulary is not a prerequisite for examining the work.**  
+Others can inspect the questions, models, and test results on their own terms.
 
 ---
 
