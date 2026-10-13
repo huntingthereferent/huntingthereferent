@@ -38,7 +38,7 @@ Construct candidate laws from stated requirements over admitted families and con
 - [Current cyclic continuation code](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_continuation.py)
 - [Mathematical shape and limits](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md)
 
-**Scope:** same declared B-action on a bounded invariant carrier; negative fixed-point obstruction, positive B-only bijection, replay, UNKNOWN. Not a full A/B conjugacy or a general autonomous agent.
+**Scope:** same declared B-action on a bounded invariant carrier; negative fixed-point obstruction, positive B-only bijection, replay, UNKNOWN. Not a full two-generator conjugacy or a general autonomous agent.
 </details>
 
 <details>
@@ -70,7 +70,7 @@ These are separable research investigations inside the mathematical directory, n
 </details>
 
 <details>
-<summary><strong>A/B chatbot and finite goal-priority tests</strong> · Public bounded example + historical local package</summary>
+<summary><strong>Finite-state chatbot and goal-priority tests</strong> · Public bounded example + historical local package</summary>
 
 A finite 27-state, goal-conditioned priority experiment compares A-first and B-first partial correspondence construction. The public sidecar is **not** a complete general-language chatbot. The research record also documents a larger local 59-file package not fully uploaded.
 
@@ -98,7 +98,7 @@ The active Axioms work was described as a minimal two-step research kernel; Eggy
 | **Program Foundation / Complete Stack** | [Program proof](https://github.com/huntingthereferent/language-network/blob/main/foundation/PROGRAM_FOUNDATION.md) · [Scope](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md) | Capability evidence, not all domains solved |
 | **Activation / ohayo / attention projection** | [Examples](https://github.com/huntingthereferent/language-network/tree/main/runtime/examples) · [Day-to-Day](https://github.com/huntingthereferent/language-network/blob/main/systems/day_to_day/README.md) | Projection over explicit tasks, not inferred obligations |
 | **Research question/checkpoint board** | [Research questions](https://github.com/huntingthereferent/language-network/blob/main/research/questions/README.md) · [Runtime board](https://github.com/huntingthereferent/language-network/blob/main/runtime/research_board.py) | Recorded states not automatic verified answers |
-| **Exploratory A/B construction comparison** | [PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Open draft, not merged or released |
+| **Exploratory mathematical construction comparison** | [PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Open draft, not merged or released |
 
 <details>
 <summary><strong>Additional runtime pieces and examples</strong></summary>
@@ -155,7 +155,7 @@ These are representation/toolchain projects. A design is not automatically manuf
 - [Native saved action routes and SDK replay](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/README.md) — FT09, LS20, SK48 reports and public route files.
 - [Visible-frame causal solver](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/ft09_visible_causal_agent.py) — source-assisted history distinguished from fresh independent execution.
 - [Native frame observer](https://github.com/huntingthereferent/language-network/blob/main/runtime/arc_native_observer.py) — read-only action/observation collection.
-- **Historical separate independent A/B ARC agent (V7/V8)** — local experiment with native continuations and no recorded completed levels in the cited handoff. Not claimed to be fully published in the default-branch tree.
+- **Historical separate independent experimental ARC agent (V7/V8)** — local experiment with native continuations and no recorded completed levels in the cited handoff. Not claimed to be fully published in the default-branch tree.
 
 [Case evidence](../ARC_EVIDENCE.md) · [Selected case results](../SELECTED_WORK.md)
 
@@ -216,6 +216,6 @@ The [source-path index](SOURCE_INDEX.md) lists **all tracked default-branch path
 
 Other connected private repositories were inspected only to establish their high-level identity; their private code is not reproduced here. Earlier local experiments and historical archives may not be fully represented on the current default branch.
 
-The catalog does **not** imply: universal A/B mathematics, independent replication of all local experiments, an autonomous unrestricted building agent, physical machinery, verified ARC prize/leaderboard results, paid contracts, or publication of private source.
+The catalog does **not** imply: universal mathematics inferred from the experiments, independent replication of all local experiments, an autonomous unrestricted building agent, physical machinery, verified ARC prize/leaderboard results, paid contracts, or publication of private source.
 
 [← Compact showcase](README.md) · [GitHub research account](https://github.com/huntingthereferent)
