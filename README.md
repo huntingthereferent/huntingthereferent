@@ -17,7 +17,7 @@ I use generative AI to help express questions in mathematics and software, then 
 
 Most of this happens alongside life with Dessy and our children. I move between problems as they develop, keeping the work and its evidence available to return to.
 
-[**How this started →**](writing/ORIGIN.md) · [**Opinions →**](writing/OPINIONS.md)
+[**How this started →**](writing/ORIGIN.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Opinions →**](writing/OPINIONS.md)
 
 ## Selected code and experiments
 
