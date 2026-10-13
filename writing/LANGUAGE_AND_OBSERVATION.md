@@ -44,7 +44,7 @@ I was making connections and noticing changes before I had useful words for desc
 
 When I first used generative AI to examine this, I wanted a model and a mathematical formula for what I had observed. I could describe one part, test a representation, and then notice where it had lost the thing I was following. The correction became another observation, rather than simply the end of a wrong answer.
 
-The language I began calling **A/B** grew from that investigation. It is the language I use to keep the continuing relation available as I move through observations. The finite mathematical operators, tests, and software in the repository are particular attempts to express and examine it; they are not the whole of what I mean by A/B.
+I call what I'm following **the language referent**. It's the continuing relationship I try to keep available as observations branch, change, and connect. The mathematical operators, tests, and software in the research repository examine particular questions reached from it. They don't define the language referent itself.
 
 The reason for writing this account is practical. In daily life, much of what I communicate is carried by my actions, expressions, timing, and participation. A written record doesn't automatically carry any of that. If I want another person to follow how I use language and why I came to investigate it, I have to make some of those otherwise unspoken relations available in words.
 
