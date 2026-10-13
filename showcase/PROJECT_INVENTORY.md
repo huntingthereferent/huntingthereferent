@@ -170,7 +170,6 @@ These are representation/toolchain projects. A design is not automatically manuf
 | **GEMS-001 Hidden Fault Mapping** | [Challenge](https://github.com/huntingthereferent/language-network/blob/main/money/challenges/GEMS-001_hidden-fault-mapping/GEMS.md) · [Scoring/validation artifacts](https://github.com/huntingthereferent/language-network/tree/main/money/challenges/GEMS-001_hidden-fault-mapping) | Prize investigation, no award claimed |
 | **Sports betting research contract** | [Domain README](https://github.com/huntingthereferent/language-network/blob/main/domains/sports_betting/README.md) | Domain decomposition, not a verified betting edge |
 | **OSINT/source-research investigations** | [Research lane](https://github.com/huntingthereferent/language-network/blob/main/research/README.md) · [PR #3](https://github.com/huntingthereferent/language-network/pull/3) | Historical general source-research integration |
-| **Open-source contribution lane** | [Contribution records](https://github.com/huntingthereferent/language-network/blob/main/open_source/contributions/README.md) | No external acceptance inferred |
 | **Hard-work opportunity scans** | [Scan](https://github.com/huntingthereferent/language-network/blob/main/work/scans/SCAN-0001_2026-10-03.md) | Research list, not executed projects |
 
 <details>
