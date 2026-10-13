@@ -76,6 +76,20 @@ I noticed the problem when the explanation claimed we first *needed mathematics*
 
 Mathematics is a human formal language. The finite mathematical work gives particular relationships exact objects, operations, assumptions, and checks. It is not an extra thing that has to be attached before the language referent can exist, nor does a successful finite proof settle every movement of the referent. The conversation, the mathematical representation, and a correction can each be ways of continuing the same inquiry. Their evidence and limits still matter.
 
+## Regrounding rather than fixing people
+
+> well its more like reground humans used to talk like this naturaly all the time it just we have more things to oscilate on now so they tend to run off for longer than tend to be wanting too
+
+> yes surfing :)
+
+I wasn't asking to fix how humans communicate. My observation is that people already move naturally between things while talking; there are more available places to branch now, and sometimes we go farther than we intended. I said *reground* because I want to be able to find the relationship again while keeping what the detour showed me.
+
+*Surfing* was my shorthand for staying with the movement. The wave doesn't need to stop for me to recognize where I am. And a return doesn't have to erase what happened while I was away from the original point. That's why naming matters to me; it gives us a way back without pretending the connection has been frozen.
+
+> mmm you can reshape the language area in the repo now with this and fit all that other stuff in there just so everything has the same shape james is james in all layers
+
+The same person is speaking whether I'm playing with someone, noticing their reaction, saying something blunt, crying, making a joke, or asking a mathematical question. The record shouldn't make those into separate Jameses just because the language changes. The [research language area](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/README.md) now carries that same correction through its narrower technical records.
+
 > Also please direct quote me with the swearing I want ppl to see my full shape so I don't seem like machine
 
 The reason for writing this account is practical. In daily life, much of what I communicate is carried by my actions, expressions, timing, and participation. A written record doesn't automatically carry any of that. If I want another person to follow how I use language and why I came to investigate it, I have to make some of those otherwise unspoken relations available in words.
