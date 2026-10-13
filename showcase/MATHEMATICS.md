@@ -3,9 +3,9 @@
 
 [← Work catalog](README.md) · [Profile](../README.md) · [Research source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md)
 
-This page retains the earlier profile's detailed technical overview rather than letting it dominate the homepage. **All mathematical and software material was produced through AI-assisted vibe coding.** The original A/B expression comes from pointing the referent at James while he was solving problems; the formal generator notation and equations are separate, narrower constructions.
+This page preserves technical details for readers who want to inspect the mathematical experiments. **All mathematical and software material was produced through AI-assisted vibe coding.** The observations that prompted these experiments should not be confused with the formal definitions used to test them.
 
-A formal equation in this page states a particular mathematical definition or witness, **not a general law of A/B, cognition, biology, or motion**. Recorded local tests and public code are not independent external replication.
+A formal equation in this page states a particular mathematical definition or witness, **not a general law of cognition, biology, or motion**. Recorded local tests and public code are not independent external replication.
 
 ---
 
@@ -23,7 +23,7 @@ A formal equation in this page states a particular mathematical definition or wi
 
 The AI-assisted formal work studies inverse construction, transformation systems, mathematical correspondence, rule processes, invariants, obstructions, and admissible continuation. Each question is investigated through its own explicitly declared objects and evidence standards.
 
-The mathematical examples below are AI-assisted constructions and retain their limited scope. They should not be treated as a final representation of A/B or as evidence that all mathematical branches are already connected.
+The mathematical examples below are AI-assisted constructions and retain their limited scope. They should not be treated as a final representation of the original observations or as evidence that all mathematical branches are already connected.
 
 ### Mathematical objects
 
@@ -31,7 +31,7 @@ The mathematical examples below are AI-assisted constructions and retain their l
 
 ![Inverse construction: Inv sub F of R equals the set of all W in F satisfying R.](../assets/math/inverse-construction.svg)
 
-**Full-state correspondence.** Two specified A/B transformation systems are conjugate only if one bijection of their *full* state spaces preserves both labeled generating transformations:
+**Full-state correspondence.** Two specified two-generator transformation systems are conjugate only if one bijection of their *full* state spaces preserves both labeled generating transformations:
 
 ![Full-state correspondence: H composed with A sub P equals A sub Q composed with H; H composed with B sub P equals B sub Q composed with H.](../assets/math/full-state-correspondence.svg)
 
@@ -54,13 +54,13 @@ The following results concern **different finite mathematical families or equiva
 
 | Investigation | Recorded result | Scope / witness |
 | :--- | :--- | :--- |
-| Coupling-tower rooted classification | **81 → 21**, **729 → 85**, **6,561 → 341** | Constructed finite families and origin-rooted A/B classes; not a universal classification. [Source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
+| Coupling-tower rooted classification | **81 → 21**, **729 → 85**, **6,561 → 341** | Constructed finite families and origin-rooted equivalence classes; not a universal classification. [Source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
 | Two-predecessor full-state classification | **48 laws; 14 full-state classes; 16 origin-preserving classes** | Different equivalence standards give different classes. [Family](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_COMBINED.md) |
 | Construction processes | **81 two-phase rule templates; 34 diagonal process classes** | Coinductive, all-depth alignment in a declared eventually periodic grammar. [Record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
 | Process-level operators | **324** template/gauge alignments; **1,296** tested compositions | A four-element period-two coordinate-gauge subgroup preserves a specified relation; raw description shifts need not. [Source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_operators.py) |
 | New law versus new representation | Depth-three B-fixed states **9 vs. 6** | An independently edited two-input coupling gives a full-state obstruction; nonlinear shear conjugacy alone does not. [Proof](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_TWO.md) |
 | Fifth-coordinate admission and symmetry | **486** fourth-coordinate configurations; **30,510** admitted configuration/coupling combinations | Correction choices, admissibility, orders, and marked-point transport retained separately. [Classifier](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md) |
-| Restricted cyclic B-action | Distinction at **B⁹**; separate positive B-intertwiner at **B²⁷** | A declared 81-state invariant fiber; not a full A/B equivalence theorem. [Case](../docs/FINITE_STATE_CONJUGACY.md) |
+| Restricted cyclic B-action | Distinction at **B⁹**; separate positive B-intertwiner at **B²⁷** | A declared 81-state invariant fiber; not a full two-generator equivalence theorem. [Case](../docs/FINITE_STATE_CONJUGACY.md) |
 
 **In-progress integration.** [Continuity Engine / fifth-coupling classification — PR #18](https://github.com/huntingthereferent/language-network/pull/18) records further experiments, a scoped 243-state model, and 19,683 coupling laws. At the time of this profile draft the integration was open and unmerged, with validation unresolved. Check current PR/CI state before treating it as integrated.
 
@@ -87,11 +87,11 @@ A more general boundary account would require justified connections through the 
 
 ## Computational and engineering work
 
-These projects provide evidence and implementations of *particular* relations. None is a complete definition of A/B.
+These projects provide evidence and implementations of *particular* relations. None is a complete account of the original observations.
 
 | Surface | Function | Evidence |
 | :--- | :--- | :--- |
-| [Continuity Layer](https://github.com/huntingthereferent/language-network) | Preserve cross-system evidence, state, handoffs, trace ancestry, and re-entry. | [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [entry protocol](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md) |
+| [Cross-system experiments](https://github.com/huntingthereferent/language-network) | Preserve cross-system evidence, state, handoffs, trace ancestry, and re-entry. | [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) · [entry protocol](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md) |
 | [Mathematical construction engines](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) | Construct, classify, compare, and test explicitly declared transformations. | [Research and source](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md) |
 | [ARC-AGI-3 investigation](../ARC_EVIDENCE.md) | Examine real observation/action boundaries in independent interactive environments. | [Evidence and replay](https://github.com/huntingthereferent/language-network/tree/main/research/arc_native_runs) · local outcomes are not independently verified first-contact success |
 | [Construction comparison — PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Controlled comparisons of methods for generating candidates. | Draft work with unresolved validation; no comparative advantage asserted |
