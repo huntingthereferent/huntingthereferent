@@ -4,7 +4,7 @@
 
 **Canonical research repository:** [`huntingthereferent/autobots-assemble`](https://github.com/huntingthereferent/autobots-assemble). Earlier paths under `huntingthereferent/language-network` identify the repository's former name; historical commit references may retain their original context.
 
-This file distinguishes **locally reported results**, **published source/tests**, **recorded GitHub CI**, **replayable inputs**, and **independent execution**. A public test file is not proof that the test passed in a new environment. A declared mathematical model is not the definition of the broader language-level A/B referent.
+This file distinguishes **locally reported results**, **published source/tests**, **recorded GitHub CI**, **replayable inputs**, and **independent execution**. A public test file is not proof that the test passed in a new environment. A declared mathematical model does not define the **language referent** (the same inquiry formerly called A/B). Its [canonical naming and scope](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) is separate from particular finite mathematical proof obligations.
 
 ## Claim and witness index
 
@@ -48,7 +48,7 @@ The older local case reported an 81-state B-invariant fiber. A negative pair exh
 
 Since those initial reports, [Cyclic Action Engine](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md) and [its tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_like_cyclic_action_engine.py), plus [ConstructedEngine continuation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md) and [its tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_like_cyclic_action_continuation.py), have been published. The contracts describe exact finite domains, source laws, recorded observations, certificates, snapshots, and replay/entry rules. Thus the blanket historical statement that *no exact laws, source code, positive-bijection implementation or runnable tests are published* is **outdated**.
 
-These are bounded mathematical claims with published reproduction entrypoints, **not** an independent run performed as part of this provenance edit. An 81-state B-invariant fiber need not be A-invariant: B-only conjugacy never silently becomes full two-generator conjugacy. An inconclusive budget remains UNKNOWN; an earlier distinguishing observation cannot be erased by a later coincident count. The broader A/B referent remains language for relational movement, not an equation or one finite system.
+These are bounded mathematical claims with published reproduction entrypoints, **not** an independent run performed as part of this provenance edit. An 81-state B-invariant fiber need not be A-invariant: B-only conjugacy never silently becomes full two-generator conjugacy. An inconclusive budget remains UNKNOWN; an earlier distinguishing observation cannot be erased by a later coincident count. The broader language referent remains language for relational movement, not an equation or one finite system.
 
 [Mathematical case](docs/FINITE_STATE_CONJUGACY.md) · [Engine 1 tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_like_engine_one.py) · [Research ground](https://github.com/huntingthereferent/autobots-assemble/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md).
 
