@@ -10,6 +10,18 @@
 
 ---
 
+### About me
+
+I don't see my work as a collection of separate projects. I'm following one continuous investigation.
+
+The starting point is what I can observe: what changes, what remains, and what becomes possible next. I use language to point toward the referent. The mathematics and software come afterward, as ways to construct and test particular questions—not as proof that everything operates under one universal law.
+
+Most of this happens in the middle of the life Dessy and I share, raising our children, running our household, and handling whatever comes our way. I move between subjects as the investigation develops, rather than treating each project as something that must be finished before another can begin.
+
+Where a result has been demonstrated, I keep the evidence with it. Where something remains unresolved, I leave it open and continue investigating.
+
+---
+
 ### The investigation
 
 > **A person can spend years learning and still come to believe they are failing.**
