@@ -7,7 +7,7 @@
 
 ## Source and status key
 
-- **Public code** — directly accessible source or artifact in `huntingthereferent/language-network` or the profile repository.
+- **Public code** — directly accessible source or artifact in `huntingthereferent/autobots-assemble` or the profile repository.
 - **Public report** — documented history or design whose runnable underlying implementation may be incomplete or elsewhere.
 - **Local / historical** — previously reported local work; the full current source was not verified in the connected default-branch tree.
 - **Private repository** — present in a separately connected private GitHub account; implementation is **not** linked from this public showcase.
@@ -24,19 +24,19 @@
 
 Construct candidate laws from stated requirements over admitted families and continue along witnessed mathematical construction paths; retains WALL and unsupported distinctions. Not a universal inverse solver.
 
-[Contract](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [Implementation](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_one.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_like_engine_one.py)
+[Contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/ENGINE_ONE.md) · [Implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/engine_one.py) · [Tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_like_engine_one.py)
 </details>
 
 <details open>
 <summary><strong>Engine 2 — native research continuation</strong> · Public code / merged historical name</summary>
 
-**Not a missing project:** [PR #16](https://github.com/huntingthereferent/language-network/pull/16) merged `Engine2ResearchKernel`, a bounded native B-action start/resume research entry whose saved witnesses are replayed before further observation. [PR #17](https://github.com/huntingthereferent/language-network/pull/17) renamed its current implementation **Cyclic Action Engine**, leaving compatibility import aliases.
+**Not a missing project:** [PR #16](https://github.com/huntingthereferent/autobots-assemble/pull/16) merged `Engine2ResearchKernel`, a bounded native B-action start/resume research entry whose saved witnesses are replayed before further observation. [PR #17](https://github.com/huntingthereferent/autobots-assemble/pull/17) renamed its current implementation **Cyclic Action Engine**, leaving compatibility import aliases.
 
-- [Historical Engine 2 import](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_two_research.py)
-- [Historical Engine 2 continuation import](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/engine_two_continuation.py)
-- [Current Cyclic Action Engine code](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_engine.py)
-- [Current cyclic continuation code](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/cyclic_action_continuation.py)
-- [Mathematical shape and limits](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md)
+- [Historical Engine 2 import](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/engine_two_research.py)
+- [Historical Engine 2 continuation import](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/engine_two_continuation.py)
+- [Current Cyclic Action Engine code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/cyclic_action_engine.py)
+- [Current cyclic continuation code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/cyclic_action_continuation.py)
+- [Mathematical shape and limits](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_ENGINE.md)
 
 **Scope:** same declared B-action on a bounded invariant carrier; negative fixed-point obstruction, positive B-only bijection, replay, UNKNOWN. Not a full two-generator conjugacy or a general autonomous agent.
 </details>
@@ -44,7 +44,7 @@ Construct candidate laws from stated requirements over admitted families and con
 <details>
 <summary><strong>Continuity Engine / fifth-coupling classification</strong> · Draft / unmerged</summary>
 
-[PR #18](https://github.com/huntingthereferent/language-network/pull/18) preserves Continuity experiments, an independent 243-state/fifth-coupling study, question-board bridge, audit material and 17 historical ZIP bundles. The PR is **open and unmerged**, with unresolved combined CI; not represented as current main-branch capability.
+[PR #18](https://github.com/huntingthereferent/autobots-assemble/pull/18) preserves Continuity experiments, an independent 243-state/fifth-coupling study, question-board bridge, audit material and 17 historical ZIP bundles. The PR is **open and unmerged**, with unresolved combined CI; not represented as current main-branch capability.
 
 </details>
 
@@ -53,19 +53,19 @@ Construct candidate laws from stated requirements over admitted families and con
 
 These are separable research investigations inside the mathematical directory, not interchangeable claims:
 
-- [Initial families, affine scans and nonlinear gauges](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/README.md)
-- [Full-state / pointed / rooted window systems](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/WINDOW_COMBINED.md)
-- [Inverse limits and cross-dimensional coherence](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/inverse_limit.py)
-- [Coupling towers and rooted classification](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/third_coupling.py)
-- [Process alignment and process operators](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/process_alignment.py)
-- [Non-diagonal transport](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/NONDIAGONAL_TRANSPORT.md)
-- [Pointed coupling and lift classifications](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md)
-- [Mixed centralizer compositions](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/MIXED_CENTRALIZER_COMPOSITION.md)
-- [Stemmed operators and nonconstant drift](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/NONCONSTANT_DRIFT.md)
-- [Explicit B-only continuation and re-entry](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md)
-- [Mathematical relation probe](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/RELATION_PROBE.md)
+- [Initial families, affine scans and nonlinear gauges](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/README.md)
+- [Full-state / pointed / rooted window systems](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/WINDOW_COMBINED.md)
+- [Inverse limits and cross-dimensional coherence](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/inverse_limit.py)
+- [Coupling towers and rooted classification](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/third_coupling.py)
+- [Process alignment and process operators](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/process_alignment.py)
+- [Non-diagonal transport](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/NONDIAGONAL_TRANSPORT.md)
+- [Pointed coupling and lift classifications](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/POINTED_COUPLING_CLASSIFICATION.md)
+- [Mixed centralizer compositions](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/MIXED_CENTRALIZER_COMPOSITION.md)
+- [Stemmed operators and nonconstant drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/NONCONSTANT_DRIFT.md)
+- [Explicit B-only continuation and re-entry](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md)
+- [Mathematical relation probe](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/RELATION_PROBE.md)
 
-[All mathematical files](https://github.com/huntingthereferent/language-network/tree/main/work/arc_like_maze) · [Profile mathematical report](MATHEMATICS.md)
+[All mathematical files](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Profile mathematical report](MATHEMATICS.md)
 
 </details>
 
@@ -74,7 +74,7 @@ These are separable research investigations inside the mathematical directory, n
 
 A finite 27-state, goal-conditioned priority experiment compares A-first and B-first partial correspondence construction. The public sidecar is **not** a complete general-language chatbot. The research record also documents a larger local 59-file package not fully uploaded.
 
-[Chatbot research record](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/chatbot/README.md) · [Finite experiment](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/chatbot/finite_goal_priority.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/work/arc_like_maze/chatbot/test_finite_goal_priority.py)
+[Chatbot research record](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/README.md) · [Finite experiment](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/finite_goal_priority.py) · [Tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/test_finite_goal_priority.py)
 </details>
 
 <details>
@@ -89,21 +89,21 @@ The active Axioms work was described as a minimal two-step research kernel; Eggy
 
 | Project | Direct inspection | Evidence boundary |
 | :--- | :--- | :--- |
-| **Continuity Layer** | [Repository](https://github.com/huntingthereferent/language-network) · [Architecture](https://github.com/huntingthereferent/language-network/blob/main/ARCHITECTURE.md) | Public code, evolving integration |
-| **HandoffRuntime / event journal** | [Runtime](https://github.com/huntingthereferent/language-network/blob/main/runtime/README.md) · [Source directory](https://github.com/huntingthereferent/language-network/tree/main/runtime) | Handoff and recovery implementation |
-| **Cross-system Orchestrator** | [Orchestrator code](https://github.com/huntingthereferent/language-network/blob/main/runtime/orchestrator.py) · [System bindings](https://github.com/huntingthereferent/language-network/blob/main/systems/bindings.py) | Registered systems, not universal autonomy |
-| **Agent lineage / Qwen canary** | [Agent lineage](https://github.com/huntingthereferent/language-network/blob/main/runtime/AGENT_LINEAGE.md) · [Case](../SELECTED_WORK.md#02--local-generative-agent-canary) | One local model-chosen read, not full build |
-| **Swallow-first boundary adapter** | [Runtime contract](https://github.com/huntingthereferent/language-network/blob/main/runtime/README.md) · [Code](https://github.com/huntingthereferent/language-network/blob/main/runtime/swallow_first.py) | Caller-provided comparison and search actors |
-| **Public mixed feeds / topic projection** | [Continuity front page source](https://github.com/huntingthereferent/language-network/blob/main/runtime/http/index.html) · [Root README](https://github.com/huntingthereferent/language-network/blob/main/README.md) | Live provider availability varies |
-| **Program Foundation / Complete Stack** | [Program proof](https://github.com/huntingthereferent/language-network/blob/main/foundation/PROGRAM_FOUNDATION.md) · [Scope](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md) | Capability evidence, not all domains solved |
-| **Activation / ohayo / attention projection** | [Examples](https://github.com/huntingthereferent/language-network/tree/main/runtime/examples) · [Day-to-Day](https://github.com/huntingthereferent/language-network/blob/main/systems/day_to_day/README.md) | Projection over explicit tasks, not inferred obligations |
-| **Research question/checkpoint board** | [Research questions](https://github.com/huntingthereferent/language-network/blob/main/research/questions/README.md) · [Runtime board](https://github.com/huntingthereferent/language-network/blob/main/runtime/research_board.py) | Recorded states not automatic verified answers |
-| **Exploratory mathematical construction comparison** | [PR #14](https://github.com/huntingthereferent/language-network/pull/14) | Open draft, not merged or released |
+| **Continuity Layer** | [Repository](https://github.com/huntingthereferent/autobots-assemble) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) | Public code, evolving integration |
+| **HandoffRuntime / event journal** | [Runtime](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/README.md) · [Source directory](https://github.com/huntingthereferent/autobots-assemble/tree/main/runtime) | Handoff and recovery implementation |
+| **Cross-system Orchestrator** | [Orchestrator code](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/orchestrator.py) · [System bindings](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/bindings.py) | Registered systems, not universal autonomy |
+| **Agent lineage / Qwen canary** | [Agent lineage](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/AGENT_LINEAGE.md) · [Case](../SELECTED_WORK.md#02--local-generative-agent-canary) | One local model-chosen read, not full build |
+| **Swallow-first boundary adapter** | [Runtime contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/README.md) · [Code](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/swallow_first.py) | Caller-provided comparison and search actors |
+| **Public mixed feeds / topic projection** | [Continuity front page source](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/http/index.html) · [Root README](https://github.com/huntingthereferent/autobots-assemble/blob/main/README.md) | Live provider availability varies |
+| **Program Foundation / Complete Stack** | [Program proof](https://github.com/huntingthereferent/autobots-assemble/blob/main/foundation/PROGRAM_FOUNDATION.md) · [Scope](https://github.com/huntingthereferent/autobots-assemble/blob/main/COMPLETE_STACK.md) | Capability evidence, not all domains solved |
+| **Activation / ohayo / attention projection** | [Examples](https://github.com/huntingthereferent/autobots-assemble/tree/main/runtime/examples) · [Day-to-Day](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/day_to_day/README.md) | Projection over explicit tasks, not inferred obligations |
+| **Research question/checkpoint board** | [Research questions](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/questions/README.md) · [Runtime board](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/research_board.py) | Recorded states not automatic verified answers |
+| **Exploratory mathematical construction comparison** | [PR #14](https://github.com/huntingthereferent/autobots-assemble/pull/14) | Open draft, not merged or released |
 
 <details>
 <summary><strong>Additional runtime pieces and examples</strong></summary>
 
-[Trace](https://github.com/huntingthereferent/language-network/blob/main/runtime/trace.py) · [Journal](https://github.com/huntingthereferent/language-network/blob/main/runtime/journal.py) · [Service](https://github.com/huntingthereferent/language-network/blob/main/runtime/service.py) · [Evaluation router](https://github.com/huntingthereferent/language-network/blob/main/runtime/evaluator_router.py) · [External feed](https://github.com/huntingthereferent/language-network/blob/main/runtime/external_feed.py) · [Observed evaluator](https://github.com/huntingthereferent/language-network/blob/main/runtime/observed_evaluator.py) · [Restart recovery example](https://github.com/huntingthereferent/language-network/blob/main/runtime/examples/restart_recovery.py) · [Tiny simulated factory example](https://github.com/huntingthereferent/language-network/blob/main/runtime/examples/tiny_factory.py)
+[Trace](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/trace.py) · [Journal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/journal.py) · [Service](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/service.py) · [Evaluation router](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/evaluator_router.py) · [External feed](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/external_feed.py) · [Observed evaluator](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/observed_evaluator.py) · [Restart recovery example](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/examples/restart_recovery.py) · [Tiny simulated factory example](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/examples/tiny_factory.py)
 
 </details>
 
@@ -111,16 +111,16 @@ The active Axioms work was described as a minimal two-step research kernel; Eggy
 
 | Distinct project | Source | Status |
 | :--- | :--- | :--- |
-| **Education Kernel** | [System](https://github.com/huntingthereferent/language-network/blob/main/systems/education/README.md) | Public code; learner knowledge vs forced-learning relations |
-| **Online School app / Worksheet Studio** | [Local web app](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/app/README.md) · [App code](https://github.com/huntingthereferent/language-network/tree/main/companies/online-school/app) | Public local website/API, placement, worksheet, recordkeeping |
-| **Online School operating company model** | [Company record](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/COMPANY.md) | Company model does not establish legal formation |
-| **Missouri curriculum / homeschool comparison** | [Curriculum adapter](https://github.com/huntingthereferent/language-network/blob/main/systems/missouri_curriculum.py) · [School app](https://github.com/huntingthereferent/language-network/blob/main/companies/online-school/app/missouri_comparison.py) | Documented educational context, not accreditation |
-| **Calendar** | [System](https://github.com/huntingthereferent/language-network/blob/main/systems/calendar/README.md) | Local time/event model |
-| **Personal Operations** | [System](https://github.com/huntingthereferent/language-network/blob/main/systems/personal_operations/README.md) | Notes, plans, tasks and explicit handoff separation |
-| **Day-to-Day** | [System](https://github.com/huntingthereferent/language-network/blob/main/systems/day_to_day/README.md) | Attention projection, not task owner |
-| **Factory System** | [System](https://github.com/huntingthereferent/language-network/blob/main/systems/factory/README.md) · [Code](https://github.com/huntingthereferent/language-network/tree/main/systems/factory) | Self-progressing **simulated** stages, no physical shipment |
-| **Multi-system continuity tests** | [Cross-system regression](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_continuity_unlike_systems.py) | Separate evidence stays separate |
-| **Visual workspace reference preservation** | [Design provenance](https://github.com/huntingthereferent/language-network/tree/main/design/visual-provenance) | Reference records, not complete design assets |
+| **Education Kernel** | [System](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/education/README.md) | Public code; learner knowledge vs forced-learning relations |
+| **Online School app / Worksheet Studio** | [Local web app](https://github.com/huntingthereferent/autobots-assemble/blob/main/companies/online-school/app/README.md) · [App code](https://github.com/huntingthereferent/autobots-assemble/tree/main/companies/online-school/app) | Public local website/API, placement, worksheet, recordkeeping |
+| **Online School operating company model** | [Company record](https://github.com/huntingthereferent/autobots-assemble/blob/main/companies/online-school/COMPANY.md) | Company model does not establish legal formation |
+| **Missouri curriculum / homeschool comparison** | [Curriculum adapter](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/missouri_curriculum.py) · [School app](https://github.com/huntingthereferent/autobots-assemble/blob/main/companies/online-school/app/missouri_comparison.py) | Documented educational context, not accreditation |
+| **Calendar** | [System](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/calendar/README.md) | Local time/event model |
+| **Personal Operations** | [System](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/personal_operations/README.md) | Notes, plans, tasks and explicit handoff separation |
+| **Day-to-Day** | [System](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/day_to_day/README.md) | Attention projection, not task owner |
+| **Factory System** | [System](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/factory/README.md) · [Code](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/factory) | Self-progressing **simulated** stages, no physical shipment |
+| **Multi-system continuity tests** | [Cross-system regression](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_continuity_unlike_systems.py) | Separate evidence stays separate |
+| **Visual workspace reference preservation** | [Design provenance](https://github.com/huntingthereferent/autobots-assemble/tree/main/design/visual-provenance) | Reference records, not complete design assets |
 
 ## 04 / Standalone engineering builds
 
@@ -128,16 +128,16 @@ These **five projects** have public implementation code. Documentation-only or l
 
 | Project | Source / implementation | Current classification |
 | :--- | :--- | :--- |
-| **Multi-Source State & Reconciliation Platform** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/public-data-monitor/README.md) · [Code](https://github.com/huntingthereferent/language-network/tree/main/work/projects/public-data-monitor) | Active full-stack build; deployment proof separate |
-| **Application Security Lab** | [Readme](https://github.com/huntingthereferent/language-network/blob/main/work/projects/application-security-lab/README.md) · [Code](https://github.com/huntingthereferent/language-network/tree/main/work/projects/application-security-lab) | Local controlled vulnerability and remediation |
-| **Applied ML Modeling Lab** | [Code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/applied-ml-modeling/tests/test_modeling.py) | Public deterministic modeling/test project; not clinical |
-| **Systems / Networking Lab** | [Code](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [Tests](https://github.com/huntingthereferent/language-network/blob/main/work/projects/systems-networking-lab/tests/test_networking.py) | Local TCP client/server/framing tests |
-| **Embedded Systems Lab** | [Firmware](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/firmware/controller.c) · [Simulation](https://github.com/huntingthereferent/language-network/blob/main/work/projects/embedded-systems-lab/sim/sim.c) | AVR firmware and host simulation; no physical board proof |
+| **Multi-Source State & Reconciliation Platform** | [Readme](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/public-data-monitor/README.md) · [Code](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/projects/public-data-monitor) | Active full-stack build; deployment proof separate |
+| **Application Security Lab** | [Readme](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/application-security-lab/README.md) · [Code](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/projects/application-security-lab) | Local controlled vulnerability and remediation |
+| **Applied ML Modeling Lab** | [Code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [Tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/applied-ml-modeling/tests/test_modeling.py) | Public deterministic modeling/test project; not clinical |
+| **Systems / Networking Lab** | [Code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [Tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/systems-networking-lab/tests/test_networking.py) | Local TCP client/server/framing tests |
+| **Embedded Systems Lab** | [Firmware](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/embedded-systems-lab/firmware/controller.c) · [Simulation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/embedded-systems-lab/sim/sim.c) | AVR firmware and host simulation; no physical board proof |
 
 <details>
 <summary><strong>Supporting disciplines and artifact toolchains</strong></summary>
 
-[Parametric / CAD-like artifact contract](https://github.com/huntingthereferent/language-network/blob/main/artifacts/CAD_LIKE.md) · [Geospatial](https://github.com/huntingthereferent/language-network/blob/main/artifacts/GEOSPATIAL.md) · [System landscapes](https://github.com/huntingthereferent/language-network/blob/main/artifacts/SYSTEM_LANDSCAPE.md) · [Schematic/BOM and recursive artifact taxonomy](https://github.com/huntingthereferent/language-network/blob/main/artifacts/README.md) · [Physical-systems expansion](https://github.com/huntingthereferent/language-network/blob/main/COMPLETE_STACK.md)
+[Parametric / CAD-like artifact contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/artifacts/CAD_LIKE.md) · [Geospatial](https://github.com/huntingthereferent/autobots-assemble/blob/main/artifacts/GEOSPATIAL.md) · [System landscapes](https://github.com/huntingthereferent/autobots-assemble/blob/main/artifacts/SYSTEM_LANDSCAPE.md) · [Schematic/BOM and recursive artifact taxonomy](https://github.com/huntingthereferent/autobots-assemble/blob/main/artifacts/README.md) · [Physical-systems expansion](https://github.com/huntingthereferent/autobots-assemble/blob/main/COMPLETE_STACK.md)
 
 These are representation/toolchain projects. A design is not automatically manufactured.
 
@@ -148,12 +148,12 @@ These are representation/toolchain projects. A design is not automatically manuf
 <details>
 <summary><strong>ARC-AGI-3 causal research and independent agent generations</strong> · Public files and local experiments</summary>
 
-- [ARC research dive](https://github.com/huntingthereferent/language-network/blob/main/research/dives/ARC3-TRACE-001/DIVE.md) — game rule discovery and evidence contracts.
-- [Direct agent and generations](https://github.com/huntingthereferent/language-network/tree/main/research/dives/ARC3-TRACE-001/direct_agent) — `gen1`, `gen2`, `g2`, operator shell and runnable tests, all separate tracked experimental variants.
-- [Experiment series FM-001 through FM-006](https://github.com/huntingthereferent/language-network/tree/main/research/dives/ARC3-TRACE-001/experiments) — action calibration, cross-game schema transfer, recursive forward matching, witness compression, selector validation, level preservation.
-- [Native saved action routes and SDK replay](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/README.md) — FT09, LS20, SK48 reports and public route files.
-- [Visible-frame causal solver](https://github.com/huntingthereferent/language-network/blob/main/research/arc_native_runs/ft09_visible_causal_agent.py) — source-assisted history distinguished from fresh independent execution.
-- [Native frame observer](https://github.com/huntingthereferent/language-network/blob/main/runtime/arc_native_observer.py) — read-only action/observation collection.
+- [ARC research dive](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/dives/ARC3-TRACE-001/DIVE.md) — game rule discovery and evidence contracts.
+- [Direct agent and generations](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/dives/ARC3-TRACE-001/direct_agent) — `gen1`, `gen2`, `g2`, operator shell and runnable tests, all separate tracked experimental variants.
+- [Experiment series FM-001 through FM-006](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/dives/ARC3-TRACE-001/experiments) — action calibration, cross-game schema transfer, recursive forward matching, witness compression, selector validation, level preservation.
+- [Native saved action routes and SDK replay](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/arc_native_runs/README.md) — FT09, LS20, SK48 reports and public route files.
+- [Visible-frame causal solver](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/arc_native_runs/ft09_visible_causal_agent.py) — source-assisted history distinguished from fresh independent execution.
+- [Native frame observer](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/arc_native_observer.py) — read-only action/observation collection.
 - **Historical separate independent experimental ARC agent (V7/V8)** — local experiment with native continuations and no recorded completed levels in the cited handoff. Not claimed to be fully published in the default-branch tree.
 
 [Case evidence](../ARC_EVIDENCE.md) · [Selected case results](../SELECTED_WORK.md)
@@ -164,19 +164,19 @@ These are representation/toolchain projects. A design is not automatically manuf
 
 | Project | Source | Boundary |
 | :--- | :--- | :--- |
-| **P001 Service Workflow** | [Product record](https://github.com/huntingthereferent/language-network/blob/main/money/products/P001_service-workflow/PRODUCT.md) | Parked/unvalidated candidate |
-| **P002 Business Health Check** | [Product record](https://github.com/huntingthereferent/language-network/blob/main/money/products/P002_business-health-tracker/PRODUCT.md) · [Working app](https://github.com/huntingthereferent/language-network/blob/main/money/products/P002_business-health-tracker/app/README.md) | Product prototype, not assumed paid delivery |
-| **GEMS-001 Hidden Fault Mapping** | [Challenge](https://github.com/huntingthereferent/language-network/blob/main/money/challenges/GEMS-001_hidden-fault-mapping/GEMS.md) · [Scoring/validation artifacts](https://github.com/huntingthereferent/language-network/tree/main/money/challenges/GEMS-001_hidden-fault-mapping) | Prize investigation, no award claimed |
-| **Sports betting research contract** | [Domain README](https://github.com/huntingthereferent/language-network/blob/main/domains/sports_betting/README.md) | Domain decomposition, not a verified betting edge |
-| **OSINT/source-research investigations** | [Research lane](https://github.com/huntingthereferent/language-network/blob/main/research/README.md) · [PR #3](https://github.com/huntingthereferent/language-network/pull/3) | Historical general source-research integration |
-| **Hard-work opportunity scans** | [Scan](https://github.com/huntingthereferent/language-network/blob/main/work/scans/SCAN-0001_2026-10-03.md) | Research list, not executed projects |
+| **P001 Service Workflow** | [Product record](https://github.com/huntingthereferent/autobots-assemble/blob/main/money/products/P001_service-workflow/PRODUCT.md) | Parked/unvalidated candidate |
+| **P002 Business Health Check** | [Product record](https://github.com/huntingthereferent/autobots-assemble/blob/main/money/products/P002_business-health-tracker/PRODUCT.md) · [Working app](https://github.com/huntingthereferent/autobots-assemble/blob/main/money/products/P002_business-health-tracker/app/README.md) | Product prototype, not assumed paid delivery |
+| **GEMS-001 Hidden Fault Mapping** | [Challenge](https://github.com/huntingthereferent/autobots-assemble/blob/main/money/challenges/GEMS-001_hidden-fault-mapping/GEMS.md) · [Scoring/validation artifacts](https://github.com/huntingthereferent/autobots-assemble/tree/main/money/challenges/GEMS-001_hidden-fault-mapping) | Prize investigation, no award claimed |
+| **Sports betting research contract** | [Domain README](https://github.com/huntingthereferent/autobots-assemble/blob/main/domains/sports_betting/README.md) | Domain decomposition, not a verified betting edge |
+| **OSINT/source-research investigations** | [Research lane](https://github.com/huntingthereferent/autobots-assemble/blob/main/research/README.md) · [PR #3](https://github.com/huntingthereferent/autobots-assemble/pull/3) | Historical general source-research integration |
+| **Hard-work opportunity scans** | [Scan](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/scans/SCAN-0001_2026-10-03.md) | Research list, not executed projects |
 
 <details>
-<summary><strong>16 retained job/opportunity records</strong> · A ledger, not 16 claimed completed contracts</summary>
+<summary><strong>15 retained job/opportunity records</strong> · A ledger, not 15 claimed completed contracts</summary>
 
-The current ledger retains 16 opportunity records numbered `JOB-001` through `JOB-021`, excluding withdrawn `JOB-016`, `JOB-017`, `JOB-018`, `JOB-019`, and `JOB-020`. These are scoped opportunity records, not 16 completed projects, clients, submissions, or payments. Removed records remain recoverable in Git history.
+The current ledger retains 15 opportunity records numbered `JOB-001` through `JOB-015`. `JOB-016` through `JOB-021` were removed from the active ledger; the removed records remain recoverable through Git history. These are scoped opportunity records, not 15 completed projects, clients, submissions, or payments.
 
-[Browse retained job records](https://github.com/huntingthereferent/language-network/tree/main/jobs) · [Job retention contract](https://github.com/huntingthereferent/language-network/blob/main/jobs/README.md)
+[Browse retained job records](https://github.com/huntingthereferent/autobots-assemble/tree/main/jobs) · [Job retention contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/jobs/README.md)
 
 </details>
 
@@ -204,9 +204,9 @@ The earlier security sandbox / bounded tunnel concept, local Axioms and Eggy tra
 | **GitHub profile / vibe-code showcase** | [Main profile](../README.md) · [Showcase](README.md) | Public work navigation |
 | **Writing and working opinions** | [Writing](../writing/README.md) · [Opinions](../writing/OPINIONS.md) | Keep personal positions apart from mathematical results |
 | **Antechamber / The Steppers** | [Public site](https://thestepps.wordpress.com/) | Proposed voluntary human-facing space, not crisis service |
-| **Language shape / interpretation records** | [Language directory](https://github.com/huntingthereferent/language-network/tree/main/language) | Preserve meaning across changing phrasing |
-| **Category and protocol framework** | [Entry](https://github.com/huntingthereferent/language-network/blob/main/ENTRY.md) · [Category contract](https://github.com/huntingthereferent/language-network/blob/main/CATEGORY_CONTRACT.md) | Tracing and preserving a current question |
-| **Evidence / Foundation / outputs** | [Foundation](https://github.com/huntingthereferent/language-network/tree/main/foundation) · [Artifact system](https://github.com/huntingthereferent/language-network/blob/main/artifacts/README.md) | Derived capability and inspectable output records |
+| **Language shape / interpretation records** | [Language directory](https://github.com/huntingthereferent/autobots-assemble/tree/main/language) | Preserve meaning across changing phrasing |
+| **Category and protocol framework** | [Entry](https://github.com/huntingthereferent/autobots-assemble/blob/main/ENTRY.md) · [Category contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/CATEGORY_CONTRACT.md) | Tracing and preserving a current question |
+| **Evidence / Foundation / outputs** | [Foundation](https://github.com/huntingthereferent/autobots-assemble/tree/main/foundation) · [Artifact system](https://github.com/huntingthereferent/autobots-assemble/blob/main/artifacts/README.md) | Derived capability and inspectable output records |
 
 ## 09 / Source manifest and open limits
 
