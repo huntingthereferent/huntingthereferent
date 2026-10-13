@@ -14,7 +14,7 @@ A reader should be able to distinguish a measured local observation from a publi
 
 ### ARC native game experiments
 
-**Public implementation links:** [source and evidence audit](ARC_EVIDENCE.md) · [ARC native frame observer](https://github.com/huntingthereferent/language-network/blob/main/runtime/arc_native_observer.py) · [native observation integration tests](https://github.com/huntingthereferent/language-network/blob/main/network/tests/test_arc_native_observer.py) · [official ARC toolkit](https://github.com/arcprize/ARC-AGI). The observer records an already-executed frame transition; the tests primarily use synthetic frames and include a separately opt-in real FT09 single-step test. **They do not contain the SK48/LS20/FT09 winning policies, full action traces, or native completion scorecards.** Finite-field transformation construction source and tests are [indexed separately](ARC_EVIDENCE.md#03--arc-like-finite-field-mathematical-research--public-solvers-and-tests) and do not represent native-game execution.
+**Public implementation links:** [source and evidence audit](ARC_EVIDENCE.md) · [ARC native frame observer](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/arc_native_observer.py) · [native observation integration tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_native_observer.py) · [official ARC toolkit](https://github.com/arcprize/ARC-AGI). The observer records an already-executed frame transition; the tests primarily use synthetic frames and include a separately opt-in real FT09 single-step test. **They do not contain the SK48/LS20/FT09 winning policies, full action traces, or native completion scorecards.** Finite-field transformation construction source and tests are [indexed separately](ARC_EVIDENCE.md#03--arc-like-finite-field-mathematical-research--public-solvers-and-tests) and do not represent native-game execution.
 
 The recorded October 2026 outcomes are:
 
@@ -22,7 +22,7 @@ The recorded October 2026 outcomes are:
 - LS20 — 7/7 levels, 309 actions, two fresh winning replays.
 - FT09 — 6/6 levels, 75 actions, two fresh visual-agent winning runs; 81 and 76 actions in separate exploratory-path tests.
 
-The native game SDK reportedly returned 100.0 scores in these specific local runs. **Saved full-game action routes and replay code are now public** in [language-network/research/arc_native_runs](https://github.com/huntingthereferent/language-network/tree/main/research/arc_native_runs), with source-file hashes and the recorded limitations. This does not provide original frame-by-frame traces or verified fresh runs, and reported native scores have not been independently reproduced for this transfer.
+The native game SDK reportedly returned 100.0 scores in these specific local runs. **Saved full-game action routes and replay code are now public** in [language-network/research/arc_native_runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs), with source-file hashes and the recorded limitations. This does not provide original frame-by-frame traces or verified fresh runs, and reported native scores have not been independently reproduced for this transfer.
 
 ### Local Qwen / orchestration canary
 
