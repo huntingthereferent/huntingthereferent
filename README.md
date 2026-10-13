@@ -21,8 +21,6 @@ I left my own words in the [language and observation report](writing/LANGUAGE_AN
 
 > Yes yes names are important so we can study them and not keep fucking up
 
-The [language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) is the same referent I previously called A/B; naming it for readers isn't starting a different investigation.
-
 [**How this started →**](writing/ORIGIN.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Opinions →**](writing/OPINIONS.md)
 
 ## Selected code and experiments
