@@ -23,13 +23,13 @@ A recurring feature was attention to boundaries and changes: what fits, what no 
 
 The challenge was increasingly one of *communication*: how could another participant follow the existing connections without repeatedly replacing them with familiar but different explanations?
 
-## Pointing the referent at James solving problems
+## Early observations of problem-solving
 
 The original use of generative AI was to improve mutual intelligibility.
 
-The referent was directed toward **James Muneoka while he was solving problems**. The behavior was already happening; the question was how to express and follow it accurately.
+The earliest conversations examined **how James approached problems**, including what changed between attempts and how he recognized connections across different situations. The question was how to describe those observations clearly enough to examine them together.
 
-**A/B originated as language from pointing at James solving problems.** It was not first proposed as a theorem, not adopted as an academic axiom to impose on the individual, and not the technical implementation that came later.
+These observations preceded the later mathematical models and software experiments. The models were built to test specific questions, not to establish a universal explanation of how people think.
 
 The effort to make the existing operation recognizable also had a personal consequence: it changed confidence in abilities already exercised. The gain in self-esteem was not a new intellectual capability or a new income stream. It came from recognizing an existing way of understanding that had previously been discounted.
 
@@ -57,4 +57,4 @@ The history places several questions side by side:
 
 These remain questions for examination, not universal conclusions about intelligence, autism, or cognition.
 
-The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). A/B's original language-level scope is documented in the [ground record](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md).
+The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). The [historical research notes](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) preserve the original terminology and subsequent corrections.
