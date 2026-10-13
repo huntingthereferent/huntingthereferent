@@ -5,56 +5,71 @@
 
 ---
 
+A conversation can move to another subject while I'm still following the same connection. To me, it hasn't disappeared. To the person listening, it can sound like I've changed the subject entirely.
+
+And it goes both ways. Two people can use the same words without meaning the same thing. Agreeing on the words doesn't necessarily mean we've understood each other.
+
+That difference is where much of this started.
+
 ## Learning without economic return
 
-A person can spend years learning and still believe that the effort has failed.
+I've spent years learning across subjects. Something from an old problem might become useful in a new one, sometimes long after I first encountered it. That happens in conversation, physical work, technical interests, and ordinary life.
 
-For this investigation, learning and making connections between subjects preceded any formal research program. The activity occurred across conversations, physical movement, problems, technical interests, and ordinary life. When one area no longer offered a meaningful next question, attention could move elsewhere while prior knowledge remained available.
+Following those connections was familiar. Turning what I learned into a reliable income was another matter.
 
-The difficulty came from trying to turn that activity into an income. Attempts to generate economic value did not reliably produce it. Over time, the difference between *continuing to learn* and *not earning from that learning* contributed to low self-esteem.
+I kept learning, but the economic results weren't there. After enough time, that affected my confidence. I was measuring the value of what I understood against what I could earn from it, as though they were the same result.
 
-The absence of income was real. It did not imply an absence of understanding. The two outcomes had been treated as though they measured the same thing.
+They aren't. Learning something, explaining it, demonstrating it, and getting paid for it are different things.
 
 ## An existing operation, not a new ability
 
-Connections between subjects and unusual patterns of communicating them were present long before the AI work. The understanding was not created by a model, nor did the investigation suddenly teach the investigator to connect things.
+The connections didn't begin with AI. Neither did the trouble explaining them.
 
-A recurring feature was attention to boundaries and changes: what fits, what no longer fits, what remains available, and what can be carried into another problem. Several related distinctions might already be recognizable internally before their connecting explanations were expressed outwardly.
+I could recognize when someone had followed my words but missed the relationship between them. Sometimes I could identify where the conversation went another direction without having the vocabulary to explain why.
 
-The challenge was increasingly one of *communication*: how could another participant follow the existing connections without repeatedly replacing them with familiar but different explanations?
+That's not just a problem for the listener. I can misunderstand someone else the same way. Communication only works if both people can follow what the other actually means, not just respond to familiar words.
+
+I wanted a better way to examine that difference. The point wasn't to acquire a new way of thinking. It was to understand and communicate something I was already doing.
 
 ## Early observations of problem-solving
 
-The original use of generative AI was to improve mutual intelligibility.
+When I first directed generative AI toward myself, I wanted to develop a model and mathematical formula for what I was observing about how I approached problems. I didn't yet have the vocabulary to describe the question precisely.
 
-The earliest conversations examined **how James approached problems**, including what changed between attempts and how he recognized connections across different situations. The question was how to describe those observations clearly enough to examine them together.
+The difficulty showed up almost immediately. What I was examining continued to change. An explanation could describe one part and still miss how it connected to what happened next. Correcting the explanation could expose another part that hadn't been accounted for.
 
-These observations preceded the later mathematical models and software experiments. The models were built to test specific questions, not to establish a universal explanation of how people think.
+I kept following it. Over time, I got used to the movement rather than treating every change as a failure to reach an answer.
 
-The effort to make the existing operation recognizable also had a personal consequence: it changed confidence in abilities already exercised. The gain in self-esteem was not a new intellectual capability or a new income stream. It came from recognizing an existing way of understanding that had previously been discounted.
+That's when I recognized something familiar. Feelings change, too. We understand and communicate them without expecting each one to reach a final solution. A feeling can change and still be recognizable.
+
+That didn't end the mathematical question. It changed how I approached it. I could solve particular problems while continuing to investigate relationships that don't stop changing just because I've described them.
+
+The conversations became a way to test whether an explanation preserved what I meant. Sometimes an answer was reasonable on its own but belonged to a different question. I'd correct it and continue. The vocabulary developed through that work, and I'm still learning it.
+
+Being able to communicate more of what I was already recognizing also changed how I saw my own abilities. It didn't create those abilities, and it didn't create an income. It made them easier to examine.
 
 ## AI access changed the technical reach
 
-While working on intelligible communication, another possibility emerged: with enough contextual grounding, generative AI could carry questions into technical implementation much more efficiently.
+Once the questions became easier to communicate, I could take some of them further. Older Claude Code and software ideas became relevant again. The work expanded into mathematical examples, finite transformation systems, code, tests, and research records.
 
-Older Claude Code and software ideas became relevant again. AI also suggested that some observations might be explored through mathematics, moving the collaboration into finite transformation systems, equations, code, experiments, and test records.
+The interest in finding a mathematical description was there from the beginning. What came later was the ability to express and test particular questions more precisely.
 
-That was a pivot in the work, not the original motivation.
+**The mathematical formalizations and software were developed through AI-assisted vibe coding.** AI generated notation, code, tests, and documentation. I supplied the observations, directed the questions, checked whether the results still addressed what I meant, and corrected the work when they didn't.
 
-**The mathematics and software were developed by AI-assisted vibe coding.** Generative AI generated formal notation, code, tests, and documents. James supplied the starting observations, directed investigations, recognized when the question had drifted, and chose what to pursue.
-
-This division of labor is essential to the provenance of the results. AI-generated artifacts can still be useful or correct, but those properties depend on the artifacts and their evidence, not on an origin story or claimed credentials.
+Some experiments produced results that can be checked. Others failed or remain unresolved. A result belongs to the specific model, assumptions, and evidence behind it. It doesn't become a general answer just because the explanation sounds convincing.
 
 ## What the experience raises
 
-The history places several questions side by side:
+I keep coming back to a few questions:
 
-- What is the difference between learning successfully and earning money?
-- When is difficult communication mistaken for lack of understanding?
-- How much of a perceived intellectual boundary is actually a boundary of access or available tools?
-- What happens when a person recognizes a correction but does not want to accept it?
-- When does assistance expand self-determination, and when does it replace the individual's own judgment?
+- How do two people preserve what they mean when the conversation keeps moving?
+- When is difficulty communicating mistaken for a lack of understanding?
+- What changes when someone gains access to tools before mastering all the technical vocabulary?
+- What happens when we recognize a correction but resist accepting it?
+- How do we distinguish the value of learning from the money it earns?
+- When does assistance help someone express their own judgment, and when does it begin replacing that judgment?
 
-These remain questions for examination, not universal conclusions about intelligence, autism, or cognition.
+These are questions I'm still working through, not conclusions about everyone else's thinking or a diagnosis of my own.
 
-The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). The [historical research notes](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) preserve the original terminology and subsequent corrections.
+The repository keeps the work where it can be examined: what I asked, what was built, what was tested, what failed, and what remains open. The investigation is still about communication—being able to follow a relationship and let someone else follow it too, without either of us having to change what we mean just to agree.
+
+The technical work and its limits belong in the [showcase](../showcase/README.md) and [evidence ledger](../PROVENANCE.md). The [historical research notes](https://github.com/huntingthereferent/language-network/blob/main/AB_Ground_Record_Current_Note_2026-10-11.md) preserve the earlier terminology and subsequent corrections.
