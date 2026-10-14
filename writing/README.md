@@ -8,7 +8,7 @@ Writing is separate from the technical showcase. A position can be worth examini
 | Collection | Contents |
 | :--- | :--- |
 | **[Origin of the investigation](ORIGIN.md)** | Early problem-solving observations, questions of communication and income, and the shift into AI-assisted construction. |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | A first-person report about observing people, communication, Human Drift and keeping the referent. Nine selected verbatim quotations appear within the narrative; the [full quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) preserves all earlier excerpts. |
+| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | An AI-edited, source-attributed account of observation, Human Drift, and the mathematical inquiry. Three exact quotations appear within the narrative; the [original quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) preserves the complete earlier selection. |
 | **[Opinions / Working Positions](OPINIONS.md)** | A living, revisable set of positions on learning, self-correction, AI access, provenance, autism, and autonomy. |
 | **[Research notebook](../RESEARCH.md)** | Questions, native observations, agent handoffs, and what can be inferred from a result. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | How an unknown behavior is probed and what a checkable investigation retains. |
