@@ -1,51 +1,37 @@
 # James Muneoka
 
-**Independent research · AI-assisted construction**  
-*Communication · Mathematics · Software experiments*
+**Independent research · AI-assisted software construction**
 
-[![Research](https://img.shields.io/badge/RESEARCH-SOURCE%20%26%20TESTS-273449?style=flat-square)](https://github.com/huntingthereferent/autobots-assemble)
-[![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
-[![Writing](https://img.shields.io/badge/WRITING-ORIGIN%20%26%20OPINIONS-675A72?style=flat-square)](writing/README.md)
+I explore problems through software, mathematics, and experimentation. Some questions turn into working implementations. Others remain open.
+
+This is where I keep the work, the tests, and the evidence of what actually happened.
+
+[Research repository](https://github.com/huntingthereferent/autobots-assemble) · [Project inventory](showcase/PROJECT_INVENTORY.md) · [Writing](writing/README.md) · [Evidence](PROVENANCE.md)
 
 ---
 
-### About me
+## Selected work
 
-I can move between subjects and still be following the same connection. Explaining that connection so someone else can follow it is harder. Communication is what started this investigation, and it still runs through the work.
+| Area | Explore |
+|---|---|
+| **Mathematical construction** | [Finite transformation systems](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) |
+| **Process Workstation** | [Worker branches, handoffs, and checkpoint evidence](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) |
+| **Finite Correspondence Research** | [Experiments and historical checkpoints](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze/chatbot) |
+| **Interactive environments** | [ARC experiments and native observations](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
+| **Software engineering** | [Data platforms and engineering projects](showcase/PROJECT_INVENTORY.md) |
 
-I use generative AI to help express questions in mathematics and software, then examine whether the results actually address what I meant. I'm still learning the technical vocabulary. The code and formal mathematics are AI-assisted; the observations, direction, and corrections are mine.
+## How I work
 
-Circumstances around me have changed, including family responsibilities and the practical need for income. That's part of why I'm making more of this work public. I move between problems as they develop, keeping the work and its evidence available to return to.
+I use generative AI to help develop implementations, mathematical descriptions, and tests. I direct the questions, examine the results, and correct the work when it moves away from what I intended.
 
-I left my own words in the [language and observation report](writing/LANGUAGE_AND_OBSERVATION.md), including the parts an edited biography would usually smooth out:
+The repositories contain completed experiments, unfinished investigations, and preserved failures. Each result should be understood within the evidence that supports it.
 
-> Yes yes names are important so we can study them and not keep fucking up
+## Beyond the code
 
-[**How this started →**](writing/ORIGIN.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Human Drift — dated quotations →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [**Opinions →**](writing/OPINIONS.md)
+I also write about communication, learning, observation, and the experiences that led me into this work.
 
-## Selected code and experiments
+[Read the writing](writing/README.md) · [How the investigation began](writing/ORIGIN.md)
 
-These are links to source and tests, not just project descriptions. Public code is evidence of an implementation, not a claim that it has been deployed or independently verified.
+---
 
-| Investigation | Inspect |
-| :--- | :--- |
-| **Mathematical construction** | [Engine 1](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/engine_one.py) · [tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_like_engine_one.py) · [Cyclic Action Engine](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/cyclic_action_engine.py) |
-| **Cross-system handoffs** | [Orchestrator](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/orchestrator.py) · [integration tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_continuity_unlike_systems.py) |
-| **Finite correspondence research** | [Research checkpoints](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/README.md) · [process-isolated Ed25519 verifier](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/checkpoints/30-independent-process-identity/finite_process_attestation.py) · [negative-control tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/checkpoints/30-independent-process-identity/test_finite_process_attestation.py) |
-| **Multi-source data platform** | [FastAPI application](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/public-data-monitor/app/main.py) · [API tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/public-data-monitor/tests/test_api.py) |
-| **Interactive environment research** | [Native frame observer](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/arc_native_observer.py) · [observer tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/network/tests/test_arc_native_observer.py) · [recorded cases](ARC_EVIDENCE.md) |
-
-### Smaller engineering labs
-
-[Application security — code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/application-security-lab/appsec_lab/audit.py) · [tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/application-security-lab/tests/test_security.py)  
-[Applied ML — code](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/applied-ml-modeling/ml_evidence/modeling.py) · [tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/applied-ml-modeling/tests/test_modeling.py)  
-[Networking — server](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/systems-networking-lab/network_lab/server.py) · [tests](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/systems-networking-lab/tests/test_networking.py)  
-[Embedded systems — firmware](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/embedded-systems-lab/firmware/controller.c) · [host simulation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/embedded-systems-lab/sim/sim.c)
-
-## More of the work
-
-The front page is a selection, not the complete history. Earlier experiments, incomplete projects, and documentation-only ideas remain available without being presented as finished builds.
-
-[**Research repository →**](https://github.com/huntingthereferent/autobots-assemble) · [**Full project inventory →**](showcase/PROJECT_INVENTORY.md) · [**Evidence and limits →**](PROVENANCE.md) · [**Writing →**](writing/README.md)
-
-<sub>All technical construction and formalization described here was AI-assisted. The linked source and test records show what can be inspected; they do not by themselves establish external deployment, independent verification, or commercial delivery.</sub>
+*The work is ongoing. Source code, tests, and provenance are provided so individual results can be examined on their own terms.*
