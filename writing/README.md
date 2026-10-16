@@ -11,16 +11,14 @@ James clarified the purpose of the entire collection on October 16:
 
 James also said that when he tries to write this out alone, he often ends up deleting it. Talking it through gives us something to follow together and return to when the words don't quite fit.
 
-The quotes keep our original words, with speakers labeled where needed. The [conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md) are there for anyone who wants to follow the exchanges more closely.
+One short expression can carry a longer relationship. James may trace that connection live while the assistant needs it unfolded; sometimes the assistant's reading fits, and sometimes James corrects it. The [communication writing](LANGUAGE_AND_OBSERVATION.md) follows both sides. The [original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) keep the spoken wording intact.
 
 | Writing | What the conversation follows |
 | :--- | :--- |
 | **[Origin of the Investigation](ORIGIN.md)** | How an existing question became communicable through dialogue, and how learning, income, mathematics, and AI-assisted construction entered the conversation without becoming the same question. |
 | **[Childhood and the Early Internet](CHILDHOOD.md)** | James's memories of diaries, GeoCities, Quake III, Darkness and Amok, and the shift from online games to playing alongside other people. |
-| **[Childhood, Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Continuing the story with the next people and game James named; detailed memories will be added from his own account. |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Examples, misreadings, corrections, Human Drift, and the distinct contributions made by both participants. |
-| **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** | An October 15 exchange: an assistant question, James's felt report, the assistant's inference, and James's correction of that inference. |
-| **[Thinking Through Working Positions](OPINIONS.md)** | Learning, correction, AI access, provenance, and autonomy approached through the actual dialogue rather than twelve declarations made on James's behalf. |
+| **[Childhood, Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Altar of Storms, the Horde move to Tichondrius, Blackrock, arenas and the people James followed in Durotar. |
+| **[Language and Observation — Keeping the Conversation Moving](LANGUAGE_AND_OBSERVATION.md)** | One connected account of compression/decompression, misunderstandings, Human Drift, reading, felt experience, corrections, learning and autonomy—through both participants' voices. |
 | **[Original conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Exact recorded words, with later additions dated and speaker attribution preserved. |
 | **[Research overview](../RESEARCH.md)** | An orientation to the technical inquiries, their relation to the writing, and their evidence boundaries. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | Checkable methods for specific investigations, separate from conversational interpretation. |

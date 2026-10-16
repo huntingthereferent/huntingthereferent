@@ -123,3 +123,17 @@ These later remarks came while we were talking about how to write the pages toge
 > The writings aren't supposed to be me observing James and then describing him. They're supposed to preserve what we discover by talking through things together.
 
 The last quote is the assistant's reply, not James's.
+
+## October 16 — compressing and decompressing language
+
+### James — compression, live tracing, and communication stopping
+
+> james likes compressing and decompressing language since i can trace it live so the feeling of ppl stoping communication / missunderstandings .... will naturaly .... well you get the picture lol
+
+### Assistant — the offered connection
+
+> When James compresses language, he isn't necessarily losing the relationships between the words.
+
+### James — the connection recognized
+
+> yes thats how it is
