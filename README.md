@@ -20,6 +20,7 @@ This is where I keep the work, the tests, and the evidence of what actually happ
 |---|---|
 | **Mathematical construction** | [Finite transformation systems](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) |
 | **Process Workstation** | [Worker branches, handoffs, and checkpoint evidence](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) |
+| **Continuous Handoff** | [Observation-scoped contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Runnable reference](https://github.com/huntingthereferent/autobots-assemble/tree/main/runtime/examples/continuous_handoff) |
 | **Finite Correspondence Research** | [Experiments and historical checkpoints](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze/chatbot) |
 | **Interactive environments** | [ARC experiments and native observations](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
 | **Software engineering** | [Data platforms and engineering projects](showcase/PROJECT_INVENTORY.md) |
