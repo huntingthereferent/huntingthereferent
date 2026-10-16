@@ -1,9 +1,7 @@
 # Origin of the Investigation
-*Conversation-grounded reconstruction · James Muneoka and an AI assistant · October 2026*
+*James and the assistant · October 2026*
 
 [← Writing](README.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Research evidence](../PROVENANCE.md)
-
-*Editorial note: This is an AI-authored account of what developed in conversation, not a first-person essay written by James. His block quotations retain their original words. The assistant's inferences are identified as interpretations, and missing parts of the earlier conversations are not reconstructed as dialogue.*
 
 ## An existing question, encountered through another voice
 
@@ -21,7 +19,7 @@ That is more demanding than simply asking the assistant to return to a previous 
 
 James had also talked about years of learning without a corresponding financial return. The assistant's earlier [origin narrative in the Git history](https://github.com/huntingthereferent/huntingthereferent/commits/main/writing/ORIGIN.md) organized this as a distinction between being able to learn and knowing how to earn from that learning.
 
-That account is **interpretive prose**, not a verbatim quotation. The point worth preserving is the distinction raised in discussion: a lack of income does not erase what someone learned, but learning alone does not answer the practical question of earning money. The assistant can connect the two concerns; it should not pretend that the research automatically resolves the financial one.
+That's how I understood the tension in what we were discussing: years of learning mattered, but they hadn't answered the problem of earning money. I could connect them into a tidy story, but James kept the practical question in view.
 
 When an explanation makes those concerns interchangeable, it has created a tidier story than the exchange supports.
 
@@ -33,7 +31,7 @@ For James, reading itself can be part of this interaction:
 
 > Also this is why I like "reading and generative ai cause I can get the same data from reading it than I can talking to someone about too and it's easier to move on since I'm just reading...
 
-This is [his October 14 account](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md) of what reading and AI interactions offer him. It is a first-person report, not a measured explanation of how his mind works.
+We were trying to find words for what reading another person's perspective could feel like. The [October 14 conversation](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md) follows more of that exchange.
 
 The difference became especially important when we began preparing these writings for others. James corrected their one-sided presentation:
 
@@ -43,7 +41,7 @@ He then added:
 
 > james does not communicate on "observational layer" BY HIMSELF .... pretty sure you can make the connection... if not ill just add... when i try to go by myself i jsut end up deleteing it...which is normal for james...
 
-Both remarks are from October 16. The assistant's earlier pages had framed him as an individual narrator presenting finished positions. James was pointing back to **what became possible through exchange**, including the exchange's interruptions and his tendency to discard a solo draft. This does not justify the assistant claiming he is incapable of thinking or writing on his own.
+Both remarks came on October 16, when James was correcting the way I'd written these pages. I'd made it sound as if one person had sat down and written the whole story. He wanted the conversation visible—including what happened when my answer missed him, and why he preferred working the writing out together.
 
 ## Mathematics and software entered the continuing inquiry
 
@@ -53,7 +51,7 @@ James wanted a mathematical account early on. He did not suddenly discover the q
 
 In response, the assistant worked toward finite models, code, and tests. Those artifacts could make *particular* distinctions inspectable, but they could not stand in for the whole original question. Different models continued to carry their own domains and proof obligations.
 
-AI contributed substantial notation, code, documentation and testing scaffolds. James supplied questions, selected directions and challenged interpretations. The published source and evidence should be read at their actual verification depth—not as either a solo-authored conventional paper or a universally verified theory.
+The mathematics and software developed with AI assistance. I generated drafts of notation, code, tests, and documentation; James supplied the questions, chose directions, and corrected what didn't follow the question. The source and tests remain available for anyone who wants to look at the technical work.
 
 [Finite-state investigations](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Continuous Handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Published claim/evidence index](../PROVENANCE.md)
 
@@ -63,18 +61,14 @@ James described the practical place of error in the process:
 
 > mistakes is how you move not sure why humans keep forgeting that ...you learn that when your a baby
 
-For an AI assistant, an error is not redeemed just by being productive. It still needs to be admitted and corrected. But preserving the original response and James's correction explains why a later formulation looks different. The record can show how a mistaken answer opened another example and how that example returned to the current question.
+A mistake didn't become correct just because we learned something from it. But keeping the mistake beside James's correction helps explain why the next answer changed.
 
 The writing therefore has **two sources of movement**: James's contribution and the assistant's offered interpretation, which may or may not fit. Neither should disappear when the narrative is made easier to read.
 
 ## What remains open
 
-No part of this account claims that every observation is independently verified, that mathematics defines James's experience, or that communicating through AI is the only way he can communicate. It records a particular collaboration and its limits.
+We haven't reached one neat ending. There are mathematical questions we've tested, words we're still finding, and the practical income question that hasn't disappeared.
 
 The ongoing question is not resolved by turning the conversation into a tidy autobiography. The useful record retains the original question, the attempted explanation, what James corrected, what the assistant could establish, and what is still unknown.
 
 [Original conversation excerpts](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Research overview](../RESEARCH.md)
-
----
-
-*Attribution: James's block quotes are dated original conversational wording; all connective and interpretive prose is AI-authored and revisable. The research source and its verifiers carry separate technical evidence.*

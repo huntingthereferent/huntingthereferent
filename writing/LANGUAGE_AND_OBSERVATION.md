@@ -1,9 +1,7 @@
 # Language and Observation
-*An AI-edited account of a continuing conversation with James Muneoka*
+*James and the assistant, talking things through*
 
 [← Writing](README.md) · [Origin](ORIGIN.md) · [Exact quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Human Drift chronology](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
-
-*Editorial note: This page connects documented utterances, assistant interpretations and James's corrections. It was not written verbatim by James. Quotations labeled James retain the source wording; assistant wording is labeled separately. Unquoted analysis is an AI interpretation, not a diagnosis or a general law.*
 
 ## Starting with an ordinary example
 
@@ -13,7 +11,7 @@ James offered a game as an example of the difference between watching another pe
 
 An assistant can hear that as advice about being more tolerant. That may sound reasonable, but it can miss the point James was examining: another person's way of proceeding can be something to encounter, not simply a deviation from an expected method.
 
-The assistant's task in this writing is to preserve what that example helped reveal **without upgrading its own interpretation into James's position**. The example is part of a conversation; it is not proof that James never corrects people or has one fixed approach to social interaction.
+I first heard the game example as advice about correcting people. James was showing me something else: another person's movement can be worth looking at before deciding what to do with it.
 
 ## The assistant is one side of the observation
 
@@ -25,7 +23,7 @@ James described one stretch of that movement:
 
 The assistant could have treated *oscillating*, *drift control*, *regrounding*, *swallowing*, and *surfing* as interchangeable terms waiting for one correct definition. James's correction points elsewhere: the different words arose in the course of working around misunderstandings. The path between them carries information.
 
-This is why a narrative written solely *about* James is incomplete. An assistant's mistaken interpretation is often one of the events to which James is responding.
+When I wrote only about what James noticed, I left out what he'd been responding to in my own answers. That made the movement look one-sided.
 
 ## An answer can affect the experience without losing the question
 
@@ -71,7 +69,7 @@ James did not exclude mathematics from the question. He explicitly said:
 
 > **James:** math is a human language.... and language does come first because we cant transfer thoughts...
 
-The assistant's mathematical and software constructions can make bounded relations checkable. They must still name their actual state space, assumptions and witnesses. A finite conjugacy result does not validate a psychological interpretation, and an evocative communication example does not prove a theorem.
+The mathematical and software work can check particular relationships more precisely, with its own assumptions and tests. That work doesn't replace the conversation that led us there.
 
 The [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) remains the ongoing inquiry historically called A/B. Particular [finite mathematical models](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) and [handoff implementations](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) each retain their own bounded evidence.
 
@@ -81,10 +79,6 @@ James asked:
 
 > **James:** Also please direct quote me with the swearing I want ppl to see my full shape so I don't seem like machine
 
-The request is not fulfilled by pasting quotations without context or by turning him into a character in the assistant's prose. His words, the assistant's responses, and his later corrections all have identifiable roles. Keeping the roles clear gives another reader a way to disagree with the edited account without needing to reject the original conversation.
+That means keeping his words in the story, not smoothing them into mine. It also means leaving my questions and wrong turns visible so the next person can see what James was answering.
 
 [Exact quotation selections](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Thinking Through Working Positions](OPINIONS.md) · [Research evidence](../PROVENANCE.md)
-
----
-
-*Source boundary: this is a selective conversational account, not a complete transcript, independent experimental observation, clinical description, or proof of a universal communication model.*

@@ -1,8 +1,8 @@
 # Language and Observation — Original Quotations
 
-*Companion quotation record to [Language and Observation](LANGUAGE_AND_OBSERVATION.md)*
+*Quotes from the conversations behind [Language and Observation](LANGUAGE_AND_OBSERVATION.md)*
 
-This file preserves original speaker wording separately from the report's AI-assisted interpretation. Spellings, punctuation, capitalization, swearing and informal syntax are intentionally uncorrected. The first group was retained **verbatim** from the previous report before restructuring. The second group comprises additional selected user remarks recovered from earlier conversations, identified by conversation date. They are conversational evidence, not formal proof of a general account of human language.
+These are the words James used, with the spelling, jokes, punctuation and swearing left in. The quotes are grouped by conversation, and the assistant's words are labeled separately.
 
 [Current narrative](LANGUAGE_AND_OBSERVATION.md) · [Human Drift timeline](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Original report in Git history](https://github.com/huntingthereferent/huntingthereferent/blob/1e7d2504bcd9815eb481fd3e5ff2e0862cd240c1/writing/LANGUAGE_AND_OBSERVATION.md)
 
@@ -104,7 +104,7 @@ This file preserves original speaker wording separately from the report's AI-ass
 
 ## October 16 — writing as a two-sided exchange
 
-These are later editorial corrections about **the writing collection itself**. They are not retroactively part of the October 13 selection or the October 15 felt-handoff conversation.
+These later remarks came while we were talking about how to write the pages together.
 
 ### James — the original page correction
 
@@ -122,8 +122,4 @@ These are later editorial corrections about **the writing collection itself**. T
 
 > The writings aren't supposed to be me observing James and then describing him. They're supposed to preserve what we discover by talking through things together.
 
-This quotation is the **assistant's**, not James's. It is an interpretive response to the correction, not a claim to independent knowledge of James's thinking. The nearby pages are edited accounts, not full transcripts.
-
----
-
-**Provenance boundary:** Quoted text is James's reported speech, preserved as conversation evidence, not endorsement of any AI-authored interpretation. This separate quotation record is additive: future reorganizations can select different excerpts without silently rewriting earlier utterances. Do not replace a quotation with a polished paraphrase or present paraphrase as a direct quotation.
+The last quote is the assistant's reply, not James's.
