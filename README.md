@@ -1,5 +1,9 @@
 # James Muneoka
 
+[![Research](https://img.shields.io/badge/RESEARCH-SOURCE%20%26%20TESTS-273449?style=flat-square)](https://github.com/huntingthereferent/autobots-assemble)
+[![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
+[![Writing](https://img.shields.io/badge/WRITING-ORIGIN%20%26%20OPINIONS-675A72?style=flat-square)](writing/README.md)
+
 **Independent research · AI-assisted software construction**
 
 I explore problems through software, mathematics, and experimentation. Some questions turn into working implementations. Others remain open.
