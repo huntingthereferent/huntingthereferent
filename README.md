@@ -6,7 +6,7 @@
 
 **Independent research · AI-assisted software construction**
 
-I explore problems through software, mathematics, and experimentation. Some questions turn into working implementations. Others remain open.
+Exploring problems through software, mathematics, and experimentation. Some questions turn into working implementations. Others remain open.
 
 This is where I keep the work, the tests, and the evidence of what actually happened.
 
