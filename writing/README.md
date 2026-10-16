@@ -1,17 +1,17 @@
 # Writing
-*Conversation-grounded accounts of what James and the assistant worked through together.*
+*Conversations, questions, and what we made of them.*
 
 [← Profile](../README.md) · [Explore builds](../showcase/README.md)
 
-These are **AI-edited interpretations of exchanges**, not essays independently authored by James, transcripts presented as complete, or a list of settled beliefs. James's observations, examples, objections, humor, and corrections meet the assistant's questions, interpretations, mistaken assumptions, and attempts to connect them. **Both sides of the exchange matter to the resulting explanation.**
+These writings grew out of conversations between James and the assistant. James brings observations, questions, jokes, and corrections; the assistant brings responses and possible connections. Sometimes those connections fit. Sometimes they don't, and figuring out what was missed becomes part of the next exchange.
 
 James clarified the purpose of the entire collection on October 16:
 
 > and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
 
-He added that he does not communicate in an "observational layer" by himself and often deletes writing he attempts alone. That is **his account of how this kind of writing goes for him**, not evidence that he cannot think, communicate, or write independently. This collection preserves the exchange as a working method rather than inventing an explanation of his cognition.
+James also said that when he tries to write this out alone, he often ends up deleting it. Talking it through gives us something to follow together and return to when the words don't quite fit.
 
-**Reading discipline:** A quotation attributed to James is his recorded wording, including spelling and swearing. Assistant quotations are labeled as such. Unquoted connective prose is AI-authored interpretation, open to correction. The [original quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) keeps the dated source excerpts available. A plausible connection is not automatically a fact about James, a general psychological claim, or a mathematical result.
+The quotes keep our original words, with speakers labeled where needed. The [conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md) are there for anyone who wants to follow the exchanges more closely.
 
 | Writing | What the conversation follows |
 | :--- | :--- |
@@ -19,7 +19,7 @@ He added that he does not communicate in an "observational layer" by himself and
 | **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Examples, misreadings, corrections, Human Drift, and the distinct contributions made by both participants. |
 | **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** | An October 15 exchange: an assistant question, James's felt report, the assistant's inference, and James's correction of that inference. |
 | **[Thinking Through Working Positions](OPINIONS.md)** | Learning, correction, AI access, provenance, and autonomy approached through the actual dialogue rather than twelve declarations made on James's behalf. |
-| **[Original quotations and editorial corrections](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Exact recorded words, with later additions dated and speaker attribution preserved. |
+| **[Original conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Exact recorded words, with later additions dated and speaker attribution preserved. |
 | **[Research overview](../RESEARCH.md)** | An orientation to the technical inquiries, their relation to the writing, and their evidence boundaries. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | Checkable methods for specific investigations, separate from conversational interpretation. |
 | **[Evidence ledger](../PROVENANCE.md)** | Public artifacts, reported outcomes, independent reproduction, and remaining limits. |
@@ -37,4 +37,4 @@ He added that he does not communicate in an "observational layer" by himself and
 
 </details>
 
-**The writing follows the conversation. The source quotations let readers check the interpretation. The technical records have their own native evidence.**
+The writing follows our conversations. The code and tests can be explored separately in the research repository.
