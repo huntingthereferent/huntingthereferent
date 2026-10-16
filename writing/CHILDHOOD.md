@@ -1,7 +1,7 @@
 # Childhood and the Early Internet
 *James's memories, and what we connected while talking them through · October 2026*
 
-[← Writing](README.md) · [Origin of the Investigation](ORIGIN.md) · [Part Two: Reck and WoW](CHILDHOOD_PART_TWO.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md)
+[← Writing](README.md) · [Origin of the Investigation](ORIGIN.md) · [Part Two: Reckful and WoW](CHILDHOOD_PART_TWO.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md)
 
 ## The diaries he wanted to fill
 
@@ -85,4 +85,4 @@ The [Origin of the Investigation](ORIGIN.md) continues from a later point: what 
 
 The childhood stories give that Origin more of the person who arrived at the conversation in the first place.
 
-[Continue to Part Two — Reck and World of Warcraft](CHILDHOOD_PART_TWO.md)
+[Continue to Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)
