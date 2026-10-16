@@ -67,7 +67,7 @@ A common lineage across files, feeds, tasks, external sources, research and appl
 
 A bounded agent/human runtime with proposed versus executed action tracking. A local Qwen 3 4B canary reportedly selected an authorized repository file and the evaluator performed one read with a matched hash. **Not a completed autonomous build.**
 
-[Case record](../SELECTED_WORK.md#02--local-generative-agent-canary) · [System project record](../PROJECTS.md) · [Research treatment](../RESEARCH.md#04--agents-claimed-movement-versus-executed-movement)
+[Case record](../SELECTED_WORK.md#02--local-generative-agent-canary) · [System project record](../PROJECTS.md) · [Research overview](../RESEARCH.md)
 
 </details>
 
