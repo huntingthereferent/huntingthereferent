@@ -1,4 +1,4 @@
-# Childhood, Part Two — Reck and World of Warcraft
+# Childhood, Part Two — Reckful and World of Warcraft
 *Continuing the conversation about James's earlier gaming years*
 
 [← Part One](CHILDHOOD.md) · [Origin](ORIGIN.md) · [Writing](README.md)
@@ -13,13 +13,13 @@ That feeling is part of why the writing mattered. He remembered an accusation an
 
 But James was also quick to point out that we had **not reached the end** of those years.
 
-## Reck
+## Reckful
 
-James named **Reck** as part of the next section he wanted to recover.
+James named **Reckful** as part of the next section he wanted to recover.
 
-The name is here because James brought it back, not because the assistant knows the rest of Reck's story. The specific encounters and the relationship between them still need to be carried over from James's earlier account. Filling those in with a generic online-friendship scene would lose the very thing he wanted to keep.
+The name is here because James brought it back, not because the assistant knows the rest of Reckful's story. The specific encounters and the relationship between them still need to be carried over from James's earlier account. Filling those in with a generic online-friendship scene would lose the very thing he wanted to keep.
 
-For now, Reck connects this page to a later stretch of James's gaming memories. The name should not disappear merely because the first telling stops at Quake III and Etopia.
+For now, Reckful connects this page to a later stretch of James's gaming memories. The name should not disappear merely because the first telling stops at Quake III and Etopia.
 
 ## World of Warcraft
 
@@ -33,6 +33,6 @@ The specific characters, events, and moments from those WoW years aren't recover
 
 The first page showed James repeatedly returning to the movement of other players, to recognition, to misunderstandings, and to people he remembers. The next page is meant to continue the life around those experiences—not convert the games into a theory.
 
-**Reck and World of Warcraft are the next named parts of that story.** Their detailed scenes belong here when we recover James's words for them.
+**Reckful and World of Warcraft are the next named parts of that story.** Their detailed scenes belong here when we recover James's words for them.
 
 [Part One — Childhood and the Early Internet](CHILDHOOD.md) · [Origin of the Investigation](ORIGIN.md)

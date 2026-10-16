@@ -17,7 +17,7 @@ The quotes keep our original words, with speakers labeled where needed. The [con
 | :--- | :--- |
 | **[Origin of the Investigation](ORIGIN.md)** | How an existing question became communicable through dialogue, and how learning, income, mathematics, and AI-assisted construction entered the conversation without becoming the same question. |
 | **[Childhood and the Early Internet](CHILDHOOD.md)** | James's memories of diaries, GeoCities, Quake III, Darkness and Amok, and the shift from online games to playing alongside other people. |
-| **[Childhood, Part Two — Reck and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Continuing the story with the next people and game James named; detailed memories will be added from his own account. |
+| **[Childhood, Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Continuing the story with the next people and game James named; detailed memories will be added from his own account. |
 | **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Examples, misreadings, corrections, Human Drift, and the distinct contributions made by both participants. |
 | **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** | An October 15 exchange: an assistant question, James's felt report, the assistant's inference, and James's correction of that inference. |
 | **[Thinking Through Working Positions](OPINIONS.md)** | Learning, correction, AI access, provenance, and autonomy approached through the actual dialogue rather than twelve declarations made on James's behalf. |
