@@ -45,7 +45,7 @@ On Blackrock, **Durotar** became the kind of place James later described spendin
 
 Eventually many of those strong players moved back toward **Tichondrius**. The scene followed. That's why Blackrock and Tich can feel like the *same place* in James's memory: the people he recognized in Durotar were largely the same people, even when the server name changed.
 
-He wasn't remembering two unrelated chapters. He was remembering one moving community.
+Blackrock and Tichondrius became the same moving community in his memory.
 
 ## The arena years: RMP, partners, and battlegroups
 
@@ -59,23 +59,19 @@ One remembered fight was against **SK's RMP**. James describes committing to an 
 
 > I just saw the future GRABBED ON.
 
-Not every striking moment was a win. Some stayed with him because of how suddenly the whole fight moved.
-
 ## Reckful: following the movement behind the names
 
 **Reckful (Byron)** was James's favorite player to observe. He called himself a *proud Reckful viewer*. Reckful played rogue; James played priest. He could still find a great deal to watch and learn in Reckful's movement.
 
 James remembers the early server-transfer period as a time when the strongest players shifted between communities. He watched where people appeared, who else arrived, and which players everyone seemed interested in following.
 
-He noticed how much the competitive crowd seemed to move around Reckful. In James's reading of that time, Reckful was often part of the conversations and movement *behind the scenes*. The best players didn't necessarily say openly whom they were following; James remembers that kind of recognition mostly among Reckful's close friends.
+He noticed how much the competitive crowd seemed to move around Reckful. James remembers Reckful talking and moving through the competitive scene behind the scenes. He watched which players followed, even when they wouldn't admit it. He remembers Reckful's close friends being more open about that.
 
 He followed that movement for a long time. The server transfers weren't merely changes to an address on a character-selection screen. They also changed whom he could meet, duel, and watch in Durotar.
 
 In one set of especially fast arena matches, James remembers telling his rogue:
 
 > this is probably Reckful… they’re too fast
-
-He didn't know for sure whom they were facing. It was the speed that made him think of Reckful.
 
 And then there was another description of watching a group move at that level:
 
