@@ -1,6 +1,6 @@
 # Finding the Words Without Losing the Referent
 
-*James Muneoka · Conversational provenance · October 15, 2026*
+*James Muneoka and an AI assistant · Conversational provenance · October 15, 2026*
 
 [← Writing](README.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Earlier felt-POV provenance (October 14)](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md)
 
@@ -100,4 +100,18 @@ A useful account should therefore keep the original utterance, the occasion that
 
 ---
 
-**Source and limits:** October 15, 2026 conversation with James. Quotations labeled James are from his messages in that conversation; assistant wording and all narrative connections are attributed separately. This page does not change existing source code, formal mathematical claims, or workstation/checkpoint evidence. Missing experiences or details are left unknown rather than inferred.
+## Editorial continuation — October 16
+
+The next day James clarified the intended form of the entire writing collection:
+
+> **James:** and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
+
+This is a correction of **how the assistant should write the account**, not a new reported sensation from October 15. The assistant's original question, its interpretation of the felt handoff, James's corrections, and the eventual distinction between finding words and defining a person each have to stay present.
+
+James also reported that when he tries to do this kind of writing on his own, he often deletes it. That account helps explain why he wanted the work to develop through conversation. It does not establish that he cannot communicate or think independently.
+
+See [the dated original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md#october-16--writing-as-a-two-sided-exchange) and [the writing collection's editorial scope](README.md).
+
+---
+
+**Source and limits:** October 15, 2026 conversation with James; October 16 editorial correction identified separately. Quotations labeled James are from his messages in that conversation; assistant wording and all narrative connections are attributed separately. This page does not change existing source code, formal mathematical claims, or workstation/checkpoint evidence. Missing experiences or details are left unknown rather than inferred.
