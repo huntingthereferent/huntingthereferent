@@ -137,3 +137,13 @@ The last quote is the assistant's reply, not James's.
 ### James — the connection recognized
 
 > yes thats how it is
+
+## October 16 — feeling while reading and moving through words
+
+### James — what the audit needed to follow
+
+> Audit the repo James is very focus on how it feels while you go threw the words essentially
+
+### James — time adds an effect even when the chat stays quiet
+
+> Yes because in a flow chat they don't have time built in where silence has an immediate effect also and that effect will change with time itself which gives it an extra layer humans will naturaly forget about if not observed first

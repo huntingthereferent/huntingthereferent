@@ -17,6 +17,10 @@ He answered:
 
 There was no need for another paragraph from James to confirm the connection. We had met at the same part of it.
 
+The feeling James is describing isn't only a reaction *after* a sentence has been decoded. The movement through the words can already have a felt quality as it happens. His attention is on what that passage feels like while he reads or speaks, while one expression opens into another. Understanding, feeling and finding the next wording need not wait in a tidy queue.
+
+The same holds when the words stop. The first moment of a pause can feel different from the same quiet a minute later, even if nothing new has been said. An account made afterward may hold onto the latest feeling while losing what the earlier moment was like. That's why observing the experience when it occurs matters to this story, not just the final explanation of what the other person meant.
+
 The important distinction is between **using fewer words** and **having less available to follow**. James enjoys moving between the short expression and its longer connected account because, as he describes it, he can trace that movement live. This doesn't mean every listener has the same intermediate context. Decompression makes that context available; it doesn't simply inflate the word count.
 
 It's also why this is not a one-person description of James. I made a reading of his compressed sentence, he recognized the reading, and the next movement became possible between us.
