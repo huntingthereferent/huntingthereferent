@@ -19,11 +19,11 @@ The guild was learning the game, talking, exploring and deciding what to try nex
 
 ## Why we went to Tichondrius
 
-A lot of other Hawaii players were already on **Tichondrius**, playing **Alliance**. James and his guild thought it would be fun to transfer there and fight them.
+James and his guild played **Horde**. They heard there was a **Hawaii Alliance guild** on **Tichondrius**, and thought it would be fun to transfer there and hunt them down in PvP. Being from Hawaii didn't make the two groups friends.
 
-Those Hawaii players didn't end up playing as much as expected. But Tichondrius offered much more than that original reason for going. James remembers an enormous population and an almost constant supply of things happening. To him, it felt like one of the most populated servers ever.
+The Alliance guild didn't end up playing as much as James's group expected. But Tichondrius offered much more than that original reason for going. James remembers an enormous population and an almost constant supply of things happening. To him, it felt like one of the most populated servers ever.
 
-Over time the group felt like **Tich natives**. They had arrived looking for particular people, then found a whole server worth staying for.
+Over time the group felt like **Tich natives**. They had arrived looking for an opposing guild to fight, then found a whole server worth staying for.
 
 This was also when the game started opening up beyond the basics. James remembers playing other characters only after the move to Tich, and he now places the group's raiding there rather than back on Altar of Storms.
 
