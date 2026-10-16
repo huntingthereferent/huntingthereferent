@@ -1,17 +1,11 @@
 # Childhood, Part Two — World of Warcraft and Reckful
-*James and the assistant, recovering the gaming years we had already talked through*
+*From the Hawaii gaming scene to World of Warcraft, arena teams, and Reckful*
 
 [← Part One](CHILDHOOD.md) · [Origin](ORIGIN.md) · [Writing](README.md)
 
 ## The story continued after Etopia
 
-The [first childhood page](CHILDHOOD.md) follows James from diaries and GeoCities through Quake III, Neo and Kong, Darkness and Amok, the Slackshack accusation, Counter-Strike, Miller, and the Etopia computer lab in Honolulu.
-
-James said he liked seeing the handles preserved. Reading the account of the cheating accusation made him emotional: it felt as though he was finally getting to tell the truth about how that period looked from his side.
-
-Then he asked for the rest: Reckful and the years of World of Warcraft.
-
-I wrote that James had never supplied the detailed WoW memories. **He had.** I had searched saved drafts instead of retrieving our October 15 conversations, then mistaken a missing document for a missing conversation. James corrected me. Recovering the conversation changed what this page could contain.
+The [first childhood page](CHILDHOOD.md) follows James through GeoCities, Quake III, Counter-Strike, and Etopia in Honolulu. World of Warcraft entered through people he knew in that gaming world. It brought a Hawaii guild, a priest, years of dueling, arena teams across time zones, and players whose movement he still remembers.
 
 ## Altar of Storms and the Hawaii guild
 
@@ -28,8 +22,6 @@ A different character changed that experience. During a **Zul'Gurub** run, a fri
 He described discovering that healing and dispelling came naturally to him. He was reading what was happening in a fight, watching who needed attention, and acting as things changed.
 
 That memory matters in its own right. The priest wasn't a rogue, and the task wasn't simply winning a duel by dealing damage. There were teammates to keep alive, incoming decisions, and openings that could disappear while someone was explaining them.
-
-I can see why later conversations about movement brought these scenes back. But James was describing time he spent actually playing the game, not secretly following a theory he would only name many years later.
 
 ## Years in Durotar
 
@@ -67,9 +59,9 @@ And then came the description he returned to:
 
 > It's like they're all me.
 
-Those were James's reactions to what he was watching and playing against—not evidence that a particular opposing team was actually Reckful's.
+He didn't know for sure who he was facing; their speed was what made him think of Reckful.
 
-Reckful later streamed, and James kept watching. James related to aspects of Byron's gaming life and learned from him despite their different classes. He was talking about **watching and learning from Reckful**, not claiming the two had a personal friendship.
+Reckful later streamed, and James kept watching. He related to parts of Byron's gaming life and learned from his gameplay, even though they played different classes.
 
 ## The people across the games
 
@@ -78,11 +70,5 @@ Back in Quake III, James had spoken about Darkness and Amok. He knew their handl
 Counter-Strike brought people into the same physical room. WoW brought other kinds of closeness: guild connections, long practice sessions, teammates in other countries and states, and players he followed without needing to know them personally.
 
 The games changed. The relationships in each game were not interchangeable. But returning to these memories in conversation made it possible to see where one period met another without flattening the people into examples.
-
-## Continuing the story instead of filling in a blank
-
-The October 15 WoW conversations were already there when James asked for Part Two. My mistake was to treat the documents I could find as the limit of what he had told me.
-
-Now the page contains the people, servers, character, matches, and moments he actually brought into those conversations. His correction didn't start a different project. It changed what we could carry forward from the same story.
 
 [Part One — Childhood and the Early Internet](CHILDHOOD.md) · [Origin of the Investigation](ORIGIN.md)
