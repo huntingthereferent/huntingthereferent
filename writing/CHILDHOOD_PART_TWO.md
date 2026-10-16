@@ -1,74 +1,90 @@
 # Childhood, Part Two — World of Warcraft and Reckful
-*From the Hawaii gaming scene to World of Warcraft, arena teams, and Reckful*
+*From Hawaii gaming friends to Altar of Storms, Tichondrius, Blackrock, arenas, and Reckful*
 
 [← Part One](CHILDHOOD.md) · [Origin](ORIGIN.md) · [Writing](README.md)
 
 ## The story continued after Etopia
 
-The [first childhood page](CHILDHOOD.md) follows James through GeoCities, Quake III, Counter-Strike, and Etopia in Honolulu. World of Warcraft entered through people he knew in that gaming world. It brought a Hawaii guild, a priest, years of dueling, arena teams across time zones, and players whose movement he still remembers.
+The [first childhood page](CHILDHOOD.md) follows James through GeoCities, Quake III, Counter-Strike, and Etopia in Honolulu. World of Warcraft entered through people he knew in that gaming world. It would bring more friends, different servers, a priest, arenas, and an entire competitive crowd whose movement he kept watching.
 
-## Altar of Storms and the Hawaii guild
+## Altar of Storms: where we learned the game
 
-James's WoW story begins on **Altar of Storms**. The connection came through the local Counter-Strike world: a teammate had an uncle associated with an internet café on Maui, and that network of people led James into a Hawaii guild.
+James started on **Altar of Storms** with a Hawaii guild. The connection came through his Counter-Strike circle: a teammate had an uncle associated with an internet café on Maui, and that connection led him into WoW.
 
-At first, James wasn't rushing to finish leveling. He remembers not even getting his original character to the maximum level. He was busy with the guild, talking to people, PvP, and thinking through the game.
+This was where the group learned the basics together. Thinking back, James believes he only leveled his original character to around **40**. He wasn't yet playing the other characters, and he doesn't think they were raiding during this period.
 
-The people mattered as much as the character progression. It was another world where James could be with players, watch what they did, try things out, and keep returning.
+There were people hanging out in **Durotar** on Altar of Storms, but James remembers the competitive skill level as relatively low. He didn't spend his time there dueling the way he would later. There wasn't much for him to chase in those fights.
 
-## A friend's priest during Zul'Gurub
+The guild was learning the game, talking, exploring and deciding what to try next. The long Durotar dueling years came later, after they left Altar of Storms.
 
-A different character changed that experience. During a **Zul'Gurub** run, a friend needed to do homework, and James took over playing the friend's priest. Eventually that priest became James's.
+## Why we went to Tichondrius
 
-He described discovering that healing and dispelling came naturally to him. He was reading what was happening in a fight, watching who needed attention, and acting as things changed.
+A lot of other Hawaii players were already on **Tichondrius**, playing **Alliance**. James and his guild thought it would be fun to transfer there and fight them.
 
-That memory matters in its own right. The priest wasn't a rogue, and the task wasn't simply winning a duel by dealing damage. There were teammates to keep alive, incoming decisions, and openings that could disappear while someone was explaining them.
+Those Hawaii players didn't end up playing as much as expected. But Tichondrius offered much more than that original reason for going. James remembers an enormous population and an almost constant supply of things happening. To him, it felt like one of the most populated servers ever.
 
-## Years in Durotar
+Over time the group felt like **Tich natives**. They had arrived looking for particular people, then found a whole server worth staying for.
 
-James spent years in **Durotar**, dueling and watching other players.
+This was also when the game started opening up beyond the basics. James remembers playing other characters only after the move to Tich, and he now places the group's raiding there rather than back on Altar of Storms.
 
-Durotar wasn't a single match with an ending. Players returned, practiced, experimented, met people, and watched one another get better. James remembers observing a lot of movement there, including players with different classes and different ways of getting through the same fights.
+## The priest and Zul'Gurub
 
-The guild eventually moved to **Tichondrius**, and the WoW world grew beyond one server. But Durotar remains one of the places James returns to when describing how he met people through play.
+During a **Zul'Gurub** run, a friend needed to do homework, and James took over playing the friend's priest. Eventually that priest became James's.
 
-## The arena years: RMP, partners, and moving between battlegroups
+He remembers healing and dispelling feeling natural. He was reading the fight as it developed—who needed attention, who was in danger, and when a teammate could keep moving.
 
-James moved further into competitive arena play. His main **RMP** team—rogue, mage, priest—was James and teammates from **Australia** and **Oregon**.
+That experience belonged to the Tichondrius period, not the initial learning stretch on Altar of Storms.
 
-He remembers these relationships as daily connections, not just names on an arena roster. He and the Australian teammate spent years doing two-versus-two practice in Durotar. In arena games James would call the flow as it unfolded, including when a team could reset or shift direction. The Australian teammate listened to those calls.
+## Blackrock: going where the good players were
 
-The team transferred between battlegroups while trying to reach **Gladiator** and **Rank 1**. James recalls returning to Tichondrius too. That meant a new competitive context each time, with opponents who could play very differently from those he knew.
+The next move was deliberate. While they were on Tich, James began noticing that many of the famous, very strong players were on **Blackrock**, which he remembers as being in the **same battlegroup**.
 
-One remembered fight was against **SK's RMP**. James describes choosing and aggressively controlling an opening, only for their rogue to die almost immediately. His way of remembering how fast he committed to the opening was:
+He wanted to see them in Durotar. His friends transferred too.
+
+On Blackrock, **Durotar** became the kind of place James later described spending years around: dueling, practicing, watching different classes and the ways strong players responded to one another. He and the Australian teammate would spend a long time playing two-versus-two there.
+
+Eventually many of those strong players moved back toward **Tichondrius**. The scene followed. That's why Blackrock and Tich can feel like the *same place* in James's memory: the people he recognized in Durotar were largely the same people, even when the server name changed.
+
+Blackrock and Tichondrius became the same moving community in his memory.
+
+## The arena years: RMP, partners, and battlegroups
+
+James moved deeper into competitive arenas. His main **RMP** team—rogue, mage, priest—included teammates from **Australia** and **Oregon**.
+
+They weren't just names on a roster. He practiced with them repeatedly; in matches, he called what was happening and when the team could shift or reset. The Australian teammate listened to those calls.
+
+They pursued **Gladiator** and **Rank 1** while moving through competitive battlegroups and encountering stronger opponents.
+
+One remembered fight was against **SK's RMP**. James describes committing to an opening extremely quickly, only for their rogue to die almost immediately. He recalled the speed of that decision this way:
 
 > I just saw the future GRABBED ON.
 
-The result was not a tidy heroic win. It was a real attempt, a sharp change in the fight, and another match he could still bring into conversation years later.
+## Reckful: following the movement behind the names
 
-## Reckful: watching another player move
+**Reckful (Byron)** was James's favorite player to observe. He called himself a *proud Reckful viewer*. Reckful played rogue; James played priest. He could still find a great deal to watch and learn in Reckful's movement.
 
-James told me **Reckful** was his favorite player to observe. He also called himself a *proud Reckful viewer*.
+James remembers the early server-transfer period as a time when the strongest players shifted between communities. He watched where people appeared, who else arrived, and which players everyone seemed interested in following.
 
-Reckful, Byron, played rogue. James was playing priest. That difference didn't stop James from finding things worth following in how Reckful moved, responded, and played. James remembered watching Byron in the Durotar years, well before the later discussions about him as a streamer.
+He noticed how much the competitive crowd seemed to move around Reckful. James remembers Reckful talking and moving through the competitive scene behind the scenes. He watched which players followed, even when they wouldn't admit it. He remembers Reckful's close friends being more open about that.
 
-During battlegroup transfers, James remembers encountering teams whose play seemed almost impossibly fast. At one point he told his rogue something like:
+He followed that movement for a long time. The server transfers weren't merely changes to an address on a character-selection screen. They also changed whom he could meet, duel, and watch in Durotar.
+
+In one set of especially fast arena matches, James remembers telling his rogue:
 
 > this is probably Reckful… they’re too fast
 
-And then came the description he returned to:
+And then there was another description of watching a group move at that level:
 
 > It's like they're all me.
 
-He didn't know for sure who he was facing; their speed was what made him think of Reckful.
+Reckful later streamed, and James kept watching, relating to parts of Byron's gaming life and learning from the way he played.
 
-Reckful later streamed, and James kept watching. He related to parts of Byron's gaming life and learned from his gameplay, even though they played different classes.
+## The people who made the places
 
-## The people across the games
+In Quake III, James remembered Darkness and Amok through how they played. Counter-Strike brought people into the same physical room. WoW carried friendships across Hawaii, Australia, Oregon, servers, and battlegroups.
 
-Back in Quake III, James had spoken about Darkness and Amok. He knew their handles and the way they played without necessarily knowing who they were offline; he hadn't even heard their voices in those earlier days, before voice chat became normal for him.
+Altar of Storms was where his group learned. Tichondrius was where the world opened up. Blackrock was where James went looking for particular players. When the same competitive crowd shifted back to Tich, he kept following them.
 
-Counter-Strike brought people into the same physical room. WoW brought other kinds of closeness: guild connections, long practice sessions, teammates in other countries and states, and players he followed without needing to know them personally.
-
-The games changed. The relationships in each game were not interchangeable. But returning to these memories in conversation made it possible to see where one period met another without flattening the people into examples.
+The names on the server list changed. The people and their movement were what made the places recognizable.
 
 [Part One — Childhood and the Early Internet](CHILDHOOD.md) · [Origin of the Investigation](ORIGIN.md)
