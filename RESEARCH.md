@@ -1,77 +1,50 @@
-## Research notebook
+# Research
 
-The object of study is often a system whose rules are **not available at the level where the work begins**.
+I usually begin with something I can observe but cannot yet describe accurately. I follow it through examples, conversation, mathematics, software, and tests until I can see which relationships hold and which ones I misunderstood.
 
-That may be a game returning frames, a program with inconsistent runtime behavior, an API that changes shape, a repository with competing versions, or an agent reporting success without performing the action. The first job is to recover enough of the native structure to ask a question that can actually fail.
+The wording can change along the way. So can the tools and the problem I thought I was working on. That does not mean every new description is a different investigation, or that everything I encounter belongs to one theory.
 
-### 01 / State before interpretation
+## Following the relationship
 
-An observation is not yet a rule. For a stateful environment, the useful evidence unit is:
+A single observation can be useful without being a complete explanation. What matters next is what happens when something changes: which relationships survive, which depend on the original conditions, and which were only assumptions.
 
-```text
-observed state  →  permitted action  →  returned state
-            prediction ↗      ↘ discrepancy
-```
+Sometimes I find the right words after working through several examples. Sometimes a program or mathematical model makes a distinction clear that I could not express in conversation. Sometimes a failed test shows that I was following the wrong relationship.
 
-The returned whole state is the witness. Features—hashes, counts, bounding boxes, source tags, summaries—can help find relations, but a convenient projection should not silently replace what the environment actually returned.
+I keep those corrections. Losing an explanation is not the same as losing everything learned while testing it.
 
-In the ARC investigations, this meant distinguishing a visual pattern from an earned action rule, then checking the rule under fresh replay and deliberately changed action histories.
+This is also why I do not want a convenient representation to take the place of the thing being studied. A frame, a summary, a state label, a hash, or a diagram can expose something useful. Each leaves something out.
 
-### 02 / Recovering unknown specifications
+## From observation to something testable
 
-A practical sequence:
+Different subjects demand different evidence.
 
-1. Identify the current referent and the controls available at its native interface.
-2. Separate observed, supplied and assumed conditions.
-3. Change one bounded relation and capture the returned whole state.
-4. Test whether the model predicts a second case, rather than merely describing the first.
-5. Preserve a breaking case. Narrow the model or move to the missing boundary.
+- In an interactive environment, I can record what was visible, what action was permitted, and what the environment actually returned.
+- In software, I can compare source, execution, resulting state, failures, and what the tests really exercised.
+- In mathematics, I have to name the domain and operations before a proof or counterexample means anything.
+- In language and communication, I can preserve what was said, what was understood, what was corrected, and what remains uncertain. That is not automatically a formal proof.
 
-A failed candidate that eliminates an interpretation is useful; a neat explanation that cannot predict anything is not.
+I can carry a useful way of looking between these subjects without declaring their structures identical. A relationship that works in one setting has to earn its place in another.
 
-### 03 / What transfers across unlike systems
+## Work that grew from this
 
-The same tracing discipline has been applied to interactive environments, code/runtimes, repository state, files and structured records, HTTP/API surfaces, and software interfaces.
+| Area | What I am examining | Where to inspect it |
+| --- | --- | --- |
+| **Language and observation** | How a continuing referent can be described, misunderstood, corrected, and followed across different expressions | [Language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) |
+| **Finite mathematics** | Defined transformations, correspondence, cycle structure, and what limited observations can or cannot distinguish | [Mathematical constructions](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |
+| **Interactive environments** | Recovering usable rules through native observations, actions, discrepancies, and replay | [ARC evidence](ARC_EVIDENCE.md) · [Saved routes and replay](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
+| **Processes and handoffs** | Carrying source identity, state, and verification across workers or unlike systems without silently inventing a completed action | [Process Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Selected cases](SELECTED_WORK.md) |
+| **Software construction** | Whether a working chain of components preserves its inputs, errors, and outputs all the way through | [Project inventory](showcase/PROJECT_INVENTORY.md) |
 
-The native structures are **not** declared equivalent. Transfer is earned at the relationship that can actually be tested. The underlying task may change from navigation to reconciliation, data transformation, automation, or controlled construction.
+These are different investigations with different limits. The links lead to implementations, dated observations, case records, and, where available, tests. They do not all establish the same kind of result.
 
-**Current construction question:** Can tested constraints and relations generate candidate environments that the same evaluator can inspect? Inverse-category expansion has evidence in the particular ARC investigations; a general world-construction operation remains a **mathematical proposal requiring its own tests**. No general maze-generation success is claimed here.
+## Evidence and unfinished work
 
-### 04 / Agents: claimed movement versus executed movement
+I distinguish an idea from a model, a model from a working implementation, a local test from independent verification, and a reported result from one that another person can reproduce.
 
-Agent output is easy to mistake for action. The record must distinguish:
+An unsuccessful run can narrow what is possible. An incomplete test leaves something unknown. A checkpoint can preserve where the work stopped without claiming that the larger question is settled.
 
-| Layer | Required distinction |
-| --- | --- |
-| Proposed | What did the model recommend? |
-| Authorized | Was that action within the allowed interface? |
-| Executed | Did a tool or environment actually perform it? |
-| Returned | What native state or artifact came back? |
-| Evaluated | What is supported, contradicted, or still unknown? |
+For any concrete result, the important record is what was used, what actually happened, how the outcome was checked, and where the evidence stops. The goal is to make it possible to return to the work without replacing it with a polished story.
 
-A recent local Qwen canary verified **one** model-proposed repository read inside an existing evaluator, including the returned file hash. It did not write code or finish the agent's queued tasks. [Case record](SELECTED_WORK.md#02--local-generative-agent-canary).
+The research is ongoing. A particular test or construction may reach a finished boundary while the relationship that led to it remains open to further observation.
 
-### 05 / Provenance without turning research into paperwork
-
-Keep the minimum information necessary to reconstruct what a result depended on: native source locator, earlier state, action or transformation, actual output, tests and failure records, and any unresolved conditions. The aim is replayable reasoning, not maximal logging.
-
-A summary is an index into evidence. It is not the evidence itself.
-
-### 06 / Finite-state conjugacy testing
-
-An inconclusive observation is not permission to change the mathematical question. On a declared 81-state invariant fiber, the first eight fixed-point observations of two restricted actions agree; the ninth separates their cycle structures. A distinct positive case verifies an intertwining bijection. Observation budgets that end too early preserve UNKNOWN, rather than implying equivalence.
-
-A checkpoint experiment reportedly serialized an unfinished comparison, restored it, and continued the original action without changing its domain or losing earlier observations. That tests the continuity *of a particular mathematical investigation*, not a general universal method.
-
-[Mathematical case and evidence limits](docs/FINITE_STATE_CONJUGACY.md)
-
-### Questions still open
-
-- Which state relations survive a change of representation?
-- How does an agent discover a dependency it cannot yet observe?
-- When can successful local rules be promoted beyond one environment?
-- What is the smallest interface that exposes autonomous failure clearly?
-- Can construction generate useful candidates without smuggling in their solution?
-- What data must survive when work crosses independent systems?
-
-[Selected investigations](SELECTED_WORK.md) · [Evidence status](PROVENANCE.md) · [Working method](docs/RESEARCH_METHOD.md)
+[Selected investigations](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md) · [Operational research notes](docs/RESEARCH_METHOD.md) · [Back to profile](README.md)
