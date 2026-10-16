@@ -3,6 +3,20 @@
 
 [← Writing](README.md) · [Origin of the Investigation](ORIGIN.md) · [Part Two: Reckful and WoW](CHILDHOOD_PART_TWO.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md)
 
+## Looking into the grass
+
+Before the memories of other people in these stories, James remembers going outside into his yard every day to look through the grass and along the ground.
+
+He would spend **hours** actively finding, capturing, and identifying whatever he could: lizards, slugs, Hawaiian blind snakes. He wasn't just passing through the yard. He went out to look for them.
+
+Of those creatures, he would only **hold the lizards**. Thinking back, he remembers that he could always catch them. He doesn't particularly want to catch them now, though. They're so delicate, and he sees that differently than he did as a kid.
+
+There's another practical difference between then and now, too. As James put it:
+
+> and also theres no lizards here lmao
+
+This is where James wanted to return before the other people started entering his memories: the yard, the grass, the ground, and all those little things he could spend an afternoon looking for.
+
 ## The diaries he wanted to fill
 
 When James was little, he collected diaries. He liked seeing how people thought from inside their own stories. He also had diaries of his own, although he remembers having trouble filling them.
