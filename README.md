@@ -8,7 +8,7 @@
 
 Exploring problems through software, mathematics, and experimentation. Some questions turn into working implementations. Others remain open.
 
-This is where I keep the work, the tests, and the evidence of what actually happened.
+This is where the work, tests, and the evidence of what actually happened is kept.
 
 [Research overview](RESEARCH.md) · [Research repository](https://github.com/huntingthereferent/autobots-assemble) · [Project inventory](showcase/PROJECT_INVENTORY.md) · [Writing](writing/README.md) · [Evidence](PROVENANCE.md)
 
