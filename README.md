@@ -23,6 +23,14 @@ This is generated from [the actual finite A/B implementation](https://github.com
 
 [**See the finite constructions and their limits →**](showcase/MATHEMATICS.md) · [**Follow the renderer source →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py)
 
+### Tracing until the paths meet
+
+[![Animated native A/B trace of two independently checked action sequences meeting at one finite state](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-receipt.json)
+
+This diagram wasn't drawn around a chosen destination. The finite search followed the original A/B actions and independently checked each step. It found that `BBAA` and `ABABB` arrive at the same state, `(2,2,1)`. That's one **observed mathematical meeting**, not a claim that unrelated public traces already share one center.
+
+[**Check the original paths →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-receipt.json) · [**Trace generator →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence.py) · [**One-or-two witness rule →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/convergence_focus.py)
+
 ## Before the repositories
 
 Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world. Later I spent years around Quake III and World of Warcraft, watching other players, learning the games, and meeting people I wanted to keep playing with.
