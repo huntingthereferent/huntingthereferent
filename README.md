@@ -4,7 +4,7 @@
 [![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
 [![Writing](https://img.shields.io/badge/WRITING-STORIES%20%26%20CONVERSATIONS-675A72?style=flat-square)](writing/README.md)
 
-[![A/B Continuity Atlas: six colored worlds connected through the human referent and source-linked observation](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
+[![A/B Continuity Atlas: James marked on ongoing movement, six colorful inquiry worlds, and an open human horizon](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
 
 [**Explore the Continuity Atlas →**](VISUAL_SYSTEM.md) · [**Open artwork full size**](assets/observational/continuity-loom.svg) · [**Follow the sources**](VISUAL_PROVENANCE.md)
 
