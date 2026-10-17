@@ -1,12 +1,10 @@
 # HUNTING THE REFERENT
 
-### [↗ ENTER THE LIVE SOURCE FIELD](https://huntingthereferent.github.io/autobots-assemble/live/)
+### [↗ SEE WHAT'S HAPPENING IN WORK](https://huntingthereferent.github.io/autobots-assemble/live/)
 
-**An observation starts the trace. Follow the relationships the source actually records.**
+**Source records first.** This browser view shows actual public workstation and research workflow runs, their recorded execution steps, the source commit that ran, and the result GitHub observed. Alongside the runs are original research checkpoints, experiments, preserved walls, and next movements where recorded. It doesn't turn a workflow pass into an unearned research conclusion.
 
-The interactive research field runs in the browser: choose an observed commit as root, follow native GitHub parent links, inspect exact CI run attachments, and read the original workstation research and preserved walls. Its graph and counts change when the underlying observed records change. The animated movement along existing links is replay, not a new event.
-
-[**OPEN THE LIVE FIELD →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**READ THE SOURCE →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/docs/live/index.html) · [**ORIGINAL RESEARCH RECORDS →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/research-live.json)
+[**OPEN WORK ACTIVITY →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**INSPECT WORK SOURCE →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/docs/live/work.html) · [**ORIGINAL WORKSTATION RECORDS →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/research-live.json) · [**OPTIONAL GRAPH EXPERIMENT →**](https://huntingthereferent.github.io/autobots-assemble/live/trace.html)
 
 ---
 
