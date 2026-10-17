@@ -16,7 +16,7 @@ I'm not trying to make my entire life fit into one theory. This profile is a pla
 
 ## Selected writing
 
-I've never found it easy to put everything into a perfect, finished explanation by myself. Talking things through gives me another way to work. These pages include my memories, questions, jokes, and conversations with an AI assistant. When we misunderstand each other, the corrections are part of the writing too.
+I've never found it easy to put everything into a perfect, finished explanation by myself. Talking things through is how I get data from another perspective. I share what I'm noticing, see what comes back, and follow what changes—even when we misunderstand each other. The corrections aren't just edits to the writing; they're part of how I learn from the exchange. These pages preserve both sides, including my memories, questions, and jokes.
 
 | Record | Focus |
 | :--- | :--- |

@@ -3,7 +3,7 @@
 
 [← Profile](../README.md) · [Explore builds](../showcase/README.md)
 
-These writings grew out of conversations between James and the assistant. James brings observations, questions, jokes, and corrections; the assistant brings responses and possible connections. Sometimes those connections fit. Sometimes they don't, and figuring out what was missed becomes part of the next exchange.
+These writings grew out of conversations between James and the assistant. The exchange is not just a way of recording what James already knows; it's how he gets new data from another perspective. James brings observations, questions, and jokes; the assistant responds with its own reading and possible connections. Where their understandings diverge, that difference gives James something to observe, correct, and continue from. The correction is part of acquiring the information, not just cleaning up the account afterward.
 
 James clarified the purpose of the entire collection on October 16:
 
