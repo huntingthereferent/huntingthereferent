@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="570" viewBox="0 0 820 570" role="img" aria-labelledby="title description">
+<title id="title">Five contexts connected by the A/B inquiry</title><desc id="description">Writing, games, mathematics, workstation and software as distinct source domains, not identical mathematical structures.</desc>
+<defs>
+<linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#122632"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#6ddacb"/><stop offset="1" stop-color="#a6a1e8"/></linearGradient>
+</defs>
+<rect width="820" height="570" fill="#0d1117"/>
+<rect x="10" y="10" width="800" height="550" rx="17" fill="url(#background)" stroke="#354a56" stroke-width="1.5"/>
+
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="35" y="47" fill="#f0f4f6" font-size="27" font-weight="700">Where I encounter the relationship</text>
+<rect x="35" y="80" width="750" height="74" rx="10" fill="#182936" stroke="#354955"/><rect x="48" y="95" width="5" height="43" rx="2" fill="#83dfcf"/><text x="67" y="112" fill="#83dfcf" font-size="21" font-weight="650">Writing</text><text x="67" y="137" fill="#c1cdd5" font-size="17">Another point of view; original words and corrections.</text>
+<rect x="35" y="168" width="750" height="74" rx="10" fill="#192431" stroke="#354955"/><rect x="48" y="183" width="5" height="43" rx="2" fill="#86b9e6"/><text x="67" y="200" fill="#86b9e6" font-size="21" font-weight="650">Games</text><text x="67" y="225" fill="#c1cdd5" font-size="17">Observation, action, changed state, and replay.</text>
+<rect x="35" y="256" width="750" height="74" rx="10" fill="#182936" stroke="#354955"/><rect x="48" y="271" width="5" height="43" rx="2" fill="#c9a8f2"/><text x="67" y="288" fill="#c9a8f2" font-size="21" font-weight="650">Mathematics</text><text x="67" y="313" fill="#c1cdd5" font-size="17">Defined operators, correspondences, counterexamples.</text>
+<rect x="35" y="344" width="750" height="74" rx="10" fill="#192431" stroke="#354955"/><rect x="48" y="359" width="5" height="43" rx="2" fill="#f2cd87"/><text x="67" y="376" fill="#f2cd87" font-size="21" font-weight="650">Workstation</text><text x="67" y="401" fill="#c1cdd5" font-size="17">Sources, independent lanes, handoffs, witnesses.</text>
+<rect x="35" y="432" width="750" height="74" rx="10" fill="#182936" stroke="#354955"/><rect x="48" y="447" width="5" height="43" rx="2" fill="#8ed5d7"/><text x="67" y="464" fill="#8ed5d7" font-size="21" font-weight="650">Software</text><text x="67" y="489" fill="#c1cdd5" font-size="17">Inputs, execution, failures, and tested outputs.</text>
+<text x="35" y="545" fill="#e9d39d" font-size="17">The inquiry continues. Each context keeps its own witness conditions.</text>
+</g>
+</svg>
