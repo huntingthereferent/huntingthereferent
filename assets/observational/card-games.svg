@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t04 d04">
+<title id="t04">GAME WORLDS — James Muneoka</title>
+<desc id="d04">Action · state · observation · replay. Project card linking to original source and evidence.</desc>
+<defs>
+<linearGradient id="bg04" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
+<linearGradient id="r04"><stop stop-color="#71AEFF"/><stop offset="1" stop-color="#58EDC7"/></linearGradient>
+<clipPath id="clip04"><rect width="570" height="220" rx="18"/></clipPath>
+<filter id="g04"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<g clip-path="url(#clip04)">
+<rect width="570" height="220" fill="url(#bg04)"/>
+<circle cx="468" cy="112" r="104" fill="#71AEFF" opacity=".08" filter="url(#g04)"/>
+<path d="M0 0H570V220H0Z" fill="none" stroke="#71AEFF" stroke-opacity=".42" stroke-width="2"/>
+<path d="M0 0H570" stroke="url(#r04)" stroke-width="5"/>
+<path d="M323 26V185" stroke="#71AEFF" stroke-opacity=".13"/>
+<g><g><rect x="363" y="62" width="21" height="21" rx="4" fill="#71AEFF" stroke="#71AEFF" stroke-opacity=".8"/><rect x="390" y="62" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="417" y="62" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="444" y="62" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="471" y="62" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="498" y="62" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="525" y="62" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="363" y="90" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="390" y="90" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="417" y="90" width="21" height="21" rx="4" fill="#71AEFF" stroke="#71AEFF" stroke-opacity=".8"/><rect x="444" y="90" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="471" y="90" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="498" y="90" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="525" y="90" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="363" y="118" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="390" y="118" width="21" height="21" rx="4" fill="#71AEFF" stroke="#71AEFF" stroke-opacity=".8"/><rect x="417" y="118" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="444" y="118" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="471" y="118" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><rect x="498" y="118" width="21" height="21" rx="4" fill="#58EDC7" stroke="#71AEFF" stroke-opacity=".8"/><rect x="525" y="118" width="21" height="21" rx="4" fill="#263455" stroke="#61749E" stroke-opacity=".2"/><path d="M387 174L414 147L440 169L468 126L517 150" stroke="#F8DE9E" stroke-width="2" fill="none" stroke-dasharray="3 7"/></g></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#71AEFF">04 / INTERACTIVE TESTS</text>
+<text x="27" y="93" font-size="27" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">GAME WORLDS</text>
+<text x="27" y="120" font-size="14" fill="#C7D7EE">Action · state · observation · replay</text>
+<path d="M27 170H294" stroke="#71AEFF" stroke-opacity=".38"/>
+<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">ROUTES + NEGATIVE CASES</text>
+<text x="542" y="194" text-anchor="end" font-size="23" fill="#71AEFF">↗</text>
+</g>
+</g>
+</svg>
