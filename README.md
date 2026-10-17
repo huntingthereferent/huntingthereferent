@@ -57,6 +57,14 @@ These observations have source IDs and timestamps. The GitHub–PyPI connection 
 
 [**Latest original observations →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) · [**Machine-readable snapshot →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/latest.json)
 
+## Public Internet observations
+
+[![World map showing source-observed network measurement sites, with country HTTP traffic only when licensed Cloudflare Radar data is connected](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/traces/internet-map.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md)
+
+This map is generated from real world geography and published RIPE Atlas network probes. **The dots show measuring locations, not individual packets or complete internet traffic.** Country-level Cloudflare HTTP request shares are a separate optional layer and remain explicitly marked *no source data* until a read-only token is configured. The original observations carry their own timestamps.
+
+[**All 60 candidate world traces →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/registry.json) · [**Map source and limits →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md) · [**Latest source snapshot →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.json)
+
 ## Follow the work
 
 | Inquiry | Where to start |
