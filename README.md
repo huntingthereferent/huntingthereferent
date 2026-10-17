@@ -4,57 +4,52 @@
 [![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
 [![Writing](https://img.shields.io/badge/WRITING-STORIES%20%26%20CONVERSATIONS-675A72?style=flat-square)](writing/README.md)
 
-**Independent research · Writing · AI-assisted software construction**
+**Independent research · Writing · AI-assisted software development**
 
-I've spent a lot of my life watching other people do things.
+Hi, I'm James.
 
-As a kid I made a GeoCities page for graffiti from around the world. I played Quake III, then World of Warcraft, and spent years following players whose movement caught my attention. Some of that was competition. A lot of it was just wanting to see what people could do, what others learned from them, and what happened next.
+I like learning how things work, and I don't always know where an interest will take me. I grew up exploring the outdoors, making things on the early internet, playing games, and meeting people through them. I've spent plenty of time reading, watching, trying things, and getting curious about something I hadn't even been looking for.
 
-I still do that. These days the subjects might be language, a conversation, a game, mathematics, or software. Sometimes I find a useful word for something I've been noticing. Sometimes I build something so I can test part of it. And sometimes I realize I was looking at it wrong.
+These days that curiosity takes me into language, mathematics, software, and questions about how people learn and understand one another. Some of it becomes code. Some of it becomes writing. Some of it is still just a conversation I want to keep having.
 
-## Keeping observations separate
+I'm not trying to make my entire life fit into one theory. This profile is a place for the different things I've worked on and the experiences that led me to them.
 
-One thing I keep coming back to is how easy it is to lose what somebody was actually talking about.
+## Writing
 
-If I point to a great player, I might be interested in the people who learned by watching them, not in making another ranking. If I point to the sky, I might be wondering about a changing physical environment, not claiming it behaves like a human conversation. And if I correct a sentence, the correction might be about where its explanation went—not about starting a completely new subject.
+I've never found it easy to put everything into a perfect, finished explanation by myself. Talking things through gives me another way to work. These pages include my memories, questions, jokes, and conversations with an AI assistant. When we misunderstand each other, the corrections are part of the writing too.
 
-Those are different places to observe. A world can be moving whether anyone is watching it or not. People can learn from what they watch. Two things can resemble each other without one having caused the other.
+- [Origin of the Investigation](writing/ORIGIN.md) — how the research and conversations got started.
+- [Childhood and the Early Internet](writing/CHILDHOOD.md) — exploring, GeoCities, Quake III, and the people I knew.
+- [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md) — friends, arenas, and the communities I followed.
+- [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md) — the words we found, missed, and corrected.
+- [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) — a more recent conversation about games, entertainment, language, and observational learning.
 
-I want to keep **what happened, what someone experienced, what we think connects, and what we can actually test** distinguishable. That doesn't stop me from making connections. It helps me notice when a connection fits—and when the words have wandered away from it.
+[Browse all the writing](writing/README.md) · [Original conversation quotations](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
+
+## Research and projects
+
+I use generative AI to help explore ideas, write software, and test particular questions. I direct what we're investigating, and I want to know what actually happened when a program runs—not just what an explanation says should happen.
+
+| Area | Explore |
+| --- | --- |
+| **[Research overview](RESEARCH.md)** | The questions, examples, and methods behind the work |
+| **[Process Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace)** | Workers, handoffs, source relationships, and verification |
+| **[Mathematical investigations](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze)** | Finite constructions, correspondence, tests, and counterexamples |
+| **[Interactive environments](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs)** | Working out game behavior through observations and replay |
+| **[Software and data projects](showcase/PROJECT_INVENTORY.md)** | Applications, data systems, services, and engineering experiments |
+
+A completed test is not the same as a finished project. The repositories keep both working results and unfinished attempts, with their evidence and limits available to inspect.
+
+## Observation and separation
+
+Something I saw, how I experienced it, what I think it means, and what another person can verify aren't automatically the same thing.
+
+I can notice a connection between different subjects without saying they're identical or that one caused the other. A conversation can help us find words for an observation without proving every explanation we come up with. And an AI can write a very convincing paragraph while still missing what I was talking about. That happens here often enough. :)
+
+I want the distinctions to stay clear, **without losing the relationships that made me interested in the first place**. That's what separation is useful for—not turning every interest into another category or every correction into a new theory.
 
 [Separations](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SEPARATIONS.md) · [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
-## The writing
-
-These pages are conversations and memories, not just explanations about me. Sometimes I joke. Sometimes I get frustrated. Sometimes the assistant puts my words into a tidy explanation that misses what I meant. We keep the corrections in, because that's part of what actually happened.
-
-- [Childhood and the Early Internet](writing/CHILDHOOD.md) — GeoCities, Quake III, friends, and the people I watched play.
-- [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md) — following people and communities as the servers changed.
-- [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) — games, observational learning, Bruce Lee, language, and the sky.
-- [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md) — talking things through, getting misunderstood, and finding the words again.
-
-[All the writing](writing/README.md) · [How the investigation began](writing/ORIGIN.md)
-
-## The things I'm building and testing
-
-Some questions stay in conversation. Others lead me into software, mathematics, and experiments. Those have their own rules for what counts as a result.
-
-- **[Research overview](RESEARCH.md)** — what I'm investigating and how the questions connect without becoming one claim.
-- **[Process Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace)** — workers, source relationships, handoffs, and verification.
-- **[Finite mathematical work](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze)** — constructed examples, limits, tests, and counterexamples.
-- **[Interactive environments](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs)** — game observations and replay experiments.
-- **[Software and data projects](showcase/PROJECT_INVENTORY.md)** — applications, services, data systems, and engineering work.
-
-## Working with AI
-
-I use generative AI to explore perspectives, talk through ideas, write code, and help make tests. I choose what to pursue and keep correcting things that don't match what I'm trying to examine.
-
-An assistant can sound convincing and still misunderstand me. A program can look finished without having crossed a real test boundary. I want both kinds of mistakes visible, along with whatever we actually learned from them.
-
-> mistakes is how you move not sure why humans keep forgeting that ...you learn that when your a baby
-
-[Research source](https://github.com/huntingthereferent/autobots-assemble) · [Selected work](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md)
-
 ---
 
-*Still learning, building, observing, and writing.*
+[Research source](https://github.com/huntingthereferent/autobots-assemble) · [Selected work](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md)
