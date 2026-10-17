@@ -15,7 +15,7 @@ One short expression can carry a longer relationship. James may trace that conne
 
 ## Writing records
 
-The sequence below is a reading index, not a ranking or a claim that these are peer-reviewed publications. Original wording and the assistant's interpretations remain separately attributable within the records.
+These records preserve firsthand accounts and two-sided conversations. James's wording, the assistant's interpretations, and later corrections remain separately attributable.
 
 | Record | Scope |
 | :--- | :--- |
