@@ -8,9 +8,9 @@
 
 The repository used to display separate visual summaries. This atlas gives those parts a shared *place* without pretending they have identical evidence or identical mathematical structure.
 
-**James is not where the movement branches from.** The weave runs into the image from before James, crosses his present position, and continues past it. The marker says **JAMES · HERE**: his position as a living observer, builder, participant and corrector. The six research regions are different areas of his work, not six people and not branches growing out of him.
+**James is not where the movement branches from.** The weave extends before and beyond him. In the updated layout, James is **out front at the right edge carrying a small torch**, while many other humans occupy the paths behind and throughout the same field. This follows his own description of working *for humans*. It is a metaphor for the direction of his participation, **not a claim that he is superior, that other people follow him, or that he originates humanity**.
 
-**People are throughout the image.** The human traces already extend across the same field, and the cluster labeled **HUMANS** is made of many individual points. James's stated direction is for humans, not toward a hypothetical single human or a universe occupied by James alone. The picture doesn't claim one person caused the others or that they share a proved physical mechanism.
+**People are throughout the image.** The many separate points and the cluster labeled **HUMANS** aren't part of James's body or branches from his identity. They already exist in the picture. The six research regions represent different layers of James's work, and the evidence for each remains distinct.
 
 The movement is drawn as an ongoing braided field, **not a genealogy or causal tree**. The colored regions are entrances, not containers:
 
@@ -67,6 +67,6 @@ For example, with `A(x)=x+1` and `B(x)=2x`, starting at `1` yields `A(B(1))=3` w
 
 The same inquiry can pass through a conversation, a game, a proof attempt, a workstation run, or a source-linked public measurement. Sometimes the connection holds. Sometimes the language makes it look like it holds, until another perspective or a test shows what was missing.
 
-The artwork leaves the different layers of James's work visually connected while surrounding them with other human presences. James isn't the origin of the movement, and humans aren't a future question mark. The repository keeps the evidence **epistemically separate** so the visual doesn't rewrite what actually happened.
+The artwork leaves the different layers of James's work visually connected while surrounding them with other human presences. James is shown out front because that is the position he described, with the torch as a personal symbol of responsibility to other people. It is not a measurable human ranking. James isn't the origin of the movement, and humans aren't a future question mark. The repository keeps the evidence **epistemically separate** so the visual doesn't rewrite what actually happened.
 
 [Return to James's profile](README.md) · [Explore the recorded paths](VISUAL_PROVENANCE.md)
