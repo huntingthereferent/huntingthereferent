@@ -57,13 +57,13 @@ I use AI to help explore descriptions, make programs, and prepare writing. It's 
 
 [**Language Referent →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Human Drift →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
-## Workstation: recorded movements and walls
+## Research continuity — movements and walls
 
-[![Animated display of recorded workstation MOVE, WALL, UNKNOWN and PARTIAL counts](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/workstation-motion.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/work_state.json)
+The workstation now shows the original research, not just its execution jobs. Mathematics, ARC experiments, CP checkpoint records, W12/W13 game witnesses, language corrections, software, tests and explicit unresolved walls remain distinct and traceable to their source files.
 
-The workstation copies worker source, keeps branches separate, and records bounded work through its own controls and journals. The numbers here come from [the committed work-state projection](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/work_state.json); they do **not** claim a live fleet of workers.
+The local read-only research view supports three ways to inspect the work: original structured observations, documented wall/movement sections, and the indexed source files themselves. A research document is never silently promoted into an executed worker event.
 
-[**Original workstation →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/WORKSTATION.md) · [**Worker source and versioning →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/workstation.py)
+[**Research-wide source observer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/research_observatory.py) · [**Workstation and local viewer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [**Source-bound movement and wall contracts →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/movement.md)
 
 ## Other sources, other relationships
 
