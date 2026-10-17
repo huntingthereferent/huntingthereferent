@@ -20,6 +20,7 @@ One short expression can carry a longer relationship. James may trace that conne
 | **[Childhood, Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Altar of Storms, the Horde move to Tichondrius, Blackrock, arenas and the people James followed in Durotar. |
 | **[Language and Observation — Keeping the Conversation Moving](LANGUAGE_AND_OBSERVATION.md)** | One connected account of compression/decompression, misunderstandings, Human Drift, reading, felt experience, corrections, learning and autonomy—through both participants' voices. |
 | **[Original conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Exact recorded words, with later additions dated and speaker attribution preserved. |
+| **[Watching What Continues — Observation, Games, and Language](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, and the language corrections that connected them. Selected direct quotes from both sides, with the assistant's interpretations kept separate. |
 | **[Research overview](../RESEARCH.md)** | An orientation to the technical inquiries, their relation to the writing, and their evidence boundaries. |
 | **[Research method](../docs/RESEARCH_METHOD.md)** | Checkable methods for specific investigations, separate from conversational interpretation. |
 | **[Evidence ledger](../PROVENANCE.md)** | Public artifacts, reported outcomes, independent reproduction, and remaining limits. |
