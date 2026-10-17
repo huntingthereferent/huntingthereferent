@@ -1,17 +1,25 @@
-# James Muneoka
+[![James Muneoka — living atlas: animated traces generated from original A/B math, public observations and work-state evidence](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/atlas-dashboard.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/atlas_dashboard.py)
+
+<p align="center">
+  <a href="#mathematics-that-actually-moves">MATHEMATICS</a> ·
+  <a href="#observation-language-and-corrections">LANGUAGE</a> ·
+  <a href="#workstation-recorded-movements-and-walls">WORKSTATION</a> ·
+  <a href="#public-internet-observations">WORLD TRACES</a> ·
+  <a href="#writing-and-the-people-in-it">WRITING</a>
+</p>
 
 [![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=48d6eb)](https://github.com/huntingthereferent/autobots-assemble)
 [![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=7aaafb)](showcase/MATHEMATICS.md)
 [![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=8a83df)](writing/README.md)
 [![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=9db4cb)](PROVENANCE.md)
 
-Hi, I'm James.
+**Hi, I'm James.**
 
 I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
 The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
 
-[**Research source →**](https://github.com/huntingthereferent/autobots-assemble) · [**Writing →**](writing/README.md) · [**Research overview →**](RESEARCH.md) · [**All projects →**](showcase/PROJECT_INVENTORY.md)
+[**Explore the atlas sources →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) · [**Research source →**](https://github.com/huntingthereferent/autobots-assemble) · [**Writing →**](writing/README.md) · [**Research overview →**](RESEARCH.md) · [**All projects →**](showcase/PROJECT_INVENTORY.md)
 
 ---
 
