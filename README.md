@@ -4,6 +4,10 @@
 [![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
 [![Writing](https://img.shields.io/badge/WRITING-STORIES%20%26%20CONVERSATIONS-675A72?style=flat-square)](writing/README.md)
 
+[![A/B — one inquiry across writing, games, mathematics, the workstation, and software](assets/observational/continuity.svg)](assets/observational/continuity.svg)
+
+[**Open the A/B visual full size**](assets/observational/continuity.svg) · [**Visual provenance and all source paths**](VISUAL_PROVENANCE.md)
+
 **Independent research · Writing · AI-assisted software development**
 
 Hi, I'm James.
@@ -13,6 +17,14 @@ I like learning how things work, and I don't always know where an interest will 
 These days that curiosity takes me into language, mathematics, software, and questions about how people learn and understand one another. Some of it becomes code. Some of it becomes writing. Some of it is still just a conversation I want to keep having.
 
 I'm not trying to make my entire life fit into one theory. This profile is a place for the different things I've worked on and the experiences that led me to them.
+
+## A/B — what connects the work
+
+I keep coming back to the relationships I notice, whether I'm talking to somebody, watching a game, following mathematics, or seeing what a program actually did. I've called that continuing inquiry A/B; the research also uses the name Language Referent. The subjects are different, but I can follow what changes, what survives, and what becomes possible next without losing where the observation came from.
+
+[![Five places I encounter the continuing relationship](assets/observational/contexts.svg)](assets/observational/contexts.svg)
+
+[**Follow every area back to its source →**](VISUAL_PROVENANCE.md)
 
 ## Selected writing
 
@@ -49,6 +61,10 @@ Something I saw, how I experienced it, what I think it means, and what another p
 I can notice a connection between different subjects without saying they're identical or that one caused the other. A conversation can help us find words for an observation without proving every explanation we come up with. And an AI can write a very convincing paragraph while still missing what I was talking about. That happens here often enough. :)
 
 I want the distinctions to stay clear, **without losing the relationships that made me interested in the first place**. That's what separation is useful for—not turning every interest into another category or every correction into a new theory.
+
+[![Notice, express, check, correct, continue](assets/observational/movement.svg)](assets/observational/movement.svg)
+
+[**See the visual evidence map and original records →**](VISUAL_PROVENANCE.md)
 
 [Separations](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SEPARATIONS.md) · [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
