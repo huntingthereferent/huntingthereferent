@@ -24,6 +24,14 @@ That is why the paths are together here. It does **not** mean a conversation, a 
 
 There are more projects than fit on the diagram. The [full inventory](showcase/PROJECT_INVENTORY.md) preserves them separately instead of making the visual look complete when it isn't.
 
+## Observations coming in from outside
+
+[![Source-linked public observations](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+[**Follow the current external sources, matching evidence and poll history**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+The software monitors real public observations using source-owned adapters already present in the public-data-monitor, then presents the results without inferring a shared cause between unrelated sources. The visual has its own collection timestamp and retains links to native source records. This is a separately generated data view; it does not convert personal observations or mathematics into external measurements.
+
 ## Moving through observations
 
 [![Noticing, expressing, checking, correcting, continuing](assets/observational/movement.svg)](assets/observational/movement.svg)
