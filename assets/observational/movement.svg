@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="324" viewBox="0 0 820 324" role="img" aria-labelledby="title description">
+<title id="title">Observation and correction through continuing relationships</title><desc id="description">Noticing, expressing, checking, correcting, continuing. Witness state and proof scope remain distinct in each context.</desc>
+<defs>
+<linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#122632"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#6ddacb"/><stop offset="1" stop-color="#a6a1e8"/></linearGradient>
+</defs>
+<rect width="820" height="324" fill="#0d1117"/>
+<rect x="10" y="10" width="800" height="304" rx="17" fill="url(#background)" stroke="#354a56" stroke-width="1.5"/>
+
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="31" y="47" fill="#f0f4f6" font-size="27" font-weight="700">How the relationship keeps moving</text>
+<text x="31" y="76" fill="#9fbdc4" font-size="17">A conversation, model, test, or counterexample can change the next step.</text>
+<rect x="31" y="104" width="146" height="94" rx="9" fill="#192c38" stroke="#527383"/><text x="104" y="141" text-anchor="middle" fill="#e4f2ef" font-size="17" font-weight="700">NOTICE</text><text x="104" y="169" text-anchor="middle" fill="#b6cad0" font-size="14">what happened</text><path d="M177 151h9" stroke="#86d2cb" stroke-width="3"/><rect x="189" y="104" width="146" height="94" rx="9" fill="#192c38" stroke="#527383"/><text x="262" y="141" text-anchor="middle" fill="#e4f2ef" font-size="17" font-weight="700">EXPRESS</text><text x="262" y="169" text-anchor="middle" fill="#b6cad0" font-size="14">what I meant</text><path d="M335 151h9" stroke="#86d2cb" stroke-width="3"/><rect x="347" y="104" width="146" height="94" rx="9" fill="#192c38" stroke="#527383"/><text x="420" y="141" text-anchor="middle" fill="#e4f2ef" font-size="17" font-weight="700">CHECK</text><text x="420" y="169" text-anchor="middle" fill="#b6cad0" font-size="14">what holds</text><path d="M493 151h9" stroke="#86d2cb" stroke-width="3"/><rect x="505" y="104" width="146" height="94" rx="9" fill="#192c38" stroke="#9b7e7b"/><text x="578" y="141" text-anchor="middle" fill="#e4f2ef" font-size="17" font-weight="700">CORRECT</text><text x="578" y="169" text-anchor="middle" fill="#b6cad0" font-size="14">what changed</text><path d="M651 151h9" stroke="#86d2cb" stroke-width="3"/><rect x="663" y="104" width="146" height="94" rx="9" fill="#192c38" stroke="#527383"/><text x="736" y="141" text-anchor="middle" fill="#e4f2ef" font-size="17" font-weight="700">CONTINUE</text><text x="736" y="169" text-anchor="middle" fill="#b6cad0" font-size="14">what follows</text>
+<path d="M740 204 Q740 247 405 246 Q69 245 69 207" stroke="#8da4e2" fill="none" stroke-width="2.5" stroke-dasharray="6 8"/>
+<path d="M64 212l5 -8 5 8" stroke="#8da4e2" fill="none" stroke-width="2"/>
+<text x="31" y="278" fill="#e7d2a2" font-size="16">A proposed connection is not a proved connection.</text>
+<text x="31" y="299" fill="#bbc9d2" font-size="15">Every result keeps a link back to its own words, source, tests, and limits.</text>
+</g>
+</svg>
