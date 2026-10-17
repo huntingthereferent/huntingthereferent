@@ -1,26 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t06 d06">
-<title id="t06">WRITING &amp; OBSERVATION — James Muneoka</title>
-<desc id="d06">Other people · conversation · what changed. Project card linking to original source and evidence.</desc>
-<defs>
-<linearGradient id="bg06" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
-<linearGradient id="r06"><stop stop-color="#F17EC7"/><stop offset="1" stop-color="#C19FFF"/></linearGradient>
-<clipPath id="clip06"><rect width="570" height="220" rx="18"/></clipPath>
-<filter id="g06"><feGaussianBlur stdDeviation="11"/></filter>
-</defs>
-<g clip-path="url(#clip06)">
-<rect width="570" height="220" fill="url(#bg06)"/>
-<circle cx="468" cy="112" r="104" fill="#F17EC7" opacity=".08" filter="url(#g06)"/>
-<path d="M0 0H570V220H0Z" fill="none" stroke="#F17EC7" stroke-opacity=".42" stroke-width="2"/>
-<path d="M0 0H570" stroke="url(#r06)" stroke-width="5"/>
-<path d="M323 26V185" stroke="#F17EC7" stroke-opacity=".13"/>
-<g><g fill="none" stroke-width="2.2"><path d="M361 75Q405 46 449 86T540 88" stroke="#F17EC7"/><path d="M361 133Q417 170 452 122T541 130" stroke="#C19FFF"/><path d="M405 67Q435 112 454 123" stroke="#FFF" opacity=".6" stroke-dasharray="3 6"/></g><g fill="#F17EC7"><circle cx="361" cy="75" r="5"/><circle cx="449" cy="86" r="5"/><circle cx="540" cy="88" r="5"/></g><g fill="#C19FFF"><circle cx="361" cy="133" r="5"/><circle cx="452" cy="122" r="5"/><circle cx="541" cy="130" r="5"/></g></g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#F17EC7">06 / HUMAN RECORD</text>
-<text x="27" y="93" font-size="24" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">WRITING &amp; OBSERVATION</text>
-<text x="27" y="120" font-size="14" fill="#C7D7EE">Other people · conversation · what changed</text>
-<path d="M27 170H294" stroke="#F17EC7" stroke-opacity=".38"/>
-<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">ORIGINAL WORDS + BOTH SIDES</text>
-<text x="542" y="194" text-anchor="end" font-size="23" fill="#F17EC7">↗</text>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="205" viewBox="0 0 570 205" role="img" aria-labelledby="title desc">
+<title id="title">NOTES & OBSERVATIONS</title><desc id="desc">Experience, conversation & records</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1123"/><stop offset="1" stop-color="#170E29"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#FF43B7"/><stop offset="1" stop-color="#AC84FF"/></linearGradient>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6"/></filter></defs>
+<rect width="570" height="205" rx="12" fill="url(#bg)"/>
+<rect x="1" y="1" width="568" height="203" rx="11" stroke="#FF43B7" stroke-opacity=".66" fill="none" stroke-width="1.4"/>
+<rect x="1" y="1" width="568" height="5" rx="2" fill="url(#line)"/>
+<path d="M305 27V174" stroke="#FF43B7" stroke-opacity=".18" stroke-dasharray="3 8"/>
+<g opacity=".35" filter="url(#glow)" fill="none" stroke-width="10" stroke-linecap="round"><path d="M332 75C370 30 433 125 467 74S522 40 556 80" stroke="#FF43B7" stroke-width="3"/><path d="M332 142C380 185 435 90 480 147S525 174 556 138" stroke="#AC84FF" stroke-width="3"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M332 75C370 30 433 125 467 74S522 40 556 80" stroke="#FF43B7" stroke-width="3"/><path d="M332 142C380 185 435 90 480 147S525 174 556 138" stroke="#AC84FF" stroke-width="3"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="26" y="40" font-size="13" fill="#FF43B7" letter-spacing="2.2" font-weight="700">06 / WRITING</text>
+<text x="25" y="95" font-size="27" font-weight="750" letter-spacing="-.45" fill="#F5F9FF">NOTES &amp; OBSERVATIONS</text>
+<text x="27" y="123" font-size="15.5" fill="#C9DAF2">Experience, conversation &amp; records</text>
+<path d="M26 164H292" stroke="#FF43B7" opacity=".75" stroke-width="1"/>
+<text x="27" y="183" font-size="11.5" fill="#A9BDDA" letter-spacing="1.2">OPEN SOURCE RECORD</text>
+<text x="539" y="185" text-anchor="end" font-size="24" fill="#AC84FF">↗</text>
+</g></svg>
