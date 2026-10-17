@@ -8,9 +8,11 @@
 
 The repository used to display separate visual summaries. This atlas gives those parts a shared *place* without pretending they have identical evidence or identical mathematical structure.
 
-James is marked as the **living human referent in this investigation**: the person still here to change direction, correct an explanation, and bring another observation. That does not make the person a mathematical origin point, a completed model, or the subject of every project.
+**James is not where the movement branches from.** The weave runs into the image from before James, crosses his present position, and continues past it. The marker says **JAMES · HERE**: the living human referent for this ongoing conversation, observing and correcting while he is present. The six research regions belong to the investigation, not to a tree growing out of him.
 
-The colored regions are entrances, not containers:
+At the other side, **HUMAN?** is deliberately unfinished. James uses *humanity's actual start* to describe something he wants to be present to see. The artwork preserves that as his open question and hope; it is not a claim that biological humanity has not yet begun, or that a particular future is guaranteed.
+
+The movement is drawn as an ongoing braided field, **not a genealogy or causal tree**. The colored regions are entrances, not containers:
 
 | Region | Follow it |
 | --- | --- |
@@ -65,6 +67,6 @@ For example, with `A(x)=x+1` and `B(x)=2x`, starting at `1` yields `A(B(1))=3` w
 
 The same inquiry can pass through a conversation, a game, a proof attempt, a workstation run, or a source-linked public measurement. Sometimes the connection holds. Sometimes the language makes it look like it holds, until another perspective or a test shows what was missing.
 
-The artwork leaves them visually connected so you can move between them. The repository keeps them **epistemically separate** so the visual doesn't rewrite what actually happened.
+The artwork leaves them visually connected so you can move between them. James's marker is a present position within this exploration, not a generator of branches. The open HUMAN? horizon names what he says he is waiting to witness, without presenting it as an established event. The repository keeps the evidence **epistemically separate** so the visual doesn't rewrite what actually happened.
 
 [Return to James's profile](README.md) · [Explore the recorded paths](VISUAL_PROVENANCE.md)
