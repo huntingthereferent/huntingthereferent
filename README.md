@@ -4,9 +4,9 @@
 [![Method](https://img.shields.io/badge/METHOD-AI--ASSISTED-43546A?style=flat-square)](PROVENANCE.md)
 [![Writing](https://img.shields.io/badge/WRITING-STORIES%20%26%20CONVERSATIONS-675A72?style=flat-square)](writing/README.md)
 
-[![A/B — one inquiry across writing, games, mathematics, the workstation, and software](assets/observational/continuity.svg)](assets/observational/continuity.svg)
+[![A/B Continuity Atlas: six colored worlds connected through the human referent and source-linked observation](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
 
-[**Open the A/B visual full size**](assets/observational/continuity.svg) · [**Visual provenance and all source paths**](VISUAL_PROVENANCE.md)
+[**Explore the Continuity Atlas →**](VISUAL_SYSTEM.md) · [**Open artwork full size**](assets/observational/continuity-loom.svg) · [**Follow the sources**](VISUAL_PROVENANCE.md)
 
 **Independent research · Writing · AI-assisted software development**
 
@@ -22,17 +22,15 @@ I'm not trying to make my entire life fit into one theory. This profile is a pla
 
 I keep coming back to the relationships I notice, whether I'm talking to somebody, watching a game, following mathematics, or seeing what a program actually did. I've called that continuing inquiry A/B; the research also uses the name Language Referent. The subjects are different, but I can follow what changes, what survives, and what becomes possible next without losing where the observation came from.
 
-[![Five places I encounter the continuing relationship](assets/observational/contexts.svg)](assets/observational/contexts.svg)
+[![A/B movement key: A, B, traces to examine, and divergence](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
 
-[**Follow every area back to its source →**](VISUAL_PROVENANCE.md)
+The [atlas](VISUAL_SYSTEM.md) connects the places I investigate; the [visual provenance guide](VISUAL_PROVENANCE.md) leads back to the individual sources. A visual path isn't automatically a proven equivalence.
 
 ## Observations from outside the repository
 
-[![World data through continuity — source-linked public observation](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+[**Explore the source-linked public observations →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
 
-[**Open the observation, sources and history →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
-
-This read-only view refreshes from public sources through the existing multi-source data monitor. It keeps their identities and timestamps separate, and shows only relationships supported by the original source-specific checks. The timestamp in the image tells you when it was last collected.
+Public data enters as separate, timestamped source lanes at the edge of the [Continuity Atlas](VISUAL_SYSTEM.md). Seismology, GitHub activity, and other feeds are observations to examine, not the defining subject of my research. The existing read-only monitor links each result to its original sources; its data view is separate from the mathematical and personal records.
 
 ## Selected writing
 
