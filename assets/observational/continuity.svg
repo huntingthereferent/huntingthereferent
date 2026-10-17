@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-labelledby="title description">
+<title id="title">A/B: one continuing investigation across writing, games, mathematics, and software</title><desc id="description">Editorial cover for James Muneoka's research profile. A/B is an inquiry across subjects with separate evidence requirements.</desc>
+<defs>
+<linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#122632"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#6ddacb"/><stop offset="1" stop-color="#a6a1e8"/></linearGradient>
+</defs>
+<rect width="820" height="310" fill="#0d1117"/>
+<rect x="10" y="10" width="800" height="290" rx="17" fill="url(#background)" stroke="#354a56" stroke-width="1.5"/>
+
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="38" y="48" fill="#83dfcf" font-size="16" letter-spacing="3">JAMES MUNEOKA / RESEARCH &amp; OBSERVATION</text>
+<text x="37" y="157" fill="#f0f4f6" font-size="97" font-weight="700">A/B</text>
+<path d="M245 115 C296 59 336 189 391 116 S484 69 543 113 S655 168 772 108" stroke="url(#line)" stroke-width="4" fill="none" stroke-linecap="round"/>
+<circle cx="245" cy="115" r="7" fill="#7cddd0"/><circle cx="391" cy="116" r="7" fill="#9edec8"/><circle cx="543" cy="113" r="7" fill="#b3a5e5"/><circle cx="772" cy="108" r="7" fill="#80cfdf"/>
+<text x="38" y="198" fill="#ecf2f6" font-size="26" font-weight="650">One inquiry. Many encounters.</text>
+<text x="38" y="223" fill="#b0c0ca" font-size="16">The relationship is followed; the evidence stays with its source.</text>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="15">
+<rect x="38" y="247" width="132" height="34" rx="17" stroke="#48766e" fill="#18332e"/><text x="104" y="269" fill="#d4eee9" text-anchor="middle">Writing</text>
+<rect x="179" y="247" width="121" height="34" rx="17" stroke="#5a6b8d" fill="#1c293f"/><text x="239" y="269" fill="#d9e3ff" text-anchor="middle">Games</text>
+<rect x="309" y="247" width="154" height="34" rx="17" stroke="#71648f" fill="#2c2541"/><text x="386" y="269" fill="#e5d8ff" text-anchor="middle">Mathematics</text>
+<rect x="472" y="247" width="162" height="34" rx="17" stroke="#80724f" fill="#302c1c"/><text x="553" y="269" fill="#f0e5be" text-anchor="middle">Workstation</text>
+<rect x="643" y="247" width="138" height="34" rx="17" stroke="#486b82" fill="#192f3c"/><text x="712" y="269" fill="#cfe5f5" text-anchor="middle">Software</text>
+</g>
+</svg>
