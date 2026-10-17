@@ -1,26 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t01 d01">
-<title id="t01">LANGUAGE REFERENT — James Muneoka</title>
-<desc id="d01">Words · disagreement · correction. Project card linking to original source and evidence.</desc>
-<defs>
-<linearGradient id="bg01" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
-<linearGradient id="r01"><stop stop-color="#48E9D6"/><stop offset="1" stop-color="#66AFFF"/></linearGradient>
-<clipPath id="clip01"><rect width="570" height="220" rx="18"/></clipPath>
-<filter id="g01"><feGaussianBlur stdDeviation="11"/></filter>
-</defs>
-<g clip-path="url(#clip01)">
-<rect width="570" height="220" fill="url(#bg01)"/>
-<circle cx="468" cy="112" r="104" fill="#48E9D6" opacity=".08" filter="url(#g01)"/>
-<path d="M0 0H570V220H0Z" fill="none" stroke="#48E9D6" stroke-opacity=".42" stroke-width="2"/>
-<path d="M0 0H570" stroke="url(#r01)" stroke-width="5"/>
-<path d="M323 26V185" stroke="#48E9D6" stroke-opacity=".13"/>
-<g><g fill="none" stroke-width="2.3" stroke-linecap="round"><path d="M352 96Q399 45 451 94T559 99" stroke="#48E9D6"/><path d="M350 119Q395 170 451 116T562 115" stroke="#66AFFF"/><path d="M381 80L409 128L444 87L477 130L509 88" stroke="#EDF6FF" opacity=".45" stroke-dasharray="3 9"/></g><g fill="#48E9D6"><circle cx="381" cy="80" r="5"/><circle cx="444" cy="87" r="5"/><circle cx="509" cy="88" r="5"/></g><g fill="#66AFFF"><circle cx="409" cy="128" r="4"/><circle cx="477" cy="130" r="4"/></g></g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#48E9D6">01 / CONTINUING INQUIRY</text>
-<text x="27" y="93" font-size="27" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">LANGUAGE REFERENT</text>
-<text x="27" y="120" font-size="14" fill="#C7D7EE">Words · disagreement · correction</text>
-<path d="M27 170H294" stroke="#48E9D6" stroke-opacity=".38"/>
-<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">RESEARCH + ORIGINAL WORDS</text>
-<text x="542" y="194" text-anchor="end" font-size="23" fill="#48E9D6">↗</text>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="205" viewBox="0 0 570 205" role="img" aria-labelledby="title desc">
+<title id="title">LANGUAGE REFERENT</title><desc id="desc">Language, context & correction</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1123"/><stop offset="1" stop-color="#170E29"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#00F5FF"/><stop offset="1" stop-color="#65FFD7"/></linearGradient>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6"/></filter></defs>
+<rect width="570" height="205" rx="12" fill="url(#bg)"/>
+<rect x="1" y="1" width="568" height="203" rx="11" stroke="#00F5FF" stroke-opacity=".66" fill="none" stroke-width="1.4"/>
+<rect x="1" y="1" width="568" height="5" rx="2" fill="url(#line)"/>
+<path d="M305 27V174" stroke="#00F5FF" stroke-opacity=".18" stroke-dasharray="3 8"/>
+<g opacity=".35" filter="url(#glow)" fill="none" stroke-width="10" stroke-linecap="round"><path d="M337 87L382 126L432 69L482 120L541 73" stroke="#00F5FF" stroke-width="3"/><path d="M342 147L403 111L458 144L533 105" stroke="#65FFD7" stroke-width="2.5"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M337 87L382 126L432 69L482 120L541 73" stroke="#00F5FF" stroke-width="3"/><path d="M342 147L403 111L458 144L533 105" stroke="#65FFD7" stroke-width="2.5"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="26" y="40" font-size="13" fill="#00F5FF" letter-spacing="2.2" font-weight="700">01 / RESEARCH</text>
+<text x="25" y="95" font-size="27" font-weight="750" letter-spacing="-.45" fill="#F5F9FF">LANGUAGE REFERENT</text>
+<text x="27" y="123" font-size="15.5" fill="#C9DAF2">Language, context &amp; correction</text>
+<path d="M26 164H292" stroke="#00F5FF" opacity=".75" stroke-width="1"/>
+<text x="27" y="183" font-size="11.5" fill="#A9BDDA" letter-spacing="1.2">OPEN SOURCE RECORD</text>
+<text x="539" y="185" text-anchor="end" font-size="24" fill="#65FFD7">↗</text>
+</g></svg>
