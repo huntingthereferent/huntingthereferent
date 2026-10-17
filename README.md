@@ -14,17 +14,19 @@ These days that curiosity takes me into language, mathematics, software, and que
 
 I'm not trying to make my entire life fit into one theory. This profile is a place for the different things I've worked on and the experiences that led me to them.
 
-## Writing
+## Selected writing
 
 I've never found it easy to put everything into a perfect, finished explanation by myself. Talking things through gives me another way to work. These pages include my memories, questions, jokes, and conversations with an AI assistant. When we misunderstand each other, the corrections are part of the writing too.
 
-- [Origin of the Investigation](writing/ORIGIN.md) — Early questions about relationships, learning and income, generative AI as another perspective, and the move into mathematics and software.
-- [Childhood and the Early Internet](writing/CHILDHOOD.md) — Nature, diaries, online graffiti, Quake III rail duels, identity and recognition, and Honolulu's gaming spaces.
-- [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md) — Guild and server migrations, priest healing, Durotar duels, RMP arenas, competitive influences, and Reckful.
-- [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md) — Compressed language, human drift, reading other perspectives, felt responses to words, regrounding, and silence over time.
-- [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) — Observational learning, gaming styles across generations, influence through entertainment, independent movements, and the limits of language.
+| Record | Focus |
+| :--- | :--- |
+| **01 · [Origin of the Investigation](writing/ORIGIN.md)** | **Origins and questions** — Relationships, learning, income, generative AI as another perspective, and the move into mathematics and software. |
+| **02 · [Childhood and the Early Internet](writing/CHILDHOOD.md)** | **Early observations** — Nature, diaries, online graffiti, Quake III rail duels, identity, and recognition. |
+| **03 · [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md)** | **Learning through others** — Guilds, server moves, priest healing, arenas, competitive influences, and Reckful. |
+| **04 · [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md)** | **Language and experience** — Compression, Human Drift, felt responses while reading, regrounding, and silence over time. |
+| **05 · [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)** | **Observation and influence** — Gaming across generations, entertainment, independent movements, and the limits of words. |
 
-[Browse all the writing](writing/README.md) · [Original conversation quotations](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
+**Archive:** [Complete writing index](writing/README.md) · [Original conversation quotations](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
 
 ## Research and projects
 

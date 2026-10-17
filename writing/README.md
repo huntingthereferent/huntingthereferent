@@ -13,18 +13,27 @@ James also said that when he tries to write this out alone, he often ends up del
 
 One short expression can carry a longer relationship. James may trace that connection live while the assistant needs it unfolded; sometimes the assistant's reading fits, and sometimes James corrects it. The [communication writing](LANGUAGE_AND_OBSERVATION.md) follows both sides. The [original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) keep the spoken wording intact.
 
-| Writing | What the conversation follows |
+## Writing records
+
+The sequence below is a reading index, not a ranking or a claim that these are peer-reviewed publications. Original wording and the assistant's interpretations remain separately attributable within the records.
+
+| Record | Scope |
 | :--- | :--- |
-| **[Origin of the Investigation](ORIGIN.md)** | How an existing question became communicable through dialogue, and how learning, income, mathematics, and AI-assisted construction entered the conversation without becoming the same question. |
-| **[Childhood and the Early Internet](CHILDHOOD.md)** | James's memories of diaries, GeoCities, Quake III, Darkness and Amok, and the shift from online games to playing alongside other people. |
-| **[Childhood, Part Two — Reckful and World of Warcraft](CHILDHOOD_PART_TWO.md)** | Altar of Storms, the Horde move to Tichondrius, Blackrock, arenas and the people James followed in Durotar. |
-| **[Language and Observation — Keeping the Conversation Moving](LANGUAGE_AND_OBSERVATION.md)** | One connected account of compression/decompression, misunderstandings, Human Drift, reading, felt experience, corrections, learning and autonomy—through both participants' voices. |
-| **[Original conversation quotes](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Exact recorded words, with later additions dated and speaker attribution preserved. |
-| **[Watching What Continues — Observation, Games, and Language](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, and the language corrections that connected them. Selected direct quotes from both sides, with the assistant's interpretations kept separate. |
-| **[Research overview](../RESEARCH.md)** | An orientation to the technical inquiries, their relation to the writing, and their evidence boundaries. |
-| **[Research method](../docs/RESEARCH_METHOD.md)** | Checkable methods for specific investigations, separate from conversational interpretation. |
-| **[Evidence ledger](../PROVENANCE.md)** | Public artifacts, reported outcomes, independent reproduction, and remaining limits. |
-| **[ARC case records](../SELECTED_WORK.md)** | Bounded technical observations and the claims their evidence supports. |
+| **01 · [Origin of the Investigation](ORIGIN.md)** | How the initial questions became communicable through dialogue; relationships, learning, income, mathematics, and AI-assisted construction. |
+| **02 · [Childhood and the Early Internet](CHILDHOOD.md)** | Diaries, GeoCities, Quake III, Darkness and Amok, and the experience of encountering other people through games. |
+| **03 · [World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md)** | Altar of Storms, Tichondrius, Blackrock, healing, arenas, Durotar, and the players James watched. |
+| **04 · [Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | A two-sided account of compression, reading, felt experience, misunderstanding, Human Drift, correction, and silence. |
+| **05 · [Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, observational learning, and the limits of language. |
+| **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Verbatim recorded words, dates, and speaker attribution; later observations do not replace earlier wording. |
+
+## Research and supporting records
+
+| Reference | Purpose |
+| :--- | :--- |
+| [Research overview](../RESEARCH.md) | Orientation to technical inquiries and how their evidence relates to the writing. |
+| [Research method](../docs/RESEARCH_METHOD.md) | Reproducible methods for particular investigations, separate from conversational interpretation. |
+| [Evidence and provenance](../PROVENANCE.md) | Public artifacts, reported outcomes, independent reproduction, and unresolved limitations. |
+| [Selected technical work](../SELECTED_WORK.md) | Specific mathematical and software observations, tests, and evidentiary boundaries. |
 
 <details>
 <summary><strong>Related technical and historical records</strong></summary>
