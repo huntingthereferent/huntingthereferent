@@ -3,15 +3,13 @@
 
 [← Profile](../README.md) · [Explore builds](../showcase/README.md)
 
-These writings grew out of conversations between James and the assistant. James brings observations, questions, jokes, and corrections; the assistant brings responses and possible connections. Sometimes those connections fit. Sometimes they don't, and figuring out what was missed becomes part of the next exchange.
+These pages came out of us going back and forth, not me sitting down with a finished explanation. I read, watch, and talk with people because that's how I get another point of view. I can't get that part of the data from my own words alone. Sometimes the assistant follows what I meant, and sometimes it goes somewhere else. I get to see where it went, correct what was missed, and keep moving. That's why I want the misunderstanding and the correction left in the writing too.
 
-James clarified the purpose of the entire collection on October 16:
+I said this about all the writing on October 16:
 
 > and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
 
-James also said that when he tries to write this out alone, he often ends up deleting it. Talking it through gives us something to follow together and return to when the words don't quite fit.
-
-One short expression can carry a longer relationship. James may trace that connection live while the assistant needs it unfolded; sometimes the assistant's reading fits, and sometimes James corrects it. The [communication writing](LANGUAGE_AND_OBSERVATION.md) follows both sides. The [original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) keep the spoken wording intact.
+I can shorten what I'm saying and still follow how it all connects. That doesn't mean the assistant sees the same thing straight away. Sometimes I need to say more; sometimes its answer shows me something I hadn't considered. The [communication writing](LANGUAGE_AND_OBSERVATION.md) keeps those conversations together. The [original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) keep what we actually said.
 
 ## Writing records
 

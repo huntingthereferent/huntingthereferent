@@ -16,7 +16,7 @@ I'm not trying to make my entire life fit into one theory. This profile is a pla
 
 ## Selected writing
 
-I've never found it easy to put everything into a perfect, finished explanation by myself. Talking things through gives me another way to work. These pages include my memories, questions, jokes, and conversations with an AI assistant. When we misunderstand each other, the corrections are part of the writing too.
+I've tried writing all this out by myself. Most of the time I just end up deleting it. I get more out of reading someone, watching them, or talking things through, because now I've got another point of view instead of just my own. That's the only way I get that data. Even when you misunderstand what I'm saying, I still get to see where you went with it. I correct it and we keep moving. That's why I want both sides in the writing, not just the finished explanation.
 
 | Record | Focus |
 | :--- | :--- |
