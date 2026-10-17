@@ -1,41 +1,36 @@
-# A/B Continuity Atlas
+# Visual connections — people, observation, and research
 
 [← Profile](README.md) · [Visual provenance](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
 
-[![The Continuity Atlas](assets/observational/continuity-loom.svg)](assets/observational/continuity-loom.svg)
+[![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
-**[Open the full-size artwork](assets/observational/continuity-loom.svg)** · [Source and evidence index](PROVENANCE.md)
+**[View the connected visual](assets/observational/people-and-work.svg)** · [Source and evidence index](PROVENANCE.md)
 
-The repository used to display separate visual summaries. This atlas gives those parts a shared *place* without pretending they have identical evidence or identical mathematical structure.
+## What the image is for
 
-**James is not where the movement branches from.** The weave extends before and beyond him. In the updated layout, James appears within the same field as the other people, carrying a small light as a personal visual motif. He describes being *for humans*, including the people he shares everyday life with. Neither that feeling nor the symbol establishes a human hierarchy.
+This is a small navigational picture, not a model of James or a map of who matters more than whom. People, games, reading, conversation and work were present in James's life before these repositories existed. Some of the experiences became questions, and some questions became code or mathematics. The visual doesn't say that one thing caused everything else.
 
-**People are throughout the image.** The many separate points and the cluster labeled **HUMANS** aren't part of James's body or branches from his identity. They already exist in the picture. The six research regions represent different layers of James's work, and the evidence for each remains distinct.
+James is part of the experiences he describes. He has a life outside the research. When his own experience is the thing being observed, that does not turn him into a character, a general law, or an explanation of everyone else.
 
-The movement is drawn as an ongoing braided field, **not a genealogy or causal tree**. The colored regions are entrances, not containers:
+## Places to enter
 
-| Region | Follow it |
+| Subject | Original records |
 | --- | --- |
-| **Writing** | [Conversations and corrections](writing/README.md), [origin](writing/ORIGIN.md) |
-| **Games** | [Interactive evidence](ARC_EVIDENCE.md), [native runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
-| **Mathematics** | [Finite-state investigations](showcase/MATHEMATICS.md), [conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |
-| **Workstation** | [Worker system](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace), [handoff contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) |
-| **World observation** | [Read-only public data view](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) |
-| **Provenance** | [Sources, tests, and limits](PROVENANCE.md), [visual evidence guide](VISUAL_PROVENANCE.md) |
+| **People and childhood** | [Childhood and early internet](writing/CHILDHOOD.md) · [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md) |
+| **Conversation and correction** | [Language and observation](writing/LANGUAGE_AND_OBSERVATION.md) · [Writing index](writing/README.md) |
+| **Language Referent** | [Research source](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) |
+| **Finite mathematics** | [Constructed examples](showcase/MATHEMATICS.md) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |
+| **Games and replay** | [ARC evidence](ARC_EVIDENCE.md) · [Native runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
+| **Workstation and software** | [Handoffs and verification](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Project inventory](showcase/PROJECT_INVENTORY.md) |
+| **World observations** | [External data with timestamps](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) |
 
-The outer world-data marks depict *source lanes*, not any claimed common cause. Seismology is one possible observed subject, not the center or identity of the repo. The existing public-data monitor is linked above; the artwork does **not** claim that a new Prometheus or Grafana deployment has been built.
+## What color does — and doesn't — mean
 
-## The movement key
+Cyan, magenta, violet and lime distinguish paths and subjects. A drawn connection indicates something James has considered or wants to examine; it does not establish causality, equivalence, or a shared mechanism. In particular, a relationship between human experiences is not automatically a formally defined A/B operation.
 
-[![A/B atlas movement legend](assets/observational/continuity-legend.svg)](assets/observational/continuity-legend.svg)
+Earlier research graphics used a separate A/B legend. It remains available as an [illustration of mathematical movement and correspondence](assets/observational/continuity-legend.svg), with meaning only inside the models where the operators have actually been defined.
 
-- **Cyan and magenta** distinguish A and B movement *inside a model in which those operations are actually defined*. In other contexts they are recurring visual language for examining movement; they are not automatically mathematical functions on people, prose, or public data.
-- **Dotted gold** means a correspondence worth tracing. It is **not** an assertion that the domains are equivalent.
-- **Diverging endpoints** mean two paths produced different results **when the specific model and starting state have been stated**. A near-miss drawn artistically is not itself a proof.
-- **Fine orbital and connecting threads** make the atlas navigable; their presence is not an evidence or causality claim.
-- **Incoming source paths** keep their own origins and timestamps. Data from GitHub or a public observation feed should remain separately attributable.
-
-## Mathematics behind one part of the image
+## A mathematical case within the work
 
 For a *particular finite world* `i`, let its states be `S_i`, with defined operations
 
@@ -61,12 +56,10 @@ A(B(s))  ?=  B(A(s))
 
 For example, with `A(x)=x+1` and `B(x)=2x`, starting at `1` yields `A(B(1))=3` while `B(A(1))=4`. The two paths genuinely split. In the [finite experiments](showcase/MATHEMATICS.md), actual claims belong to their declared state spaces, implementations, tests and counterexamples.
 
-**The atlas illustrates these questions. It does not prove that any two arbitrary regions satisfy the equations.** Research findings are linked to their own sources.
+**These equations describe specific defined models, not people or the whole visual.** Claims about actual systems belong to their own sources, tests and counterexamples.
 
-## Why it is here
+## Historical visual draft
 
-The same inquiry can pass through a conversation, a game, a proof attempt, a workstation run, or a source-linked public measurement. Sometimes the connection holds. Sometimes the language makes it look like it holds, until another perspective or a test shows what was missing.
+The [earlier A/B Continuity Atlas](assets/observational/continuity-loom.svg) is retained in the repo as a record of a previous design attempt. Its personal symbolism and placement are **not** the current representation of James. The current visual above keeps people and activities together without depicting anyone as the origin, endpoint, or leader of everyone else.
 
-The artwork leaves the different layers of James's work visually connected while surrounding them with other human presences. James is part of the same living human context throughout. The light is a motif, not evidence of leadership, rank, or separation. James isn't the origin of the movement, and humans aren't a future question mark. The repository keeps the evidence **epistemically separate** so the visual doesn't rewrite what actually happened.
-
-[Return to James's profile](README.md) · [Explore the recorded paths](VISUAL_PROVENANCE.md)
+[Return to profile](README.md) · [Visual provenance](VISUAL_PROVENANCE.md) · [Evidence](PROVENANCE.md)
