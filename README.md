@@ -1,4 +1,14 @@
-[![James Muneoka — living atlas: animated traces generated from original A/B math, public observations and work-state evidence](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/atlas-dashboard.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/atlas_dashboard.py)
+# HUNTING THE REFERENT
+
+### [↗ ENTER THE LIVE SOURCE FIELD](https://huntingthereferent.github.io/autobots-assemble/live/)
+
+**An observation starts the trace. Follow the relationships the source actually records.**
+
+The interactive research field runs in the browser: choose an observed commit as root, follow native GitHub parent links, inspect exact CI run attachments, and read the original workstation research and preserved walls. Its graph and counts change when the underlying observed records change. The animated movement along existing links is replay, not a new event.
+
+[**OPEN THE LIVE FIELD →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**READ THE SOURCE →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/docs/live/index.html) · [**ORIGINAL RESEARCH RECORDS →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/research-live.json)
+
+---
 
 <p align="center">
   <a href="#mathematics-that-actually-moves">MATHEMATICS</a> ·
@@ -19,7 +29,7 @@ I like being with my family, being outside, playing games, and learning what oth
 
 The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
 
-[**Explore the atlas sources →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) · [**Research source →**](https://github.com/huntingthereferent/autobots-assemble) · [**Writing →**](writing/README.md) · [**Research overview →**](RESEARCH.md) · [**All projects →**](showcase/PROJECT_INVENTORY.md)
+[**Live movement →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**Research source →**](https://github.com/huntingthereferent/autobots-assemble) · [**Writing →**](writing/README.md) · [**Research overview →**](RESEARCH.md) · [**All projects →**](showcase/PROJECT_INVENTORY.md)
 
 ---
 
