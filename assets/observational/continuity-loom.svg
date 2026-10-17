@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
 <title id="title">A/B Continuity Atlas — James within an ongoing movement</title>
-<desc id="desc">An illuminated continuous mathematical weave extends into the view from the left and continues past James, who is marked on the weave as a current human observer rather than a central origin. Six colorful inquiry worlds are connected by exploratory traces across the moving field. Multiple connected human presences are spread across the entire ongoing field and a larger group labeled HUMANS appears on the right. James is one participant, represented across the work, not a solitary source or predecessor of other humans. Source relationships retain their own evidence requirements.</desc>
+<desc id="desc">An illuminated continuous mathematical weave extends across the image. James is marked near its leading right edge holding a stylized torch, with many other human presences behind and throughout the same field; he is a participant, not the cause of humanity or the flow. Six colorful inquiry worlds are connected by exploratory traces across the moving field. Multiple connected human presences are spread across the entire ongoing field and a larger group labeled HUMANS appears on the right. James is one participant, represented across the work, not a solitary source or predecessor of other humans. Source relationships retain their own evidence requirements.</desc>
 <defs>
  <radialGradient id="bg"><stop stop-color="#10254D"/><stop offset=".65" stop-color="#09152E"/><stop offset="1" stop-color="#060B19"/></radialGradient>
  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#46F3E6"/><stop offset=".5" stop-color="#7EA9FF"/><stop offset="1" stop-color="#F878DC"/></linearGradient>
@@ -19,7 +19,7 @@
 <rect x="14" y="14" width="1252" height="732" rx="22" fill="none" stroke="#607AB2" stroke-opacity=".32" stroke-width="1.5"/>
 <path d="M 40 104H1242" stroke="url(#spectrum)" opacity=".48"/>
 <text x="47" y="56" class="head" fill="#EEF5FF">A/B <tspan fill="#7EA9FF">/</tspan> CONTINUITY ATLAS</text>
-<text x="50" y="85" class="tiny">ONGOING MOVEMENT · MANY PEOPLE · JAMES WORKS WITHIN IT</text>
+<text x="50" y="85" class="tiny">ONGOING MOVEMENT · MANY PEOPLE · JAMES IS OUT FRONT FOR HUMANS</text>
 <g><path d="M -15 334 C 105 229 190 419 292 319 S 465 226 545 338 S 720 427 810 314 S 985 249 1082 342 S 1210 358 1300 304" stroke="#46F3E6" stroke-width="2.2" opacity="0.4" fill="none"/><path d="M -15 341 C 105 252 190 410 292 326 S 465 233 545 345 S 720 434 810 321 S 985 256 1082 349 S 1210 365 1300 311" stroke="#F878DC" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 348 C 105 275 190 401 292 333 S 465 240 545 352 S 720 441 810 328 S 985 263 1082 356 S 1210 372 1300 318" stroke="#46F3E6" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 355 C 105 250 190 440 292 340 S 465 247 545 359 S 720 448 810 335 S 985 270 1082 363 S 1210 379 1300 325" stroke="#F878DC" stroke-width="1.2" opacity="0.4" fill="none"/><path d="M -15 362 C 105 273 190 431 292 347 S 465 254 545 366 S 720 455 810 342 S 985 277 1082 370 S 1210 386 1300 332" stroke="#46F3E6" stroke-width="2.2" opacity="0.18" fill="none"/><path d="M -15 369 C 105 296 190 422 292 354 S 465 261 545 373 S 720 462 810 349 S 985 284 1082 377 S 1210 393 1300 339" stroke="#F878DC" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 376 C 105 271 190 461 292 361 S 465 268 545 380 S 720 469 810 356 S 985 291 1082 384 S 1210 400 1300 346" stroke="#46F3E6" stroke-width="1.2" opacity="0.4" fill="none"/><path d="M -15 383 C 105 294 190 452 292 368 S 465 275 545 387 S 720 476 810 363 S 985 298 1082 391 S 1210 407 1300 353" stroke="#F878DC" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 390 C 105 317 190 443 292 375 S 465 282 545 394 S 720 483 810 370 S 985 305 1082 398 S 1210 414 1300 360" stroke="#46F3E6" stroke-width="2.2" opacity="0.18" fill="none"/><path d="M -15 397 C 105 292 190 482 292 382 S 465 289 545 401 S 720 490 810 377 S 985 312 1082 405 S 1210 421 1300 367" stroke="#F878DC" stroke-width="1.2" opacity="0.4" fill="none"/><path d="M -15 404 C 105 315 190 473 292 389 S 465 296 545 408 S 720 497 810 384 S 985 319 1082 412 S 1210 428 1300 374" stroke="#46F3E6" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 411 C 105 338 190 464 292 396 S 465 303 545 415 S 720 504 810 391 S 985 326 1082 419 S 1210 435 1300 381" stroke="#F878DC" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 418 C 105 313 190 503 292 403 S 465 310 545 422 S 720 511 810 398 S 985 333 1082 426 S 1210 442 1300 388" stroke="#46F3E6" stroke-width="2.2" opacity="0.4" fill="none"/><path d="M -15 425 C 105 336 190 494 292 410 S 465 317 545 429 S 720 518 810 405 S 985 340 1082 433 S 1210 449 1300 395" stroke="#F878DC" stroke-width="1.2" opacity="0.18" fill="none"/><path d="M -15 432 C 105 359 190 485 292 417 S 465 324 545 436 S 720 525 810 412 S 985 347 1082 440 S 1210 456 1300 402" stroke="#46F3E6" stroke-width="1.2" opacity="0.18" fill="none"/></g>
 <g><path d="M 227 268 Q 163 326 215 368" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="215" cy="368" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/><path d="M 636 259 Q 700 326 648 368" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="648" cy="368" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/><path d="M 1006 269 Q 942 326 994 368" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="994" cy="368" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/><path d="M 239 519 Q 303 472 251 441" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="251" cy="441" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/><path d="M 661 517 Q 597 472 649 441" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="649" cy="441" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/><path d="M 998 519 Q 1062 472 1010 441" stroke="#F4CC80" stroke-width="1.4" stroke-opacity=".64" stroke-dasharray="2 8" fill="none"/><circle cx="1010" cy="441" r="3.6" stroke="#F4CC80" stroke-width="1.4" fill="#081329"/></g>
 <g><g>
@@ -97,17 +97,20 @@
  <text x="88" y="492" class="tiny" text-anchor="middle" fill="#BDCADF">BEFORE JAMES</text>
  <text x="90" y="511" class="detail" text-anchor="middle">already moving</text>
 </g>
-<g>
+<g id="james-torchbearer" transform="translate(570 0)">
  <circle cx="548" cy="401" r="51" fill="#F4CC80" opacity=".1" filter="url(#soft)"/>
  <circle cx="548" cy="401" r="19" fill="#0D1B37" stroke="#F4CC80" stroke-width="1.5"/>
  <circle cx="548" cy="401" r="7" fill="#F4CC80"/>
  <circle cx="548" cy="401" r="3" fill="#FFFFFF"/>
+ <path d="M 540 374 L 540 385 M 556 374 L 556 385" fill="none" stroke="#FFDD9E" stroke-width="1.5"/>
+ <path d="M 548 354 C 535 365 545 369 548 374 C 563 370 564 359 553 351 C 554 359 547 359 548 354 Z" fill="#FFAB61" stroke="#F4CC80" stroke-width="1.2"/>
+ <path d="M 550 361 C 547 366 548 369 550 370 C 555 366 552 363 550 361 Z" fill="#FFF5C5"/>
  <path d="M548 419V467" stroke="#F4CC80" stroke-width="1.5" stroke-dasharray="3 6"/>
  <rect x="445" y="468" width="206" height="56" rx="13" fill="#162746" stroke="#D3B572" stroke-opacity=".85"/>
  <text x="548" y="490" text-anchor="middle" class="human" fill="#F4CC80">JAMES · HERE</text>
- <text x="548" y="510" text-anchor="middle" class="detail">observing / correcting</text>
+ <text x="548" y="510" text-anchor="middle" class="detail">torchbearer · for humans</text>
 </g>
-<g id="human-presences">
+<g id="human-presences" transform="translate(-545 0)">
  <ellipse cx="1142" cy="414" rx="100" ry="93" stroke="#E6BDFC" stroke-opacity=".34" stroke-dasharray="2 12" fill="#A06FE0" fill-opacity=".045"/>
  <text x="1144" y="310" text-anchor="middle" class="human" fill="#F6DDA4">HUMANS</text>
  <text x="1144" y="328" text-anchor="middle" class="detail">already here · with others</text>
@@ -135,7 +138,7 @@
  <circle cx="1240" cy="396" r="5" fill="#D5B6FF" stroke="#E9F1FF" stroke-opacity=".38" stroke-width=".8"/>
  <circle cx="1059" cy="370" r="3.5" fill="#F4CC80" stroke="#E9F1FF" stroke-opacity=".38" stroke-width=".8"/>
  <circle cx="1028" cy="444" r="3.5" fill="#D5B6FF" stroke="#E9F1FF" stroke-opacity=".38" stroke-width=".8"/>
- <text x="1144" y="533" text-anchor="middle" class="tiny">NOT ONE PERSON ALONE</text>
+ <text x="1144" y="533" text-anchor="middle" class="tiny">MANY PEOPLE · SAME WORLD</text>
 </g>
 <path d="M45 690H1236" stroke="#6582B0" stroke-opacity=".36"/>
 <g font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#BDD0E9" letter-spacing=".6">
