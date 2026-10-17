@@ -23,7 +23,7 @@ These records preserve firsthand accounts and two-sided conversations. James's w
 | **02 · [Childhood and the Early Internet](CHILDHOOD.md)** | Diaries, GeoCities, Quake III, Darkness and Amok, and the experience of encountering other people through games. |
 | **03 · [World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md)** | Altar of Storms, Tichondrius, Blackrock, healing, arenas, Durotar, and the players James watched. |
 | **04 · [Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | A two-sided account of compression, reading, felt experience, misunderstanding, Human Drift, correction, and silence. |
-| **05 · [Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, observational learning, and the limits of language. |
+| **05 · [Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, observational learning, and the limits of language. |
 | **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Verbatim recorded words, dates, and speaker attribution; later observations do not replace earlier wording. |
 
 ## Research and supporting records
