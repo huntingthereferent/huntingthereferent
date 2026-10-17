@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="ht hd">
+<title id="ht">James Muneoka — research, systems, writing, people</title>
+<desc id="hd">Editorial research profile banner. Layers of cyan, violet, coral, and golden paths run horizontally through the composition. Human presences appear as a constellation connected along the paths, rather than as branches from James. Large readable text introduces James and six areas of public work.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1633"/><stop offset=".52" stop-color="#101632"/><stop offset="1" stop-color="#080F21"/></linearGradient>
+ <linearGradient id="rail" x1="0" y1="0" x2="1" y2=".6"><stop stop-color="#51E8D5"/><stop offset=".4" stop-color="#6BAAFF"/><stop offset=".7" stop-color="#C29AFF"/><stop offset="1" stop-color="#FEAA76"/></linearGradient>
+ <filter id="blur" x="-30%" y="-70%" width="180%" height="240%"><feGaussianBlur stdDeviation="12"/></filter>
+ <style>
+  .font{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .meta{font-size:12px;fill:#B5C7E5;letter-spacing:2.5px}
+  .small{font-size:15px;fill:#C8D9F4}
+  .tiny{font-size:11px;fill:#C3D5EE;letter-spacing:1.1px}
+ </style>
+</defs>
+<rect width="1200" height="370" fill="url(#bg)"/>
+<g opacity=".10" stroke="#84A2D1" stroke-width=".7"><path d="M0 0V370"/><path d="M46 0V370"/><path d="M92 0V370"/><path d="M138 0V370"/><path d="M184 0V370"/><path d="M230 0V370"/><path d="M276 0V370"/><path d="M322 0V370"/><path d="M368 0V370"/><path d="M414 0V370"/><path d="M460 0V370"/><path d="M506 0V370"/><path d="M552 0V370"/><path d="M598 0V370"/><path d="M644 0V370"/><path d="M690 0V370"/><path d="M736 0V370"/><path d="M782 0V370"/><path d="M828 0V370"/><path d="M874 0V370"/><path d="M920 0V370"/><path d="M966 0V370"/><path d="M1012 0V370"/><path d="M1058 0V370"/><path d="M1104 0V370"/><path d="M1150 0V370"/><path d="M1196 0V370"/><path d="M1242 0V370"/><path d="M0 0H1200"/><path d="M0 46H1200"/><path d="M0 92H1200"/><path d="M0 138H1200"/><path d="M0 184H1200"/><path d="M0 230H1200"/><path d="M0 276H1200"/><path d="M0 322H1200"/><path d="M0 368H1200"/></g>
+<rect x="13" y="13" width="1174" height="344" rx="18" fill="none" stroke="#5774AE" stroke-opacity=".5" stroke-width="1.6"/>
+<g transform="translate(596 0)">
+<g filter="url(#blur)" opacity=".35">
+<path d="M0 183C120 44 199 312 347 180S515 58 630 172" stroke="#51E8D5" stroke-width="8" fill="none"/>
+<path d="M0 218C143 341 228 92 355 218S516 328 630 206" stroke="#CF83F8" stroke-width="8" fill="none"/>
+</g>
+<path d="M-12 182C112 65 209 299 347 178S508 87 631 179" stroke="#58E7D9" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<path d="M-12 220C137 330 224 90 355 222S510 304 632 206" stroke="#D794FB" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<path d="M-12 200C175 204 276 200 631 200" stroke="#F3CC7B" stroke-width="1.2" stroke-dasharray="4 9" opacity=".85" fill="none"/>
+<g stroke="#D9E7FF" stroke-opacity=".28" fill="none">
+<ellipse cx="163" cy="196" rx="90" ry="41" transform="rotate(-25 163 196)"/>
+<ellipse cx="341" cy="200" rx="117" ry="52" transform="rotate(23 341 200)"/>
+<ellipse cx="499" cy="196" rx="97" ry="37" transform="rotate(-13 499 196)"/>
+</g>
+<g stroke="#F1DAAD" stroke-opacity=".7">
+<path d="M97 140L147 199L184 152L246 236L305 190L366 233L414 148L483 199L548 171" fill="none" stroke-dasharray="3 7"/>
+</g>
+<circle cx="97" cy="140" r="6.8" fill="#51E8D5" opacity=".18"/><circle cx="97" cy="140" r="2.8" fill="#51E8D5"/><circle cx="147" cy="199" r="6.8" fill="#D794FB" opacity=".18"/><circle cx="147" cy="199" r="2.8" fill="#D794FB"/><circle cx="184" cy="152" r="6.8" fill="#D6EFFF" opacity=".18"/><circle cx="184" cy="152" r="2.8" fill="#D6EFFF"/><circle cx="246" cy="236" r="6.8" fill="#FCAB7D" opacity=".18"/><circle cx="246" cy="236" r="2.8" fill="#FCAB7D"/><circle cx="305" cy="190" r="6.8" fill="#D9E9FF" opacity=".18"/><circle cx="305" cy="190" r="2.8" fill="#D9E9FF"/><circle cx="366" cy="233" r="6.8" fill="#51E8D5" opacity=".18"/><circle cx="366" cy="233" r="2.8" fill="#51E8D5"/><circle cx="414" cy="148" r="6.8" fill="#F0D189" opacity=".18"/><circle cx="414" cy="148" r="2.8" fill="#F0D189"/><circle cx="483" cy="199" r="6.8" fill="#D794FB" opacity=".18"/><circle cx="483" cy="199" r="2.8" fill="#D794FB"/><circle cx="548" cy="171" r="6.8" fill="#9FD6FF" opacity=".18"/><circle cx="548" cy="171" r="2.8" fill="#9FD6FF"/>
+<g class="font tiny" text-anchor="middle"><text x="170" y="71" fill="#80E5D9">LANGUAGE</text><text x="364" y="74" fill="#D49BFF">MATHEMATICS</text><text x="529" y="75" fill="#F9CB87">SYSTEMS</text><text x="320" y="330" fill="#B9D8FB">PEOPLE · EVIDENCE · CORRECTION</text></g>
+</g>
+<g class="font">
+<rect x="38" y="37" width="228" height="26" rx="13" fill="#162F42" stroke="#54D8C2" stroke-opacity=".55"/>
+<text x="152" y="55" text-anchor="middle" fill="#8AF3D8" font-size="11.5" letter-spacing="2">INDEPENDENT RESEARCH</text>
+<text x="38" y="124" fill="#FFFFFF" font-size="58" letter-spacing="-2" font-weight="750">JAMES</text>
+<text x="38" y="185" fill="#FFFFFF" font-size="58" letter-spacing="-2" font-weight="750">MUNEOKA<tspan fill="#55E9DC">.</tspan></text>
+<text x="40" y="225" class="small">Language · Mathematics · Software</text>
+<text x="40" y="250" class="small">Human observation · AI-assisted builds</text>
+<path d="M40 280H471" stroke="url(#rail)" stroke-width="2.7"/>
+<text x="40" y="311" class="meta">MANY SUBJECTS. ORIGINAL RECORDS.</text>
+<text x="40" y="334" class="meta">ONE PERSON STILL INVESTIGATING.</text>
+</g>
+</svg>
