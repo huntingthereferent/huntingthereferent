@@ -45,13 +45,13 @@ The [complete project inventory](showcase/PROJECT_INVENTORY.md) includes educati
 
 ## One inquiry, many layers
 
-[![Connected A/B Continuity Atlas with human presences across the mathematical field](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
+[![A/B Continuity Atlas: James out front carrying a torch, with many people across the same continuing field](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
 
 [**Explore the full atlas and movement key →**](VISUAL_SYSTEM.md) · [**Follow original sources →**](VISUAL_PROVENANCE.md)
 
 I call the continuing inquiry **Language Referent**; A/B is its earlier name and still names operations inside some finite mathematical models. I can notice relationships across contexts without claiming that the contexts are identical or that one mathematical result proves another.
 
-The paths in the artwork are a way to move between subjects. **They do not make James the origin of humanity or of the movement.** Other people are already part of the picture. The mathematics gets its meaning from the specific world and evidence it belongs to.
+The paths in the artwork are a way to move between subjects. The torchbearer position is how I describe moving **for humans**—not a ranking above anyone. **The artwork does not make me the origin of humanity or of the movement.** Other people are already part of the picture. The mathematics gets its meaning from the specific world and evidence it belongs to.
 
 ## Writing and people
 
