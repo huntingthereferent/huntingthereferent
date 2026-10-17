@@ -33,9 +33,9 @@ The repositories contain completed experiments, unfinished investigations, and p
 
 ## Beyond the code
 
-I also write about communication, learning, observation, and the experiences that led me into this work.
+I also write about communication, learning, observation, and the experiences that led me into this work. The writing keeps both sides of conversations visible, including the moments when an explanation misses what was being observed.
 
-[Read the writing](writing/README.md) · [How the investigation began](writing/ORIGIN.md)
+[Read the writing](writing/README.md) · [How the investigation began](writing/ORIGIN.md) · [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
 
 ---
 
