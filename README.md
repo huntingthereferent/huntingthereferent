@@ -26,6 +26,14 @@ I keep coming back to the relationships I notice, whether I'm talking to somebod
 
 [**Follow every area back to its source →**](VISUAL_PROVENANCE.md)
 
+## Observations from outside the repository
+
+[![World data through continuity — source-linked public observation](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+[**Open the observation, sources and history →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+This read-only view refreshes from public sources through the existing multi-source data monitor. It keeps their identities and timestamps separate, and shows only relationships supported by the original source-specific checks. The timestamp in the image tells you when it was last collected.
+
 ## Selected writing
 
 I've tried writing all this out by myself. Most of the time I just end up deleting it. I get more out of reading someone, watching them, or talking things through, because now I've got another point of view instead of just my own. That's the only way I get that data. Even when you misunderstand what I'm saying, I still get to see where you went with it. I correct it and we keep moving. That's why I want both sides in the writing, not just the finished explanation.
