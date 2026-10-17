@@ -77,8 +77,8 @@
   <circle cx="672" cy="610" r="35" fill="#FFAC7D" opacity=".075"/>
   <circle cx="672" cy="610" r="7.5" fill="#FFAC7D" filter="url(#glowSoft)"/>
   <circle cx="672" cy="610" r="3.4" fill="#FFFFFF"/>
-  <text x="672" y="723" class="world-label" text-anchor="middle" fill="#FFAC7D">WORLD OBSERVATION</text>
-  <text x="672" y="745" class="world-sub" text-anchor="middle">public sources · time</text>
+  <text x="672" y="698" class="world-label" text-anchor="middle" fill="#FFAC7D">WORLD OBSERVATION</text>
+  <text x="672" y="716" class="world-sub" text-anchor="middle">public sources · time</text>
   </g><g>
   <circle cx="253" cy="538" r="104" fill="#87E9B0" opacity=".075" filter="url(#glowLarge)"/>
   <circle cx="253" cy="538" r="88" fill="none" stroke="#87E9B0" stroke-opacity=".17" stroke-width="1" stroke-dasharray="2 10"/>
