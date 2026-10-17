@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t03 d03">
+<title id="t03">PROCESS WORKSTATION — James Muneoka</title>
+<desc id="d03">Workers · handoffs · native checks. Project card linking to original source and evidence.</desc>
+<defs>
+<linearGradient id="bg03" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
+<linearGradient id="r03"><stop stop-color="#F5C576"/><stop offset="1" stop-color="#FF8B88"/></linearGradient>
+<clipPath id="clip03"><rect width="570" height="220" rx="18"/></clipPath>
+<filter id="g03"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<g clip-path="url(#clip03)">
+<rect width="570" height="220" fill="url(#bg03)"/>
+<circle cx="468" cy="112" r="104" fill="#F5C576" opacity=".08" filter="url(#g03)"/>
+<path d="M0 0H570V220H0Z" fill="none" stroke="#F5C576" stroke-opacity=".42" stroke-width="2"/>
+<path d="M0 0H570" stroke="url(#r03)" stroke-width="5"/>
+<path d="M323 26V185" stroke="#F5C576" stroke-opacity=".13"/>
+<g><g stroke-width="2" fill="none"><path d="M351 77H402V69H478V79H548" stroke="#FF8B88" opacity=".84"/><path d="M351 104H411V93H489V103H548" stroke="#F5C576" opacity=".84"/><path d="M351 131H420V117H500V127H548" stroke="#FF8B88" opacity=".84"/><path d="M351 158H429V141H511V151H548" stroke="#F5C576" opacity=".84"/></g><circle cx="379" cy="77" r="4" fill="#F5C576"/><circle cx="428" cy="104" r="4" fill="#F5C576"/><circle cx="489" cy="130" r="4" fill="#F5C576"/><circle cx="526" cy="158" r="4" fill="#F5C576"/></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#F5C576">03 / ACTIVE SYSTEM</text>
+<text x="27" y="93" font-size="27" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">PROCESS WORKSTATION</text>
+<text x="27" y="120" font-size="14" fill="#C7D7EE">Workers · handoffs · native checks</text>
+<path d="M27 170H294" stroke="#F5C576" stroke-opacity=".38"/>
+<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">SOURCE + EXECUTION RECORDS</text>
+<text x="542" y="194" text-anchor="end" font-size="23" fill="#F5C576">↗</text>
+</g>
+</g>
+</svg>
