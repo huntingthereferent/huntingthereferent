@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t01 d01">
+<title id="t01">LANGUAGE REFERENT — James Muneoka</title>
+<desc id="d01">Words · disagreement · correction. Project card linking to original source and evidence.</desc>
+<defs>
+<linearGradient id="bg01" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
+<linearGradient id="r01"><stop stop-color="#48E9D6"/><stop offset="1" stop-color="#66AFFF"/></linearGradient>
+<clipPath id="clip01"><rect width="570" height="220" rx="18"/></clipPath>
+<filter id="g01"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<g clip-path="url(#clip01)">
+<rect width="570" height="220" fill="url(#bg01)"/>
+<circle cx="468" cy="112" r="104" fill="#48E9D6" opacity=".08" filter="url(#g01)"/>
+<path d="M0 0H570V220H0Z" fill="none" stroke="#48E9D6" stroke-opacity=".42" stroke-width="2"/>
+<path d="M0 0H570" stroke="url(#r01)" stroke-width="5"/>
+<path d="M323 26V185" stroke="#48E9D6" stroke-opacity=".13"/>
+<g><g fill="none" stroke-width="2.3" stroke-linecap="round"><path d="M352 96Q399 45 451 94T559 99" stroke="#48E9D6"/><path d="M350 119Q395 170 451 116T562 115" stroke="#66AFFF"/><path d="M381 80L409 128L444 87L477 130L509 88" stroke="#EDF6FF" opacity=".45" stroke-dasharray="3 9"/></g><g fill="#48E9D6"><circle cx="381" cy="80" r="5"/><circle cx="444" cy="87" r="5"/><circle cx="509" cy="88" r="5"/></g><g fill="#66AFFF"><circle cx="409" cy="128" r="4"/><circle cx="477" cy="130" r="4"/></g></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#48E9D6">01 / CONTINUING INQUIRY</text>
+<text x="27" y="93" font-size="27" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">LANGUAGE REFERENT</text>
+<text x="27" y="120" font-size="14" fill="#C7D7EE">Words · disagreement · correction</text>
+<path d="M27 170H294" stroke="#48E9D6" stroke-opacity=".38"/>
+<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">RESEARCH + ORIGINAL WORDS</text>
+<text x="542" y="194" text-anchor="end" font-size="23" fill="#48E9D6">↗</text>
+</g>
+</g>
+</svg>
