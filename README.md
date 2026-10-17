@@ -20,11 +20,11 @@ I've never found it easy to put everything into a perfect, finished explanation 
 
 | Record | Focus |
 | :--- | :--- |
-| **01 · [Origin of the Investigation](writing/ORIGIN.md)** | **Origins and questions** — Relationships, learning, income, generative AI as another perspective, and the move into mathematics and software. |
-| **02 · [Childhood and the Early Internet](writing/CHILDHOOD.md)** | **Early observations** — Nature, diaries, online graffiti, Quake III rail duels, identity, recognition, and Honolulu's gaming spaces. |
-| **03 · [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md)** | **Learning through others** — Guilds, server moves, priest healing, arenas, competitive influences, and Reckful. |
-| **04 · [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md)** | **Language and experience** — Compression, Human Drift, felt responses while reading, regrounding, and silence over time. |
-| **05 · [Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)** | **Observation and influence** — Gaming across generations, entertainment, independent movements, and the limits of words. |
+| **[Origin of the Investigation](writing/ORIGIN.md)** | **Origins and questions** — Relationships, learning, income, generative AI as another perspective, and the move into mathematics and software. |
+| **[Childhood and the Early Internet](writing/CHILDHOOD.md)** | **Early observations** — Nature, diaries, online graffiti, Quake III rail duels, identity, recognition, and Honolulu's gaming spaces. |
+| **[World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md)** | **Learning through others** — Guilds, server moves, priest healing, arenas, competitive influences, and Reckful. |
+| **[Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md)** | **Language and experience** — Compression, Human Drift, felt responses while reading, regrounding, and silence over time. |
+| **[Watching What Continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)** | **Observation and influence** — Gaming across generations, entertainment, independent movements, and the limits of words. |
 
 **Archive:** [Complete writing index](writing/README.md) · [Original conversation quotations](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
 
