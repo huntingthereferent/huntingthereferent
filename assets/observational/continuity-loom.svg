@@ -113,7 +113,7 @@
  <text x="1148" y="330" text-anchor="middle" class="detail">what James waits to see</text>
  <text x="1148" y="505" text-anchor="middle" class="tiny">OPEN, NOT ASSUMED</text>
 </g>
-<path d="M45 679H1236" stroke="#6582B0" stroke-opacity=".36"/>
+<path d="M45 690H1236" stroke="#6582B0" stroke-opacity=".36"/>
 <g font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#BDD0E9" letter-spacing=".6">
  <circle cx="68" cy="708" r="5" fill="#46F3E6"/><text x="82" y="713">A · CYAN</text>
  <circle cx="234" cy="708" r="5" fill="#F878DC"/><text x="248" y="713">B · MAGENTA</text>
