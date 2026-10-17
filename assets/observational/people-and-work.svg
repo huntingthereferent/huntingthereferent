@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="354" viewBox="0 0 1200 354" role="img" aria-labelledby="title desc">
+<title id="title">People, play, language and work — connected questions</title>
+<desc id="desc">Bright neon connections between people, early internet, games, conversation, language, and code or tests. No person is placed above, ahead of, or at the origin of the others. The different topics remain distinct.</desc>
+<defs>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E22"/><stop offset=".7" stop-color="#130C27"/><stop offset="1" stop-color="#071326"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#02EBFA"/><stop offset=".45" stop-color="#E948FA"/><stop offset="1" stop-color="#B9FF61"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#49648C" stroke-width=".8" opacity=".25"/></pattern>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1200" height="354" rx="14" fill="url(#back)"/>
+<rect width="1200" height="354" rx="14" fill="url(#grid)"/>
+<rect x="13" y="13" width="1174" height="328" rx="10" fill="none" stroke="#49648C" stroke-opacity=".65"/>
+<path d="M17 41V313" stroke="#03F5FF" stroke-width="5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="44" y="69" fill="#04EFF9" font-size="14" font-weight="700" letter-spacing="3">BEFORE THE REPOSITORIES</text>
+<text x="42" y="127" fill="#F4F8FF" font-size="41" font-weight="700" letter-spacing="-1">People were</text>
+<text x="42" y="174" fill="#F4F8FF" font-size="41" font-weight="700" letter-spacing="-1">already here<tspan fill="#FC4BDF">.</tspan></text>
+<text x="44" y="221" fill="#BFCFEA" font-size="19">Exploring, playing, reading, talking.</text>
+<text x="44" y="252" fill="#BFCFEA" font-size="19">Then trying to understand what I noticed.</text>
+<path d="M44 285H432" stroke="url(#line)" stroke-width="2.5"/>
+<text x="44" y="316" fill="#91ABD3" font-size="13" letter-spacing="2">LIFE  /  WRITING  /  TESTABLE WORK</text>
+</g>
+<g fill="none" stroke-width="2.5" stroke-linecap="round">
+<path d="M593 83C681 39 731 25 850 81S1048 68 1110 145" stroke="#04E8F6" opacity=".65"/>
+<path d="M571 227C656 272 727 296 830 225S1039 196 1091 270" stroke="#F04DFF" opacity=".7"/>
+<path d="M623 80C676 147 678 171 599 230S778 281 834 225" stroke="#B9FF61" opacity=".65"/>
+<path d="M855 81C780 156 894 164 834 225S940 302 1092 270" stroke="#A382FF" opacity=".62"/>
+<path d="M1098 149C1001 136 936 171 834 225S717 221 589 83" stroke="#04E8F6" opacity=".42"/>
+</g>
+<g fill="none" filter="url(#glow)" stroke-width="8" stroke-linecap="round">
+<path d="M593 83C681 39 731 25 850 81S1048 68 1110 145" stroke="#04E8F6" opacity=".22"/>
+<path d="M571 227C656 272 727 296 830 225S1039 196 1091 270" stroke="#F04DFF" opacity=".22"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" text-anchor="middle">
+<g><rect x="511" y="53" width="165" height="57" rx="12" fill="#0E2033" stroke="#03EEFC" stroke-width="1.6"/><circle cx="535" cy="82" r="5" fill="#03EEFC"/><text x="606" y="87" fill="#F1FBFF">PEOPLE</text></g>
+<g><rect x="753" y="53" width="209" height="57" rx="12" fill="#1D1339" stroke="#B78AFF" stroke-width="1.6"/><circle cx="775" cy="82" r="5" fill="#B78AFF"/><text x="861" y="87" fill="#F1FBFF">EARLY INTERNET</text></g>
+<g><rect x="1011" y="117" width="149" height="57" rx="12" fill="#13273A" stroke="#B9FF61" stroke-width="1.6"/><circle cx="1034" cy="145" r="5" fill="#B9FF61"/><text x="1092" y="151" fill="#F1FBFF">GAMES</text></g>
+<g><rect x="491" y="199" width="201" height="57" rx="12" fill="#271338" stroke="#F04DFF" stroke-width="1.6"/><circle cx="515" cy="228" r="5" fill="#F04DFF"/><text x="604" y="233" fill="#F1FBFF">CONVERSATION</text></g>
+<g><rect x="753" y="199" width="170" height="57" rx="12" fill="#192544" stroke="#03EEFC" stroke-width="1.6"/><circle cx="776" cy="228" r="5" fill="#03EEFC"/><text x="846" y="233" fill="#F1FBFF">LANGUAGE</text></g>
+<g><rect x="995" y="245" width="170" height="57" rx="12" fill="#291631" stroke="#F04DFF" stroke-width="1.6"/><circle cx="1019" cy="274" r="5" fill="#F04DFF"/><text x="1094" y="279" fill="#F1FBFF">CODE + TESTS</text></g>
+</g>
+</svg>
