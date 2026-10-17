@@ -1,20 +1,20 @@
-# Visual provenance — A/B across the work
+# Visual provenance — people and research
 
 [← James's GitHub profile](README.md) · [Research overview](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Complete project inventory](showcase/PROJECT_INVENTORY.md)
 
-[![Connected A/B Continuity Atlas with six source-separated regions](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
+[![Neon field connecting people, early internet, games, language and code](assets/observational/people-and-work.svg)](VISUAL_SYSTEM.md)
 
-[**Explore the atlas, movement key, and math behind the paths →**](VISUAL_SYSTEM.md)
+[**Explore the visual and the mathematical distinctions →**](VISUAL_SYSTEM.md)
 
 [![A/B movement and correspondence legend](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
 
-This is the visual way into the same work, not a replacement for the writing. A/B is the name I used for the continuing referent. Different experiences can lead me back to a relationship I was already following, even when I started somewhere else.
+The image is a visual entry into James's actual writing and research, not a personal role or a scientific model. It shows people and activities that matter in his history alongside the subjects he investigates. A/B is an earlier name for the Language Referent inquiry and also names defined operators in some of the finite models.
 
-That is why the paths are together here. It does **not** mean a conversation, a game, a mathematical model, and a program are literally the same mechanism, or that proof in one establishes proof in another.
+The subjects can inform one another without sharing a proved mechanism. A conversation, a game, a mathematical model and a program each retain their own sources and standards of evidence.
 
 ## Where the inquiry goes
 
-The atlas connects these entrances. Each still links to its own records and evidence; the older [context diagram](assets/observational/contexts.svg) is retained for readers who prefer a simple index.
+The visual connects these entrances without treating their evidence as interchangeable. The earlier [context diagram](assets/observational/contexts.svg) and [historical atlas draft](assets/observational/continuity-loom.svg) remain accessible as prior illustrations, not the current profile image.
 
 | Encounter | Go to the original material | What belongs to that context |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ The atlas connects these entrances. Each still links to its own records and evid
 | **Workers and the workstation** | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Handoff contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) | Independent source identity, admission, native results, verification, and unresolved boundaries |
 | **Software, data, education and engineering** | [Complete project inventory](showcase/PROJECT_INVENTORY.md) · [Project source index](showcase/SOURCE_INDEX.md) · [Selected work](SELECTED_WORK.md) | Implementation details, local tests, different project outcomes, and unpublished/unverified work |
 
-There are more projects than fit on the diagram. The [full inventory](showcase/PROJECT_INVENTORY.md) preserves them separately instead of making the visual look complete when it isn't.
+There are more projects than fit in any single graphic. The [full inventory](showcase/PROJECT_INVENTORY.md) preserves them separately instead of making the visual look complete when it isn't.
 
 ## Observations coming in from outside
 
@@ -48,6 +48,6 @@ For technical work, I want to be able to inspect what actually ran and what the 
 - **Tests, implementations and limitations:** [Research](RESEARCH.md) · [Selected work](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md)
 - **Operational observational layer:** [Read-only views](https://github.com/huntingthereferent/autobots-assemble/tree/main/views) · [Existing visual provenance concept](https://github.com/huntingthereferent/autobots-assemble/tree/main/views/visual-provenance)
 
-**Visual status:** These three SVGs are manually authored, static editorial representations. They show relationships and how to navigate the work, not live counts or simulated evidence presented as measurements. The links take you to the records where you can check the details. No software execution, native source-owner witness, or automatic GitHub Actions regeneration follows from displaying them.
+**Visual status:** The local SVG illustrations on this page are manually authored, static editorial representations. They show relationships and how to navigate the work, not live counts or simulated evidence presented as measurements. The links take you to the records where you can check the details. No software execution, native source-owner witness, or automatic GitHub Actions regeneration follows from displaying them.
 
 [← Back to James's profile](README.md)
