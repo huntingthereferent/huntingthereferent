@@ -59,9 +59,9 @@ I use AI to help explore descriptions, make programs, and prepare writing. It's 
 
 ## Research continuity — movements and walls
 
-The workstation now shows the original research, not just its execution jobs. Mathematics, ARC experiments, CP checkpoint records, W12/W13 game witnesses, language corrections, software, tests and explicit unresolved walls remain distinct and traceable to their source files.
+A job and a research question begin the same way: with something to investigate. Follow what was attempted, what changed, what could be verified, which walls remain, and what continues. The work includes finite mathematics, ARC experiments, CP checkpoint records, W12/W13 worlds, language corrections, software, and tests—not a collection of income-opportunity scorecards.
 
-The local read-only research view supports three ways to inspect the work: original structured observations, documented wall/movement sections, and the indexed source files themselves. A research document is never silently promoted into an executed worker event.
+The workstation presents source-owned mathematical moves, recorded research boundaries, original document references and native execution attempts in **one evidence view**. Its technical execution controls remain available under Advanced. A documented wall remains documented; an independently witnessed execution retains its stronger evidence status. Neither is invented or erased to fit the display.
 
 [**Research-wide source observer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/research_observatory.py) · [**Workstation and local viewer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [**Source-bound movement and wall contracts →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/movement.md)
 
