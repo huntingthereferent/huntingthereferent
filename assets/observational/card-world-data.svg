@@ -1,26 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="t05 d05">
-<title id="t05">WORLD OBSERVATION — James Muneoka</title>
-<desc id="d05">External data · timestamps · boundaries. Project card linking to original source and evidence.</desc>
-<defs>
-<linearGradient id="bg05" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152343"/><stop offset=".7" stop-color="#0C1832"/><stop offset="1" stop-color="#0A1428"/></linearGradient>
-<linearGradient id="r05"><stop stop-color="#FFAB82"/><stop offset="1" stop-color="#ED82BD"/></linearGradient>
-<clipPath id="clip05"><rect width="570" height="220" rx="18"/></clipPath>
-<filter id="g05"><feGaussianBlur stdDeviation="11"/></filter>
-</defs>
-<g clip-path="url(#clip05)">
-<rect width="570" height="220" fill="url(#bg05)"/>
-<circle cx="468" cy="112" r="104" fill="#FFAB82" opacity=".08" filter="url(#g05)"/>
-<path d="M0 0H570V220H0Z" fill="none" stroke="#FFAB82" stroke-opacity=".42" stroke-width="2"/>
-<path d="M0 0H570" stroke="url(#r05)" stroke-width="5"/>
-<path d="M323 26V185" stroke="#FFAB82" stroke-opacity=".13"/>
-<g><g fill="none" stroke-width="2" stroke-linecap="round"><path d="M345 84Q375 44402 84T460 84T518 84T570 84" stroke="#ED82BD" opacity=".9"/><path d="M345 112Q375 69402 112T460 112T518 112T570 112" stroke="#FFAB82" opacity=".9"/><path d="M345 140Q375 94402 140T460 140T518 140T570 140" stroke="#ED82BD" opacity=".9"/></g><g fill="#FFAB82"><circle cx="382" cy="86" r="4"/><circle cx="445" cy="116" r="4"/><circle cx="507" cy="86" r="4"/><circle cx="541" cy="116" r="4"/></g></g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="27" y="35" font-size="12" font-weight="700" letter-spacing="1.4" fill="#FFAB82">05 / SOURCE-LINKED VIEW</text>
-<text x="27" y="93" font-size="27" font-weight="750" letter-spacing="-.7" fill="#F3F7FF">WORLD OBSERVATION</text>
-<text x="27" y="120" font-size="14" fill="#C7D7EE">External data · timestamps · boundaries</text>
-<path d="M27 170H294" stroke="#FFAB82" stroke-opacity=".38"/>
-<text x="27" y="195" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#BBD6F4">PUBLIC DATA + HISTORY</text>
-<text x="542" y="194" text-anchor="end" font-size="23" fill="#FFAB82">↗</text>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="205" viewBox="0 0 570 205" role="img" aria-labelledby="title desc">
+<title id="title">WORLD OBSERVATION</title><desc id="desc">Sources, timestamps & traces</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1123"/><stop offset="1" stop-color="#170E29"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#FFB14A"/><stop offset="1" stop-color="#FF52CE"/></linearGradient>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6"/></filter></defs>
+<rect width="570" height="205" rx="12" fill="url(#bg)"/>
+<rect x="1" y="1" width="568" height="203" rx="11" stroke="#FFB14A" stroke-opacity=".66" fill="none" stroke-width="1.4"/>
+<rect x="1" y="1" width="568" height="5" rx="2" fill="url(#line)"/>
+<path d="M305 27V174" stroke="#FFB14A" stroke-opacity=".18" stroke-dasharray="3 8"/>
+<g opacity=".35" filter="url(#glow)" fill="none" stroke-width="10" stroke-linecap="round"><path d="M331 80Q368 21 406 80T482 80T556 80" stroke="#FFB14A" stroke-width="3"/><path d="M331 126Q368 67 406 126T482 126T556 126" stroke="#FF52CE" stroke-width="3"/><path d="M331 172Q368 113 406 172T482 172T556 172" stroke="#FFB14A" stroke-width="2" opacity=".5"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M331 80Q368 21 406 80T482 80T556 80" stroke="#FFB14A" stroke-width="3"/><path d="M331 126Q368 67 406 126T482 126T556 126" stroke="#FF52CE" stroke-width="3"/><path d="M331 172Q368 113 406 172T482 172T556 172" stroke="#FFB14A" stroke-width="2" opacity=".5"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="26" y="40" font-size="13" fill="#FFB14A" letter-spacing="2.2" font-weight="700">05 / DATA</text>
+<text x="25" y="95" font-size="27" font-weight="750" letter-spacing="-.45" fill="#F5F9FF">WORLD OBSERVATION</text>
+<text x="27" y="123" font-size="15.5" fill="#C9DAF2">Sources, timestamps &amp; traces</text>
+<path d="M26 164H292" stroke="#FFB14A" opacity=".75" stroke-width="1"/>
+<text x="27" y="183" font-size="11.5" fill="#A9BDDA" letter-spacing="1.2">OPEN SOURCE RECORD</text>
+<text x="539" y="185" text-anchor="end" font-size="24" fill="#FF52CE">↗</text>
+</g></svg>
