@@ -2,7 +2,11 @@
 
 [← James's GitHub profile](README.md) · [Research overview](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Complete project inventory](showcase/PROJECT_INVENTORY.md)
 
-[![A/B across the inquiry](assets/observational/continuity.svg)](assets/observational/continuity.svg)
+[![Connected A/B Continuity Atlas with six source-separated regions](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
+
+[**Explore the atlas, movement key, and math behind the paths →**](VISUAL_SYSTEM.md)
+
+[![A/B movement and correspondence legend](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
 
 This is the visual way into the same work, not a replacement for the writing. A/B is the name I used for the continuing referent. Different experiences can lead me back to a relationship I was already following, even when I started somewhere else.
 
@@ -10,7 +14,7 @@ That is why the paths are together here. It does **not** mean a conversation, a 
 
 ## Where the inquiry goes
 
-[![The contexts of the continuing inquiry](assets/observational/contexts.svg)](assets/observational/contexts.svg)
+The atlas connects these entrances. Each still links to its own records and evidence; the older [context diagram](assets/observational/contexts.svg) is retained for readers who prefer a simple index.
 
 | Encounter | Go to the original material | What belongs to that context |
 | --- | --- | --- |
