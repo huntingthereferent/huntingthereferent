@@ -13,16 +13,16 @@ I can shorten what I'm saying and still follow how it all connects. That doesn't
 
 ## Writing records
 
-These records preserve firsthand accounts and two-sided conversations. James's wording, the assistant's interpretations, and later corrections remain separately attributable.
+I want the pages to keep both sides visible: what I said, what the assistant made of it, and what changed when I corrected something. The original words are still there to read.
 
 | Record | Scope |
 | :--- | :--- |
-| **[Origin of the Investigation](ORIGIN.md)** | How the initial questions became communicable through dialogue; relationships, learning, income, mathematics, and AI-assisted construction. |
-| **[Childhood and the Early Internet](CHILDHOOD.md)** | Diaries, GeoCities, Quake III, Darkness and Amok, and the experience of encountering other people through games. |
-| **[World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md)** | Altar of Storms, Tichondrius, Blackrock, healing, arenas, Durotar, and the players James watched. |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | A two-sided account of compression, reading, felt experience, misunderstanding, Human Drift, correction, and silence. |
-| **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, observational learning, and the limits of language. |
-| **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | Verbatim recorded words, dates, and speaker attribution; later observations do not replace earlier wording. |
+| **[Origin of the Investigation](ORIGIN.md)** | Where the questions started: relationships, learning, money, and conversations that led into mathematics and software. |
+| **[Childhood and the Early Internet](CHILDHOOD.md)** | Diaries, GeoCities, Quake III, Darkness and Amok, and meeting people through games. |
+| **[World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md)** | Altar of Storms, Tichondrius, Blackrock, healing, arenas, Durotar, and the players I kept watching. |
+| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Shortening and unfolding language, reading, feelings, misunderstanding, Human Drift, correction, and silence. |
+| **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, and what I kept noticing while we talked. |
+| **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | What was actually said, who said it, and when. The later writing doesn't replace it. |
 
 ## Research and supporting records
 
@@ -45,4 +45,4 @@ These records preserve firsthand accounts and two-sided conversations. James's w
 
 </details>
 
-The writing follows our conversations. The code and tests can be explored separately in the research repository.
+These pages follow our conversations. The code and tests are in the research repository if you want to see what actually runs.
