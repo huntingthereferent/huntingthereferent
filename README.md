@@ -16,10 +16,10 @@
   <a href="#writing-and-the-people-in-it">WRITING</a>
 </p>
 
-[![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=48d6eb)](https://github.com/huntingthereferent/autobots-assemble)
-[![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=7aaafb)](showcase/MATHEMATICS.md)
-[![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=8a83df)](writing/README.md)
-[![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=9db4cb)](PROVENANCE.md)
+[![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble)
+[![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md)
+[![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=775C78)](writing/README.md)
+[![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=856840)](PROVENANCE.md)
 
 **Hi, I'm James.**
 
