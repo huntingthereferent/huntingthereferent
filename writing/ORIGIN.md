@@ -49,7 +49,7 @@ Both remarks came on October 16, when James was correcting the way I'd written t
 
 James wanted a mathematical account early on. He did not suddenly discover the question after building software. He made this relationship explicit:
 
-> math is a human language.... and language does come first because we cant transfer thoughts...
+> math is a human language.... and language does come first because we cant transfer thoughts... yet...
 
 In response, the assistant worked toward finite models, code, and tests. Those artifacts could make *particular* distinctions inspectable, but they could not stand in for the whole original question. Different models continued to carry their own domains and proof obligations.
 
