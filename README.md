@@ -1,35 +1,29 @@
-# HUNTING THE REFERENT
+# Hi, I'm James.
 
-### [↗ SEE WHAT'S HAPPENING IN WORK](https://huntingthereferent.github.io/autobots-assemble/live/)
+I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
-**Source records first.** This browser view shows actual public workstation and research workflow runs, their recorded execution steps, the source commit that ran, and the result GitHub observed. Alongside the runs are original research checkpoints, experiments, preserved walls, and next movements where recorded. It doesn't turn a workflow pass into an unearned research conclusion.
-
-[**OPEN WORK ACTIVITY →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**INSPECT WORK SOURCE →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/docs/live/work.html) · [**ORIGINAL WORKSTATION RECORDS →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/research-live.json) · [**OPTIONAL GRAPH EXPERIMENT →**](https://huntingthereferent.github.io/autobots-assemble/live/trace.html)
-
----
-
-<p align="center">
-  <a href="#mathematics-that-actually-moves">MATHEMATICS</a> ·
-  <a href="#observation-language-and-corrections">LANGUAGE</a> ·
-  <a href="#workstation-recorded-movements-and-walls">WORKSTATION</a> ·
-  <a href="#public-internet-observations">WORLD TRACES</a> ·
-  <a href="#writing-and-the-people-in-it">WRITING</a>
-</p>
+The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
 
 [![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble)
 [![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md)
 [![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=775C78)](writing/README.md)
 [![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=856840)](PROVENANCE.md)
 
-**Hi, I'm James.**
+**Explore:** [Mathematics](#mathematics-that-actually-moves) · [Language](#observation-language-and-corrections) · [Workstation](#workstation) · [Public observations](#public-internet-observations) · [Writing](#writing-and-the-people-in-it)
 
-I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
-
-The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
-
-[**Live movement →**](https://huntingthereferent.github.io/autobots-assemble/live/) · [**Research source →**](https://github.com/huntingthereferent/autobots-assemble) · [**Writing →**](writing/README.md) · [**Research overview →**](RESEARCH.md) · [**All projects →**](showcase/PROJECT_INVENTORY.md)
+[Current work](https://huntingthereferent.github.io/autobots-assemble/live/) · [Research source](https://github.com/huntingthereferent/autobots-assemble) · [Writing archive](writing/README.md) · [Projects](showcase/PROJECT_INVENTORY.md)
 
 ---
+
+## Before the repositories
+
+Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world. Later I spent years around Quake III and World of Warcraft, watching other players, learning the games, and meeting people I wanted to keep playing with.
+
+Those weren't research projects. That's just what I was doing.
+
+I still like ordinary life. I haven't stopped being the person who enjoys his family or who wants to see what another person is doing. The subjects have expanded, and now some of the questions have source code, proofs, experiments, and records attached to them.
+
+[**Childhood and the Early Internet →**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful →**](writing/CHILDHOOD_PART_TWO.md) · [**Origin of the investigation →**](writing/ORIGIN.md)
 
 ## Mathematics that actually moves
 
@@ -47,16 +41,6 @@ This diagram wasn't drawn around a chosen destination. The finite search followe
 
 [**Check the original paths →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-receipt.json) · [**Trace generator →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence.py) · [**One-or-two witness rule →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/convergence_focus.py)
 
-## Before the repositories
-
-Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world. Later I spent years around Quake III and World of Warcraft, watching other players, learning the games, and meeting people I wanted to keep playing with.
-
-Those weren't research projects. That's just what I was doing.
-
-I still like ordinary life. I haven't stopped being the person who enjoys his family or who wants to see what another person is doing. The subjects have expanded, and now some of the questions have source code, proofs, experiments, and records attached to them.
-
-[**Childhood and the Early Internet →**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful →**](writing/CHILDHOOD_PART_TWO.md) · [**Origin of the investigation →**](writing/ORIGIN.md)
-
 ## Observation, language and corrections
 
 Some of the observations are about the world around me; some are about my own experience of moving through it. I don't want an explanation to replace the thing I'm actually trying to describe. If you misunderstand me, or I misunderstand you, I want to keep what happened in that exchange. The correction can tell me something the polished version doesn't.
@@ -65,7 +49,7 @@ I use AI to help explore descriptions, make programs, and prepare writing. It's 
 
 [**Language Referent →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Human Drift →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
-## Research continuity — movements and walls
+## Workstation
 
 A job and a research question begin the same way: with something to investigate. Follow what was attempted, what changed, what could be verified, which walls remain, and what continues. The work includes finite mathematics, ARC experiments, CP checkpoint records, W12/W13 worlds, language corrections, software, and tests—not a collection of income-opportunity scorecards.
 
