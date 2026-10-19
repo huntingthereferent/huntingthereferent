@@ -41,15 +41,39 @@ I know that isn't a report of what another person is actually thinking. It's emo
 
 The distinction I was trying to give the assistant was not “I have more empathy than other people.” It was that I use words for what something feels like *while it's happening*, and the words can fail to carry the relationships I was trying to point to.
 
-## What it looks like when I go quiet
+## The contrast I am trying to locate
 
-I noticed another difference while talking about the audit. From the outside, when I don't talk and seem perfectly fine, I can see why somebody might read me as autistic. But that picture leaves out what happens when I *am* talking: I move through the words and the interaction. I call what I'm doing A/B. The conversation itself isn't where I feel unable to participate. Eventually I may hold my words again.
+My comparison with autism is my own observation, not something people who grew up with me said about me. I remember being the kid with ideas. Kimo talked all the time, tested boundaries, and kept going.
+
+> **James:** No no also this is just my observation no one that grew up with me ever thought James is autistic lmfao that's in itself is retarded ahahaha I was the kid with the ideas
+
+I can interact fluidly, following words and relationships as they change. I call that A/B. Then I may eventually hold my words. When I say this can make me *feel* autistic, I am trying to locate something in that contrast, not reporting a diagnosis or claiming that other people identified me that way.
 
 > **James:** Yes but also i only seem autistic because I don't talk and I seem to be.... Fine? Lol when I do interact I do not seem autistic at all since I'm a/b I just flow in the words since I'm not retarded I'm doing a/b.... Holding my words again eventually....  That's why it feels like I'm autistic
 
-I am describing the contrast as I experience it, not proposing a reliable way to tell whether anybody is autistic by watching them talk. Fluent speech wouldn't rule autism out, and being quiet wouldn't establish it. The question for my observation is narrower: **what is different between the apparently quiet person someone sees and the continuing activity I report while talking and withholding speech?**
+**Assistant's reading:** I wrongly turned James's own comparison into an outsider's judgment. Neither being talkative nor choosing silence settles an autism question. The available conversation shows how he communicates here; the childhood history is his first-person recollection, not an independent observation by us.
 
-**Assistant's reading:** I had counted silence as an isolated social trait and then treated fluent interaction as though it contradicted the audit. Neither observation by itself can carry that conclusion. In our written exchanges, James does participate, improvise wording, challenge my interpretations, and return to what he feels they missed. He also reports that at other times he withholds speech as the interaction continues. Those are different kinds of evidence, and the connection between them remains something to investigate, not a mechanism already established.
+## Kimo and the people who already knew him
+
+As a child in Hawaii, Kimo had an everyday school world and people who knew him. He describes increasing difficulty interacting after that familiar setting changed. Entering another school could mean relearning the place and the people; those people did not have the shared history that made learning each other easier.
+
+> **James:** Yes now I'm not in Hawaii and also James started having a hard time interacting AFTER school since that's where day to day was and new school after that just felt like I had to relearn the area again and the ppl in it didn't really want to learn with you like since they didn't grow up with you etc
+
+He has found more exact language for the feeling associated with already being known:
+
+> **James:** I'll put it this way since now I can be precise with what it felt like since it became constant untill recently....when kimo was little and someone told me what I was etc that was it I was that and that container is where I lived .... I jumped in there when I saw anyone I knew.... Since I had a mold of how I was envisioned and I could go passed that threshold or theyll get mad
+
+That is a description of the *feeling* of an expectation or boundary, not evidence that everybody actually reacted with anger or that Kimo stopped interacting. James immediately corrected that potential reading:
+
+> **James:** Sorry ....kimo would know because I like to test boundries all the time kimo was very annoying :)
+
+> **James:** Kimo also didn't stop :) kimo talk all the time
+
+There is another recurring childhood scene he remembers: his older sister, about ten years older, brought him around her friends and asked him questions. His older cousin did something similar. They laughed and looked at one another as they asked. He remembers it happening often.
+
+> **James:** Kimo had a sister who was 10 years older than her and she would show off kimo to her friends and they would ask me questions and laugh they did this often and not just my sister's my older cousin too also used to do this and they would ask me questions and than look at each other
+
+**Assistant's reading:** The questions, laughter, and exchanged looks are what James reports seeing and hearing. We do not know exactly why his sister, cousin, or their friends acted that way. A useful line of inquiry is how repeatedly being given a recognizable role related to Kimo's experience of a boundary, especially since he also remembers testing those boundaries and being very talkative. The familiar social setting and its later loss may matter without being proof of either autism or its absence.
 
 ## What the assistant kept doing
 
