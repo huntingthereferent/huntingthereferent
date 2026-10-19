@@ -1,47 +1,26 @@
-# Writing
-*Conversations, questions, and what we made of them.*
+# Writing — research notes
+*James and the assistant · conversations and corrections*
 
-[← Profile](../README.md) · [Explore builds](../showcase/README.md)
+[← Profile](../README.md) · [Research](../RESEARCH.md) · [Source and evidence index](../PROVENANCE.md)
 
-These pages came out of us going back and forth, not me sitting down with a finished explanation. I read, watch, and talk with people because that's how I get another point of view. I can't get that part of the data from my own words alone. Sometimes the assistant follows what I meant, and sometimes it goes somewhere else. I get to see where it went, correct what was missed, and keep moving. That's why I want the misunderstanding and the correction left in the writing too.
-
-I said this about all the writing on October 16:
+**Method.** James supplies an observation, compressed wording, or correction; the assistant proposes an interpretation or connection. Each is kept attributable. A useful connection can survive a correction; a mistaken inference does not become fact.
 
 > and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
 
-I can shorten what I'm saying and still follow how it all connects. That doesn't mean the assistant sees the same thing straight away. Sometimes I need to say more; sometimes its answer shows me something I hadn't considered. The [communication writing](LANGUAGE_AND_OBSERVATION.md) keeps those conversations together. The [original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) keep what we actually said.
+The original [quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) stays separate from these concise interpretations. This is collaborative analysis, not a reconstructed private psychology or a substitute for native research evidence.
 
-## Writing records
+## Records
 
-I want the pages to keep both sides visible: what I said, what the assistant made of it, and what changed when I corrected something. The original words are still there to read.
+| Source | Question |
+| --- | --- |
+| [Origin](ORIGIN.md) | How did an existing question become a language, mathematical and software inquiry? |
+| [Childhood](CHILDHOOD.md) | Which memories were reported, and which later connections remain interpretations? |
+| [Language and observation](LANGUAGE_AND_OBSERVATION.md) | What changes when words compress, a response drifts, or silence continues? |
+| [Watching what continues](WATCHING_WHAT_CONTINUES_2026-10-17.md) | What can observational learning establish, and where does inference begin? |
+| [Original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) | What was actually said, by whom, and when? |
 
-| Record | Scope |
-| :--- | :--- |
-| **[Origin of the Investigation](ORIGIN.md)** | Where the questions started: relationships, learning, money, and conversations that led into mathematics and software. |
-| **[Childhood and the Early Internet](CHILDHOOD.md)** | Looking through the grass, collecting diaries, GeoCities, and remembering those early interests. |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Shortening and unfolding language, reading, feelings, misunderstanding, Human Drift, correction, and silence. |
-| **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Observational learning, presence, language, performances, and a changing physical environment. |
-| **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | What was actually said, who said it, and when. The later writing doesn't replace it. |
+## Technical context
 
-## Research and supporting records
+[Finite mathematical investigations](../showcase/MATHEMATICS.md) · [Research method](../docs/RESEARCH_METHOD.md) · [Evidence and provenance](../PROVENANCE.md) · [Selected implementations](../SELECTED_WORK.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
-| Reference | Purpose |
-| :--- | :--- |
-| [Research overview](../RESEARCH.md) | Orientation to technical inquiries and how their evidence relates to the writing. |
-| [Research method](../docs/RESEARCH_METHOD.md) | Reproducible methods for particular investigations, separate from conversational interpretation. |
-| [Evidence and provenance](../PROVENANCE.md) | Public artifacts, reported outcomes, independent reproduction, and unresolved limitations. |
-| [Selected technical work](../SELECTED_WORK.md) | Specific mathematical and software observations, tests, and evidentiary boundaries. |
-
-<details>
-<summary><strong>Related technical and historical records</strong></summary>
-
-- [Language Referent — canonical name](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
-- [Human Drift — dated conversational corrections](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
-- [Original A/B language record — historical](https://github.com/huntingthereferent/autobots-assemble/blob/main/AB_LANGUAGE.md)
-- [Complete Stack](https://github.com/huntingthereferent/autobots-assemble/blob/main/COMPLETE_STACK.md)
-- [AI Session Protocol](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/ai/session.md)
-- [The Antechamber](https://thestepps.wordpress.com/) — a separate, voluntary human-facing proposal
-
-</details>
-
-These pages follow our conversations. The code and tests are in the research repository if you want to see what actually runs.
+The technical records provide their own state definitions, tests, and execution evidence. Conversation can motivate questions; it cannot independently verify those implementations.
