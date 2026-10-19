@@ -2,7 +2,9 @@
 
 I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
-## How I approach problems
+## The Human Wall
+
+*How our sense of scale shapes the way we solve problems.*
 
 I've spent a lot of time trying to understand how I solve problems, including what happens when I misunderstand something, how I correct myself, and how easily an explanation can move away from the thing I was originally looking at.
 
