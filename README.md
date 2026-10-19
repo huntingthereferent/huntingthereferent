@@ -2,88 +2,34 @@
 
 I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
+[![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble) [![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md) [![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=775C78)](writing/README.md) [![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=856840)](PROVENANCE.md)
+
 ## The Human Wall
 
 *How our sense of scale shapes the way we solve problems.*
 
-I've spent a lot of time trying to understand how I solve problems, including what happens when I misunderstand something, how I correct myself, and how easily an explanation can move away from the thing I was originally looking at.
+I started this investigation with myself. I've spent a long time watching how I notice things, misunderstand them, correct them, and sometimes let an explanation drift away from what was actually in front of me. Testing my own reasoning has been difficult, but I like doing it. I don't want to mistake a convincing description for an observation.
 
-I didn't start by constructing a theory about other people. I started by observing myself. I wanted to know what I was actually doing while I was thinking, not just how I described it afterward. That meant paying attention to mistakes, revisiting my own assumptions, and sometimes finding that the problem I was trying to solve wasn't the problem in front of me anymore.
+We grow up looking at a universe so enormous that infinity becomes a familiar part of how we talk about what we don't understand. I wonder how much that sense of scale carries into ordinary problem-solving. We imagine possibilities within possibilities and build explanations around things that haven't happened, partly because we don't want to be wrong. I've watched myself do it.
 
-One thing I keep returning to is how much our sense of scale influences the way we approach problems.
+Basic mathematics gives me another starting point: a small finite set of rules can produce complicated patterns through repetition and interaction. The size of what emerges doesn't tell me how many rules I must assume at the beginning. That isn't a claim that the universe is finite. It's a reason to begin with what's present rather than every possibility I can imagine.
 
-We grow up learning about an unimaginably large universe. We're introduced to infinity, enormous distances, complexity, and things we may never fully understand. It's natural to look at something that large and expect the explanation to be equally enormous. I think we carry some of that expectation into ordinary problem-solving.
+With A/B, I follow movement from one state to another: what changed, what remained related, and what needs correcting. In small finite constructions, I've been deliberately constraining movement to produce oscillation, then observing what interacting movements generate. We tried nine anchors first; forty-eight is the current working set, not an established minimum. I want the construction and its tests to tell me what the relationships support.
 
-We consider possibilities, then possibilities within those possibilities. We anticipate mistakes, construct explanations, correct those explanations, and sometimes build entire systems around things that haven't happened. Much of this comes from trying to understand something properly and not wanting to be wrong. I recognize that behavior because I've observed it in myself.
+I build harnesses with software and AI because continuity matters. They keep the observations, failures, corrections, and independent checks accessible so I don't have to reconstruct the entire investigation every time I move. A harness doesn't make my interpretation true. It helps me see where it needs correcting and carry forward what survives.
 
-But mathematics offers an interesting distinction: **the complexity of what a system produces doesn't necessarily tell us how complicated its starting conditions must be.**
-
-A small finite set of relationships can produce complicated patterns through repetition and interaction. A process can continue without needing an entirely new foundational rule for every new result. This doesn't tell us whether the physical universe is finite or infinite. It does give us another way to approach a problem.
-
-Instead of beginning with every possibility, I can begin with what's present.
-
-I can observe a state, make a movement, compare the result, and follow the relationships that continue. If something changes unexpectedly, I can investigate that difference. If a description fails, I can correct what failed without discarding everything else or inventing additional explanations in advance.
-
-This is where A/B comes into my work.
-
-I'm interested in what changes between states, what remains related, and whether those relationships can be preserved through further movement. A/B gives me a way to construct, compare, and investigate those movements rather than relying entirely on my interpretation of them.
-
-The mathematics makes parts of that investigation executable. For example, I've been experimenting with deliberately constrained movement and oscillation inside small finite systems, allowing movements to interact and observing the structures that result. We started by trying nine anchors and are currently working with forty-eight. I don't know whether forty-eight is the smallest useful set. That's something to investigate through the construction, not a number I need to defend in advance.
-
-What interests me is how much complexity can arise from simple relationships, and how far those relationships can be followed before they require correction.
-
-## Why I use harnesses
-
-A large part of this work has involved learning to preserve continuity.
-
-When I'm investigating something, I don't want to stop every few steps and reconstruct the entire history of how I arrived there. I want the observations, attempted movements, failures, corrections, and successful tests to remain accessible while the investigation continues.
-
-That's why I've become so interested in building harnesses.
-
-I use software and AI to help retain that continuity, construct experiments, compare results, and independently check parts of the work. They help me keep moving without substituting an explanation for an observation.
-
-The same principle matters when I'm looking at my own reasoning. I want to be able to recognize when something I've said no longer matches what I've observed, correct it, and continue without pretending the earlier movement never happened.
-
-I take that responsibility seriously because the things we describe can influence what other people go on to build, believe, or investigate.
-
-## Where this leads
-
-The broader question for me is about human problem-solving.
-
-We have an extraordinary ability to construct descriptions, abstractions, and increasingly complex systems. But those descriptions still have to meet the relationships of whatever we're working with.
-
-If we keep extending explanations without returning to what supports them, errors can accumulate. Eventually, those errors can affect the systems built upon them. I think regrounding—returning to the actual relationships and correcting what no longer fits—is an important part of keeping those systems working.
-
-I don't think that requires everyone to use the same language, mathematical construction, or method. Different approaches can arrive at the same observable constraints.
-
-I'm interested in whether we can become better at recognizing those constraints without first trying to account for every imaginable possibility.
-
-That's what connects my interest in language, mathematics, software, human behavior, and the way people understand one another. The subjects look different, but I keep encountering the same practical question:
+I'm interested in the human side of this as much as the mathematics. We make decisions and build systems from descriptions. When a description stops matching what supports it, further explanation can carry an error forward. I want to learn when to reground—to return to what actually happened and correct the relationship, including my own. I take that seriously because other people may build on what I write.
 
 **What is actually here, what changes when something moves, and what can I carry forward without losing the relationship?**
 
-The research grew out of questions I've had for a long time. Some of those questions now have source code, mathematical constructions, experiments, and records attached to them. Others are still questions.
-
-I'm continuing to work through them.
-
-[![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble)
-[![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md)
-[![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=775C78)](writing/README.md)
-[![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=856840)](PROVENANCE.md)
-
-**Explore:** [Mathematics](#mathematics-that-actually-moves) · [Language](#observation-language-and-corrections) · [Workstation](#workstation) · [Public observations](#public-internet-observations) · [Writing](#writing-and-the-people-in-it)
-
-[Current work](https://huntingthereferent.github.io/autobots-assemble/live/) · [Research source](https://github.com/huntingthereferent/autobots-assemble) · [Writing archive](writing/README.md) · [Projects](showcase/PROJECT_INVENTORY.md)
-
+**Explore:** [Mathematics](#mathematics-that-actually-moves) · [Language](#observation-language-and-corrections) · [Workstation](#workstation) · [Writing](#writing-and-the-people-in-it) · [Current work](https://huntingthereferent.github.io/autobots-assemble/live/)
 ---
 
 ## Before the repositories
 
 Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world. Later I spent years around Quake III and World of Warcraft, watching other players, learning the games, and meeting people I wanted to keep playing with.
 
-Those weren't research projects. That's just what I was doing.
-
-I still like ordinary life. I haven't stopped being the person who enjoys his family or who wants to see what another person is doing. The subjects have expanded, and now some of the questions have source code, proofs, experiments, and records attached to them.
+Those weren't research projects. That's just what I was doing. The questions came later, and now some have code, experiments, and records attached to them.
 
 [**Childhood and the Early Internet →**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful →**](writing/CHILDHOOD_PART_TWO.md) · [**Origin of the investigation →**](writing/ORIGIN.md)
 
@@ -113,9 +59,9 @@ I use AI to help explore descriptions, make programs, and prepare writing. It's 
 
 ## Workstation
 
-A job and a research question begin the same way: with something to investigate. Follow what was attempted, what changed, what could be verified, which walls remain, and what continues. The work includes finite mathematics, ARC experiments, CP checkpoint records, W12/W13 worlds, language corrections, software, and tests—not a collection of income-opportunity scorecards.
+The workstation is where I keep the investigations moving: finite mathematics, ARC experiments, CP checkpoints, W12/W13 worlds, language corrections, software, and tests. It connects attempted movements to their source records, results, and unresolved limits.
 
-The workstation presents source-owned mathematical moves, recorded research boundaries, original document references and native execution attempts in **one evidence view**. Its technical execution controls remain available under Advanced. A documented wall remains documented; an independently witnessed execution retains its stronger evidence status. Neither is invented or erased to fit the display.
+The evidence view distinguishes documented work from independently verified executions. A recorded failure stays visible; a successful test has to retain its evidence.
 
 [**Research-wide source observer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/research_observatory.py) · [**Workstation and local viewer →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [**Source-bound movement and wall contracts →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/movement.md)
 
