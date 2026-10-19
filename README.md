@@ -2,7 +2,7 @@
 
 *Independent research · Finite mathematics · Software systems*
 
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-477765?style=flat-square&labelColor=111827&color=477765)](RESEARCH.md) [![FINITE MATH](https://img.shields.io/badge/FINITE_MATH-536C91?style=flat-square&labelColor=111827&color=536C91)](showcase/MATHEMATICS.md) [![SOFTWARE](https://img.shields.io/badge/SOFTWARE-506977?style=flat-square&labelColor=111827&color=506977)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-775C78?style=flat-square&labelColor=111827&color=775C78)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-856840?style=flat-square&labelColor=111827&color=856840)](PROVENANCE.md)
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-NOTES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 I'm James. I like getting another perspective on things, and I spend a lot of time looking at what changes when something moves.
 
