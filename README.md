@@ -2,7 +2,67 @@
 
 I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
-The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
+## How I approach problems
+
+I've spent a lot of time trying to understand how I solve problems, including what happens when I misunderstand something, how I correct myself, and how easily an explanation can move away from the thing I was originally looking at.
+
+I didn't start by constructing a theory about other people. I started by observing myself. I wanted to know what I was actually doing while I was thinking, not just how I described it afterward. That meant paying attention to mistakes, revisiting my own assumptions, and sometimes finding that the problem I was trying to solve wasn't the problem in front of me anymore.
+
+One thing I keep returning to is how much our sense of scale influences the way we approach problems.
+
+We grow up learning about an unimaginably large universe. We're introduced to infinity, enormous distances, complexity, and things we may never fully understand. It's natural to look at something that large and expect the explanation to be equally enormous. I think we carry some of that expectation into ordinary problem-solving.
+
+We consider possibilities, then possibilities within those possibilities. We anticipate mistakes, construct explanations, correct those explanations, and sometimes build entire systems around things that haven't happened. Much of this comes from trying to understand something properly and not wanting to be wrong. I recognize that behavior because I've observed it in myself.
+
+But mathematics offers an interesting distinction: **the complexity of what a system produces doesn't necessarily tell us how complicated its starting conditions must be.**
+
+A small finite set of relationships can produce complicated patterns through repetition and interaction. A process can continue without needing an entirely new foundational rule for every new result. This doesn't tell us whether the physical universe is finite or infinite. It does give us another way to approach a problem.
+
+Instead of beginning with every possibility, I can begin with what's present.
+
+I can observe a state, make a movement, compare the result, and follow the relationships that continue. If something changes unexpectedly, I can investigate that difference. If a description fails, I can correct what failed without discarding everything else or inventing additional explanations in advance.
+
+This is where A/B comes into my work.
+
+I'm interested in what changes between states, what remains related, and whether those relationships can be preserved through further movement. A/B gives me a way to construct, compare, and investigate those movements rather than relying entirely on my interpretation of them.
+
+The mathematics makes parts of that investigation executable. For example, I've been experimenting with deliberately constrained movement and oscillation inside small finite systems, allowing movements to interact and observing the structures that result. We started by trying nine anchors and are currently working with forty-eight. I don't know whether forty-eight is the smallest useful set. That's something to investigate through the construction, not a number I need to defend in advance.
+
+What interests me is how much complexity can arise from simple relationships, and how far those relationships can be followed before they require correction.
+
+## Why I use harnesses
+
+A large part of this work has involved learning to preserve continuity.
+
+When I'm investigating something, I don't want to stop every few steps and reconstruct the entire history of how I arrived there. I want the observations, attempted movements, failures, corrections, and successful tests to remain accessible while the investigation continues.
+
+That's why I've become so interested in building harnesses.
+
+I use software and AI to help retain that continuity, construct experiments, compare results, and independently check parts of the work. They help me keep moving without substituting an explanation for an observation.
+
+The same principle matters when I'm looking at my own reasoning. I want to be able to recognize when something I've said no longer matches what I've observed, correct it, and continue without pretending the earlier movement never happened.
+
+I take that responsibility seriously because the things we describe can influence what other people go on to build, believe, or investigate.
+
+## Where this leads
+
+The broader question for me is about human problem-solving.
+
+We have an extraordinary ability to construct descriptions, abstractions, and increasingly complex systems. But those descriptions still have to meet the relationships of whatever we're working with.
+
+If we keep extending explanations without returning to what supports them, errors can accumulate. Eventually, those errors can affect the systems built upon them. I think regrounding—returning to the actual relationships and correcting what no longer fits—is an important part of keeping those systems working.
+
+I don't think that requires everyone to use the same language, mathematical construction, or method. Different approaches can arrive at the same observable constraints.
+
+I'm interested in whether we can become better at recognizing those constraints without first trying to account for every imaginable possibility.
+
+That's what connects my interest in language, mathematics, software, human behavior, and the way people understand one another. The subjects look different, but I keep encountering the same practical question:
+
+**What is actually here, what changes when something moves, and what can I carry forward without losing the relationship?**
+
+The research grew out of questions I've had for a long time. Some of those questions now have source code, mathematical constructions, experiments, and records attached to them. Others are still questions.
+
+I'm continuing to work through them.
 
 [![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble)
 [![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md)
