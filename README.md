@@ -47,10 +47,6 @@ Some of the observations are about the world around me; some are about my own ex
 
 I use AI to help explore descriptions, make programs, and prepare writing. It's a tool and another perspective, not the source of every question. What I personally observed, what we inferred together, and what an independent test can establish are different records.
 
-I'm also actively trying to describe myself without deciding the answer before I've observed enough. A familiar explanation may fit part of an experience while missing how it continues. Autism is one framework I'm examining, not a completed map of who I am. The writing keeps my accounts, the assistant's interpretations, and the corrections together so I can locate where the description actually changes.
-
-[**Trying to Pin Myself Down While It Moves →**](writing/TRYING_TO_PIN_MYSELF_DOWN_2026-10-18.md)
-
 [**Language Referent →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [**Language and observation →**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Human Drift →**](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md)
 
 ## Workstation
@@ -93,7 +89,7 @@ Different questions need different evidence. An interesting correspondence doesn
 
 I have trouble writing a finished account of myself in isolation. I get more from another person's perspective, including when we get something wrong and have to work it out. I want both sides of those conversations preserved, not just an assistant's polished interpretation afterward.
 
-[**Origin of the Investigation**](writing/ORIGIN.md) · [**Childhood**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful**](writing/CHILDHOOD_PART_TWO.md) · [**Language and Observation**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) · [**Trying to Pin Myself Down**](writing/TRYING_TO_PIN_MYSELF_DOWN_2026-10-18.md)
+[**Origin of the Investigation**](writing/ORIGIN.md) · [**Childhood**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful**](writing/CHILDHOOD_PART_TWO.md) · [**Language and Observation**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
 
 [**Read all writing →**](writing/README.md) · [**Original quotations →**](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
 
