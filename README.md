@@ -1,6 +1,6 @@
 # Hi, I'm James.
 
-I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
+I like being with my family, being outside, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote.
 
 [![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble) [![Mathematics](https://img.shields.io/badge/MATH-FINITE_MODELS-080e19?style=flat-square&labelColor=080e19&color=536C91)](showcase/MATHEMATICS.md) [![Writing](https://img.shields.io/badge/WRITING-ORIGINAL_RECORDS-080e19?style=flat-square&labelColor=080e19&color=775C78)](writing/README.md) [![Provenance](https://img.shields.io/badge/METHOD-AI_ASSISTED-080e19?style=flat-square&labelColor=080e19&color=856840)](PROVENANCE.md)
 
@@ -27,11 +27,11 @@ I'm interested in the human side of this as much as the mathematics. We make dec
 
 ## Before the repositories
 
-Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world. Later I spent years around Quake III and World of Warcraft, watching other players, learning the games, and meeting people I wanted to keep playing with.
+Before I had repositories, I was the kid spending hours looking through the grass for little animals, collecting diaries, and building a GeoCities page for graffiti from around the world.
 
 Those weren't research projects. That's just what I was doing. The questions came later, and now some have code, experiments, and records attached to them.
 
-[**Childhood and the Early Internet →**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful →**](writing/CHILDHOOD_PART_TWO.md) · [**Origin of the investigation →**](writing/ORIGIN.md)
+[**Childhood and the Early Internet →**](writing/CHILDHOOD.md) · [**Origin of the investigation →**](writing/ORIGIN.md)
 
 ## Mathematics that actually moves
 
@@ -97,7 +97,7 @@ Different questions need different evidence. An interesting correspondence doesn
 
 I have trouble writing a finished account of myself in isolation. I get more from another person's perspective, including when we get something wrong and have to work it out. I want both sides of those conversations preserved, not just an assistant's polished interpretation afterward.
 
-[**Origin of the Investigation**](writing/ORIGIN.md) · [**Childhood**](writing/CHILDHOOD.md) · [**World of Warcraft and Reckful**](writing/CHILDHOOD_PART_TWO.md) · [**Language and Observation**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
+[**Origin of the Investigation**](writing/ORIGIN.md) · [**Childhood**](writing/CHILDHOOD.md) · [**Language and Observation**](writing/LANGUAGE_AND_OBSERVATION.md) · [**Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
 
 [**Read all writing →**](writing/README.md) · [**Original quotations →**](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
 

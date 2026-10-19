@@ -1,7 +1,7 @@
 # Watching What Continues — Observation, Games, and Language
 *James and the assistant · Conversation of October 16–17, 2026*
 
-[← Writing](README.md) · [Childhood and the Early Internet](CHILDHOOD.md) · [World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Original quotation archive](LANGUAGE_AND_OBSERVATION_QUOTES.md)
+[← Writing](README.md) · [Childhood and the Early Internet](CHILDHOOD.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Original quotation archive](LANGUAGE_AND_OBSERVATION_QUOTES.md)
 
 This conversation started with James asking about living people he called “tracers/scopers.” We moved through a GeoGuessr player, competitive shooters, StarCraft, Bruce Lee, language, and finally an image of a sky. I kept offering finished explanations. James kept supplying examples that changed what could be understood.
 
@@ -121,4 +121,4 @@ The page ends where the conversation leaves us: with people, games, performances
 
 ---
 
-*Related reading:* [Childhood and the Early Internet](CHILDHOOD.md) follows the early game memories. [World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md) follows people and styles across servers. [Language and Observation](LANGUAGE_AND_OBSERVATION.md) examines the misunderstandings and corrections in more detail. [Research method](../docs/RESEARCH_METHOD.md) keeps testable claims separate from conversational exploration.
+*Related reading:* [Childhood and the Early Internet](CHILDHOOD.md) preserves earlier memories. [Language and Observation](LANGUAGE_AND_OBSERVATION.md) examines misunderstandings and corrections in more detail. [Research method](../docs/RESEARCH_METHOD.md) keeps testable claims separate from conversational exploration.

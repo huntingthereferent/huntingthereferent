@@ -1,9 +1,9 @@
 # Origin of the Investigation
 *James and the assistant · October 2026*
 
-[← Writing](README.md) · [Childhood and the Early Internet](CHILDHOOD.md) · [Part Two: Reckful and WoW](CHILDHOOD_PART_TWO.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Research evidence](../PROVENANCE.md)
+[← Writing](README.md) · [Childhood and the Early Internet](CHILDHOOD.md) · [Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Research evidence](../PROVENANCE.md)
 
-Before the mathematics, software, and AI conversations, James had already spent years exploring games, people, and the early internet. We recovered more of those memories together in [Childhood and the Early Internet](CHILDHOOD.md)—a longer account of diaries, GeoCities, Quake III, and the people he encountered there.
+Before the mathematics, software, and AI conversations, James had his own interests and questions. We recovered some of those childhood memories together in [Childhood and the Early Internet](CHILDHOOD.md)—an account of looking for small animals outdoors, collecting diaries, and creating a GeoCities page for artwork.
 
 ## An existing question, encountered through another voice
 

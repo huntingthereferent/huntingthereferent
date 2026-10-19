@@ -16,7 +16,7 @@ James is part of the experiences he describes. He has a life outside the researc
 
 | Subject | Original records |
 | --- | --- |
-| **People and childhood** | [Childhood and early internet](writing/CHILDHOOD.md) · [World of Warcraft and Reckful](writing/CHILDHOOD_PART_TWO.md) |
+| **People and childhood** | [Childhood and early internet](writing/CHILDHOOD.md) |
 | **Conversation and correction** | [Language and observation](writing/LANGUAGE_AND_OBSERVATION.md) · [Writing index](writing/README.md) |
 | **Language Referent** | [Research source](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) |
 | **Finite mathematics** | [Constructed examples](showcase/MATHEMATICS.md) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |

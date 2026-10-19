@@ -18,10 +18,9 @@ I want the pages to keep both sides visible: what I said, what the assistant mad
 | Record | Scope |
 | :--- | :--- |
 | **[Origin of the Investigation](ORIGIN.md)** | Where the questions started: relationships, learning, money, and conversations that led into mathematics and software. |
-| **[Childhood and the Early Internet](CHILDHOOD.md)** | Diaries, GeoCities, Quake III, Darkness and Amok, and meeting people through games. |
-| **[World of Warcraft and Reckful](CHILDHOOD_PART_TWO.md)** | Altar of Storms, Tichondrius, Blackrock, healing, arenas, Durotar, and the players I kept watching. |
+| **[Childhood and the Early Internet](CHILDHOOD.md)** | Looking through the grass, collecting diaries, GeoCities, and remembering those early interests. |
 | **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Shortening and unfolding language, reading, feelings, misunderstanding, Human Drift, correction, and silence. |
-| **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Rainbolt, Tarkov and ABI, BoxeR, Mvp, Bruce Lee, the sky, and what I kept noticing while we talked. |
+| **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Observational learning, presence, language, performances, and a changing physical environment. |
 | **Source record · [Original conversation quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)** | What was actually said, who said it, and when. The later writing doesn't replace it. |
 
 ## Research and supporting records
