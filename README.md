@@ -2,6 +2,16 @@
 
 I like being with my family, being outside, playing games, and learning what other people are interested in. I can spend a long time watching how someone does something, especially when they really care about it. I like getting another perspective. Sometimes that's a conversation; sometimes it's reading something someone wrote or playing alongside them.
 
+## What I keep coming back to
+
+I carry this around in my head every day, and I feel responsible for it. I keep checking it from different angles, including my own. Am I looking at what's actually there? Am I adding explanations because I'm afraid of being wrong? Is there something I've seen clearly enough that I need to tell someone? I don't want to say more than I can stand behind, but I don't want to ignore it either.
+
+I don't think we have to account for every possible answer before we can move. People can spend forever correcting possibilities they invented while trying not to be wrong. I'd rather start with what's in front of me, make a movement, look at what changed, correct what actually failed, and continue. Stopping to talk can help us correct something real. It shouldn't mean freezing everything while we imagine every way it might go wrong.
+
+That's also how I want to build a world. Start with a tiny, bounded state and deliberately make movement oscillate within it. Let movements interact. Observe which relationships continue, use A/B to follow them from one state to the next, and let the world develop through that movement. I don't want to choose a complete physics engine first and force the world to fit it. I want the observed movement to help construct and correct the working model.
+
+We tried nine anchors first. Forty-eight is the current working set because it gave us somewhere to move and test, not because I've established that 48 is fundamental or minimal. I don't know the smallest set yet. A finite starting point doesn't decide in advance how complex the continuing movement can become.
+
 The research grew out of questions I've had for a long time. I'm interested in what changes when people misunderstand each other, what stays the same when the description changes, and what I can actually demonstrate with mathematics or software.
 
 [![Research](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-080e19?style=flat-square&labelColor=080e19&color=477765)](https://github.com/huntingthereferent/autobots-assemble)
