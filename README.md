@@ -2,11 +2,13 @@
 
 *Independent research · Finite mathematics · Software systems*
 
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-NOTES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
 I'm James. I like getting another perspective on things, and I spend a lot of time looking at what changes when something moves.
 
 My research starts from bounded observations. I build mathematical models, interactive experiments, and software that help me test relationships, catch mistakes, and keep the actual record when the work continues.
 
-[Research](RESEARCH.md) · [Source code](https://github.com/huntingthereferent/autobots-assemble) · [Writing](writing/README.md) · [Evidence](PROVENANCE.md) · [Current work](https://huntingthereferent.github.io/autobots-assemble/live/)
+[Current work](https://huntingthereferent.github.io/autobots-assemble/live/) · [Research sources](PROVENANCE.md)
 
 ## Selected work
 
