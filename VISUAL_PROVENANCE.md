@@ -2,6 +2,12 @@
 
 [← James's GitHub profile](README.md) · [Research overview](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Complete project inventory](showcase/PROJECT_INVENTORY.md)
 
+## Current profile visual
+
+The [profile](README.md) intentionally uses **one** research illustration: [finite-motion.svg](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg), generated from the [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py) using the [motion renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py). Its state changes belong to that construction. An animated diagram does not independently prove a claim.
+
+Other A/B motion examples are in the [mathematics showcase](showcase/MATHEMATICS.md). External data visuals, their timestamps, and separate collection boundaries remain below in this index. The profile keeps these detailed views one click away instead of using every visual as a decorative biography.
+
 [![Neon field connecting people, early internet, games, language and code](assets/observational/people-and-work.svg)](VISUAL_SYSTEM.md)
 
 [**Explore the visual and the mathematical distinctions →**](VISUAL_SYSTEM.md)
