@@ -14,6 +14,7 @@ The original [quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) stays separa
 | Source | Question |
 | --- | --- |
 | [Origin](ORIGIN.md) | How did an existing question become a language, mathematical and software inquiry? |
+| [The Human Wall](THE_HUMAN_WALL.md) | Why start with finite movement, and how do correction and evidence constrain the explanation? |
 | [Childhood](CHILDHOOD.md) | Which memories were reported, and which later connections remain interpretations? |
 | [Language and observation](LANGUAGE_AND_OBSERVATION.md) | What changes when words compress, a response drifts, or silence continues? |
 | [Watching what continues](WATCHING_WHAT_CONTINUES_2026-10-17.md) | What can observational learning establish, and where does inference begin? |
