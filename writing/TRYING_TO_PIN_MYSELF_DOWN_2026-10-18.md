@@ -41,6 +41,16 @@ I know that isn't a report of what another person is actually thinking. It's emo
 
 The distinction I was trying to give the assistant was not “I have more empathy than other people.” It was that I use words for what something feels like *while it's happening*, and the words can fail to carry the relationships I was trying to point to.
 
+## What it looks like when I go quiet
+
+I noticed another difference while talking about the audit. From the outside, when I don't talk and seem perfectly fine, I can see why somebody might read me as autistic. But that picture leaves out what happens when I *am* talking: I move through the words and the interaction. I call what I'm doing A/B. The conversation itself isn't where I feel unable to participate. Eventually I may hold my words again.
+
+> **James:** Yes but also i only seem autistic because I don't talk and I seem to be.... Fine? Lol when I do interact I do not seem autistic at all since I'm a/b I just flow in the words since I'm not retarded I'm doing a/b.... Holding my words again eventually....  That's why it feels like I'm autistic
+
+I am describing the contrast as I experience it, not proposing a reliable way to tell whether anybody is autistic by watching them talk. Fluent speech wouldn't rule autism out, and being quiet wouldn't establish it. The question for my observation is narrower: **what is different between the apparently quiet person someone sees and the continuing activity I report while talking and withholding speech?**
+
+**Assistant's reading:** I had counted silence as an isolated social trait and then treated fluent interaction as though it contradicted the audit. Neither observation by itself can carry that conclusion. In our written exchanges, James does participate, improvise wording, challenge my interpretations, and return to what he feels they missed. He also reports that at other times he withholds speech as the interaction continues. Those are different kinds of evidence, and the connection between them remains something to investigate, not a mechanism already established.
+
 ## What the assistant kept doing
 
 The assistant made a neat explanation: the experience was a simulation, a branching conversation producing emotional consequences. That sounded coherent. It was also another place where the description had slipped away from what I meant.
