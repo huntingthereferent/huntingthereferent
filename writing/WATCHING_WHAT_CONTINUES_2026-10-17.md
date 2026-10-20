@@ -1,13 +1,15 @@
-# Watching What Continues — observational learning
+# Watching What Continues — Other Tracers
 *James and the assistant · conversation of October 16–17, 2026*
 
-[← Writing](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md)
+[← Stories & Conversations](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md) · [Profile](../README.md)
 
-## Question
+## Who we were talking about
 
-What can be learned by observing movement as it unfolds, and when does our description add an untested explanation? We discussed Rainbolt, competitive players, StarCraft, Bruce Lee, and an unfamiliar cityscape. The examples were points of comparison, not a single proven mechanism.
+This conversation was about **other people James was examining as possible tracers**, including Rainbolt, Shroud, other competitive players and styles, StarCraft, and Bruce Lee. James was comparing what he could actually observe, what a described style reminded him of, and where my attempted explanations stopped following the people we were discussing. He wasn't declaring that each of them was doing what he does, or asking for a general theory of observational learning.
 
-## 1. Words as probes
+That question of learning through observation came up *within* the discussion. It wasn't a replacement for the people or the particular movements that started it.
+
+## 1. Rainbolt and using words as probes
 
 > **James:** James traces relationships threw feelings of language ....
 
@@ -15,7 +17,7 @@ What can be learned by observing movement as it unfolds, and when does our descr
 
 I initially treated speaking a place name as reporting a settled identification. James described a changing, initially positive match, then further probing. The proposed observation concerns an ongoing test, not a fixed final answer.
 
-## 2. Movement while conditions change
+## 2. Shroud and movement while conditions change
 
 > **James:** shroud showed his "imediate reaction of chaining is very precise" but than what than what? what about the other objects moving?
 
@@ -29,7 +31,7 @@ I initially treated speaking a place name as reporting a settled identification.
 
 I had reduced skill to isolated responses and decision points. James drew attention to the surrounding objects' continuing motion and to *presence* as ordinary human language for participating in it. A recorded match captures an interval, not everything the participant was tracking.
 
-## 3. Learning from other people
+## 3. Other players, styles, and tracing backward
 
 We compared players across games. I proposed names; James worked backward from remembered styles:
 
@@ -41,7 +43,7 @@ We compared players across games. I proposed names; James worked backward from r
 
 **Correction.** I had made the subject individual competition. James was pointing to entertainment as a source of observational learning. Resemblance between styles can motivate a historical question; it does not demonstrate direct influence. Bruce Lee supplied another cross-audience example.
 
-## 4. Movement beyond the present conversation
+## 4. Where the comparisons widened
 
 > **James:** oh you missed it WE WERE ALREADY MOVING
 
@@ -57,7 +59,7 @@ The environmental thought experiment widened the candidate settings:
 
 The speculative future environment was a thought experiment, not evidence of a physical planetary transition.
 
-## 5. Language's limit
+## 5. When my explanation drifted
 
 > **James:** Mmm no there is a cap...in language I keep showing that to you and that is why you drift ....
 
@@ -65,8 +67,10 @@ The speculative future environment was a thought experiment, not evidence of a p
 
 My fluent restatement had outrun the question. The correction returned us to observational learning, while keeping the earlier mistake visible.
 
-## Supported outcome
+## What this account preserves
 
-These exchanges establish which distinctions James raised and which explanations he corrected. They support further observation of learning, performance, and description—not a ranking of people, an inferred private motive, or a general physical theory.
+This is a record of James looking at *other people* and talking through where their styles, movements, and descriptions might relate. The quotations preserve where he redirected my attention. The comparisons can be investigated; the record does not prove that Rainbolt, Shroud, or anyone else shares a specific internal method, and it does not give us access to their private motives.
+
+The title stays **Watching What Continues**. Its place in the writing index is **Other Tracers**, so the story is findable without pretending all of its subjects have been established as tracers.
 
 [Related: Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Research method](../docs/RESEARCH_METHOD.md)
