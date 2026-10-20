@@ -7,8 +7,6 @@
 
 **Outdoors.** James recalls spending hours in the yard finding lizards, slugs, and Hawaiian blind snakes. He caught and held lizards; now he describes them as delicate and does not particularly want to handle them.
 
-> and also theres no lizards here lmao
-
 **Diaries.** He collected diaries because he liked reading other people's thoughts. He owned diaries but had difficulty filling them.
 
 **Early internet.** Around middle school, he built a GeoCities page for graffiti tags and artwork from different places.
