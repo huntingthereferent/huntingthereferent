@@ -58,6 +58,8 @@ This is the [source-built Internet map](https://github.com/huntingthereferent/au
 
 The technical projects are instruments for examining particular relationships. Their evidence belongs to their own systems; the Human Wall isn't made true just because a test passes.
 
+I keep the failed attempts. A green CI job is not a native solve, and a drawing is not a witness. The [source-pinned research register](RESEARCH_REGISTER.md) connects concrete results to the original runs, negative controls, and limits.
+
 - **[A/B mathematics](showcase/MATHEMATICS.md)** — Finite constructions, deliberate oscillation, composition, correspondence, counterexamples, and their limits.
 - **[Interactive worlds and ARC](ARC_EVIDENCE.md)** — Native actions, observations, replays, failures, and tested predictions.
 - **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Bounded workers, continuation, recorded handoffs, and independent checks.
@@ -85,6 +87,7 @@ This example compares action order in a [defined finite A/B construction](https:
 | [Selected implementations](SELECTED_WORK.md) | Concrete code and investigations |
 | [Complete inventory](showcase/PROJECT_INVENTORY.md) | The larger range of work, including unfinished lanes |
 | [Research evidence and limits](PROVENANCE.md) | What is observed, inferred, independently checked or still open |
+| [Source-pinned research register](RESEARCH_REGISTER.md) | Exact inputs, published witnesses, negative controls, and what remains unproven |
 | [Source index](showcase/SOURCE_INDEX.md) | Entry points to implementation records |
 | [Finite-state correspondence](docs/FINITE_STATE_CONJUGACY.md) | Domain-specific mathematics, not a model of people |
 | [Native ARC runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) | Recorded actions and replay evidence |
