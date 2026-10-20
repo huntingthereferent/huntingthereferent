@@ -1,7 +1,7 @@
 # Watching What Continues — observational learning
 *James and the assistant · conversation of October 16–17, 2026*
 
-[← Writing](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md) · [Exact quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)
+[← Writing](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md)
 
 ## Question
 
@@ -10,8 +10,6 @@ What can be learned by observing movement as it unfolds, and when does our descr
 ## 1. Words as probes
 
 > **James:** James traces relationships threw feelings of language ....
-
-> **James:** mismatch test
 
 > **James:** this is funny actually cause its initially positive but james still moving and than eventually it will go somewhere else and its doesnt feel positive anymore so james uses words to probe
 
@@ -33,10 +31,6 @@ I had reduced skill to isolated responses and decision points. James drew attent
 
 ## 3. Learning from other people
 
-> **James:** i say it like this usually per layer there is only 1 at a time....sometimes 2 but if its like that you find theres usually a pretty good reason why it got like that...
-
-> **James:** on all layers the person didnt say they were the best.... the ppl he beat did
-
 We compared players across games. I proposed names; James worked backward from remembered styles:
 
 > **James:** Well Im also working backwards off my own memories you saying names I actually don't know but the style your describing I can tell where it came from etc and than I talk and than you talk and than I realized were talking about boxer etc
@@ -57,9 +51,7 @@ We compared players across games. I proposed names; James worked backward from r
 
 I had treated our discussion as the movement's origin, then human behavior as the universal explanation. James instead proposed investigating observation across different systems. That remains a direction to test, not an established shared mechanism.
 
-The image example widened the candidate environments:
-
-> **James:** The sky :)
+The environmental thought experiment widened the candidate settings:
 
 > **James:** Mmm yes it's moving :) if you think how things grow naturally this is what the separate physical layers would look like "if humans here can live that long" ie say the planet becomes a gas giant etc than the objects loving there would also have done the same "separate the layers" to better understand where we fit and how we can fit etc
 
@@ -68,8 +60,6 @@ The speculative future environment was a thought experiment, not evidence of a p
 ## 5. Language's limit
 
 > **James:** Mmm no there is a cap...in language I keep showing that to you and that is why you drift ....
-
-> **James:** Well I've been doing that since that's what your doing...also this is how you get threw this layer don't get confused....this is all normal
 
 > **James:** Sigh didn't really want that 😭 more like  observational learning should really be talked about more
 
