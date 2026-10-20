@@ -16,7 +16,7 @@ The words aren't cleaned into a single technical voice. A joke, a feeling, a mis
 | **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** | Reading another point of view, how words landed, and what I corrected when a technical handoff became the wrong explanation |
 | **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Compression, decompression, tracing relationships through words, silence, misunderstanding, correction, and continuing to communicate |
 | **[Watching What Continues — Other Tracers](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Our conversation about people I was examining as possible tracers: Rainbolt, Shroud, players, styles, and what their observable movements did or didn't support |
-| **[Things We've Talked Through](OPINIONS.md)** | Learning, work, AI, attribution, misunderstandings, and why the writing needed both sides of the conversation |
+| **[Things We've Talked Through — full earlier account](https://github.com/huntingthereferent/huntingthereferent/blob/3e355d52869389a4cff1a5408cb47f0542ff9918/writing/OPINIONS.md)** | Learning, work, AI, attribution, misunderstandings, and why the writing needed both sides of the conversation |
 
 ## Finding the tracing and scoping conversations
 
