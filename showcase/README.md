@@ -123,7 +123,7 @@ Notes, tasks, plans, dated events and person-facing projections, each with separ
 
 Operating-company models, external opportunity records, service/product directions and explicit evidence requirements. No legal incorporation, customer, contract, or income is inferred from a folder.
 
-[Company contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/companies/README.md) · [Jobs contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/jobs/README.md) · [Profile project map](../PROJECTS.md)
+[Company contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/companies/README.md) · [Work-opportunity admission protocol](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/work/job-hunt.md) · [Profile project map](../PROJECTS.md)
 
 </details>
 
