@@ -1,8 +1,20 @@
 # ARC Research — source and evidence index
 
-*Scope: ARC-AGI-3 native game investigations and separate ARC-like mathematical construction research. Updated October 10, 2026.*
+*Scope: original ARC-AGI-3 game observations and distinct ARC-like finite mathematical constructions. Historical source-transfer section assembled October 10; original-SDK progress updated October 20, 2026.*
 
 This index links to **actual public code and test entry points**, then states which reported game outcomes do and do not have corresponding public execution data. Source code, a passing test, a recorded score, and a reproducible winning trajectory are different types of evidence.
+
+## October 20 native SP80 — actual level 3 of 6
+
+**The public original ARC-AGI-3 SP80 game now has an independently reproduced `levels_completed=3` result.** This supersedes the earlier statement that the source-native investigation had only entered level 2. The earlier source-negative level-2 tests remain genuine negative tests for their particular control words; they should not be erased.
+
+- [Original SDK finite-screen candidate experiment](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39462922216): 32 authentic independent original-game resets, with **two actual level-3 advances**, one from each independently verified earlier stage-1 witness. The successful stage-2 native word was `6@12,21 4 6@44,29 3 3 6@12,33 3 3 6@40,41 4 5`; the screen-flow proxy was **only a proposal**, not a recovered engine rule.
+- [Independent stage-3 native entry and screen map](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39463571663): two fresh original game resets reproduced `levels_completed=3`, `NOT_FINISHED`, with identical entered stage-3 source screens. [Read the executable source](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc3/native_sp80_stage3_entry_source_map.py).
+- [Native level-3 feedback controls](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39471887855): 32 authentic stage-3 trials, **32 ended level 3, zero level-4 or WIN** under the tested actions. [Inspectable program and its exact result criteria](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc3/native_sp80_stage3_native_feedback.py).
+
+The inspected evidence therefore supports a **bounded original-SDK 3/6 progression**, but **not level 4, a six-level WIN, a universal game-solving algorithm, or a proven correspondence between the constructed F3 mathematics and the native game**. Actual source game level outcomes, original frame returns and negative controls take priority over captions or inferred puzzle physics.
+
+[Current source-pinned research register](RESEARCH_REGISTER.md) · [Native ARC lane](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc3) · [Original W12/legacy native route records](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs)
 
 ## 01 / Native ARC-AGI-3 — actual software
 
