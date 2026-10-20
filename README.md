@@ -1,3 +1,5 @@
+![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
+
 # THE HUMAN WALL
 
 **This is why I do this work.** I began by examining my own reasoning and corrections. I keep asking whether growing up with the enormous scale of the universe — and everything we know we don't know — changes how we approach the smaller problem actually in front of us.
@@ -28,6 +30,8 @@ I started with my own misunderstandings because those were there to examine. The
 
 ## I'm James.
 
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
 I like being with my family, spending time outside, reading, and finding out what other people are interested in. As a kid I spent hours looking for small animals in the grass, collected diaries because I wanted to read other people's thoughts, and made a GeoCities page for graffiti from around the world. I also spent a lot of time around games, other players, and the early internet. Those were things I enjoyed doing, not a research program I secretly had planned.
 
 I can spend ages looking for the right words and then laugh at the whole situation. At one point I put it this way:
@@ -44,6 +48,12 @@ The writing is part of the investigation, not a polished biography written after
 
 [Childhood and the early internet](writing/CHILDHOOD.md) · [Origin](writing/ORIGIN.md) · [Finding the words](writing/FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) · [**Other tracers — Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) · [Tracing, scoping, and language](writing/LANGUAGE_AND_OBSERVATION.md)
 
+## People, play, language, and work
+
+[![Connected people, early internet, games, conversation, language and code](assets/observational/people-and-work.svg)](VISUAL_SYSTEM.md)
+
+The original illustrated field belongs here alongside the Human Wall rather than disappearing into a separate page. It brings together people, games, reading, conversations and code without suggesting a diagram could explain a person. [The visual, its source and its limits →](VISUAL_SYSTEM.md)
+
 ## Research & selected work
 
 The technical projects are instruments for examining particular relationships. Their evidence belongs to their own systems; the Human Wall isn't made true just because a test passes.
@@ -53,11 +63,39 @@ The technical projects are instruments for examining particular relationships. T
 - **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Bounded workers, continuation, recorded handoffs, and independent checks.
 - **[Language and observation](writing/LANGUAGE_AND_OBSERVATION.md)** — Conversation, tracing, misunderstanding, correction, and preserved perspectives.
 
+
+## How I investigate the question
+
+I begin with finite, bounded movement and see what its interactions support rather than designing around every imagined possibility. I can carry questions between conversations, games, mathematics, physical inquiries, and software, but each retains its actual sources and limits. A correction should return to the observation without erasing useful information from the detour.
+
+The nine-anchor and 48-law worlds are working constructions, not established universal counts. A model can fail while an observed relationship survives; a successful test can verify the defined case without proving a story about people.
+
+[Research method](docs/RESEARCH_METHOD.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md)
+
+## One finite example
+
 <a href="showcase/MATHEMATICS.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="600" alt="Source-rendered finite A/B paths: order changes the state in a specific defined model" /></a>
 
-This is an example from a [specific finite implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), rendered from its [source](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py), not an illustration of my mind or proof of a universal theory.
+This illustration comes from a [specific finite implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), using a [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py). Its observed transitions belong to that construction. [Further experiments, counterexamples and limitations →](showcase/MATHEMATICS.md)
 
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+## Observations from outside the repo
+
+[![Source-linked public observations, with their own provenance and timestamps](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+Public observations, timestamps and collection boundaries belong to their data sources; this view is not independent evidence for the Human Wall. [Inspect the underlying records →](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
+
+## Research records and paths
+
+| Path | What is there |
+| --- | --- |
+| [Selected implementations](SELECTED_WORK.md) | Concrete code and investigations |
+| [Complete inventory](showcase/PROJECT_INVENTORY.md) | The larger range of work, including unfinished lanes |
+| [Research evidence and limits](PROVENANCE.md) | What is observed, inferred, independently checked or still open |
+| [Source index](showcase/SOURCE_INDEX.md) | Entry points to implementation records |
+| [Finite-state correspondence](docs/FINITE_STATE_CONJUGACY.md) | Domain-specific mathematics, not a model of people |
+| [Native ARC runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) | Recorded actions and replay evidence |
+| [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
+| [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
 
 [The Human Wall — longer account](writing/THE_HUMAN_WALL.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
 

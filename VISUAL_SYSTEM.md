@@ -2,11 +2,11 @@
 
 [← The Human Wall / Profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
 
-The profile's primary visual structure is **its written Human Wall and the handoff into James's voice**. This page preserves supporting, previously created illustrations and their source distinctions. It is not the entrance to the About Me page, and no diagram here is a substitute for reading the text.
+The profile now opens with a humanity-and-internet-culture banner, moves through the full written Human Wall and James's own introduction, then restores the original people-and-work illustration alongside the research materials. This page preserves the illustrations' distinct purposes and sources. No diagram is a substitute for the writing or for original research evidence.
 
 [![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
-**[View the connected visual](assets/observational/people-and-work.svg)** · [Source and evidence index](PROVENANCE.md)
+**[View the connected visual](assets/observational/people-and-work.svg)** · [Return to the restored illustration on the profile](README.md#people-play-language-and-work) · [Source and evidence index](PROVENANCE.md)
 
 ## What the image is for
 
