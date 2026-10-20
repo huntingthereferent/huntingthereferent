@@ -2,11 +2,11 @@
 
 [← The Human Wall / Profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
 
-The profile now opens with a humanity-and-internet-culture banner, moves through the full written Human Wall and James's own introduction, then restores the original people-and-work illustration alongside the research materials. This page preserves the illustrations' distinct purposes and sources. No diagram is a substitute for the writing or for original research evidence.
+The profile begins with the humanity-and-internet-culture banner, the full written Human Wall, and James's first-person introduction. Its later visual sequence now uses the original Internet observations map, A/B graphics, and a finite-motion example. The older people-and-work illustration is archived here rather than displayed on the profile. No diagram substitutes for the writing or original research evidence.
 
 [![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
-**[View the connected visual](assets/observational/people-and-work.svg)** · [Return to the restored illustration on the profile](README.md#people-play-language-and-work) · [Source and evidence index](PROVENANCE.md)
+**[View the earlier connected visual](assets/observational/people-and-work.svg)** · [Internet map on the profile](README.md#the-internet-map) · [A/B graphics on the profile](README.md#ab--movement-and-correspondence) · [Source and evidence index](PROVENANCE.md)
 
 ## What the image is for
 
@@ -30,7 +30,7 @@ James is part of the experiences he describes. He has a life outside the researc
 
 Cyan, magenta, violet and lime distinguish paths and subjects. A drawn connection indicates something James has considered or wants to examine; it does not establish causality, equivalence, or a shared mechanism. In particular, a relationship between human experiences is not automatically a formally defined A/B operation.
 
-Earlier research graphics used a separate A/B legend. It remains available as an [illustration of mathematical movement and correspondence](assets/observational/continuity-legend.svg), with meaning only inside the models where the operators have actually been defined.
+The [A/B overview](assets/observational/continuity.svg), [movement and correspondence legend](assets/observational/continuity-legend.svg), [earlier continuity atlas](assets/observational/continuity-loom.svg), and [observation/correction sequence](assets/observational/movement.svg) are again visible on the profile. Each is an illustration, and the stated mathematical meaning belongs only to the models where the operators are defined.
 
 ## A mathematical case within the work
 
@@ -60,8 +60,8 @@ For example, with `A(x)=x+1` and `B(x)=2x`, starting at `1` yields `A(B(1))=3` w
 
 **These equations describe specific defined models, not people or the whole visual.** Claims about actual systems belong to their own sources, tests and counterexamples.
 
-## Historical visual draft
+## Historical visual draft and Internet observations
 
-The [earlier A/B Continuity Atlas](assets/observational/continuity-loom.svg) is retained in the repo as a record of a previous design attempt. Its personal symbolism and placement are **not** the current representation of James. This supplementary visual keeps people and activities together without depicting anyone as the origin, endpoint, or leader of everyone else.
+The [earlier A/B Continuity Atlas](assets/observational/continuity-loom.svg) remains a previous design attempt, not a literal representation of James or a verified relationship between those worlds. The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg) is different: it records a bounded sample of public measurement probes and geography. Its [sources and limitations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md) must travel with the display; probe dots are not observed connections or traffic. The former world-data image is no longer shown on the profile.
 
 [Return to profile](README.md) · [Visual provenance](VISUAL_PROVENANCE.md) · [Evidence](PROVENANCE.md)
