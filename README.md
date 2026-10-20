@@ -1,14 +1,20 @@
 # James Muneoka
 
-*Independent research · Finite mathematics · Software systems*
+*Independent investigation · The Human Wall · A/B research*
+
+## The Human Wall
+
+**This is why I do this work.** I began by examining my own reasoning and corrections. I keep asking whether growing up with the enormous scale of the universe — and everything we know we don't know — changes how we approach the smaller problem actually in front of us.
+
+Sometimes we may carry uncertainty about *everything* into a question where the relevant evidence is much closer. We expand the possibilities, fear being wrong, or distrust what the local observation supports. When this becomes normal, the same problem may recur in language, methods, evaluation, and the systems we build. This is my research question, not a proven description of everybody.
+
+**I am investigating that human wall.** The finite mathematics, interactive worlds, ARC work, harnesses, AI-assisted software, and research records are instruments for investigating and correcting relationships. They are not separate explanations of what the project means to me.
+
+[**Read The Human Wall — the full account →**](writing/THE_HUMAN_WALL.md)
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-NOTES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 I'm James. I like getting another perspective on things, and I spend a lot of time looking at what changes when something moves.
-
-My research starts from bounded observations. I build mathematical models, interactive experiments, and software that help me test relationships, catch mistakes, and keep the actual record when the work continues.
-
-[Current work](https://huntingthereferent.github.io/autobots-assemble/live/) · [Research sources](PROVENANCE.md)
 
 ## Selected work
 
@@ -31,7 +37,9 @@ Those were things I enjoyed doing. The research questions came later.
 
 [Childhood and the early internet](writing/CHILDHOOD.md) · [Origin of the investigation](writing/ORIGIN.md)
 
-## How I work
+## How I investigate the question
+
+The Human Wall is the reason for this work; finite mathematics, software, AI-assisted construction, and the workstation are ways to investigate particular relationships, not alternate definitions of its purpose.
 
 I begin with finite, bounded motion and see what its interactions support rather than designing an explanation around every imagined possibility. A correction should return to the observation without throwing away the useful information gained along the way.
 
