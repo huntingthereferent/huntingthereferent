@@ -1,7 +1,7 @@
 # Origin of the Investigation
 *James and the assistant · October 2026*
 
-[← Writing](README.md) · [Childhood](CHILDHOOD.md) · [Language](LANGUAGE_AND_OBSERVATION.md) · [Source quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md)
+[← Writing](README.md) · [Childhood](CHILDHOOD.md) · [Language](LANGUAGE_AND_OBSERVATION.md)
 
 ## Starting question
 
@@ -17,11 +17,7 @@ Reading and generative AI give James ways to encounter descriptions he did not p
 
 > Also this is why I like "reading and generative ai cause I can get the same data from reading it than I can talking to someone about too and it's easier to move on since I'm just reading...
 
-The writing was also being flattened into the assistant's narrative. James corrected that approach:
-
-> and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
-
-> james does not communicate on "observational layer" BY HIMSELF .... pretty sure you can make the connection... if not ill just add... when i try to go by myself i jsut end up deleteing it...which is normal for james...
+The assistant's initial narrative flattened the exchange. James corrected that approach: the writing should carry both sides, not an assistant-only account.
 
 **Resulting method.** Retain James's wording, the assistant's reading, the mismatch, and the next correction. Do not present the assistant's reconstruction as James's private experience.
 
@@ -39,4 +35,4 @@ The question preceded the models. Subsequent finite-state constructions made spe
 
 A failed explanation is evidence of a mismatch, not proof of the replacement. The investigation still includes unresolved correspondence questions and a separate practical question: how years of learning can translate into paid work. Neither follows automatically from the other.
 
-[Original exchanges](LANGUAGE_AND_OBSERVATION_QUOTES.md) · [Language and observation](LANGUAGE_AND_OBSERVATION.md)
+[Language and observation](LANGUAGE_AND_OBSERVATION.md)
