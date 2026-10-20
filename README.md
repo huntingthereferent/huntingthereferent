@@ -74,12 +74,9 @@ The nine-anchor and 48-law worlds are working constructions, not established uni
 
 ## One finite example
 
-<p align="center">
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="48%" alt="Finite A/B motion: action order changes a defined state" /></a>
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="48%" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
-</p>
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion: action order changes a defined state" /></a>
 
-These two animated views come from [defined finite A/B constructions](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py) and their [source-owned motion renderers](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). The first compares action order; the second shows two independently checked action paths meeting at a state within the finite model. Neither claims a universal relationship outside that model. [Further experiments, counterexamples and limitations →](showcase/MATHEMATICS.md)
+This example compares action order in a [defined finite A/B construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py). The animation comes from the [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md); it is evidence about that model, not about human reasoning in general.
 
 ## Research records and paths
 
@@ -93,6 +90,12 @@ These two animated views come from [defined finite A/B constructions](https://gi
 | [Native ARC runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) | Recorded actions and replay evidence |
 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
 | [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
+
+## Where separate A/B paths meet
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
+
+A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
 
 [The Human Wall — longer account](writing/THE_HUMAN_WALL.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
 
