@@ -50,7 +50,7 @@ I don't want the finished explanation to erase the conversation that produced it
 
 For technical work, I want to be able to inspect what actually ran and what the evidence supports. A proposed connection is useful as a question. To call it a verified result, I need the appropriate source, test, or witness for that particular setting.
 
-- **Original words and corrections:** [Writing records](writing/README.md) · [Source quotations](writing/LANGUAGE_AND_OBSERVATION_QUOTES.md)
+- **Original words and corrections:** [Writing records](writing/README.md)
 - **Tests, implementations and limitations:** [Research](RESEARCH.md) · [Selected work](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md)
 - **Operational observational layer:** [Read-only views](https://github.com/huntingthereferent/autobots-assemble/tree/main/views) · [Existing visual provenance concept](https://github.com/huntingthereferent/autobots-assemble/tree/main/views/visual-provenance)
 
