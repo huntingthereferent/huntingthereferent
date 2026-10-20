@@ -14,8 +14,8 @@ This design does not presume that every reader will feel the same thing. It lets
 2. **The Human Wall** — the full uninterrupted prose immediately below the image, retained until the accumulation of the work changes the reading experience enough to reconsider it.
 3. **James** — the first-person handoff, with research badges directly beneath his name, then family, ordinary memories, humor, and his own words.
 4. **Stories & conversations** — the two-sided exchanges together in one index, including language/tracing and the story about examining **other tracers**.
-5. **People and work** — the original neon connected illustration restored to the profile as a second visual, rather than hidden.
-6. **Research & evidence** — finite mathematics, ARC, worlds, code, workers, native results, and their separate source boundaries.
+5. **The Internet map** — source-linked, bounded observational geography and public measurement-probe locations, distinct from the removed world-data panel.
+6. **A/B graphics and research** — A/B movement/correspondence, earlier atlas, observation/correction, finite mathematics, ARC, native tests, and their own evidence boundaries.
 
 The Human Wall's visual provenance is **the wording, punctuation, paragraph density, emphasis, order, and handoff**; the banner and later illustrations have separate artistic roles. It is not a chart of James or a scientific observation of the reader.
 
@@ -30,10 +30,10 @@ The Human Wall's visual provenance is **the wording, punctuation, paragraph dens
 
 ## Separate illustrations
 
-The [people-and-work illustration](assets/observational/people-and-work.svg) has been restored *on* the About Me page beneath the stories. The [movement](assets/observational/movement.svg) and [atlas](assets/observational/continuity-loom.svg) remain available through [Visual System](VISUAL_SYSTEM.md). These graphics are editorial illustrations, not independent research evidence.
+The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg), [A/B overview](assets/observational/continuity.svg), [A/B legend](assets/observational/continuity-legend.svg), [earlier atlas](assets/observational/continuity-loom.svg), and [observation/correction sequence](assets/observational/movement.svg) appear on the profile after the writing. The older [“People were already here” illustration](assets/observational/people-and-work.svg) remains archived in the repository but is no longer displayed on the profile. Visual artwork is not independent research evidence.
 
 The [finite-motion illustration](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) still appears **after** the writing, with the [finite mathematics sources](showcase/MATHEMATICS.md). It depicts its defined model, not a reading effect.
 
-External [world observations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) have their own data sources, timestamps, and limitations. They are separate from this textual layout.
+The separately published [world-data observations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) remain in their source repository, but the world-data panel is no longer part of the profile. The Internet map is a different visualization: its mapped dots are public RIPE Atlas probes from a bounded first retrieved page, not internet traffic routes or an exhaustive census.
 
 [← Return to The Human Wall](README.md)
