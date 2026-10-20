@@ -6,6 +6,8 @@ This page helps readers find the work behind the claims on my profile. The proje
 
 **Reference point:** the public research `main` branch through [merge #49](https://github.com/huntingthereferent/autobots-assemble/pull/49) (`2a2764db5a22`, October 17). This is a source-and-record audit, not a fresh execution of every project. When the branch moves, the linked project records are the place to check what changed.
 
+**More recent selected evidence, checked October 20:** [Source-pinned research register](RESEARCH_REGISTER.md). That register inspects specific original files and workflow outcomes at a newer identified source revision; it does **not** silently refresh every October 17 claim on this page.
+
 ## Where the work stands
 
 | Work | What is available | Evidence and present boundary |
