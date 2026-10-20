@@ -72,29 +72,14 @@ The nine-anchor and 48-law worlds are working constructions, not established uni
 
 [Research method](docs/RESEARCH_METHOD.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md)
 
-## A/B — movement and correspondence
-
-[![A/B across writing, games, mathematics, workstation and software](assets/observational/continuity.svg)](VISUAL_SYSTEM.md)
-
-[![A/B movement and correspondence legend, showing A, B, comparisons and divergence](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
-
-A and B refer to movements within defined constructions. A visual connection between subjects invites investigation; it does not automatically transfer a proof, a mechanism, or an explanation between them.
-
-[![Earlier A/B Continuity Atlas with connected inquiry worlds](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
-
-The atlas is retained as an earlier visual exploration rather than a literal model of people or a result verified across those domains. [The original illustrations and boundaries →](VISUAL_SYSTEM.md)
-
-## Observation and correction
-
-[![Noticing, expressing, checking, correcting, and continuing](assets/observational/movement.svg)](VISUAL_SYSTEM.md)
-
-Each observation or correction keeps its own source, and the movement can continue without treating a proposed correspondence as a verified one.
-
 ## One finite example
 
-<a href="showcase/MATHEMATICS.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="600" alt="Source-rendered finite A/B paths: order changes the state in a specific defined model" /></a>
+<p align="center">
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="48%" alt="Finite A/B motion: action order changes a defined state" /></a>
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="48%" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
+</p>
 
-This illustration comes from a [specific finite implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), using a [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py). Its observed transitions belong to that construction. [Further experiments, counterexamples and limitations →](showcase/MATHEMATICS.md)
+These two animated views come from [defined finite A/B constructions](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py) and their [source-owned motion renderers](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). The first compares action order; the second shows two independently checked action paths meeting at a state within the finite model. Neither claims a universal relationship outside that model. [Further experiments, counterexamples and limitations →](showcase/MATHEMATICS.md)
 
 ## Research records and paths
 
