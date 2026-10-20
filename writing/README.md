@@ -5,9 +5,7 @@
 
 **Method.** James supplies an observation, compressed wording, or correction; the assistant proposes an interpretation or connection. Each is kept attributable. A useful connection can survive a correction; a mistaken inference does not become fact.
 
-> and its not just that page its all the writings is soposed to be like that to better understand from BOTH are sides connecting etc
-
-The original [quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) stays separate from these concise interpretations. This is collaborative analysis, not a reconstructed private psychology or a substitute for native research evidence.
+This is collaborative analysis, not a reconstructed private psychology or a substitute for native research evidence.
 
 ## Records
 
@@ -18,7 +16,6 @@ The original [quotation record](LANGUAGE_AND_OBSERVATION_QUOTES.md) stays separa
 | [Childhood](CHILDHOOD.md) | Which memories were reported, and which later connections remain interpretations? |
 | [Language and observation](LANGUAGE_AND_OBSERVATION.md) | What changes when words compress, a response drifts, or silence continues? |
 | [Watching what continues](WATCHING_WHAT_CONTINUES_2026-10-17.md) | What can observational learning establish, and where does inference begin? |
-| [Original quotations](LANGUAGE_AND_OBSERVATION_QUOTES.md) | What was actually said, by whom, and when? |
 
 ## Technical context
 
