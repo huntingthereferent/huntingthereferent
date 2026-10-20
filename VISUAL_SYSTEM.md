@@ -1,6 +1,8 @@
-# Visual connections — people, observation, and research
+# Visual illustrations — supplementary sources
 
-[← Profile](README.md) · [Visual provenance](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
+[← The Human Wall / Profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
+
+The profile's primary visual structure is **its written Human Wall and the handoff into James's voice**. This page preserves supporting, previously created illustrations and their source distinctions. It is not the entrance to the About Me page, and no diagram here is a substitute for reading the text.
 
 [![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
@@ -60,6 +62,6 @@ For example, with `A(x)=x+1` and `B(x)=2x`, starting at `1` yields `A(B(1))=3` w
 
 ## Historical visual draft
 
-The [earlier A/B Continuity Atlas](assets/observational/continuity-loom.svg) is retained in the repo as a record of a previous design attempt. Its personal symbolism and placement are **not** the current representation of James. The current visual above keeps people and activities together without depicting anyone as the origin, endpoint, or leader of everyone else.
+The [earlier A/B Continuity Atlas](assets/observational/continuity-loom.svg) is retained in the repo as a record of a previous design attempt. Its personal symbolism and placement are **not** the current representation of James. This supplementary visual keeps people and activities together without depicting anyone as the origin, endpoint, or leader of everyone else.
 
 [Return to profile](README.md) · [Visual provenance](VISUAL_PROVENANCE.md) · [Evidence](PROVENANCE.md)

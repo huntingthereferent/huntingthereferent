@@ -1,59 +1,37 @@
-# Visual provenance — people and research
+# Visual provenance — the structure of the words
 
-[← James's GitHub profile](README.md) · [Research overview](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Complete project inventory](showcase/PROJECT_INVENTORY.md)
+[← The Human Wall](README.md) · [Stories & Conversations](writing/README.md) · [Research evidence](PROVENANCE.md) · [Illustration sources](VISUAL_SYSTEM.md)
 
-## Current profile visual
+For James's About Me, **the words themselves are the visual structure**. The page begins with **THE HUMAN WALL**, not his name, a diagram, or an animated illustration. It holds the reader in sustained paragraphs before the first-person writing hands off to **“I'm James.”**
 
-The [profile](README.md) intentionally uses **one** research illustration: [finite-motion.svg](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg), generated from the [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py) using the [motion renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py). Its state changes belong to that construction. An animated diagram does not independently prove a claim.
+The opening moves from **“This is why I do this work”** through the scale of the universe and everything we do not know, then back toward the smaller problem in front of us. Sentences lengthen, ideas accumulate, commas change the pace, and short statements bring the reader back to the immediate question. The relationship develops while it is being read, especially aloud. Pictures cannot substitute for that language.
 
-Other A/B motion examples are in the [mathematics showcase](showcase/MATHEMATICS.md). External data visuals, their timestamps, and separate collection boundaries remain below in this index. The profile keeps these detailed views one click away instead of using every visual as a decorative biography.
+This design does not presume that every reader will feel the same thing. It lets someone recognize the question, disagree with it, or find themselves thinking through it before meeting its author.
 
-[![Neon field connecting people, early internet, games, language and code](assets/observational/people-and-work.svg)](VISUAL_SYSTEM.md)
+## Sequence preserved on the profile
 
-[**Explore the visual and the mathematical distinctions →**](VISUAL_SYSTEM.md)
+1. **The Human Wall** — title, then uninterrupted prose. No illustration, identity banner, badge strip, or extra sectional heading above or inside the text.
+2. **James** — introduced through the first-person handoff, including family, ordinary memories, humor, and his own words.
+3. **Stories & conversations** — the two-sided exchanges together in one index, including language/tracing and the story about examining **other tracers**.
+4. **Research & evidence** — finite mathematics, ARC, worlds, code, workers, native results, and their separate source boundaries.
 
-[![A/B movement and correspondence legend](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
+The visual provenance of the profile is therefore **the wording, punctuation, paragraph density, emphasis, order, and handoff**. It is not a chart of James or a scientific observation of the reader.
 
-The image is a visual entry into James's actual writing and research, not a personal role or a scientific model. It shows people and activities that matter in his history alongside the subjects he investigates. A/B is an earlier name for the Language Referent inquiry and also names defined operators in some of the finite models.
+## Inspect the source
 
-The subjects can inform one another without sharing a proved mechanism. A conversation, a game, a mathematical model and a program each retain their own sources and standards of evidence.
+- [Profile and the handoff](README.md)
+- [Full Human Wall](writing/THE_HUMAN_WALL.md)
+- [Stories index](writing/README.md)
+- [Watching What Continues — Other Tracers](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
+- [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md)
+- [Evidence and limitations](PROVENANCE.md)
 
-## Where the inquiry goes
+## Separate illustrations
 
-The visual connects these entrances without treating their evidence as interchangeable. The earlier [context diagram](assets/observational/contexts.svg) and [historical atlas draft](assets/observational/continuity-loom.svg) remain accessible as prior illustrations, not the current profile image.
+The older [people-and-work](assets/observational/people-and-work.svg), [movement](assets/observational/movement.svg), and [atlas](assets/observational/continuity-loom.svg) drawings remain accessible through [Visual System](VISUAL_SYSTEM.md). They are static editorial diagrams, not the new entry to the profile.
 
-| Encounter | Go to the original material | What belongs to that context |
-| --- | --- | --- |
-| **Writing, relationships, and observation** | [Writing index](writing/README.md) · [Origin](writing/ORIGIN.md) · [Language and observation](writing/LANGUAGE_AND_OBSERVATION.md) | What I said, another perspective, what was misunderstood, and what I corrected |
-| **Childhood and other people** | [Childhood](writing/CHILDHOOD.md) · [Watching what continues](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) | Remembered experiences and observations, not simulated program results |
-| **Language Referent / A/B** | [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Grounded historical terms](https://github.com/huntingthereferent/autobots-assemble/blob/main/AB_LANGUAGE.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) | The changing description and the relationship James is trying to keep in view |
-| **Mathematics** | [Finite constructions](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) · [Math showcase](showcase/MATHEMATICS.md) | Precisely declared domains, finite operators, equivalences, counterexamples, and scoped proofs |
-| **Games and interactive observation** | [ARC evidence](ARC_EVIDENCE.md) · [Game experiments](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) | Frames, actions, recorded outcomes, replays, and limitations of previous attempts |
-| **Workers and the workstation** | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Handoff contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) | Independent source identity, admission, native results, verification, and unresolved boundaries |
-| **Software, data, education and engineering** | [Complete project inventory](showcase/PROJECT_INVENTORY.md) · [Project source index](showcase/SOURCE_INDEX.md) · [Selected work](SELECTED_WORK.md) | Implementation details, local tests, different project outcomes, and unpublished/unverified work |
+The [finite-motion illustration](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) still appears **after** the writing, with the [finite mathematics sources](showcase/MATHEMATICS.md). It depicts its defined model, not a reading effect.
 
-There are more projects than fit in any single graphic. The [full inventory](showcase/PROJECT_INVENTORY.md) preserves them separately instead of making the visual look complete when it isn't.
+External [world observations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) have their own data sources, timestamps, and limitations. They are separate from this textual layout.
 
-## Observations coming in from outside
-
-[![Source-linked public observations](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
-
-[**Follow the current external sources, matching evidence and poll history**](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
-
-The software monitors real public observations using source-owned adapters already present in the public-data-monitor, then presents the results without inferring a shared cause between unrelated sources. The visual has its own collection timestamp and retains links to native source records. This is a separately generated data view; it does not convert personal observations or mathematics into external measurements.
-
-## Moving through observations
-
-[![Noticing, expressing, checking, correcting, continuing](assets/observational/movement.svg)](assets/observational/movement.svg)
-
-I don't want the finished explanation to erase the conversation that produced it. When an answer misses what I meant, that response can still give me information. The correction matters; so does the original wording.
-
-For technical work, I want to be able to inspect what actually ran and what the evidence supports. A proposed connection is useful as a question. To call it a verified result, I need the appropriate source, test, or witness for that particular setting.
-
-- **Original words and corrections:** [Writing records](writing/README.md)
-- **Tests, implementations and limitations:** [Research](RESEARCH.md) · [Selected work](SELECTED_WORK.md) · [Evidence and provenance](PROVENANCE.md)
-- **Operational observational layer:** [Read-only views](https://github.com/huntingthereferent/autobots-assemble/tree/main/views) · [Existing visual provenance concept](https://github.com/huntingthereferent/autobots-assemble/tree/main/views/visual-provenance)
-
-**Visual status:** The local SVG illustrations on this page are manually authored, static editorial representations. They show relationships and how to navigate the work, not live counts or simulated evidence presented as measurements. The links take you to the records where you can check the details. No software execution, native source-owner witness, or automatic GitHub Actions regeneration follows from displaying them.
-
-[← Back to James's profile](README.md)
+[← Return to The Human Wall](README.md)
