@@ -2,11 +2,11 @@
 
 [← The Human Wall / Profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
 
-The profile begins with the humanity-and-internet-culture banner, the full written Human Wall, and James's first-person introduction. Its later visual sequence now uses the original Internet observations map, A/B graphics, and a finite-motion example. The older people-and-work illustration is archived here rather than displayed on the profile. No diagram substitutes for the writing or original research evidence.
+The profile begins with the humanity-and-internet-culture banner, the full written Human Wall, and James's first-person introduction. Its later visuals include the Internet observations map and two separately displayed, source-generated animated finite A/B witnesses. The older people-and-work illustration and the static A/B atlas/legend are archived here rather than displayed on the profile. No diagram substitutes for the writing or original research evidence.
 
 [![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
-**[View the earlier connected visual](assets/observational/people-and-work.svg)** · [Internet map on the profile](README.md#the-internet-map) · [A/B graphics on the profile](README.md#ab--movement-and-correspondence) · [Source and evidence index](PROVENANCE.md)
+**[View the earlier connected visual](assets/observational/people-and-work.svg)** · [Internet map on the profile](README.md#the-internet-map) · [Finite A/B movement on the profile](README.md#one-finite-example) · [A/B convergence on the profile](README.md#where-separate-ab-paths-meet) · [Source and evidence index](PROVENANCE.md)
 
 ## What the image is for
 
@@ -30,7 +30,7 @@ James is part of the experiences he describes. He has a life outside the researc
 
 Cyan, magenta, violet and lime distinguish paths and subjects. A drawn connection indicates something James has considered or wants to examine; it does not establish causality, equivalence, or a shared mechanism. In particular, a relationship between human experiences is not automatically a formally defined A/B operation.
 
-The [A/B overview](assets/observational/continuity.svg), [movement and correspondence legend](assets/observational/continuity-legend.svg), [earlier continuity atlas](assets/observational/continuity-loom.svg), and [observation/correction sequence](assets/observational/movement.svg) are again visible on the profile. Each is an illustration, and the stated mathematical meaning belongs only to the models where the operators are defined.
+The [A/B overview](assets/observational/continuity.svg), [movement and correspondence legend](assets/observational/continuity-legend.svg), [earlier continuity atlas](assets/observational/continuity-loom.svg), and [observation/correction sequence](assets/observational/movement.svg) remain available as archived illustrations, but they are **not** displayed on the profile. The profile instead shows [finite A/B action order](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) and [finite A/B convergence](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-motion.svg). The stated mathematical meaning belongs only to the defined models.
 
 ## A mathematical case within the work
 
