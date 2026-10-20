@@ -60,6 +60,8 @@ The technical projects are instruments for examining particular relationships. T
 
 I keep the failed attempts. A green CI job is not a native solve, and a drawing is not a witness. The [source-pinned research register](RESEARCH_REGISTER.md) connects concrete results to the original runs, negative controls, and limits.
 
+**October 20 evidence:** [Original SP80 SDK level 3/6](ARC_EVIDENCE.md) reproduced through two native histories; [32 later stage-3 trials without level-4 progression](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39471887855). [A/B WORLD's conditional contact investigations](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/ab_world/TRIAL21_SOURCE_HANDOFF.md) and [NIH's 1,345 cross-archive status differences](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) retain their separate unresolved physical and temporal boundaries. [The exact source and evidence →](RESEARCH_REGISTER.md)
+
 - **[A/B mathematics](showcase/MATHEMATICS.md)** — Finite constructions, deliberate oscillation, composition, correspondence, counterexamples, and their limits.
 - **[Interactive worlds and ARC](ARC_EVIDENCE.md)** — Native actions, observations, replays, failures, and tested predictions.
 - **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Bounded workers, continuation, recorded handoffs, and independent checks.
