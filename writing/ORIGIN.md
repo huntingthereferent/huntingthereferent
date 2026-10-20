@@ -17,9 +17,7 @@ Reading and generative AI give James ways to encounter descriptions he did not p
 
 > Also this is why I like "reading and generative ai cause I can get the same data from reading it than I can talking to someone about too and it's easier to move on since I'm just reading...
 
-The writing was also being flattened into the assistant's narrative. James corrected that approach:
-
-The correction concerned the writing method as well: this account needs both sides of the exchange, not an assistant-only reconstruction.
+The assistant's initial narrative flattened the exchange. James corrected that approach: the writing should carry both sides, not an assistant-only account.
 
 **Resulting method.** Retain James's wording, the assistant's reading, the mismatch, and the next correction. Do not present the assistant's reconstruction as James's private experience.
 
