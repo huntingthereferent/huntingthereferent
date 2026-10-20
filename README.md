@@ -74,6 +74,10 @@ I begin with finite, bounded movement and see what its interactions support rath
 
 The nine-anchor and 48-law worlds are working constructions, not established universal counts. A model can fail while an observed relationship survives; a successful test can verify the defined case without proving a story about people.
 
+Money is a good example of how quickly I can lose the thread. I'll look at something rough and think, *if I had actual agents this wouldn't look so jank*. Suddenly I'm thinking about hiring somebody, spending money, or calling Bob instead of asking what the thing in front of me actually needs. The task didn't get bigger. My list of possible answers did.
+
+That is part of why I keep building finite workers, source-owned handoffs, and checks that are allowed to fail. I want to follow a question through software, a game world, a proposed blueprint, or a money decision without silently treating one as proof of the next. A worker copy isn't a finished job. A blueprint isn't a physical object. And when a native return disagrees with the plan, I'd rather keep the failed edge and correct the movement than open ten new pipes and forget what I was testing.
+
 [Research method](docs/RESEARCH_METHOD.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md)
 
 ## One finite example
