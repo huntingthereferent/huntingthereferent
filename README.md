@@ -15,7 +15,7 @@ My research starts from bounded observations. I build mathematical models, inter
 - **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Research workflows, workers, branching, continuation, and independent checks. It keeps source records and results available as work moves between tasks. [Technical records](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/WORKSTATION.md).
 - **[A/B mathematics](showcase/MATHEMATICS.md)** — Finite constructions, deliberate oscillation, composition of movements, and tested correspondences. Each construction has defined states, operations, and limits.
 - **[Interactive worlds and ARC](ARC_EVIDENCE.md)** — Constructed environments and native replays used to compare what a model predicts with what a system actually does. [Recorded native runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs).
-- **[Language and observation](writing/LANGUAGE_AND_OBSERVATION.md)** — Records of what was said, how a description was interpreted, where it drifted, and what changed after a correction..
+- **[Language and observation](writing/LANGUAGE_AND_OBSERVATION.md)** — Records of what was said, how a description was interpreted, where it drifted, and what changed after a correction.
 
 ## One finite example
 
