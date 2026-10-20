@@ -48,11 +48,11 @@ The writing is part of the investigation, not a polished biography written after
 
 [Childhood and the early internet](writing/CHILDHOOD.md) · [Origin](writing/ORIGIN.md) · [Finding the words](writing/FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) · [**Other tracers — Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) · [Tracing, scoping, and language](writing/LANGUAGE_AND_OBSERVATION.md)
 
-## People, play, language, and work
+## The internet map
 
-[![Connected people, early internet, games, conversation, language and code](assets/observational/people-and-work.svg)](VISUAL_SYSTEM.md)
+[![Internet observational world map showing a bounded sample of public RIPE Atlas probe locations](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/traces/internet-map.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md)
 
-The original illustrated field belongs here alongside the Human Wall rather than disappearing into a separate page. It brings together people, games, reading, conversations and code without suggesting a diagram could explain a person. [The visual, its source and its limits →](VISUAL_SYSTEM.md)
+This is the [source-built Internet map](https://github.com/huntingthereferent/autobots-assemble/tree/main/views/traces), not the earlier world-data graphic. Its dots are a bounded first page of public RIPE Atlas measurement probes, not internet traffic routes or a complete picture of humanity. The optional country-traffic layer is absent when the Cloudflare Radar credential is not configured. [Source and limitations →](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md)
 
 ## Research & selected work
 
@@ -72,17 +72,29 @@ The nine-anchor and 48-law worlds are working constructions, not established uni
 
 [Research method](docs/RESEARCH_METHOD.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md)
 
+## A/B — movement and correspondence
+
+[![A/B across writing, games, mathematics, workstation and software](assets/observational/continuity.svg)](VISUAL_SYSTEM.md)
+
+[![A/B movement and correspondence legend, showing A, B, comparisons and divergence](assets/observational/continuity-legend.svg)](VISUAL_SYSTEM.md)
+
+A and B refer to movements within defined constructions. A visual connection between subjects invites investigation; it does not automatically transfer a proof, a mechanism, or an explanation between them.
+
+[![Earlier A/B Continuity Atlas with connected inquiry worlds](assets/observational/continuity-loom.svg)](VISUAL_SYSTEM.md)
+
+The atlas is retained as an earlier visual exploration rather than a literal model of people or a result verified across those domains. [The original illustrations and boundaries →](VISUAL_SYSTEM.md)
+
+## Observation and correction
+
+[![Noticing, expressing, checking, correcting, and continuing](assets/observational/movement.svg)](VISUAL_SYSTEM.md)
+
+Each observation or correction keeps its own source, and the movement can continue without treating a proposed correspondence as a verified one.
+
 ## One finite example
 
 <a href="showcase/MATHEMATICS.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="600" alt="Source-rendered finite A/B paths: order changes the state in a specific defined model" /></a>
 
 This illustration comes from a [specific finite implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), using a [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/render.py). Its observed transitions belong to that construction. [Further experiments, counterexamples and limitations →](showcase/MATHEMATICS.md)
-
-## Observations from outside the repo
-
-[![Source-linked public observations, with their own provenance and timestamps](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/world-continuity/latest.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
-
-Public observations, timestamps and collection boundaries belong to their data sources; this view is not independent evidence for the Human Wall. [Inspect the underlying records →](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md)
 
 ## Research records and paths
 
