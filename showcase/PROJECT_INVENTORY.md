@@ -172,11 +172,11 @@ These are representation/toolchain projects. A design is not automatically manuf
 | **Hard-work opportunity scans** | [Scan](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/scans/SCAN-0001_2026-10-03.md) | Research list, not executed projects |
 
 <details>
-<summary><strong>15 retained job/opportunity records</strong> · A ledger, not 15 claimed completed contracts</summary>
+<summary><strong>Historical job/opportunity records (October 13)</strong> · Not 15 claimed completed contracts</summary>
 
-The current ledger retains 15 opportunity records numbered `JOB-001` through `JOB-015`. `JOB-016` through `JOB-021` were removed from the active ledger; the removed records remain recoverable through Git history. These are scoped opportunity records, not 15 completed projects, clients, submissions, or payments.
+The October 13 snapshot recorded 15 opportunity entries numbered `JOB-001` through `JOB-015`, with `JOB-016` through `JOB-021` previously removed from the then-active ledger. That ledger directory is **not present on the current `autobots-assemble/main` branch**. These were scoped opportunity records, not completed projects, clients, submissions, or payments. The snapshot remains an historical reference rather than a claim about the current live ledger.
 
-[Browse retained job records](https://github.com/huntingthereferent/autobots-assemble/tree/main/jobs) · [Job retention contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/jobs/README.md)
+[October 13 historical evidence snapshot](../PROVENANCE_2026-10-13.md) · [Current work-opportunity protocol](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/work/job-hunt.md)
 
 </details>
 
