@@ -1,0 +1,32 @@
+name: Profile visual lock
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - assets/observational/humanity-online-banner.webp
+      - scripts/check_profile_layout.py
+      - .github/workflows/profile-visual-lock.yml
+  pull_request:
+    paths:
+      - README.md
+      - assets/observational/humanity-online-banner.webp
+      - scripts/check_profile_layout.py
+      - .github/workflows/profile-visual-lock.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  frozen-layout:
+    name: Preserve agreed profile layout
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout complete history (includes the frozen baseline)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check banner, wall, badges and graphic order
+        run: python3 scripts/check_profile_layout.py
