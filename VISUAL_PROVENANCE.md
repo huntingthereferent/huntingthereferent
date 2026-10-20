@@ -15,7 +15,7 @@ This design does not presume that every reader will feel the same thing. It lets
 3. **James** — the first-person handoff, with research badges directly beneath his name, then family, ordinary memories, humor, and his own words.
 4. **Stories & conversations** — the two-sided exchanges together in one index, including language/tracing and the story about examining **other tracers**.
 5. **The Internet map** — source-linked, bounded observational geography and public measurement-probe locations, distinct from the removed world-data panel.
-6. **A/B graphics and research** — A/B movement/correspondence, earlier atlas, observation/correction, finite mathematics, ARC, native tests, and their own evidence boundaries.
+6. **A/B and research records** — two animated finite A/B witnesses separated by the research index, with ARC, native tests, and their own evidence boundaries.
 
 The Human Wall's visual provenance is **the wording, punctuation, paragraph density, emphasis, order, and handoff**; the banner and later illustrations have separate artistic roles. It is not a chart of James or a scientific observation of the reader.
 
@@ -30,9 +30,9 @@ The Human Wall's visual provenance is **the wording, punctuation, paragraph dens
 
 ## Separate illustrations
 
-The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg), [A/B overview](assets/observational/continuity.svg), [A/B legend](assets/observational/continuity-legend.svg), [earlier atlas](assets/observational/continuity-loom.svg), and [observation/correction sequence](assets/observational/movement.svg) appear on the profile after the writing. The older [“People were already here” illustration](assets/observational/people-and-work.svg) remains archived in the repository but is no longer displayed on the profile. Visual artwork is not independent research evidence.
+The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg) appears after the writing. The two source-generated animated A/B witnesses — [finite action order](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) and [finite convergence](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-motion.svg) — are displayed separately, not side by side. The older [A/B overview](assets/observational/continuity.svg), [legend](assets/observational/continuity-legend.svg), [atlas](assets/observational/continuity-loom.svg), [observation/correction sequence](assets/observational/movement.svg), and [“People were already here” illustration](assets/observational/people-and-work.svg) remain in the repository but are not displayed on the profile. Visual artwork is not independent research evidence.
 
-The [finite-motion illustration](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) still appears **after** the writing, with the [finite mathematics sources](showcase/MATHEMATICS.md). It depicts its defined model, not a reading effect.
+The finite-motion and convergence illustrations link to the [finite mathematics sources](showcase/MATHEMATICS.md) and their [renderer documentation](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). They depict particular defined models, not a reading effect.
 
 The separately published [world-data observations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) remain in their source repository, but the world-data panel is no longer part of the profile. The Internet map is a different visualization: its mapped dots are public RIPE Atlas probes from a bounded first retrieved page, not internet traffic routes or an exhaustive census.
 
