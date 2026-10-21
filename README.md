@@ -38,6 +38,8 @@ I started with my own misunderstandings because those were there to examine. The
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
+**[↗ LIVE VIEWER — WORKSTATION & RESEARCH](https://huntingthereferent.github.io/autobots-assemble/live/)** · [Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
+
 I like being with my family, spending time outside, reading, and finding out what other people are interested in. As a kid I spent hours looking for small animals in the grass, collected diaries because I wanted to read other people's thoughts, and made a GeoCities page for graffiti from around the world. I also spent a lot of time around games, other players, and the early internet. Those were things I enjoyed doing, not a research program I secretly had planned.
 
 I can spend ages looking for the right words and then laugh at the whole situation. At one point I put it this way:
@@ -71,6 +73,7 @@ I keep the failed attempts. A green CI job is not a native solve, and a drawing 
 - **[A/B mathematics](showcase/MATHEMATICS.md)** — Finite constructions, deliberate oscillation, composition, correspondence, counterexamples, and their limits.
 - **[Interactive worlds and ARC](ARC_EVIDENCE.md)** — Native actions, observations, replays, failures, and tested predictions.
 - **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Bounded workers, continuation, recorded handoffs, and independent checks.
+- **[Live viewer](https://huntingthereferent.github.io/autobots-assemble/live/)** — Public GitHub executions, job and step evidence, and separately preserved research records; local private workstation state stays private.
 - **[Language and observation](writing/LANGUAGE_AND_OBSERVATION.md)** — Conversation, tracing, misunderstanding, correction, and preserved perspectives.
 
 
