@@ -2,7 +2,9 @@
 
 # James
 
-Finite constructions, interactive experiments, language, and source-preserving software all appear here because of questions about what changes under observation. The records show the methods, test conditions, counterexamples, and things not yet known.
+**Independent researcher · finite systems, observation, and source-backed experiments**
+
+I investigate what changes under observation, what holds up when an explanation is tested, and where the evidence stops. The questions have taken me into mathematics, language, interactive experiments, and software built to preserve original sources. Some work is exploratory, some has reproducible results, and the difference matters. The records below include both.
 
 [**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
 
@@ -44,11 +46,11 @@ A bounded test records its source, predicted change, permitted action or transfo
 
 **[Read the complete writing archive →](writing/README.md)**
 
-The essays, personal accounts, conversations, tracing/scoping notes, and working positions are organized in one place. They preserve first-person words and corrections separately from technical evidence. The Human Wall remains above as the reason for the inquiry, not a conclusion established by the experiments.
+Essays, personal accounts, conversations, and working positions are collected in the writing archive. The original [Human Wall](writing/README.md#the-human-wall) is there in full as the question behind the work, not a conclusion established by the experiments. The writing retains its own voice and stays separate from technical evidence.
 
 ### Background
 
-The work is independently developed rather than attached to a funded laboratory. Personal history, family, early internet memories, and the context behind the methods remain in the [writing archive](writing/README.md), separate from test evidence.
+This is independent work, not a claim of institutional affiliation or a finished theory. Personal history, family, early internet memories, and informal conversations belong in the [writing archive](writing/README.md). Research claims stand or fall on their sources, test conditions, and limits.
 
 ## One finite example
 
@@ -76,6 +78,6 @@ A separate [finite A/B convergence witness](https://github.com/huntingthereferen
 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
 | [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
 
-[Writing archive — essays and conversations](writing/README.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
+[Writing archive](writing/README.md) · [Research method](docs/RESEARCH_METHOD.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
 *This work includes AI-assisted code and writing. First-person quotations, interpretations, source records, and executable results are distinct.*
