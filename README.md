@@ -1,5 +1,15 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
+# James — Independent Researcher
+
+**Finite A/B systems · Interactive environments · Language and observation · Research infrastructure**
+
+I investigate how defined relationships persist, change, or fail under observation. My work connects finite mathematical constructions, native interactive experiments, source-preserving software systems, and language research. Each result stays within the conditions actually tested.
+
+[**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
+
+---
+
 # THE HUMAN WALL
 
 **This is why I do this work.** I began by examining my own reasoning and corrections. I keep asking whether growing up with the enormous scale of the universe — and everything we know we don't know — changes how we approach the smaller problem actually in front of us.
@@ -34,54 +44,47 @@ So how much do we really need to know to begin? Not *nothing*. Not *everything*.
 
 I started with my own misunderstandings because those were there to examine. The work got larger as I followed them into other subjects, but its beginning wasn't a machine, a theory of everyone else, or a claim that the unknown has been solved. It was a person trying to keep hold of a relationship while the words around it kept changing.
 
-## I'm James.
+## Research profile
+
+I am James, an independent researcher developing A/B investigations through bounded constructions, executable experiments, and inspectable source records. I began by examining my own misunderstandings and corrections; the research now spans mathematics, language, interactive environments, temporal records, and the tools needed to test them. Those domains inform one another, but evidence from one does not automatically establish a claim about another.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 **[↗ LIVE VIEWER — WORKSTATION & RESEARCH](https://huntingthereferent.github.io/autobots-assemble/live/)** · [Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
 
-I like being with my family, spending time outside, reading, and finding out what other people are interested in. As a kid I spent hours looking for small animals in the grass, collected diaries because I wanted to read other people's thoughts, and made a GeoCities page for graffiti from around the world. I also spent a lot of time around games, other players, and the early internet. Those were things I enjoyed doing, not a research program I secretly had planned.
+### Research areas
 
-I can spend ages looking for the right words and then laugh at the whole situation. At one point I put it this way:
+| Investigation | Research question | Public record |
+| --- | --- | --- |
+| **Finite A/B mathematics** | Which relationships are preserved or changed by defined movement, ordering, and composition? | [Mathematical constructions and limits](showcase/MATHEMATICS.md) |
+| **Interactive environments / ARC** | What can be learned from permitted actions, actual returned states, failed predictions, and replay? | [Native ARC evidence](ARC_EVIDENCE.md) |
+| **Computational worlds** | Which interactions are supported by the constructed finite world, and where does its predictive boundary fail? | [A/B WORLD source-owned investigation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/ab_world/TRIAL21_SOURCE_HANDOFF.md) |
+| **Temporal data / NIH investigation** | What record changes can be established across archived datasets, without inventing chronology? | [AACT source and chronology audit](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) |
+| **Research infrastructure** | How can bounded workers, explicit handoffs, and independent checks preserve a question across tools? | [Workstation and source records](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
 
-> WE DONT KNOW SHITTT BOIIIIIII
+### Evidence and verification
 
-Which is funny after all those paragraphs, but it's also worth hearing carefully: not knowing *everything* doesn't mean we can't examine what is right here.
+The standard is source-first: identify the native referent, record an intervention and its returned result, compare against a prediction, and retain counterexamples. A passing test verifies its stated boundary; it does not by itself demonstrate a general solution, a physical measurement, or a successful external deployment.
 
-## Stories & conversations
+**Selected source-pinned evidence, last documented October 20, 2026:** the original SP80 SDK advanced to **level 3 of 6** on reproduced native histories, while [32 subsequent stage-3 trials](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39471887855) did not reach level 4. The NIH archive comparison recorded **1,345 differences in status fields** across two source datasets, without establishing the extraction chronology. A/B WORLD records conditional model results, not measured hardware collisions. These are separate results with separate limits, not one combined proof.
 
-The writing is part of the investigation, not a polished biography written after the fact. It keeps what I said, what the assistant thought I meant, where that reading failed, and what we could carry into the next exchange. My words, jokes, uncertainty, and corrections belong there too.
+[**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-[**Read the stories and conversations →**](writing/README.md)
+### Research method
 
-[Childhood and the early internet](writing/CHILDHOOD.md) · [Origin](writing/ORIGIN.md) · [Finding the words](writing/FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) · [**Other tracers — Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) · [Tracing, scoping, and language](writing/LANGUAGE_AND_OBSERVATION.md)
+I work from small, bounded questions toward explicit tests: original source → predicted change → permitted action or transformation → returned record → independent comparison. When the evidence fails, the failed prediction remains part of the investigation. Mathematical correspondence, executable behavior, natural-language interpretation, and physical measurement each require their own grounds.
 
-## Research & selected work
+[Operational research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
 
-The technical projects are instruments for examining particular relationships. Their evidence belongs to their own systems; the Human Wall isn't made true just because a test passes.
+### Writings and conversations
 
-I keep the failed attempts. A green CI job is not a native solve, and a drawing is not a witness. The [source-pinned research register](RESEARCH_REGISTER.md) connects concrete results to the original runs, negative controls, and limits.
+**[Read the complete writing archive →](writing/README.md)**
 
-**October 20 evidence:** [Original SP80 SDK level 3/6](ARC_EVIDENCE.md) reproduced through two native histories; [32 later stage-3 trials without level-4 progression](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39471887855). [A/B WORLD's conditional contact investigations](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/ab_world/TRIAL21_SOURCE_HANDOFF.md) and [NIH's 1,345 cross-archive status differences](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) retain their separate unresolved physical and temporal boundaries. [The exact source and evidence →](RESEARCH_REGISTER.md)
+The essays, personal accounts, conversations, tracing/scoping notes, and working positions are organized in one place. They preserve first-person words and corrections separately from technical evidence. The Human Wall remains above as the reason for the inquiry, not a conclusion established by the experiments.
 
-- **[A/B mathematics](showcase/MATHEMATICS.md)** — Finite constructions, deliberate oscillation, composition, correspondence, counterexamples, and their limits.
-- **[Interactive worlds and ARC](ARC_EVIDENCE.md)** — Native actions, observations, replays, failures, and tested predictions.
-- **[Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md)** — Bounded workers, continuation, recorded handoffs, and independent checks.
-- **[Live viewer](https://huntingthereferent.github.io/autobots-assemble/live/)** — Public GitHub executions, job and step evidence, and separately preserved research records; local private workstation state stays private.
-- **[Language and observation](writing/LANGUAGE_AND_OBSERVATION.md)** — Conversation, tracing, misunderstanding, correction, and preserved perspectives.
+### Background
 
-
-## How I investigate the question
-
-I begin with finite, bounded movement and see what its interactions support rather than designing around every imagined possibility. I can carry questions between conversations, games, mathematics, physical inquiries, and software, but each retains its actual sources and limits. A correction should return to the observation without erasing useful information from the detour.
-
-The nine-anchor and 48-law worlds are working constructions, not established universal counts. A model can fail while an observed relationship survives; a successful test can verify the defined case without proving a story about people.
-
-A lot of this looks the way it does because of my living situation. I have no income or funding to put into the research, and if I did have money to spare, my family would come first. The cost of doing all this has basically been a **$20 ChatGPT subscription**. That's why so much of it lives online on GitHub. I couldn't pay for a team of AI agents, cloud infrastructure, or a conventional research setup. I had to work with what I could actually access.
-
-So we built our own bounded workers and handoffs, kept the source and results recorded, and made them check what came back instead of just continuing as though everything worked. They're not a substitute for every capability a paid agent or a physical lab might have. But they let me keep making and testing things without paying for a whole operation. Some of the setup may look rough because it grew under those limits. The research and its failures are still there for someone to inspect.
-
-[Research method](docs/RESEARCH_METHOD.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md)
+I work independently with limited resources and a family to care for. That has shaped the public record: bounded tools, source-pinned runs, explicit handoffs, and practical tests rather than a claim to have a funded laboratory or a finished general theory. I also value family life, the outdoors, reading, and the early internet; the fuller personal accounts are kept in the [writing archive](writing/README.md).
 
 ## One finite example
 
@@ -109,6 +112,6 @@ A separate [finite A/B convergence witness](https://github.com/huntingthereferen
 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
 | [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
 
-[The Human Wall — longer account](writing/THE_HUMAN_WALL.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
+[Writing archive — essays and conversations](writing/README.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
 
 *This work includes AI-assisted code and writing. First-person quotations, interpretations, source records, and executable results are distinct.*
