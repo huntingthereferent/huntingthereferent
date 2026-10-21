@@ -30,3 +30,52 @@ jobs:
           fetch-depth: 0
       - name: Check banner, wall, badges and graphic order
         run: python3 scripts/check_profile_layout.py
+      - name: Checkout source-owned Process Workstation for profile audit
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          repository: huntingthereferent/autobots-assemble
+          ref: bd5c5b88fc5d49cebcdd53472fe50590994a5956
+          path: workstation-source
+          persist-credentials: false
+      - name: Copy and inspect candidate in isolated workstation edition
+        if: github.event_name == 'pull_request'
+        env:
+          PROFILE_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from tempfile import TemporaryDirectory
+          from subprocess import check_output
+          from hashlib import sha256
+          import os, sys
+          sys.path.insert(0, str(Path("workstation-source").resolve()))
+          from systems.workspace.workstation import ProcessWorkstation
+
+          base = os.environ["PROFILE_BASE_SHA"]
+          baseline = check_output(["git", "show", f"{base}:README.md"])
+          candidate = Path("README.md").read_bytes()
+          assert baseline != candidate, "No candidate prose difference"
+          with TemporaryDirectory(prefix="profile-workstation-") as temp:
+              root = Path(temp)
+              origin = root / "source"
+              origin.mkdir()
+              source = origin / "README.md"
+              source.write_bytes(baseline)
+              desk = ProcessWorkstation(root / "private")
+              v = desk.copy_source(
+                  origin, worker_id="profile-source", version_id="prose-candidate",
+                  source_locator=f"huntingthereferent/huntingthereferent@{base}:README.md")
+              edition = Path(v["path"]) / "README.md"
+              assert edition.read_bytes() == baseline, "Source copy is not exact"
+              edition.write_bytes(candidate)
+              diff = desk.inspect(worker_id="profile-source", version_id="prose-candidate")
+              assert diff["modified"] == ["README.md"], diff
+              assert diff["added"] == [] and diff["deleted"] == [], diff
+              assert source.read_bytes() == baseline, "Original source mutated"
+              print("Workstation source-copy/inspect: PASS (not an execution or independent research verification)")
+              print("source_sha256:", sha256(baseline).hexdigest())
+              print("candidate_sha256:", sha256(candidate).hexdigest())
+              print("source_fingerprint:", v["source_fingerprint"])
+          PY
