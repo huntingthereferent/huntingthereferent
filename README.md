@@ -56,12 +56,6 @@ The writing is part of the investigation, not a polished biography written after
 
 [Childhood and the early internet](writing/CHILDHOOD.md) · [Origin](writing/ORIGIN.md) · [Finding the words](writing/FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) · [**Other tracers — Watching What Continues**](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md) · [Tracing, scoping, and language](writing/LANGUAGE_AND_OBSERVATION.md)
 
-## The internet map
-
-[![Internet observational world map showing a bounded sample of public RIPE Atlas probe locations](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/traces/internet-map.svg)](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md)
-
-This is the [source-built Internet map](https://github.com/huntingthereferent/autobots-assemble/tree/main/views/traces), not the earlier world-data graphic. Its dots are a bounded first page of public RIPE Atlas measurement probes, not internet traffic routes or a complete picture of humanity. The optional country-traffic layer is absent when the Cloudflare Radar credential is not configured. [Source and limitations →](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/README.md)
-
 ## Research & selected work
 
 The technical projects are instruments for examining particular relationships. Their evidence belongs to their own systems; the Human Wall isn't made true just because a test passes.
@@ -95,6 +89,12 @@ So we built our own bounded workers and handoffs, kept the source and results re
 
 This example compares action order in a [defined finite A/B construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py). The animation comes from the [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md); it is evidence about that model, not about human reasoning in general.
 
+## Where separate A/B paths meet
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
+
+A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
+
 ## Research records and paths
 
 | Path | What is there |
@@ -108,12 +108,6 @@ This example compares action order in a [defined finite A/B construction](https:
 | [Native ARC runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) | Recorded actions and replay evidence |
 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
 | [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
-
-## Where separate A/B paths meet
-
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
-
-A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
 
 [The Human Wall — longer account](writing/THE_HUMAN_WALL.md) · [Research method](docs/RESEARCH_METHOD.md) · [Selected implementations](SELECTED_WORK.md) · [Complete project index](showcase/PROJECT_INVENTORY.md) · [Evidence and limits](PROVENANCE.md) · [Visual provenance of the writing](VISUAL_PROVENANCE.md)
 
