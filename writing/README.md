@@ -1,11 +1,15 @@
-# Writings — James
+# Writings
+
+This is where the writing lives: the long questions, the conversations that changed them, and the personal notes that don't belong in a research result. They are different kinds of records, so they are arranged by what you are here to read.
+
+[← Research profile](../README.md) · [Research evidence](../RESEARCH_REGISTER.md)
 
 ## The Human Wall
 
-The long-form introduction is kept with the writing rather than repeated on the research page. Open it here to read the original profile passage, with its questioning rhythm preserved.
+The long introduction starts with a question: how much of everything we *don't* know do we bring into the problem right in front of us? The text is kept as one continuous reading, rather than broken into excerpts.
 
 <details>
-<summary><strong>Read the long-form introduction</strong></summary>
+<summary>Read the full introduction</summary>
 
 <!-- HUMAN_WALL_INTRO_BEGIN -->
 
@@ -42,45 +46,32 @@ So how much do we really need to know to begin? Not *nothing*. Not *everything*.
 I started with my own misunderstandings because those were there to examine. The work got larger as I followed them into other subjects, but its beginning wasn't a machine, a theory of everyone else, or a claim that the unknown has been solved. It was a person trying to keep hold of a relationship while the words around it kept changing.
 
 <!-- HUMAN_WALL_INTRO_END -->
+
 </details>
 
-[Earlier first-person Human Wall account](THE_HUMAN_WALL.md) · [Origin of the investigation](ORIGIN.md)
+## Essays and beginnings
 
-[← Research profile](../README.md) · [Research record](../RESEARCH.md) · [Evidence register](../RESEARCH_REGISTER.md)
+- **[The Human Wall — earlier account](THE_HUMAN_WALL.md)** — an earlier, separate first-person telling of the question behind the work.
+- **[Origin of the Investigation](ORIGIN.md)** — the starting question, the assistant's attempts to describe it, and James's corrections.
 
-This is the single entry point for my personal writing: essays, remembered experiences, conversations, corrections, tracing and scoping accounts, and working positions. The documents retain their different voices. A memory is a reported memory; an assistant's interpretation is not my statement; a mathematical or technical result must be supported by its own evidence.
+## Conversations and corrections
 
-## Essays and the starting question
+These records keep the exchange visible. A quoted statement, a response, and a later correction are not interchangeable.
 
-| Writing | What it contains |
-| --- | --- |
-| [The Human Wall](THE_HUMAN_WALL.md) | Extended first-person account of the question behind the research |
-| [Origin of the investigation](ORIGIN.md) | From misunderstanding and correction to questions tested with executable systems |
-| [Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) | Reading another point of view and correcting a technical explanation that missed the question |
-| [Language and Observation](LANGUAGE_AND_OBSERVATION.md) | Tracing relationships through words, silence, compression, and correction |
+- **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** — a running conversation about compression, reading, silence, and how descriptions can drift.
+- **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** — one discussion followed in detail, including where the assistant's explanation missed the point.
+- **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** — comparisons of publicly observable styles, movement, and learning; questions rather than claims about other people's private methods.
 
-## Conversations, tracing, and scoping
+## Personal notes
 
-| Writing | What it contains |
-| --- | --- |
-| [Watching What Continues — Other Tracers](WATCHING_WHAT_CONTINUES_2026-10-17.md) | Recorded discussion of observable styles and movements; no claims about private motives |
-| [Language and Observation](LANGUAGE_AND_OBSERVATION.md) | Longer first-person discussion of language, tracing, and communication |
-| [Earlier full conversation account](https://github.com/huntingthereferent/huntingthereferent/blob/3e355d52869389a4cff1a5408cb47f0542ff9918/writing/OPINIONS.md) | Historical version of discussions about learning, work, AI, attribution, and corrections |
-| [October 14 felt-perspective source record](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md) | Related source record kept in the technical research repository, not rewritten here as a new conversation |
+- **[Personal notes](PROFILE_NOTES.md)** — family, interests, humor, and the words previously used on the public profile.
+- **[Childhood memories](CHILDHOOD.md)** — recalled moments around animals, diaries, and the early internet, with the later interpretation distinguished from the memories.
 
-The original scoping exchanges did not begin as a single polished essay. The references above identify where they survive rather than inventing a retrospective narrative.
+## Working positions and older records
 
-## Personal context and working positions
+- **[Working positions](WORKING_POSITIONS.md)** — provisional engineering judgments and the tests that might challenge them; not a personal essay or a list of proven laws.
+- **[Earlier conversations](OPINIONS.md)** — the preserved link to a prior conversation account, retained rather than silently overwritten.
 
-| Writing | What it contains |
-| --- | --- |
-| [Childhood and the early internet](CHILDHOOD.md) | Small animals, diaries, GeoCities, and interests before the research |
-| [Personal notes from the profile](PROFILE_NOTES.md) | Family, reading, curiosity, humor, and the original first-person profile language |
-| [Working positions](WORKING_POSITIONS.md) | Research judgments and falsifiable tests that guide current engineering decisions |
-| [Historical “Things We've Talked Through” pointer](OPINIONS.md) | Compatibility link to the earlier full account |
+The research [methods](../docs/RESEARCH_METHOD.md), [source register](../RESEARCH_REGISTER.md), and [project evidence](../PROVENANCE.md) live outside this archive. The essays are not evidence of a general theory; the conversations preserve what was said and how the interpretation changed.
 
-## Reading the archive
-
-These texts are kept as authored accounts or attributed conversations, not normalized into one technical voice. When I described an experience, that is my report; when an assistant offered a connection, that is a separate interpretation; when a source record or native run supports a result, it belongs to the relevant research evidence. Statements about other people stay with observable information rather than imagined inner motives.
-
-[Research questions and results](../RESEARCH.md) · [Operational method](../docs/RESEARCH_METHOD.md) · [Source-pinned evidence](../RESEARCH_REGISTER.md)
+[← Back to the profile](../README.md)
