@@ -5,12 +5,14 @@ on:
     branches: [main]
     paths:
       - README.md
+      - writing/README.md
       - assets/observational/humanity-online-banner.webp
       - scripts/check_profile_layout.py
       - .github/workflows/profile-visual-lock.yml
   pull_request:
     paths:
       - README.md
+      - writing/README.md
       - assets/observational/humanity-online-banner.webp
       - scripts/check_profile_layout.py
       - .github/workflows/profile-visual-lock.yml
@@ -56,7 +58,9 @@ jobs:
           base = os.environ["PROFILE_BASE_SHA"]
           baseline = check_output(["git", "show", f"{base}:README.md"])
           candidate = Path("README.md").read_bytes()
-          assert baseline != candidate, "No candidate prose difference"
+          if baseline == candidate:
+              print("README unchanged; the visual lock checked the writing and layout.")
+              sys.exit(0)
           with TemporaryDirectory(prefix="profile-workstation-") as temp:
               root = Path(temp)
               origin = root / "source"
