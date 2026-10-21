@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Protect the agreed About Me visual sequence without freezing research writing.
 
-Baseline: the immutable 2026-10-20 profile commit, also retained as the
-profile-visual-freeze-2026-10-20 branch.
+Baseline: the source-owned 2026-10-21 profile commit 7cd48fa, immediately
+before the first-person introduction revision. Older layout locks are historical.
 """
 from pathlib import Path
 import re
