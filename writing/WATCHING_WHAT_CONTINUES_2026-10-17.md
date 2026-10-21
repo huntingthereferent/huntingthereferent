@@ -1,11 +1,11 @@
-# Watching What Continues — Other Tracers
+# Watching What Continues
 *James and the assistant · conversation of October 16–17, 2026*
 
 [← Stories & Conversations](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md) · [Profile](../README.md)
 
 ## Who we were talking about
 
-This conversation was about **other people James was examining as possible tracers**, including Rainbolt, Shroud, other competitive players and styles, StarCraft, and Bruce Lee. James was comparing what he could actually observe, what a described style reminded him of, and where my attempted explanations stopped following the people we were discussing. He wasn't declaring that each of them was doing what he does, or asking for a general theory of observational learning.
+This conversation considered the public styles and movements of Rainbolt, Shroud, other players, and examples from StarCraft and Bruce Lee. James compared what he could observe with remembered descriptions and corrected explanations that went beyond those observations. The comparisons were questions to examine, not declarations of a shared method or identity.
 
 That question of learning through observation came up *within* the discussion. It wasn't a replacement for the people or the particular movements that started it.
 
@@ -71,6 +71,6 @@ My fluent restatement had outrun the question. The correction returned us to obs
 
 This is a record of James looking at *other people* and talking through where their styles, movements, and descriptions might relate. The quotations preserve where he redirected my attention. The comparisons can be investigated; the record does not prove that Rainbolt, Shroud, or anyone else shares a specific internal method, and it does not give us access to their private motives.
 
-The title stays **Watching What Continues**. Its place in the writing index is **Other Tracers**, so the story is findable without pretending all of its subjects have been established as tracers.
+The record remains under its original title, **Watching What Continues**. It preserves the exchange without assigning a category to the people discussed.
 
 [Related: Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Research method](../docs/RESEARCH_METHOD.md)
