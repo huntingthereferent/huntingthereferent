@@ -60,7 +60,11 @@ def main() -> int:
         return next(line for line in s.splitlines() if line.startswith("[![RESEARCH]"))
 
     if badge_line(now) != badge_line(old):
-        errors.append("Badges under James's name changed or moved.")
+        errors.append("Research badges changed from the frozen source set.")
+    if now.count(badge_line(now)) != 1:
+        errors.append("Research badges must appear exactly once.")
+    if not (now.find("# James\n") < now.find(badge_line(now)) < now.find("[**Research overview**]")):
+        errors.append("Research badges must appear above the main navigation links.")
 
     expected = [BANNER, FINITE, CONVERGENCE]
     found = visible_images(now)
