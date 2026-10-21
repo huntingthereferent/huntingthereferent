@@ -1,7 +1,5 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# James
-
 **Independent researcher · finite systems, observation, and source-backed experiments**
 
 I investigate what changes under observation, what holds up when an explanation is tested, and where the evidence stops. The questions have taken me into mathematics, language, interactive experiments, and software built to preserve original sources. Some work is exploratory, some has reproducible results, and the difference matters. The records below include both.
