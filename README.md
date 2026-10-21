@@ -6,6 +6,8 @@
 
 I investigate what changes under observation, what holds up when an explanation is tested, and where the evidence stops. The questions have taken me into mathematics, language, interactive experiments, and software built to preserve original sources. Some work is exploratory, some has reproducible results, and the difference matters. The records below include both.
 
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
 [**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
 
 ---
@@ -13,8 +15,6 @@ I investigate what changes under observation, what holds up when an explanation 
 ## Work and evidence
 
 The projects below address different questions. Similarity between two systems does not transfer a result without a separate test. [The Human Wall](writing/README.md#the-human-wall) explains where these investigations began.
-
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 **[↗ LIVE VIEWER — WORKSTATION & RESEARCH](https://huntingthereferent.github.io/autobots-assemble/live/)** · [Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
 
