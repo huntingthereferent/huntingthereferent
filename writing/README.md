@@ -1,33 +1,40 @@
-# Stories & Conversations
+# Writings — James
 
-[← The Human Wall / Profile](../README.md) · [Research](../RESEARCH.md) · [Language source records](https://github.com/huntingthereferent/autobots-assemble/tree/main/language)
+[← Research profile](../README.md) · [Research record](../RESEARCH.md) · [Evidence register](../RESEARCH_REGISTER.md)
 
-These are the stories and conversations behind the work. Some started as memories, some as questions about language, some as attempts to describe what another person was doing. I wanted to keep both sides of the exchanges: what I actually said, what the assistant took it to mean, where I corrected that reading, and what came out of talking further.
+This is the single entry point for my personal writing: essays, remembered experiences, conversations, corrections, tracing and scoping accounts, and working positions. The documents retain their different voices. A memory is a reported memory; an assistant's interpretation is not my statement; a mathematical or technical result must be supported by its own evidence.
 
-The words aren't cleaned into a single technical voice. A joke, a feeling, a misunderstanding, and an observation can all belong in the same conversation without becoming a mathematical claim about it.
+## Essays and the starting question
 
-## The stories
-
-| Story | Where the conversation goes |
+| Writing | What it contains |
 | --- | --- |
-| **[The Human Wall](THE_HUMAN_WALL.md)** | The long-form question that gives the work its reason to exist, beginning with my own reasoning and corrections |
-| **[Childhood and the early internet](CHILDHOOD.md)** | Small animals, diaries, GeoCities, and things I liked before these repositories existed |
-| **[Origin of the investigation](ORIGIN.md)** | How conversations, corrections, other perspectives, and eventually executable work met the starting question |
-| **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** | Reading another point of view, how words landed, and what I corrected when a technical handoff became the wrong explanation |
-| **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** | Compression, decompression, tracing relationships through words, silence, misunderstanding, correction, and continuing to communicate |
-| **[Watching What Continues — Other Tracers](WATCHING_WHAT_CONTINUES_2026-10-17.md)** | Our conversation about people I was examining as possible tracers: Rainbolt, Shroud, players, styles, and what their observable movements did or didn't support |
-| **[Things We've Talked Through — full earlier account](https://github.com/huntingthereferent/huntingthereferent/blob/3e355d52869389a4cff1a5408cb47f0542ff9918/writing/OPINIONS.md)** | Learning, work, AI, attribution, misunderstandings, and why the writing needed both sides of the conversation |
+| [The Human Wall](THE_HUMAN_WALL.md) | Extended first-person account of the question behind the research |
+| [Origin of the investigation](ORIGIN.md) | From misunderstanding and correction to questions tested with executable systems |
+| [Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md) | Reading another point of view and correcting a technical explanation that missed the question |
+| [Language and Observation](LANGUAGE_AND_OBSERVATION.md) | Tracing relationships through words, silence, compression, and correction |
 
-## Finding the tracing and scoping conversations
+## Conversations, tracing, and scoping
 
-The tracing/scoping material wasn't originally one neatly titled essay. That shouldn't make it disappear or give us permission to invent a retrospective one. The relevant first-person exchanges are in [Language and Observation](LANGUAGE_AND_OBSERVATION.md); the conversation about **other people being considered as tracers** is [Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md). The [October 14 account of reading and felt perspective](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md) is in the research repository and is linked here rather than rewritten as a different story.
+| Writing | What it contains |
+| --- | --- |
+| [Watching What Continues — Other Tracers](WATCHING_WHAT_CONTINUES_2026-10-17.md) | Recorded discussion of observable styles and movements; no claims about private motives |
+| [Language and Observation](LANGUAGE_AND_OBSERVATION.md) | Longer first-person discussion of language, tracing, and communication |
+| [Earlier full conversation account](https://github.com/huntingthereferent/huntingthereferent/blob/3e355d52869389a4cff1a5408cb47f0542ff9918/writing/OPINIONS.md) | Historical version of discussions about learning, work, AI, attribution, and corrections |
+| [October 14 felt-perspective source record](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/POV_FELT_REFERENT_PROVENANCE_2026-10-14.md) | Related source record kept in the technical research repository, not rewritten here as a new conversation |
 
-These links are the current source locations. A future distinct scoping account should be added only from its actual conversation, not from an assistant's guess about what I must have meant.
+The original scoping exchanges did not begin as a single polished essay. The references above identify where they survive rather than inventing a retrospective narrative.
 
-## Where the technical descriptions live
+## Personal context and working positions
 
-[Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Finite mathematical work](../showcase/MATHEMATICS.md) · [Research evidence and limits](../PROVENANCE.md)
+| Writing | What it contains |
+| --- | --- |
+| [Childhood and the early internet](CHILDHOOD.md) | Small animals, diaries, GeoCities, and interests before the research |
+| [Personal notes from the profile](PROFILE_NOTES.md) | Family, reading, curiosity, humor, and the original first-person profile language |
+| [Working positions](WORKING_POSITIONS.md) | Research judgments and falsifiable tests that guide current engineering decisions |
+| [Historical “Things We've Talked Through” pointer](OPINIONS.md) | Compatibility link to the earlier full account |
 
-Those are related investigations, but their code, tests, vocabulary, and provenance records don't replace the original conversations.
+## Reading the archive
 
-*Attribution: James's quotations are his words as recorded; unquoted assistant descriptions remain interpretations open to correction. The stories are not claims about the unobserved private lives or motives of other people.*
+These texts are kept as authored accounts or attributed conversations, not normalized into one technical voice. When I described an experience, that is my report; when an assistant offered a connection, that is a separate interpretation; when a source record or native run supports a result, it belongs to the relevant research evidence. Statements about other people stay with observable information rather than imagined inner motives.
+
+[Research questions and results](../RESEARCH.md) · [Operational method](../docs/RESEARCH_METHOD.md) · [Source-pinned evidence](../RESEARCH_REGISTER.md)
