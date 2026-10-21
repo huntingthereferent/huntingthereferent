@@ -2,7 +2,7 @@
 
 **Independent researcher · finite systems, observation, and source-backed experiments**
 
-I investigate what changes under observation, what holds up when an explanation is tested, and where the evidence stops. The questions have taken me into mathematics, language, interactive experiments, and software built to preserve original sources. Some work is exploratory, some has reproducible results, and the difference matters. The records below include both.
+I investigate what changes under observation, what holds up when an explanation is tested, and where the evidence stops. I work through a bounded, oscillatory method: follow a relationship as descriptions and constructions change, observe what holds or breaks, and carry what the movement revealed into the next question instead of losing it in a reset. The work has taken me into mathematics, language, interactive experiments, and software built to preserve original sources. Some results are exploratory, some are reproducible, and the difference matters.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
@@ -36,7 +36,9 @@ The standard is source-first: identify the native referent, record an interventi
 
 ### Research method
 
-A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
+The method is bounded, and oscillation is how I follow a relationship through changing conditions, interpretations, and constructions. Returning to the referent does not mean rewinding: the detour may contain observations or corrections worth carrying forward. The bounds apply to what a particular investigation can support, not to how far the question may continue.
+
+A test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
 
 [Operational research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
 

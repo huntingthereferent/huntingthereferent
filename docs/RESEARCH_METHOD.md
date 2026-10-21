@@ -1,6 +1,14 @@
 ## Research method / operational notes
 
-This is a procedure for producing challengeable results, not a universal algorithm that already solves every class of problem.
+This is a bounded method that uses oscillation to follow relationships through movement, observation, correction, and return. A local construction or test has explicit conditions and an evidentiary boundary; the inquiry itself need not end at that boundary.
+
+### Bounded movement and return
+
+Oscillation here describes moving among observations, descriptions, perspectives, and candidate constructions while keeping the relationship under investigation available. It is not a claim that every domain literally follows a two-state cycle, a measured physical frequency, or an automatic back-and-forth rule. Sometimes the movement branches outward; a return carries what the branch revealed rather than restoring an unchanged starting description.
+
+When an account or model drifts, compare it with the source or native return, preserve useful observations from the detour, correct unsupported connections, and continue from the evidence. This is the movement being investigated, not a claim that any one finite model proves it across language, mathematics, software, and the physical world. See the source-grounded [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) and [regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) records for the words and corrections behind this description.
+
+The technical checks below are a way to make individual results challengeable, **not** a universal algorithm, a fixed sequence every inquiry must follow, or proof that one method already solves every class of problem.
 
 ### The witness
 
@@ -8,7 +16,9 @@ For interactive work, keep a native `state → permitted action → returned sta
 
 The evidence-bearing object changes by domain. It is not automatically a hash, a summary, or a favorite internal representation.
 
-### Admission sequence
+### Evidence admission checks
+
+These checks govern what can be claimed from a bounded experiment. They do not prescribe the order in which the investigation must move.
 
 1. **Locate the referent.** What is the actual system and native observation?
 2. **Separate claims.** Observed, supplied, inferred, proposed, and unknown must not collapse.
