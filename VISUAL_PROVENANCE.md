@@ -1,39 +1,31 @@
 # Visual provenance — the structure of the words
 
-[← The Human Wall](README.md) · [Stories & Conversations](writing/README.md) · [Research evidence](PROVENANCE.md) · [Illustration sources](VISUAL_SYSTEM.md)
+[← Research profile](README.md) · [The Human Wall](writing/README.md#the-human-wall) · [Illustration sources](VISUAL_SYSTEM.md) · [Research evidence](PROVENANCE.md)
 
-For James's About Me, **the words themselves are the visual structure**. The page opens with an illustrated humanity-and-internet-culture banner, then **THE HUMAN WALL**. The banner sets the shared human and cultural context; the words themselves carry the experience of the wall. It holds the reader in sustained paragraphs before the first-person writing hands off to **“I'm James.”**
+## Current presentation
 
-The opening moves from **“This is why I do this work”** through the scale of the universe and everything we do not know, then back toward the smaller problem in front of us. Sentences lengthen, ideas accumulate, commas change the pace, and short statements bring the reader back to the immediate question. The relationship develops while it is being read, especially aloud. Pictures cannot substitute for that language.
+The profile opens with the humanity-and-internet-culture banner, followed by James's research introduction, areas of investigation, evidence boundaries, methodology, and a link to the writings. Two source-generated A/B motion illustrations remain in their existing positions after the research overview. Their purpose is to show the specified mathematical constructions, not to prove something about the person reading.
 
-This design does not presume that every reader will feel the same thing. It lets someone recognize the question, disagree with it, or find themselves thinking through it before meeting its author.
+The long-form [Human Wall](writing/README.md#the-human-wall) has moved into the writing archive. Its original introduction is preserved in a collapsible section. The [earlier separate Human Wall account](writing/THE_HUMAN_WALL.md) remains accessible there. The profile and the writing archive have different jobs: the first presents inspectable research; the second preserves the questions, experiences, conversations, and corrections behind it.
 
-## Sequence preserved on the profile
+## How the Human Wall is structured
 
-1. **Humanity banner** — broad, contemporary pop and internet culture, with people as part of the shared scene; this is artwork, not evidence of a theory.
-2. **The Human Wall** — the full uninterrupted prose immediately below the image, retained until the accumulation of the work changes the reading experience enough to reconsider it.
-3. **James** — the first-person handoff, with research badges directly beneath his name, then family, ordinary memories, humor, and his own words.
-4. **Stories & conversations** — the two-sided exchanges together in one index, including language/tracing and the story about examining **other tracers**.
-5. **The Internet map** — source-linked, bounded observational geography and public measurement-probe locations, distinct from the removed world-data panel.
-6. **A/B and research records** — two animated finite A/B witnesses separated by the research index, with ARC, native tests, and their own evidence boundaries.
+For that writing, **the words themselves are the visual structure**: punctuation, paragraph density, changes in cadence, emphasis, and the returns to the local question. Its placement in the archive does not make the account an established explanation of human behavior. The essay and executable research results are separate records.
 
-The Human Wall's visual provenance is **the wording, punctuation, paragraph density, emphasis, order, and handoff**; the banner and later illustrations have separate artistic roles. It is not a chart of James or a scientific observation of the reader.
+## Displayed visual order
 
-## Inspect the source
+1. **Humanity banner** — artwork at the top of the profile
+2. **Research profile** — James, research badges, questions, cases, method, and writing entry point
+3. **Finite A/B motion** — action order in a defined construction
+4. **Finite A/B convergence** — two tested action paths reaching the same defined state
+5. **Research record index** — sources, limitations, and further work
 
-- [Profile and the handoff](README.md)
-- [Full Human Wall](writing/THE_HUMAN_WALL.md)
-- [Stories index](writing/README.md)
-- [Watching What Continues — Other Tracers](writing/WATCHING_WHAT_CONTINUES_2026-10-17.md)
-- [Language and Observation](writing/LANGUAGE_AND_OBSERVATION.md)
-- [Evidence and limitations](PROVENANCE.md)
+The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg) remains in the source repository; it is not displayed on the profile. Older profile illustrations such as the [continuity overview](assets/observational/continuity.svg), [legend](assets/observational/continuity-legend.svg), and [atlas](assets/observational/continuity-loom.svg) likewise remain in the repository without being restored to the profile.
 
-## Separate illustrations
+## Source and verification
 
-The [Internet map](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/traces/internet-map.svg) appears after the writing. The two source-generated animated A/B witnesses — [finite action order](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) and [finite convergence](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-motion.svg) — are displayed separately, not side by side. The older [A/B overview](assets/observational/continuity.svg), [legend](assets/observational/continuity-legend.svg), [atlas](assets/observational/continuity-loom.svg), [observation/correction sequence](assets/observational/movement.svg), and [“People were already here” illustration](assets/observational/people-and-work.svg) remain in the repository but are not displayed on the profile. Visual artwork is not independent research evidence.
+The two displayed animations reference the technical repository's [finite-motion](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/finite-motion.svg) and [convergence-motion](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/convergence-motion.svg) SVGs. [Source-owned renderer documentation](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) and [finite mathematical evidence](showcase/MATHEMATICS.md) explain their limited meaning.
 
-The finite-motion and convergence illustrations link to the [finite mathematics sources](showcase/MATHEMATICS.md) and their [renderer documentation](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). They depict particular defined models, not a reading effect.
+The profile's layout check protects the order and URLs of these remote illustrations, not their bytes as the technical repository's `main` branch changes. Exact historical graphics require a source commit or content hash. These visuals do not independently validate the research claims.
 
-The separately published [world-data observations](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) remain in their source repository, but the world-data panel is no longer part of the profile. The Internet map is a different visualization: its mapped dots are public RIPE Atlas probes from a bounded first retrieved page, not internet traffic routes or an exhaustive census.
-
-[← Return to The Human Wall](README.md)
+[← Profile](README.md) · [Writing archive](writing/README.md) · [Evidence register](RESEARCH_REGISTER.md)
