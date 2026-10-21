@@ -14,7 +14,7 @@ I investigate what changes under observation, what holds up when an explanation 
 
 The projects below address different questions. Similarity between two systems does not transfer a result without a separate test. [The Human Wall](writing/README.md#the-human-wall) explains where these investigations began.
 
-**[↗ LIVE VIEWER — WORKSTATION & RESEARCH](https://huntingthereferent.github.io/autobots-assemble/live/)** · [Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
+[Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
 
 ### Research areas
 
