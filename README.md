@@ -50,6 +50,8 @@ Essays, personal accounts, conversations, and working positions are collected in
 
 This is independent work, not a claim of institutional affiliation or a finished theory. Personal history, family, early internet memories, and informal conversations belong in the [writing archive](writing/README.md). Research claims stand or fall on their sources, test conditions, and limits.
 
+**Total cost for everything presented here: $20.**
+
 ## One finite example
 
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion: action order changes a defined state" /></a>
