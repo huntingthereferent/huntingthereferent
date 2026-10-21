@@ -63,7 +63,9 @@ def main() -> int:
         errors.append("Research badges changed from the frozen source set.")
     if now.count(badge_line(now)) != 1:
         errors.append("Research badges must appear exactly once.")
-    if not (now.find("# James\n") < now.find(badge_line(now)) < now.find("[**Research overview**]")):
+    if "\n# James\n" in now:
+        errors.append("Redundant profile name heading returned.")
+    if not (now.find("**Independent researcher") < now.find(badge_line(now)) < now.find("[**Research overview**]")):
         errors.append("Research badges must appear above the main navigation links.")
 
     expected = [BANNER, FINITE, CONVERGENCE]
