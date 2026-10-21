@@ -1,10 +1,8 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# James — Independent Researcher
+# James
 
-**Finite A/B systems · Interactive environments · Language and observation · Research infrastructure**
-
-I investigate how defined relationships persist, change, or fail under observation. My work connects finite mathematical constructions, native interactive experiments, source-preserving software systems, and language research. Each result stays within the conditions actually tested.
+I started by examining where my own explanations stopped matching what I could actually observe. Following that question has taken me into mathematics, language, interactive worlds, and the software I build to test them. I keep the source, the result, and the unanswered parts together so the work can be inspected and challenged.
 
 [**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
 
@@ -46,7 +44,7 @@ I started with my own misunderstandings because those were there to examine. The
 
 ## Research profile
 
-I am James, an independent researcher developing A/B investigations through bounded constructions, executable experiments, and inspectable source records. I began by examining my own misunderstandings and corrections; the research now spans mathematics, language, interactive environments, temporal records, and the tools needed to test them. Those domains inform one another, but evidence from one does not automatically establish a claim about another.
+The work here ranges from finite A/B constructions and native ARC experiments to temporal records and source-preserving software. I treat each as its own question. A result in one setting doesn't become proof in another just because the relationship looks familiar.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
