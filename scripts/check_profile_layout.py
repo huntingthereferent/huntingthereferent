@@ -48,10 +48,13 @@ def main() -> int:
         errors.append("Humanity banner at the top changed.")
     if (ROOT / BANNER).read_bytes() != frozen_file(BANNER):
         errors.append("Frozen humanity banner artwork changed.")
-    wall_now = section(now, "# THE HUMAN WALL\n", "## Research profile\n")
+    writings = (ROOT / "writing/README.md").read_text(encoding="utf-8")
+    wall_now = section(writings, "<!-- HUMAN_WALL_INTRO_BEGIN -->\n", "<!-- HUMAN_WALL_INTRO_END -->")
     wall_old = section(old, "# THE HUMAN WALL\n", "## Research profile\n")
     if wall_now != wall_old:
-        errors.append("The sustained Human Wall text changed.")
+        errors.append("The original Human Wall text was changed or lost in the writing archive.")
+    if "# THE HUMAN WALL" in now:
+        errors.append("Human Wall duplicated on the research profile.")
 
     def badge_line(s: str) -> str:
         return next(line for line in s.splitlines() if line.startswith("[![RESEARCH]"))
@@ -64,7 +67,7 @@ def main() -> int:
     if found != expected:
         errors.append(f"Visible graphic order/set changed: {found!r}")
     headings = [
-        "# THE HUMAN WALL", "## Research profile", "### Research areas",
+        "## Work and evidence", "### Research areas",
         "### Evidence and verification", "### Research method",
         "### Writings and conversations", "### Background",
         "## One finite example", "## Where separate A/B paths meet",
@@ -94,7 +97,7 @@ def main() -> int:
         print("For an intentional layout redesign, update this guard in the same reviewed change.")
         return 1
     print("PROFILE VISUAL LOCK: PASSED")
-    print("Human Wall, banner, badges, and the two finite graphics remain in the agreed order.")
+    print("Nested Human Wall, banner, badges, and both finite graphics preserve their source.")
     print("Supporting research prose and source links may continue to evolve.")
     return 0
 
