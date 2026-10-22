@@ -5,14 +5,12 @@ on:
     branches: [main]
     paths:
       - README.md
-      - writing/README.md
       - assets/observational/humanity-online-banner.webp
       - scripts/check_profile_layout.py
       - .github/workflows/profile-visual-lock.yml
   pull_request:
     paths:
       - README.md
-      - writing/README.md
       - assets/observational/humanity-online-banner.webp
       - scripts/check_profile_layout.py
       - .github/workflows/profile-visual-lock.yml
