@@ -12,7 +12,7 @@ This GitHub account shows the system being developed and tested. The workstation
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-**Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
+**Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/meta.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
 ## Proof of concept in action
 
