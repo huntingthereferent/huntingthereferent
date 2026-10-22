@@ -1,54 +1,29 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# Hunting the Referent — research system and evidence
+# Hunting the Referent
 
-**Independent research · finite mathematics · language · computational experiments · research infrastructure**
+**Independent research · Experiments · Software · Mathematics**
 
-## Research entry — from referent to verified construction
+I build and test systems to understand how things work, what changes when I interact with them, and which results can be repeated.
 
-The [Language Referent evidence contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) describes the continuing inquiry and its admission rules. It is not interchangeable with a single finite operator or software workflow. The mathematical investigations give specific, inspectable representations of selected relationships.
+This GitHub account shows the work in progress: research experiments, working software, original mathematical constructions, and a workstation that runs and records tests across different fields. Some experiments succeed. Others reveal limits or mistakes. Both are kept so the next test starts from evidence rather than a guess.
 
-**Read in this order:** [Mathematical construction and Engine 1](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/ENGINE_ONE.md) → [Cyclic Action continuation and re-entry](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md) → [Finite mathematical evidence](showcase/MATHEMATICS.md) → [Implementations and complete project inventory](showcase/PROJECT_INVENTORY.md) → [Source-pinned research register](RESEARCH_REGISTER.md) → [Historical provenance](PROVENANCE.md).
+**Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
-**What is constructed:** Engine 1 selects candidate laws within admitted finite families and produces witnessed successor versions, including changing-law recurrences. The Cyclic Action Engine retains and independently recomputes bounded observations across re-entry, distinguishing negative controls and verifying positive correspondences on their declared carrier.
+## What I'm building
 
-**How the wider account relates:** ARC and WORLD investigate interactive/native environments and finite-world models; NIH investigates source-owned scientific data; the workstation connects execution, source-preserving handoffs, audits and interfaces. These are related research and construction lanes, not assertions that a finite mathematical theorem automatically proves results in another domain.
+| Area | What you can see |
+| --- | --- |
+| **Research workstation** | Independent workers, automated tests, live execution records, and audits across projects. [Open workstation](https://huntingthereferent.github.io/autobots-assemble/live/meta.html) |
+| **Mathematics** | Original finite constructions with programs and tests showing where a relationship holds or fails. [Explore mathematics](showcase/MATHEMATICS.md) |
+| **ARC and interactive environments** | Experiments that act in real game environments, compare predictions with returned states, and retain failed attempts. [ARC evidence](ARC_EVIDENCE.md) |
+| **WORLD** | Simulated motion and interaction studies, including cases where a prediction reaches its limit. [WORLD research](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
+| **NIH and other scientific research** | Source-based comparisons and independent tests across biomedical data, biology, chemistry, economics, security, machine learning, and other fields. [Research records](RESEARCH_REGISTER.md) |
+| **Software and learning tools** | Applications, interfaces, creative tools, and an online school under active development. [Project inventory](showcase/PROJECT_INVENTORY.md) |
 
-**How to read a result:** identify the question, admitted inputs, implemented operation, actual witness or test, source revision, supported conclusion, and next continuation. A wall or counterexample is a recorded mathematical outcome, not a verdict on the whole research system.
+## Current evidence
 
-## Reporting standard — evidence without a frozen endpoint
-
-This account is a dated record of ongoing construction, not a final specification of what the research must become. Report actual operations, passing and failing tests, counterexamples, source revisions and the limits of each witnessed result. Neither promote a local result into an untested universal claim nor diminish a working construction because a larger or unrelated question remains open.
-
-An external dependency or inaccessible condition is recorded as a boundary, not assigned an invented proof obligation. Preserve its provenance and continue through a different admissible construction when one exists. A genuine defect in a controlled implementation remains a defect to investigate; an unknown remains unknown.
-
-**Operating sequence:** observe → construct → test what can be tested → retain positive and negative evidence → continue. Each new revision may change the system's shape. Historical snapshots remain dated evidence rather than constraints on subsequent research.
-
-## System status
-
-The public repositories document approximately one month of development during September–October 2026, alongside earlier investigative groundwork. The current implementation spans mathematical constructions, language and referent research, ARC and computational-world experiments, scientific data comparison, source-preserving handoffs, worker processes, and audit records.
-
-The workstation is a general-purpose research and construction environment. GitHub currently supplies source control and portions of the execution and evidence infrastructure; it is not the intended capacity boundary or the complete product.
-
-## Work and evidence
-
-The projects below address different questions. Similarity between two systems does not transfer a result without a separate test.
-
-[Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
-
-### Research areas
-
-| Investigation | Research question | Public record |
-| --- | --- | --- |
-| **Finite A/B mathematics** | Which relationships are preserved or changed by defined movement, ordering, and composition? | [Mathematical constructions and limits](showcase/MATHEMATICS.md) |
-| **Interactive environments / ARC** | What can be learned from permitted actions, actual returned states, failed predictions, and replay? | [Native ARC evidence](ARC_EVIDENCE.md) |
-| **Computational worlds** | Which interactions are supported by the constructed finite world, and where does its predictive boundary fail? | [A/B WORLD source-owned investigation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/ab_world/TRIAL21_SOURCE_HANDOFF.md) |
-| **Temporal data / NIH investigation** | What record changes can be established across archived datasets, without inventing chronology? | [AACT source and chronology audit](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) |
-| **Research infrastructure** | How can bounded workers, explicit handoffs, and independent checks preserve a question across tools? | [Workstation and source records](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
-
-### Evidence and verification
-
-The standard is source-first: identify the native referent, record an intervention and its returned result, compare against a prediction, and retain counterexamples. A passing test verifies its stated boundary; it does not by itself demonstrate a general solution, a physical measurement, or a successful external deployment.
+The next section links to actual source revisions, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
 
 **Selected source-pinned evidence — updated October 22, 2026.** [Current workstation source revision](https://github.com/huntingthereferent/autobots-assemble/commit/a0f4ed478122b4f4f049220900f6dea755e95f2b). These are separate lane records; open research branches are identified as **in progress**, not as merged or independently validated results.
 
