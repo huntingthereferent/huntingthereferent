@@ -10,6 +10,8 @@ I'm developing a proof of concept for a general-purpose construction system: sta
 
 This GitHub account shows the system being developed and tested. The workstation runs separate research and construction lanes across mathematics, software, interactive environments, scientific data, and practical tools. Each result is recorded with its tests and limits. **The ambition is general; the evidence so far is specific to the constructions demonstrated here.**
 
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
 **Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
 ## Proof of concept in action
@@ -97,8 +99,6 @@ The working pattern is **construct → test → audit → retain evidence → co
 These are possible capabilities unlocked by equipment, engineering, and funding—not claims that all have already been implemented. Specific workloads must be benchmarked and integrations validated. The research remains portable in intent; each new execution environment has its own technical and evidentiary requirements.
 
 **Current reviewed evidence (October 21, 2026):** [Research register](RESEARCH_REGISTER.md) · [Historical provenance](PROVENANCE.md) · [Research overview](RESEARCH.md) · [Mathematical constructions](showcase/MATHEMATICS.md) · [Language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [Research method](docs/RESEARCH_METHOD.md)
-
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 [**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
 
