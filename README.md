@@ -32,7 +32,7 @@ The workstation is a general-purpose research and construction environment. GitH
 
 ## Work and evidence
 
-The projects below address different questions. Similarity between two systems does not transfer a result without a separate test. [The Human Wall](writing/README.md#the-human-wall) explains where these investigations began.
+The projects below address different questions. Similarity between two systems does not transfer a result without a separate test.
 
 [Referent-first audit](https://huntingthereferent.github.io/autobots-assemble/live/work.html#audit)
 
@@ -60,15 +60,9 @@ A bounded test records its source, predicted change, permitted action or transfo
 
 [Operational research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
 
-### Writings and conversations
-
-**[Read the complete writing archive →](writing/README.md)**
-
-Essays, personal accounts, conversations, and working positions are collected in the writing archive. The original [Human Wall](writing/README.md#the-human-wall) is there in full as the question behind the work, not a conclusion established by the experiments. The writing retains its own voice and stays separate from technical evidence.
-
 ### Background
 
-This is independent work, not a claim of institutional affiliation or a finished theory. Personal history, family, early internet memories, and informal conversations belong in the [writing archive](writing/README.md). Research claims stand or fall on their sources, test conditions, and limits.
+This is independent work, not a claim of institutional affiliation or a finished theory. Research claims stand or fall on their sources, test conditions, and limits.
 
 **Total cost for everything presented here: $20.**
 
@@ -115,9 +109,9 @@ These are possible capabilities unlocked by equipment, engineering, and funding�
 
 **Current reviewed evidence (October 21, 2026):** [Research register](RESEARCH_REGISTER.md) · [Historical provenance](PROVENANCE.md) · [Research overview](RESEARCH.md) · [Mathematical constructions](showcase/MATHEMATICS.md) · [Language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [Research method](docs/RESEARCH_METHOD.md)
 
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-[**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
+[**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
 
 ---
 
@@ -135,6 +129,6 @@ These are possible capabilities unlocked by equipment, engineering, and funding�
 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) | Workers, handoffs, workflows and independent verification |
 | [Visual provenance](VISUAL_PROVENANCE.md) | How the words and illustrations relate without replacing one another |
 
-[Writing archive](writing/README.md) · [Research method](docs/RESEARCH_METHOD.md) · [Visual provenance](VISUAL_PROVENANCE.md)
+[Research method](docs/RESEARCH_METHOD.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
 *This work includes AI-assisted code and writing. First-person quotations, interpretations, source records, and executable results are distinct.*
