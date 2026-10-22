@@ -1,7 +1,7 @@
 # Watching What Continues
 *James and the assistant · conversation of October 16–17, 2026*
 
-[← Stories & Conversations](README.md) · [Language](LANGUAGE_AND_OBSERVATION.md) · [Profile](../README.md)
+[← Writings](README.md) · [The Human Wall](THE_HUMAN_WALL.md) · [Profile](../README.md)
 
 ## Who we were talking about
 
@@ -9,7 +9,7 @@ This conversation considered the public styles and movements of Rainbolt, Shroud
 
 That question of learning through observation came up *within* the discussion. It wasn't a replacement for the people or the particular movements that started it.
 
-## 1. Rainbolt and using words as probes
+## 1. Rainbolt and following a changing match
 
 > **James:** James traces relationships threw feelings of language ....
 
@@ -73,4 +73,4 @@ This is a record of James looking at *other people* and talking through where th
 
 The record remains under its original title, **Watching What Continues**. It preserves the exchange without assigning a category to the people discussed.
 
-[Related: Language and Observation](LANGUAGE_AND_OBSERVATION.md) · [Research method](../docs/RESEARCH_METHOD.md)
+[Related: Origin of the Investigation](ORIGIN.md) · [Research method](../docs/RESEARCH_METHOD.md)
