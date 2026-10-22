@@ -3,7 +3,7 @@
 
 **How to read these entries:** begin with the [research entry](../README.md) and [mathematical work](MATHEMATICS.md). Each project has its own question, implemented mechanism, tested result and next continuation. A product, native game experiment, finite theorem and historical report are different kinds of evidence; their relationship is explained, not assumed. This page selects examples; the [complete inventory](PROJECT_INVENTORY.md) provides broader coverage.
 
-[← Profile](../README.md) · [Writing](../writing/README.md) · [Evidence index](../PROVENANCE.md)
+[← Profile](../README.md) · [Evidence index](../PROVENANCE.md)
 
 **This is a selected presentation, not the full inventory.** The [complete project catalog](PROJECT_INVENTORY.md) enumerates all project families found across the connected public and private repositories, distinguishing code, historical work, local reports, drafts, and planned projects. The [source-path snapshot](SOURCE_INDEX.md) provides the entire tracked public `main` tree. **Engine 2 is listed by its historical name and current Cyclic Action Engine name.**
 
@@ -225,7 +225,7 @@ An earlier page was used to explore communication, presentation, and what could 
 
 The origin of the investigation, the distinction between AI output and human direction, revisable positions on learning and autonomy, and the technical evidence record.
 
-[Writing library](../writing/README.md) · [Living opinions](../writing/OPINIONS.md) · [Origin report](../writing/ORIGIN.md) · [Evidence ledger](../PROVENANCE.md)
+[Evidence ledger](../PROVENANCE.md)
 
 </details>
 
