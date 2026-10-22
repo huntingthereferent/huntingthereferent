@@ -4,9 +4,9 @@ This is where the writing lives: the long questions, the conversations that chan
 
 [← Research profile](../README.md) · [Research evidence](../RESEARCH_REGISTER.md)
 
-## The Human Wall
+## Start here: The Human Wall
 
-The long introduction starts with a question: how much of everything we *don't* know do we bring into the problem right in front of us? The text is kept as one continuous reading, rather than broken into excerpts.
+The opening account starts with a question: how much of everything we *don't* know do we bring into the problem right in front of us? The text is kept as one continuous reading, rather than broken into excerpts.
 
 <details>
 <summary>Read the full introduction</summary>
@@ -49,26 +49,31 @@ I started with my own misunderstandings because those were there to examine. The
 
 </details>
 
-## Essays and beginnings
+## The question and its development
 
-- **[The Human Wall — earlier account](THE_HUMAN_WALL.md)** — an earlier, separate first-person telling of the question behind the work.
-- **[Origin of the Investigation](ORIGIN.md)** — the starting question, the assistant's attempts to describe it, and James's corrections.
+- **[The Human Wall — earlier account](THE_HUMAN_WALL.md)** — a fuller first-person account of the problem that motivated the research, the tools that followed, and what remains unproven.
+- **[Origin of the Investigation](ORIGIN.md)** — how the question developed through exchange, correction, and the first mathematical constructions.
 
-## Conversations and corrections
+## A conversation in motion
 
-These records keep the exchange visible. A quoted statement, a response, and a later correction are not interchangeable.
+These records preserve a particular exchange and the redirections that occurred inside it. They are not evidence of other people's private thoughts or proof of a general mechanism.
 
-- **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** — comparisons of publicly observable styles, movement, and learning; questions rather than claims about other people's private methods.
+- **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** — James compares styles and movement across games and other settings, then corrects the assistant when its account loses the wider movement under discussion.
 
-## Personal notes
+## Personal history
 
-- **[Childhood memories](CHILDHOOD.md)** — recalled moments around animals, diaries, and the early internet, with the later interpretation distinguished from the memories.
+- **[Childhood memories](CHILDHOOD.md)** — recollections kept separate from later interpretations; the memories are not presented as a predetermined origin story.
 
-## Working positions and older records
+## Provisional engineering positions
 
-- **[Working positions](WORKING_POSITIONS.md)** — provisional engineering judgments and the tests that might challenge them; not a personal essay or a list of proven laws.
-- **[Earlier conversations](OPINIONS.md)** — the preserved link to a prior conversation account, retained rather than silently overwritten.
+- **[Working positions](WORKING_POSITIONS.md)** — practical judgments paired with ways they could be challenged. These guide decisions; they are not laws or proof of the wider research question.
 
-The research [methods](../docs/RESEARCH_METHOD.md), [source register](../RESEARCH_REGISTER.md), and [project evidence](../PROVENANCE.md) live outside this archive. The essays are not evidence of a general theory; the conversations preserve what was said and how the interpretation changed.
+## Historical record
+
+- **[Earlier conversations](OPINIONS.md)** — a pointer to the preserved historical version, retained rather than silently overwritten.
+
+## How to read this archive
+
+The writings show where the question came from and how its descriptions changed. They are not, by themselves, evidence that the Human Wall is a universal human mechanism. For methods, definitions, test results, and the limits of current evidence, see the research [methods](../docs/RESEARCH_METHOD.md), [source register](../RESEARCH_REGISTER.md), [research notebook](../RESEARCH.md), and [project evidence](../PROVENANCE.md).
 
 [← Back to the profile](../README.md)
