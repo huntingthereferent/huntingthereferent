@@ -1,7 +1,9 @@
-# Mathematical work — definitions, constructions, and evidence
+# Mathematics — constructions, relationships and verified scope
 *Profile research archive · linked technical index · snapshot carried from October 2026*
 
 [← Work catalog](README.md) · [Profile](../README.md) · [Research source](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/README.md)
+
+**Start here for the mathematics.** The [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) identifies the continuing inquiry; this page concerns its *specific finite mathematical representations*. [Engine 1](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/ENGINE_ONE.md) constructs witnessed changing laws from admitted requirements. [Cyclic Action continuation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md) verifies bounded observations across re-entry. Results must be read with their declared carrier and relation: rooted, full-state, projection and B-only statements are not interchangeable. Follow the source and tests for each result, then the [project inventory](PROJECT_INVENTORY.md) for implementations and applications.
 
 This page preserves technical details for readers who want to inspect the mathematical experiments. **All mathematical and software material was produced through AI-assisted vibe coding.** The observations that prompted these experiments should not be confused with the formal definitions used to test them.
 
