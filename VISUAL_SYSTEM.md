@@ -1,12 +1,12 @@
 # Visual illustrations — supplementary sources
 
-[← The Human Wall / Profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
+[← Research profile](README.md) · [Visual provenance of the words](VISUAL_PROVENANCE.md) · [Research](RESEARCH.md)
 
-The profile begins with the humanity-and-internet-culture banner, the full written Human Wall, and James's first-person introduction. Its later visuals include the Internet observations map and two separately displayed, source-generated animated finite A/B witnesses. The older people-and-work illustration and the static A/B atlas/legend are archived here rather than displayed on the profile. No diagram substitutes for the writing or original research evidence.
+The profile begins with the humanity-and-internet-culture banner, the research introduction and source index. Its later visuals include two separately displayed, source-generated animated finite A/B witnesses. The older people-and-work illustration and the static A/B atlas/legend are archived here rather than displayed on the profile. No diagram substitutes for original research evidence.
 
 [![People, early internet, games, conversation, language, and code connected on a neon observation field](assets/observational/people-and-work.svg)](assets/observational/people-and-work.svg)
 
-**[View the earlier connected visual](assets/observational/people-and-work.svg)** · [Internet map on the profile](README.md#the-internet-map) · [Finite A/B movement on the profile](README.md#one-finite-example) · [A/B convergence on the profile](README.md#where-separate-ab-paths-meet) · [Source and evidence index](PROVENANCE.md)
+**[View the earlier connected visual](assets/observational/people-and-work.svg)** · [Finite A/B movement on the profile](README.md#one-finite-example) · [A/B convergence on the profile](README.md#where-separate-ab-paths-meet) · [Source and evidence index](PROVENANCE.md)
 
 ## What the image is for
 
@@ -18,8 +18,6 @@ James is part of the experiences he describes. He has a life outside the researc
 
 | Subject | Original records |
 | --- | --- |
-| **People and childhood** | [Childhood and early internet](writing/CHILDHOOD.md) |
-| **Conversation and correction** | [Language and observation](writing/LANGUAGE_AND_OBSERVATION.md) · [Writing index](writing/README.md) |
 | **Language Referent** | [Research source](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) |
 | **Finite mathematics** | [Constructed examples](showcase/MATHEMATICS.md) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |
 | **Games and replay** | [ARC evidence](ARC_EVIDENCE.md) · [Native runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
