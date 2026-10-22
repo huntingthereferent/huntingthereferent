@@ -1,8 +1,8 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# Hunting the Referent
+# Independent Researcher
 
-**Independent Researcher · Mathematical Construction · Proof of Concept**
+**Mathematical Construction · Proof of Concept**
 
 **The goal is to build anything with mathematics.**
 
