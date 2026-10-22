@@ -68,10 +68,6 @@ These records preserve a particular exchange and the redirections that occurred 
 
 - **[Working positions](WORKING_POSITIONS.md)** — practical judgments paired with ways they could be challenged. These guide decisions; they are not laws or proof of the wider research question.
 
-## Historical record
-
-- **[Earlier conversations](OPINIONS.md)** — a pointer to the preserved historical version, retained rather than silently overwritten.
-
 ## How to read this archive
 
 The writings show where the question came from and how its descriptions changed. They are not, by themselves, evidence that the Human Wall is a universal human mechanism. For methods, definitions, test results, and the limits of current evidence, see the research [methods](../docs/RESEARCH_METHOD.md), [source register](../RESEARCH_REGISTER.md), [research notebook](../RESEARCH.md), and [project evidence](../PROVENANCE.md).
