@@ -1,7 +1,7 @@
 # Childhood — source memories
 *James and the assistant · recalled October 2026*
 
-[← Writing](README.md) · [Origin](ORIGIN.md) · [Language and observation](LANGUAGE_AND_OBSERVATION.md)
+[← Writings](README.md) · [Origin of the Investigation](ORIGIN.md) · [The Human Wall](THE_HUMAN_WALL.md)
 
 ## Reported memories
 
