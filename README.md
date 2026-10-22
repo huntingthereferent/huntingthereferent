@@ -16,6 +16,14 @@ The [Language Referent evidence contract](https://github.com/huntingthereferent/
 
 **How to read a result:** identify the question, admitted inputs, implemented operation, actual witness or test, source revision, supported conclusion, and next continuation. A wall or counterexample is a recorded mathematical outcome, not a verdict on the whole research system.
 
+## Reporting standard — evidence without a frozen endpoint
+
+This account is a dated record of ongoing construction, not a final specification of what the research must become. Report actual operations, passing and failing tests, counterexamples, source revisions and the limits of each witnessed result. Neither promote a local result into an untested universal claim nor diminish a working construction because a larger or unrelated question remains open.
+
+An external dependency or inaccessible condition is recorded as a boundary, not assigned an invented proof obligation. Preserve its provenance and continue through a different admissible construction when one exists. A genuine defect in a controlled implementation remains a defect to investigate; an unknown remains unknown.
+
+**Operating sequence:** observe → construct → test what can be tested → retain positive and negative evidence → continue. Each new revision may change the system's shape. Historical snapshots remain dated evidence rather than constraints on subsequent research.
+
 ## System status
 
 The public repositories document approximately one month of development during September–October 2026, alongside earlier investigative groundwork. The current implementation spans mathematical constructions, language and referent research, ARC and computational-world experiments, scientific data comparison, source-preserving handoffs, worker processes, and audit records.
