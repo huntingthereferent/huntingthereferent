@@ -2,15 +2,17 @@
 
 # Hunting the Referent
 
-**Independent research · Experiments · Software · Mathematics**
+**Independent Researcher · Mathematical Construction · Proof of Concept**
 
-I build and test systems to understand how things work, what changes when I interact with them, and which results can be repeated.
+**The goal is to build anything with mathematics.**
 
-This GitHub account shows the work in progress: research experiments, working software, original mathematical constructions, and a workstation that runs and records tests across different fields. Some experiments succeed. Others reveal limits or mistakes. Both are kept so the next test starts from evidence rather than a guess.
+I'm developing a proof of concept for a general-purpose construction system: start with a problem, use mathematics to work out the relationships and steps it requires, then build, test, and refine the result. The aim is not one application or one research field, but a method that can move between them.
+
+This GitHub account shows the system being developed and tested. The workstation runs separate research and construction lanes across mathematics, software, interactive environments, scientific data, and practical tools. Each result is recorded with its tests and limits. **The ambition is general; the evidence so far is specific to the constructions demonstrated here.**
 
 **Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
-## What I'm building
+## Proof of concept in action
 
 | Area | What you can see |
 | --- | --- |
@@ -23,7 +25,7 @@ This GitHub account shows the work in progress: research experiments, working so
 
 ## Current evidence
 
-The next section links to actual source revisions, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
+The next section shows what has actually been constructed or tested toward that larger goal, with links to source revisions, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
 
 **Selected source-pinned evidence — updated October 22, 2026.** [Current workstation source revision](https://github.com/huntingthereferent/autobots-assemble/commit/a0f4ed478122b4f4f049220900f6dea755e95f2b). These are separate lane records; open research branches are identified as **in progress**, not as merged or independently validated results.
 
