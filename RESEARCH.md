@@ -1,4 +1,6 @@
-# Research
+# Research — questions, constructions and continuation
+
+**Research map:** [Account entry](README.md) → [Mathematical constructions](showcase/MATHEMATICS.md) → [Implementations and project families](showcase/PROJECT_INVENTORY.md) → [Dated research register](RESEARCH_REGISTER.md). This page describes the investigative method and history, not a claim that every experiment shares a single proof. Report what was observed, preserve counterexamples, and continue through supported constructions without making external limitations into invented requirements.
 
 I usually begin with something I can observe but cannot yet describe accurately. I follow it through examples, conversation, mathematics, software, and tests until I can see which relationships hold and which ones I misunderstood.
 
