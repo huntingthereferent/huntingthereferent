@@ -2,7 +2,7 @@
 
 I've spent a lot of time trying to understand how I solve problems, including what happens when I misunderstand something, how I correct myself, and how easily an explanation can move away from the thing I was originally looking at.
 
-I didn't start by constructing a theory about other people. I started by observing myself. I wanted to know what I was actually doing while I was thinking, not just how I described it afterward. That meant paying attention to mistakes, revisiting my own assumptions, and sometimes finding that the problem I was trying to solve wasn't the problem in front of me anymore.
+I didn't start by constructing a theory about other people. I started by following my own problem-solving: what I did, what changed, where I misunderstood, and what corrected it. I wanted to know what was actually happening, not just the account I gave afterward. Sometimes I found that the problem I was trying to solve wasn't the problem in front of me anymore.
 
 This is the reason for my research. I did not begin with a plan to build an AI system, a mathematical framework, or a workstation. Those came into the investigation later. **The Human Wall is the question behind them, not another name for the tools.**
 
@@ -36,11 +36,11 @@ This is where A/B comes into my work. I'm interested in what changes between sta
 
 The mathematics makes particular relationships executable and challengeable. I've been constructing bounded systems, including deliberately constrained oscillation and interacting movements, to see what actually follows. The early nine-anchor and later 48-law experiments are different working constructions, not established fundamental counts or a universal minimum. The [three-coordinate finite-field model](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py) and [two-predecessor/window work](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/WINDOW_COMBINED.md) have their own definitions, tests, and limits.
 
-Language, mathematics, interactive worlds, ARC investigations, native execution tests, and the workstation may look like separate ambitions. To me, they're ways to investigate one underlying concern: **when do we stop relating to what actually supports a problem and start carrying a larger, imagined problem in its place?**
+Conversations, mathematics, interactive worlds, ARC investigations, native execution tests, and the workstation may look like separate ambitions. To me, they're ways to investigate one underlying concern: **when do we stop relating to what actually supports a problem and start carrying a larger, imagined problem in its place?**
 
 I use harnesses and software to preserve the observations, attempted movements, failures, corrections, and independent checks. I don't want to reconstruct the whole path every time I return to a question. A successful test tells me what passed in that specific system. It doesn't make my interpretation of the Human Wall true.
 
-Language matters for the same reason. Descriptions travel between people and systems. If an interpretation stops matching what supports it, repeating that interpretation can carry the error further. I want to preserve both the original expression and what changed in the correction rather than polish away the mismatch.
+Descriptions and handoffs matter for the same reason. A task can pass between people and systems while its intended relationship gets changed or lost. If an interpretation stops matching what supports it, carrying that interpretation forward can carry the error further. I want to preserve the original account, what was inferred from it, and what changed in the correction rather than polish away the mismatch.
 
 Now bring money into it. Not as a theory about money, but as one more condition I have to work inside. I have a family to take care of, and I can't throw a funded team at each problem. Sometimes I look at the workstation and think, "If I had actual agents this wouldn't look so jank." I might be right about part of that. More resources would change what I could build and how quickly I could check it. But notice what happens if I let that sentence stand in for the investigation. Have I found a missing capability, or have I stopped checking which specific handoff lost the question? Is the problem the tool I don't have, the source I never carried, or the result I haven't tested yet? Those are different walls, even if they feel like one enormous thing when I need the work to move.
 
