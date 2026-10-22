@@ -14,7 +14,7 @@ This GitHub account shows the system being developed and tested. The workstation
 
 | Area | What you can see |
 | --- | --- |
-| **Research workstation** | Independent workers, automated tests, live execution records, and audits across projects. [Open workstation](https://huntingthereferent.github.io/autobots-assemble/live/meta.html) |
+| **Research workstation** | Independent workers, automated tests, live execution records, and audits across projects. [Open workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) |
 | **Mathematics** | Original finite constructions with programs and tests showing where a relationship holds or fails. [Explore mathematics](showcase/MATHEMATICS.md) |
 | **ARC and interactive environments** | Experiments that act in real game environments, compare predictions with returned states, and retain failed attempts. [ARC evidence](ARC_EVIDENCE.md) |
 | **WORLD** | Simulated motion and interaction studies, including cases where a prediction reaches its limit. [WORLD research](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
