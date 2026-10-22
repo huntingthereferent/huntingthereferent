@@ -1,7 +1,7 @@
 # Origin of the Investigation
 *James and the assistant · October 2026*
 
-[← Writing](README.md) · [Childhood](CHILDHOOD.md) · [Language](LANGUAGE_AND_OBSERVATION.md)
+[← Writings](README.md) · [Childhood memories](CHILDHOOD.md) · [The Human Wall](THE_HUMAN_WALL.md)
 
 ## Starting question
 
@@ -21,11 +21,11 @@ The assistant's initial narrative flattened the exchange. James corrected that a
 
 **Resulting method.** Retain James's wording, the assistant's reading, the mismatch, and the next correction. Do not present the assistant's reconstruction as James's private experience.
 
-## Mathematical implementation
+## Mathematical representations and tests
 
 > math is a human language.... and language does come first because we cant transfer thoughts... yet...
 
-The question preceded the models. Subsequent finite-state constructions made specific transitions and correspondences testable; each remains limited to its defined operators and state space. James directed questions and corrections. The assistant drafted notation, implementations, and tests.
+The question preceded the models. Subsequent finite-state constructions made particular relationships and transitions testable; each remains limited to its defined operators and state space. James directed the questions and corrections. The assistant drafted notation, implementations, and tests. The representations are instruments for following the question, not replacements for it.
 
 [Model sources](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Continuous Handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Research evidence](../PROVENANCE.md)
 
@@ -35,4 +35,4 @@ The question preceded the models. Subsequent finite-state constructions made spe
 
 A failed explanation is evidence of a mismatch, not proof of the replacement. The investigation still includes unresolved correspondence questions and a separate practical question: how years of learning can translate into paid work. Neither follows automatically from the other.
 
-[Language and observation](LANGUAGE_AND_OBSERVATION.md)
+[The Human Wall](THE_HUMAN_WALL.md) · [Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)
