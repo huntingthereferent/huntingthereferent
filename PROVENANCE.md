@@ -1,14 +1,23 @@
 # Evidence and provenance
 
-*Historical source-and-record audit: October 17, 2026 · Selected latest-source findings verified October 20, 2026 · [Research repository](https://github.com/huntingthereferent/autobots-assemble) · [Profile](README.md)*
+*Historical evidence ledger: October 17–20, 2026 · [Current reviewed research register — October 21](RESEARCH_REGISTER.md) · [Research repository](https://github.com/huntingthereferent/autobots-assemble)*
 
-This page helps readers find the work behind the claims on my profile. The projects have different purposes and different kinds of evidence: mathematical constructions, runnable source and tests, native environment observations, recorded GitHub Actions results, and experiments that are still in progress.
+This page preserves dated evidence and source records, including mathematical constructions, runnable tests, native observations, GitHub Actions results, and unresolved boundaries. Historical findings are not automatically current status. The original October 17 reference revision was `2a2764db5a22` ([merge #49](https://github.com/huntingthereferent/autobots-assemble/pull/49)).
 
-**Reference point:** the public research `main` branch through [merge #49](https://github.com/huntingthereferent/autobots-assemble/pull/49) (`2a2764db5a22`, October 17). This is a source-and-record audit, not a fresh execution of every project. When the branch moves, the linked project records are the place to check what changed.
+## Current reviewed evidence — October 21, 2026
 
-**Selected current evidence, checked October 20:** [Source-pinned research register](RESEARCH_REGISTER.md). It documents independently reproduced original ARC SP80 3/6 game progression and negative stage-3 trials, A/B WORLD's conditional motion results, the two-source NIH AACT status discrepancies and chronology boundary, and earlier separately verified native/browser witnesses. The register pins its source revision; this longer page also retains dated October 17 findings rather than silently treating every older claim as freshly rerun.
+The [source-pinned research register](RESEARCH_REGISTER.md) is the latest dated review linked from the profile. Its research source snapshot is [`7916709e16e1`](https://github.com/huntingthereferent/autobots-assemble/commit/7916709e16e14cb1222639f385746abc882effe1). It is an audit of records, not a fresh execution of every experiment.
 
-## October 20 — independently inspectable changes
+| Investigation | Latest reviewed finding | Evidence boundary |
+| --- | --- | --- |
+| ARC SP80 original SDK | Two native entries to level **4/6**; a separate **52-reset** trial produced **0 level-5/WIN advances** | Not a complete six-level win |
+| A/B WORLD Trial 31 | Three hypothetical response cases exceeded the sufficiency of at least one clearance bound before 0.25 virtual-time units; five no-response controls | Not a measured impact or physical collision |
+| NIH AACT archive comparison | 1,345 status-field differences among 432,597 shared IDs | Original per-study publication chronology remains unverified |
+| Finite mathematics and workstation | Scoped mathematical witnesses and source-pinned worker/handoff tests | Not universal closure or a fully autonomous distributed system |
+
+The October 17 and October 20 entries below remain historical records. Newer evidence supersedes a dated status summary without invalidating the original observations.
+
+## Historical findings — October 20, 2026
 
 | Native referent | Admitted result | What does not follow |
 | --- | --- | --- |
