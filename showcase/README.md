@@ -1,5 +1,7 @@
-# Built work / Vibe-coding showcase
+# Research constructions and applications — selected work
 *A nested inventory of inspectable artifacts, bounded experiments, active systems, and retained project records.*
+
+**How to read these entries:** begin with the [research entry](../README.md) and [mathematical work](MATHEMATICS.md). Each project has its own question, implemented mechanism, tested result and next continuation. A product, native game experiment, finite theorem and historical report are different kinds of evidence; their relationship is explained, not assumed. This page selects examples; the [complete inventory](PROJECT_INVENTORY.md) provides broader coverage.
 
 [← Profile](../README.md) · [Writing](../writing/README.md) · [Evidence index](../PROVENANCE.md)
 
