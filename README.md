@@ -1,9 +1,5 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# Independent Researcher
-
-**Mathematical Construction · Proof of Concept**
-
 **The goal is to build anything with mathematics.**
 
 I'm developing a proof of concept for a general-purpose construction system: start with a problem, use mathematics to work out the relationships and steps it requires, then build, test, and refine the result. The aim is not one application or one research field, but a method that can move between them.
