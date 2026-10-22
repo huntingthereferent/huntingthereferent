@@ -52,6 +52,8 @@ This is independent work, not a claim of institutional affiliation or a finished
 
 **Total cost for everything presented here: $20.**
 
+**Time:** The documented development spans at least one month (September–October 2026), with earlier groundwork predating those records. Total working hours have not been tracked.
+
 ## One finite example
 
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion: action order changes a defined state" /></a>
