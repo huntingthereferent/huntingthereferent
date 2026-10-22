@@ -58,13 +58,10 @@ I started with my own misunderstandings because those were there to examine. The
 
 These records keep the exchange visible. A quoted statement, a response, and a later correction are not interchangeable.
 
-- **[Language and Observation](LANGUAGE_AND_OBSERVATION.md)** — a running conversation about compression, reading, silence, and how descriptions can drift.
-- **[Finding the Words Without Losing the Referent](FINDING_WORDS_WITHOUT_LOSING_THE_REFERENT_2026-10-15.md)** — one discussion followed in detail, including where the assistant's explanation missed the point.
 - **[Watching What Continues](WATCHING_WHAT_CONTINUES_2026-10-17.md)** — comparisons of publicly observable styles, movement, and learning; questions rather than claims about other people's private methods.
 
 ## Personal notes
 
-- **[Personal notes](PROFILE_NOTES.md)** — family, interests, humor, and the words previously used on the public profile.
 - **[Childhood memories](CHILDHOOD.md)** — recalled moments around animals, diaries, and the early internet, with the later interpretation distinguished from the memories.
 
 ## Working positions and older records
