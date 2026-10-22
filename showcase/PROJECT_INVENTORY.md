@@ -1,9 +1,27 @@
 # Complete project inventory
-*GitHub-grounded research and vibe-coding showcase · audited October 12, 2026*
+*Source-grounded project inventory · original inventory October 12, 2026 · navigation and mathematical relationship review October 22, 2026. Individual historical status claims retain their original evidence dates.*
 
 [← Profile](../README.md) · [Showcase](README.md) · [Every tracked source path](SOURCE_INDEX.md) · [Writing](../writing/README.md)
 
 > **Purpose.** A recoverable index of every distinct project family found in the connected GitHub repositories, plus separately labeled historical/local projects previously discussed. An individual file, experiment, prototype, and commercial product are not interchangeable. **This is an inventory, not a declaration that every project is finished.**
+
+## Reading this inventory as one research record
+
+[Canonical account entry](../README.md) → [Language Referent evidence contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) → [Engine 1 mathematical construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/ENGINE_ONE.md) → [Cyclic Action continuation](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md) → [Current dated research register](../RESEARCH_REGISTER.md).
+
+The inventory groups **different implementations and investigations of a continuing research practice**, not independent claims that every project embodies the same theorem. The mathematics supplies specific construction, relation and witness mechanisms. Each application has its own source, experiment, and evidence requirements.
+
+| Inventory area | Role in the research record | What establishes its status |
+| --- | --- | --- |
+| Mathematical engines | Candidate-law construction, equivalence, obstructions, changing-law recurrence and re-entry | Defined finite families, checked equations, constructive witnesses, tests |
+| Runtime, workers and workstation | Preserve and route source-grounded work across execution and inspection | Source-pinned handoffs, runner receipts, verifier and audit records |
+| Education and operational systems | Apply the construction-and-correction workflow to usable interfaces and tasks | Behavior tests, data persistence, user-visible operation |
+| Standalone engineering builds | Build and test components that can be used or extended independently | Source, functional tests, integration receipts |
+| ARC and interactive evaluation | Investigate action/state relationships against native returns | Recorded actions, environment responses, reproducible replays |
+| Products, games and applications | Turn implemented components into usable artifacts and experiments | Executable builds, functionality and separately checked user workflows |
+| Historical/private and human-facing work | Preserve origin, communication, context and provenance without substituting for native results | Dated records and explicitly stated access limits |
+
+**Per-entry reading rule:** referent or question → construction/implementation → observed result → source and witness → continuation or current boundary. An old status line remains a dated snapshot until rechecked; a repository-wide inventory does not automatically update every project's latest result.
 
 ## Source and status key
 
