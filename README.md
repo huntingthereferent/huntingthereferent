@@ -1,49 +1,26 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-# Research system — current state and expansion capacity
+# Hunting the Referent — research system and evidence
 
 **Independent research · finite mathematics · language · computational experiments · research infrastructure**
+
+## Research entry — from referent to verified construction
+
+The [Language Referent evidence contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) describes the continuing inquiry and its admission rules. It is not interchangeable with a single finite operator or software workflow. The mathematical investigations give specific, inspectable representations of selected relationships.
+
+**Read in this order:** [Mathematical construction and Engine 1](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/ENGINE_ONE.md) → [Cyclic Action continuation and re-entry](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/CYCLIC_ACTION_CONTINUATION.md) → [Finite mathematical evidence](showcase/MATHEMATICS.md) → [Implementations and complete project inventory](showcase/PROJECT_INVENTORY.md) → [Source-pinned research register](RESEARCH_REGISTER.md) → [Historical provenance](PROVENANCE.md).
+
+**What is constructed:** Engine 1 selects candidate laws within admitted finite families and produces witnessed successor versions, including changing-law recurrences. The Cyclic Action Engine retains and independently recomputes bounded observations across re-entry, distinguishing negative controls and verifying positive correspondences on their declared carrier.
+
+**How the wider account relates:** ARC and WORLD investigate interactive/native environments and finite-world models; NIH investigates source-owned scientific data; the workstation connects execution, source-preserving handoffs, audits and interfaces. These are related research and construction lanes, not assertions that a finite mathematical theorem automatically proves results in another domain.
+
+**How to read a result:** identify the question, admitted inputs, implemented operation, actual witness or test, source revision, supported conclusion, and next continuation. A wall or counterexample is a recorded mathematical outcome, not a verdict on the whole research system.
 
 ## System status
 
 The public repositories document approximately one month of development during September–October 2026, alongside earlier investigative groundwork. The current implementation spans mathematical constructions, language and referent research, ARC and computational-world experiments, scientific data comparison, source-preserving handoffs, worker processes, and audit records.
 
 The workstation is a general-purpose research and construction environment. GitHub currently supplies source control and portions of the execution and evidence infrastructure; it is not the intended capacity boundary or the complete product.
-
-## Expansion model
-
-The working pattern is **construct → test → audit → retain evidence → continue**. A supported output can be considered for a further pass, and additional workers or branches can be introduced under explicit evidence, authorization, and resource conditions. Reaching a cap calls for inspecting an admissible alternate construction or expanding available resources; it does not guarantee unlimited continuation.
-
-| Existing research / infrastructure | Capacity unlocked by expansion | Potential new capability |
-| --- | --- | --- |
-| Finite A/B mathematics and construction engines | More CPU cores, RAM, parallel search, formal verification tools | Larger candidate spaces, deeper correspondence checks, independent proof and counterexample searches |
-| Language referent and regrounding records | Local models, speech/text datasets, repeatable evaluation environments | Controlled language experiments, multilingual comparison, auditable representation changes |
-| Native ARC experiments | Parallel isolated runtimes, faster replay, durable checkpoints | Wider action-search experiments, systematic failure analysis, repeatable evaluations |
-| A/B WORLD and interactive simulations | Accelerated simulation, more memory, instrumentation | Larger world ensembles, parameter sweeps, eventual hardware-in-the-loop experiments |
-| NIH / temporal source comparison | Local data lake, databases, high-throughput storage and compute | Larger source reconciliations, lineage checks, reproducible scientific data audits |
-| Workstation workers and handoffs | Dedicated servers, job queues, orchestration, isolated execution | More simultaneous bounded workers, durable handoffs, scheduled verification, recovery after interruption |
-| Software foundations and product prototypes | Build farms, test infrastructure, staging and production hosting | Professional QA, packaged software, services, deployable products |
-| Audit viewer and provenance records | Indexed artifact storage, test dashboards, independent runners | Per-project evidence inspection, reproducible audit packages, cross-run comparison |
-
-## Infrastructure progression
-
-| Environment | Operational gain |
-| --- | --- |
-| Current GitHub and local workstation | Multiple active research lanes with constrained compute, execution time, and manual continuation |
-| Dedicated local workstation and servers | Larger memory and storage, local models, parallel workers, persistent experiments, automated build and audit queues |
-| Private compute laboratory | Cluster scheduling, isolated environments, large-scale simulation, shared datasets, redundant storage, continuous evaluation |
-| Advanced research and engineering facility | Specialized compute, laboratory instruments, fabrication, physical prototypes, independent engineering and verification |
-| Product and research operations | Reproducible releases, deployed systems, maintenance, security, customer-facing applications, and continuing research |
-
-These are possible capabilities unlocked by equipment, engineering, and funding—not claims that all have already been implemented. Specific workloads must be benchmarked and integrations validated. The research remains portable in intent; each new execution environment has its own technical and evidentiary requirements.
-
-**Current reviewed evidence (October 21, 2026):** [Research register](RESEARCH_REGISTER.md) · [Historical provenance](PROVENANCE.md) · [Research overview](RESEARCH.md) · [Mathematical constructions](showcase/MATHEMATICS.md) · [Language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [Research method](docs/RESEARCH_METHOD.md)
-
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
-
-[**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
-
----
 
 ## Work and evidence
 
@@ -100,6 +77,41 @@ This example compares action order in a [defined finite A/B construction](https:
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
 
 A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
+
+## Expansion model
+
+The working pattern is **construct → test → audit → retain evidence → continue**. A supported output can be considered for a further pass, and additional workers or branches can be introduced under explicit evidence, authorization, and resource conditions. Reaching a cap calls for inspecting an admissible alternate construction or expanding available resources; it does not guarantee unlimited continuation.
+
+| Existing research / infrastructure | Capacity unlocked by expansion | Potential new capability |
+| --- | --- | --- |
+| Finite A/B mathematics and construction engines | More CPU cores, RAM, parallel search, formal verification tools | Larger candidate spaces, deeper correspondence checks, independent proof and counterexample searches |
+| Language referent and regrounding records | Local models, speech/text datasets, repeatable evaluation environments | Controlled language experiments, multilingual comparison, auditable representation changes |
+| Native ARC experiments | Parallel isolated runtimes, faster replay, durable checkpoints | Wider action-search experiments, systematic failure analysis, repeatable evaluations |
+| A/B WORLD and interactive simulations | Accelerated simulation, more memory, instrumentation | Larger world ensembles, parameter sweeps, eventual hardware-in-the-loop experiments |
+| NIH / temporal source comparison | Local data lake, databases, high-throughput storage and compute | Larger source reconciliations, lineage checks, reproducible scientific data audits |
+| Workstation workers and handoffs | Dedicated servers, job queues, orchestration, isolated execution | More simultaneous bounded workers, durable handoffs, scheduled verification, recovery after interruption |
+| Software foundations and product prototypes | Build farms, test infrastructure, staging and production hosting | Professional QA, packaged software, services, deployable products |
+| Audit viewer and provenance records | Indexed artifact storage, test dashboards, independent runners | Per-project evidence inspection, reproducible audit packages, cross-run comparison |
+
+## Infrastructure progression
+
+| Environment | Operational gain |
+| --- | --- |
+| Current GitHub and local workstation | Multiple active research lanes with constrained compute, execution time, and manual continuation |
+| Dedicated local workstation and servers | Larger memory and storage, local models, parallel workers, persistent experiments, automated build and audit queues |
+| Private compute laboratory | Cluster scheduling, isolated environments, large-scale simulation, shared datasets, redundant storage, continuous evaluation |
+| Advanced research and engineering facility | Specialized compute, laboratory instruments, fabrication, physical prototypes, independent engineering and verification |
+| Product and research operations | Reproducible releases, deployed systems, maintenance, security, customer-facing applications, and continuing research |
+
+These are possible capabilities unlocked by equipment, engineering, and funding—not claims that all have already been implemented. Specific workloads must be benchmarked and integrations validated. The research remains portable in intent; each new execution environment has its own technical and evidentiary requirements.
+
+**Current reviewed evidence (October 21, 2026):** [Research register](RESEARCH_REGISTER.md) · [Historical provenance](PROVENANCE.md) · [Research overview](RESEARCH.md) · [Mathematical constructions](showcase/MATHEMATICS.md) · [Language referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) · [Research method](docs/RESEARCH_METHOD.md)
+
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![WRITING](https://img.shields.io/badge/WRITING-STORIES_%26_RECORDS-775C78?style=flat-square&labelColor=111827)](writing/README.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
+[**Research overview**](RESEARCH.md) · [Method](docs/RESEARCH_METHOD.md) · [Evidence register](RESEARCH_REGISTER.md) · [Selected cases](SELECTED_WORK.md) · [Writings](writing/README.md) · [Live research viewer](https://huntingthereferent.github.io/autobots-assemble/live/)
+
+---
 
 ## Research records and paths
 
