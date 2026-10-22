@@ -36,6 +36,6 @@ Unverified branches and proposals are not silently included as finished work on 
 
 ## Visual-profile boundary
 
-The [frozen October 20 profile](https://github.com/huntingthereferent/huntingthereferent/tree/profile-visual-freeze-2026-10-20) is a **historical presentation snapshot**, not the current profile. The [current profile](README.md) places the Human Wall in [writings](writing/README.md#the-human-wall), removes the internet map from display, and keeps the two separate finite A/B animations. Visuals and navigation are not scientific verification; this register, cited native workflows and source-owned records carry the bounded research claims.
+The [frozen October 20 profile](https://github.com/huntingthereferent/huntingthereferent/tree/profile-visual-freeze-2026-10-20) is a **historical presentation snapshot**, not the current profile. The [current profile](README.md) uses a research-first introduction, removes the internet map from display, and keeps the two separate finite A/B animations. Visuals and navigation are not scientific verification; this register, cited native workflows and source-owned records carry the bounded research claims.
 
 [Research overview](RESEARCH.md) · [Detailed provenance](PROVENANCE.md) · [ARC evidence](ARC_EVIDENCE.md) · [Back to the profile](README.md)
