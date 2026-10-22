@@ -1,7 +1,7 @@
 # Complete project inventory
 *Source-grounded project inventory · original inventory October 12, 2026 · navigation and mathematical relationship review October 22, 2026. Individual historical status claims retain their original evidence dates.*
 
-[← Profile](../README.md) · [Showcase](README.md) · [Every tracked source path](SOURCE_INDEX.md) · [Writing](../writing/README.md)
+[← Profile](../README.md) · [Showcase](README.md) · [Every tracked source path](SOURCE_INDEX.md)
 
 > **Purpose.** A recoverable index of every distinct project family found in the connected GitHub repositories, plus separately labeled historical/local projects previously discussed. An individual file, experiment, prototype, and commercial product are not interchangeable. **This is an inventory, not a declaration that every project is finished.**
 
@@ -220,7 +220,6 @@ The earlier security sandbox / bounded tunnel concept, local Axioms and Eggy tra
 | Project | Location | Purpose |
 | :--- | :--- | :--- |
 | **GitHub profile / vibe-code showcase** | [Main profile](../README.md) · [Showcase](README.md) | Public work navigation |
-| **Writing and working opinions** | [Writing](../writing/README.md) · [Opinions](../writing/OPINIONS.md) | Keep personal positions apart from mathematical results |
 | **Antechamber / The Steppers** | [Public site](https://thestepps.wordpress.com/) | Proposed voluntary human-facing space, not crisis service |
 | **Language shape / interpretation records** | [Language directory](https://github.com/huntingthereferent/autobots-assemble/tree/main/language) | Preserve meaning across changing phrasing |
 | **Category and protocol framework** | [Entry](https://github.com/huntingthereferent/autobots-assemble/blob/main/ENTRY.md) · [Category contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/CATEGORY_CONTRACT.md) | Tracing and preserving a current question |
