@@ -1,110 +1,70 @@
 #!/usr/bin/env python3
-"""Protect the agreed About Me visual sequence without freezing research writing.
+"""Validate the current public profile without freezing its wording or layout.
 
-Baseline: the source-owned 2026-10-21 profile commit 7cd48fa, immediately
-before the first-person introduction revision. Older layout locks are historical.
+This guard checks the entry point, local resources, and navigability.
+Research prose, headings, graphic order, and design are free to evolve.
 """
 from pathlib import Path
 import re
-import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "7cd48fa852c3cda1d726aa21c33661439f72d662"
 README = ROOT / "README.md"
 BANNER = "assets/observational/humanity-online-banner.webp"
-MAP = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/traces/internet-map.svg"
-FINITE = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg"
-CONVERGENCE = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg"
 
 
-def frozen_file(path: str) -> bytes:
-    return subprocess.check_output(["git", "show", f"{BASE}:{path}"], cwd=ROOT)
+def check(text: str) -> list[str]:
+    errors = []
+    lines = text.splitlines()
+    if not lines:
+        return ["Profile README is empty"]
 
+    banner = re.fullmatch(r"!\[[^\]]+\]\(([^)]+)\)", lines[0].strip())
+    if not banner or banner.group(1) != BANNER:
+        errors.append("The first line must link the existing profile banner")
+    if not (ROOT / BANNER).is_file():
+        errors.append("Profile banner asset is missing")
 
-def section(text: str, first: str, last: str) -> str:
-    if first not in text or last not in text:
-        raise ValueError(f"Missing section boundary: {first} / {last}")
-    return text.split(first, 1)[1].split(last, 1)[0]
+    introduction = next((line for line in lines[1:] if line.strip()), "")
+    if not introduction.startswith("**Tracework**"):
+        errors.append("Start the profile by explaining Tracework")
 
+    badge_markers = ("[![RESEARCH]", "[![MATH]", "[![TRACEWORK]", "[![EVIDENCE]")
+    badge_positions = [text.find(marker) for marker in badge_markers]
+    if any(text.count(marker) != 1 for marker in badge_markers):
+        errors.append("Each of the four research navigation badges must appear once")
+    start = text.find("**Start here:**")
+    if start < 0 or any(pos < 0 or pos >= start for pos in badge_positions):
+        errors.append("Research badges must come before the primary navigation")
 
-def visible_images(readme: str) -> list[str]:
-    images = []
-    for m in re.finditer(
-        r'!\[[^\]]*\]\(([^)]+)\)|<img\b[^>]*\bsrc="([^"]+)"',
-        readme,
-    ):
-        url = m.group(1) or m.group(2)
-        if re.search(r"\.(?:svg|png|webp)(?:$|\?)", url):
-            images.append(url)
-    return images
+    for label in ("Watch Tracework", "Explore the projects", "Inspect the research register"):
+        if f"[{label}](" not in text:
+            errors.append(f"Primary navigation missing: {label}")
+
+    # A missing local link is an actual defect; prose and visual choices are not.
+    for destination in re.findall(r"(?<!!)\[[^\]]+\]\(([^)]+)\)", text):
+        destination = destination.split("#", 1)[0]
+        if not destination or "://" in destination or destination.startswith(("mailto:", "#")):
+            continue
+        if not (ROOT / destination).is_file():
+            errors.append(f"Local link target missing: {destination}")
+
+    for asset in re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', text):
+        if "://" not in asset and not (ROOT / asset.split("#", 1)[0]).is_file():
+            errors.append(f"Local image target missing: {asset}")
+
+    return sorted(set(errors))
 
 
 def main() -> int:
-    now = README.read_text(encoding="utf-8")
-    old = frozen_file("README.md").decode("utf-8")
-    errors = []
-    if now.splitlines()[0] != old.splitlines()[0]:
-        errors.append("Humanity banner at the top changed.")
-    if (ROOT / BANNER).read_bytes() != frozen_file(BANNER):
-        errors.append("Frozen humanity banner artwork changed.")
-    writings = (ROOT / "writing/README.md").read_text(encoding="utf-8")
-    wall_now = section(writings, "<!-- HUMAN_WALL_INTRO_BEGIN -->\n", "<!-- HUMAN_WALL_INTRO_END -->")
-    wall_old = section(old, "# THE HUMAN WALL\n", "## Research profile\n")
-    if wall_now != wall_old:
-        errors.append("The original Human Wall text was changed or lost in the writing archive.")
-    if "# THE HUMAN WALL" in now:
-        errors.append("Human Wall duplicated on the research profile.")
-
-    def badge_line(s: str) -> str:
-        return next(line for line in s.splitlines() if line.startswith("[![RESEARCH]"))
-
-    if badge_line(now) != badge_line(old):
-        errors.append("Research badges changed from the frozen source set.")
-    if now.count(badge_line(now)) != 1:
-        errors.append("Research badges must appear exactly once.")
-    if "\n# James\n" in now:
-        errors.append("Redundant profile name heading returned.")
-    if not (now.find("**Independent researcher") < now.find(badge_line(now)) < now.find("[**Research overview**]")):
-        errors.append("Research badges must appear above the main navigation links.")
-
-    expected = [BANNER, FINITE, CONVERGENCE]
-    found = visible_images(now)
-    if found != expected:
-        errors.append(f"Visible graphic order/set changed: {found!r}")
-    headings = [
-        "## Work and evidence", "### Research areas",
-        "### Evidence and verification", "### Research method",
-        "### Writings and conversations", "### Background",
-        "## One finite example", "## Where separate A/B paths meet",
-        "## Research records and paths",
-    ]
-    locations = [now.find(h + "\n") for h in headings]
-    if any(p < 0 for p in locations) or locations != sorted(locations):
-        errors.append("The frozen profile section order changed.")
-
-    for path in (FINITE, CONVERGENCE):
-        if not re.search(r'<img\b[^>]*src="' + re.escape(path) + r'"[^>]*width="680"', now):
-            errors.append(f"A/B graphic is missing its independent 680px presentation: {path}")
-    for unwanted in (
-        MAP,
-        "assets/observational/people-and-work.svg",
-        "assets/observational/continuity-loom.svg",
-        "assets/observational/continuity-legend.svg",
-        "assets/observational/movement.svg",
-        "views/world-continuity/latest.svg",
-    ):
-        if unwanted in now:
-            errors.append(f"Previously removed visual returned: {unwanted}")
+    errors = check(README.read_text(encoding="utf-8"))
     if errors:
-        print("PROFILE VISUAL LOCK: FAILED")
-        for e in errors:
-            print(" - " + e)
-        print("For an intentional layout redesign, update this guard in the same reviewed change.")
+        print("PROFILE PRESENTATION: FAILED")
+        for error in errors:
+            print(" - " + error)
         return 1
-    print("PROFILE VISUAL LOCK: PASSED")
-    print("Nested Human Wall, banner, badges, and both finite graphics preserve their source.")
-    print("Supporting research prose and source links may continue to evolve.")
+    print("PROFILE PRESENTATION: PASSED")
+    print("Entry point, banner, research navigation, and local resources are present.")
     return 0
 
 
