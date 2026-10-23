@@ -1,7 +1,5 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-**The goal is to build anything with mathematics.**
-
 I'm developing a proof of concept for a general-purpose construction system: start with a problem, use mathematics to work out the relationships and steps it requires, then build, test, and refine the result. The aim is not one application or one research field, but a method that can move between them.
 
 This GitHub account shows the system being developed and tested. The workstation runs separate research and construction lanes across mathematics, software, interactive environments, scientific data, and practical tools. Each result is recorded with its tests and limits. **The ambition is general; the evidence so far is specific to the constructions demonstrated here.**
