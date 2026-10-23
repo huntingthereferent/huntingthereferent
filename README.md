@@ -2,6 +2,8 @@
 
 **The goal is to build anything with mathematics.**
 
+**The experiment begins with a closed mathematical construction—not an AI-generated answer.** Its defined states, relationships, and operations give each test a reference that can be reproduced, challenged, and traced backwards. AI can assist with implementation and exploration, but its explanations do not determine whether the mathematics holds.
+
 I'm developing a proof of concept for a general-purpose construction system: start with a problem, use mathematics to work out the relationships and steps it requires, then build, test, and refine the result. The aim is not one application or one research field, but a method that can move between them.
 
 This GitHub account shows the system being developed and tested. The workstation runs separate research and construction lanes across mathematics, software, interactive environments, scientific data, and practical tools. Each result is recorded with its tests and limits. **The ambition is general; the evidence so far is specific to the constructions demonstrated here.**
@@ -41,13 +43,11 @@ The next section shows what has actually been constructed or tested toward that 
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-### Current research focus: mathematical construction and interpretive drift
+### Current research problem: interpretive drift
 
-The aim is to test whether finite mathematical constructions can preserve and reconstruct relationships as work moves between language, scientific data, software, and interactive environments. **Interpretive drift is a central unresolved problem:** an AI-assisted process can produce a plausible explanation or successful output while changing the relationship originally specified.
+An AI-assisted process can produce convincing explanations or successful outputs while changing the relationship originally specified. **Interpretive drift remains a central unresolved problem.** Closed tests make such differences easier to isolate; NIH source comparisons and interactive-world experiments examine what happens when the construction meets changing data and environments.
 
-A closed experimental construction helps isolate this problem. Its states, operations, and assumptions can be fixed for a particular test, making predictions reproducible and differences traceable to their source. In an open environment, new inputs and changing contexts can obscure whether a mismatch came from the mathematics, the environment, or an AI interpretation. Closure does not make a model correct; it makes its limits and failures easier to inspect.
-
-The research therefore distinguishes **what the mathematics derives**, **what native execution returns**, and **what AI interpretation adds or changes**. NIH source comparisons and interactive-world experiments test how those relationships carry into new settings. Original sources, corrections, counterexamples, and execution traces are retained so discrepancies can be followed backwards. Agreement alone is not verification, and a result in one closed construction does not establish universal applicability.
+The research keeps mathematical derivation, native execution, and AI interpretation distinct. Sources, corrections, and failed predictions remain available for backward tracing. A closed system does not guarantee correctness or universal applicability; it makes the claims and their limits testable.
 
 ### Research method
 
