@@ -72,17 +72,13 @@ The next section collects source-pinned observations, experiments, and test runs
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-### Method note — observing AI-assisted work over time (October 23, 2026)
+### Method note — testing relationships across workflow sequences
 
-James's process traces the relationship between an instruction, an AI-assisted interpretation, the workers or workflows it dispatches, and what those workflows actually return. A single answer or passing run is not enough to establish that the original relationship survived. The record must be followed across successive tasks, corrections, handoffs, and execution results.
+The research uses finite mathematical relationships as reference conditions. AI-assisted implementations and workflow results are compared against those conditions; agreement in a written explanation does not establish mathematical correspondence.
 
-**Current observation:** Language-level agreement can precede implementation, while the implementation's correspondence to the original instruction remains unverified until independent workflow evidence is examined. This is a methodological observation, not proof that a particular mathematical relationship governed the implementation.
+A single workflow may be insufficient to characterize the behavior of a sequence. The current question is whether repeated execution, interruption, and correction produce distinguishable patterns over time. The proposed wave-like behavior remains a hypothesis, not a measured result.
 
-**Hypothesis under test:** Drift and correction may exhibit temporal patterns across sequences of workflows that are missed when each workflow is evaluated in isolation. James describes this possibility as a *wave*. It has not yet been established empirically.
-
-**Proposed comparison:** Run comparable task sequences with continuous execution versus per-workflow interruption; retain instructions, commits, workflow timestamps, test outputs, corrections, and delayed downstream results. Compare referent preservation and error persistence over time, with independent verification rather than relying on either the researcher or assistant's immediate interpretation.
-
-[Unstupid finite-world harness and arena](https://github.com/huntingthereferent/autobots-assemble/tree/main/interfaces/math) · [Harness workflow](https://github.com/huntingthereferent/autobots-assemble/blob/main/.github/workflows/unstupid-harness.yml). The current arena is scripted; live AI preconditioning and reduced post-harness drift are not yet demonstrated.
+The [Unstupid harness](https://github.com/huntingthereferent/autobots-assemble/tree/main/interfaces/math) provides finite-world probes and scripted challenge tests. Live AI-agent conditioning and its effect on subsequent task performance have not yet been established.
 
 ### Research method
 
