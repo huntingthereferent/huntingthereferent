@@ -2,8 +2,6 @@
 
 **The goal is to build anything with mathematics.**
 
-**The experiment begins with a closed mathematical construction—not an AI-generated answer.** Its defined states, relationships, and operations give each test a reference that can be reproduced, challenged, and traced backwards. AI can assist with implementation and exploration, but its explanations do not determine whether the mathematics holds.
-
 I'm developing a proof of concept for a general-purpose construction system: start with a problem, use mathematics to work out the relationships and steps it requires, then build, test, and refine the result. The aim is not one application or one research field, but a method that can move between them.
 
 This GitHub account shows the system being developed and tested. The workstation runs separate research and construction lanes across mathematics, software, interactive environments, scientific data, and practical tools. Each result is recorded with its tests and limits. **The ambition is general; the evidence so far is specific to the constructions demonstrated here.**
@@ -11,6 +9,24 @@ This GitHub account shows the system being developed and tested. The workstation
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 **Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
+
+### Current research problem
+
+An AI-assisted process can produce convincing explanations or successful outputs while changing the relationship originally specified. **Interpretive drift remains a central unresolved problem.** Closed tests make such differences easier to isolate; NIH source comparisons and interactive-world experiments examine what happens when the construction meets changing data and environments.
+
+The research keeps mathematical derivation, native execution, and AI interpretation distinct. Sources, corrections, and failed predictions remain available for backward tracing. A closed system does not guarantee correctness or universal applicability; it makes the claims and their limits testable.
+
+## One finite example
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion: action order changes a defined state" /></a>
+
+This example compares action order in a [defined finite A/B construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py). The animation comes from the [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md); it is evidence about that model, not about human reasoning in general.
+
+## Where separate A/B paths meet
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
+
+A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
 
 ## Proof of concept in action
 
@@ -43,12 +59,6 @@ The next section shows what has actually been constructed or tested toward that 
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-### Current research problem: interpretive drift
-
-An AI-assisted process can produce convincing explanations or successful outputs while changing the relationship originally specified. **Interpretive drift remains a central unresolved problem.** Closed tests make such differences easier to isolate; NIH source comparisons and interactive-world experiments examine what happens when the construction meets changing data and environments.
-
-The research keeps mathematical derivation, native execution, and AI interpretation distinct. Sources, corrections, and failed predictions remain available for backward tracing. A closed system does not guarantee correctness or universal applicability; it makes the claims and their limits testable.
-
 ### Research method
 
 A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
@@ -62,18 +72,6 @@ This is independent work, not a claim of institutional affiliation or a finished
 **Total cost for everything presented here: $20.**
 
 **Time:** The documented development spans at least one month (September–October 2026), with earlier groundwork predating those records. Total working hours have not been tracked.
-
-## One finite example
-
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion: action order changes a defined state" /></a>
-
-This example compares action order in a [defined finite A/B construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py). The animation comes from the [source-owned renderer](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md); it is evidence about that model, not about human reasoning in general.
-
-## Where separate A/B paths meet
-
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B convergence: distinct verified action paths reach the same state" /></a>
-
-A separate [finite A/B convergence witness](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) traces two independently checked action paths to the same state. It is a result within the specified construction, not a universal claim about unrelated systems. [Further finite experiments and limitations →](showcase/MATHEMATICS.md)
 
 ## Expansion model
 
