@@ -37,9 +37,13 @@ These examples show different kinds of returns, not one claim of general success
 
 ## The finite constructions
 
+### One finite example
+
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion showing changes under defined actions" /></a>
 
 In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. The rendering is derived from a specified model, not a claim about unrelated systems.
+
+### Where separate A/B paths meet
 
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Two distinct verified action paths returning to the same finite state" /></a>
 

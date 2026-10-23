@@ -14,7 +14,7 @@ The inventory groups **different implementations and investigations of a continu
 | Inventory area | Role in the research record | What establishes its status |
 | --- | --- | --- |
 | Mathematical engines | Candidate-law construction, equivalence, obstructions, changing-law recurrence and re-entry | Defined finite families, checked equations, constructive witnesses, tests |
-| Runtime, workers and workstation | Preserve and route source-grounded work across execution and inspection | Source-pinned handoffs, runner receipts, verifier and audit records |
+| Runtime, workers and Tracework | Preserve and route source-grounded work across execution and inspection | Source-pinned handoffs, runner receipts, verifier and audit records |
 | Education and operational systems | Apply the construction-and-correction workflow to usable interfaces and tasks | Behavior tests, data persistence, user-visible operation |
 | Standalone engineering builds | Build and test components that can be used or extended independently | Source, functional tests, integration receipts |
 | ARC and interactive evaluation | Investigate action/state relationships against native returns | Recorded actions, environment responses, reproducible replays |
