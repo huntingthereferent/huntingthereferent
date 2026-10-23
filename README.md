@@ -41,13 +41,13 @@ The next section shows what has actually been constructed or tested toward that 
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-### Current research focus: interpretive drift
+### Current research focus: mathematical construction and interpretive drift
 
-The central unresolved question is whether a finite mathematical construction can preserve and reconstruct the same source relationships as work moves between language, scientific data, software, and interactive environments. **Interpretive drift remains a primary focus of the experiments.**
+The aim is to test whether finite mathematical constructions can preserve and reconstruct relationships as work moves between language, scientific data, software, and interactive environments. **Interpretive drift is a central unresolved problem:** an AI-assisted process can produce a plausible explanation or successful output while changing the relationship originally specified.
 
-An AI-generated explanation, a successful software execution, and a mathematical result are different kinds of evidence. A model may describe a relationship convincingly while changing what was originally specified. Current NIH, finite-system, and interactive-world experiments therefore distinguish **what the mathematics derives**, **what native execution returns**, and **what AI interpretation adds or changes**.
+A closed experimental construction helps isolate this problem. Its states, operations, and assumptions can be fixed for a particular test, making predictions reproducible and differences traceable to their source. In an open environment, new inputs and changing contexts can obscure whether a mismatch came from the mathematics, the environment, or an AI interpretation. Closure does not make a model correct; it makes its limits and failures easier to inspect.
 
-Source records, corrections, counterexamples, and execution traces are retained so a mismatch can be followed backwards to its first supported divergence. A wrong interpretation can still be useful evidence; agreement alone is not verification. Results establish only what the tested construction and source conditions support, not a universal solution to drift.
+The research therefore distinguishes **what the mathematics derives**, **what native execution returns**, and **what AI interpretation adds or changes**. NIH source comparisons and interactive-world experiments test how those relationships carry into new settings. Original sources, corrections, counterexamples, and execution traces are retained so discrepancies can be followed backwards. Agreement alone is not verification, and a result in one closed construction does not establish universal applicability.
 
 ### Research method
 
