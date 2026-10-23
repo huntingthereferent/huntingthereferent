@@ -41,6 +41,14 @@ The next section shows what has actually been constructed or tested toward that 
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
+### Current research focus: interpretive drift
+
+The central unresolved question is whether a finite mathematical construction can preserve and reconstruct the same source relationships as work moves between language, scientific data, software, and interactive environments. **Interpretive drift remains a primary focus of the experiments.**
+
+An AI-generated explanation, a successful software execution, and a mathematical result are different kinds of evidence. A model may describe a relationship convincingly while changing what was originally specified. Current NIH, finite-system, and interactive-world experiments therefore distinguish **what the mathematics derives**, **what native execution returns**, and **what AI interpretation adds or changes**.
+
+Source records, corrections, counterexamples, and execution traces are retained so a mismatch can be followed backwards to its first supported divergence. A wrong interpretation can still be useful evidence; agreement alone is not verification. Results establish only what the tested construction and source conditions support, not a universal solution to drift.
+
 ### Research method
 
 A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
