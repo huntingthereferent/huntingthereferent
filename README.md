@@ -1,10 +1,8 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-**Independent researcher · finite mathematics · experimental systems · source-based verification**
+**Tracework** is a workstation for organizing problems into finite working contexts, moving through their required relationships, and preserving what happens along the way. It supports independent research and construction lanes, human and software handoffs, source-based tests, and continued work without losing the original problem or its results.
 
-I develop mathematical constructions and examine them in executable systems. The work asks what changes under defined operations, what remains invariant, and where a proposed relationship fails. The underlying research predates this GitHub account and its public viewers.
-
-**Tracework** is the working environment developed alongside that research. It carries distinct investigations through source-pinned implementations, handoffs, tests, observations, and recorded returns. It retains the connection between a problem and the evidence produced as work continues. Managing AI drift is one practical use of this continuity; a passing workflow is not, by itself, evidence of a mathematical result.
+It is used to develop and test mathematical constructions, run experiments and software projects, inspect results, and keep track of what changed, what survived, and what remains unresolved. Each project retains its own evidence; an automated check is not automatically proof of the larger research claim.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
