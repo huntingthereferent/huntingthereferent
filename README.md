@@ -137,4 +137,6 @@ These are possible capabilities unlocked by equipment, engineering, and funding�
 
 [Research method](docs/RESEARCH_METHOD.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
-*AI assists with workflows, code, and writing. Source specifications, execution results, interpretations, and corrections remain distinguishable in the research record.*
+**AI-workstation:** Everything presented here—including the words on this page—has been put through the AI-workstation as part of the research and development process. It is the environment used to develop, organize, test, and revise the work; its output is not, by itself, evidence that a mathematical claim is correct.
+
+*Source specifications, observed results, interpretations, and corrections remain distinguishable in the research record.*
