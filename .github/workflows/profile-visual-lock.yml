@@ -1,4 +1,4 @@
-name: Profile visual lock
+name: Profile presentation checks
 
 on:
   push:
@@ -21,14 +21,14 @@ permissions:
 
 jobs:
   frozen-layout:
-    name: Preserve agreed profile layout
+    name: Validate profile entry and links
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout complete history (includes the frozen baseline)
+      - name: Checkout full history for source comparison
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Check banner, wall, badges and graphic order
+      - name: Validate current profile structure and navigation
         run: python3 scripts/check_profile_layout.py
       - name: Checkout source-owned Process Workstation for profile audit
         if: github.event_name == 'pull_request'
