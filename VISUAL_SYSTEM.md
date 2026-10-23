@@ -21,7 +21,7 @@ James is part of the experiences he describes. He has a life outside the researc
 | **Language Referent** | [Research source](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md) · [Human Drift](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/HUMAN_DRIFT.md) |
 | **Finite mathematics** | [Constructed examples](showcase/MATHEMATICS.md) · [Conjugacy case](docs/FINITE_STATE_CONJUGACY.md) |
 | **Games and replay** | [ARC evidence](ARC_EVIDENCE.md) · [Native runs](https://github.com/huntingthereferent/autobots-assemble/tree/main/research/arc_native_runs) |
-| **Workstation and software** | [Handoffs and verification](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Project inventory](showcase/PROJECT_INVENTORY.md) |
+| **Tracework and software** | [Handoffs and verification](https://github.com/huntingthereferent/autobots-assemble/tree/main/systems/workspace) · [Project inventory](showcase/PROJECT_INVENTORY.md) |
 | **World observations** | [External data with timestamps](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/world-continuity/LATEST.md) |
 
 ## What color does — and doesn't — mean

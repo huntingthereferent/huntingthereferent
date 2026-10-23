@@ -2,6 +2,8 @@
 
 *Historical evidence ledger: October 17–20, 2026 · [Current reviewed research register — October 21](RESEARCH_REGISTER.md) · [Research repository](https://github.com/huntingthereferent/autobots-assemble)*
 
+**Naming:** Tracework is the current name of the environment historically documented here as the workstation; dated source records and software identifiers retain their original names.
+
 This page preserves dated evidence and source records, including mathematical constructions, runnable tests, native observations, GitHub Actions results, and unresolved boundaries. Historical findings are not automatically current status. The original October 17 reference revision was `2a2764db5a22` ([merge #49](https://github.com/huntingthereferent/autobots-assemble/pull/49)).
 
 ## Current reviewed evidence — October 21, 2026
@@ -13,7 +15,7 @@ The [source-pinned research register](RESEARCH_REGISTER.md) is the latest dated 
 | ARC SP80 original SDK | Two native entries to level **4/6**; a separate **52-reset** trial produced **0 level-5/WIN advances** | Not a complete six-level win |
 | A/B WORLD Trial 31 | Three hypothetical response cases exceeded the sufficiency of at least one clearance bound before 0.25 virtual-time units; five no-response controls | Not a measured impact or physical collision |
 | NIH AACT archive comparison | 1,345 status-field differences among 432,597 shared IDs | Original per-study publication chronology remains unverified |
-| Finite mathematics and workstation | Scoped mathematical witnesses and source-pinned worker/handoff tests | Not universal closure or a fully autonomous distributed system |
+| Finite mathematics and Tracework | Scoped mathematical witnesses and source-pinned worker/handoff tests | Not universal closure or a fully autonomous distributed system |
 
 The October 17 and October 20 entries below remain historical records. Newer evidence supersedes a dated status summary without invalidating the original observations.
 
@@ -34,7 +36,7 @@ These are new *selected* entries above the longer earlier ledger, not a rewritte
 | --- | --- | --- |
 | **Playable game, W12–W13** | Restored W12 native game; two-room W13 browser, receipts and separately authored witness checks | [W12 recovery](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/W12_SOURCE_RESTORATION.md) · [W13 independent verdict](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/WITNESS_W13_INDEPENDENT_VERDICT.md) — **bounded browser PASS**, not deployed-origin authentication |
 | **GAME-W13 native CP worker** | Source-copied subprocess, exact-ID admission, original-W12 independent replay, and read-only re-verification | [Worker contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/GAME_W13_NATIVE_CP_WORKER.md) · [PR #49](https://github.com/huntingthereferent/autobots-assemble/pull/49) — tested path, **not evidence of execution in a private workstation** |
-| **Process Workstation** | Local versioned source copies, bounded workers, observable journals, operator controls, native returns, and continuation research through B18 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/WORKSTATION.md) · [B18 boundary](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/B18_COORDINATED_OBSERVED_NATIVE.md) — not an autonomous distributed worker service |
+| **Tracework source-edition component (formerly Process Workstation)** | Local versioned source copies, bounded workers, observable journals, operator controls, native returns, and continuation research through B18 | [Workstation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/WORKSTATION.md) · [B18 boundary](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/B18_COORDINATED_OBSERVED_NATIVE.md) — not an autonomous distributed worker service |
 | **Finite correspondence research** | CP20–CP30 integrated historical source reconstructed from a versioned baseline and deltas; finite tests and checkpoint records | [Recovered source](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/integrated/README.md) · [Checkpoint index](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/README.md) — full owner-backed historical suite is not established |
 | **NIH temporal research** | Phase 1 prototypes plus authenticated original Phase 2 archival comparisons and 1,345 cross-source status differences | [Source comparison](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) · [CP automation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/CP_AUTOMATION.md) — **source chronology unresolved**, not an NIH submission, award or validated clinical system |
 | **Finite mathematics** | Public constructions, counterexamples, scoped proofs and runnable tests for defined operators | [Mathematical work](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Finite-state case](docs/FINITE_STATE_CONJUGACY.md) — no claim of general conjugacy or physical universality |
@@ -42,7 +44,7 @@ These are new *selected* entries above the longer earlier ledger, not a rewritte
 | **Multi-source data platform** | Acquisition, normalization, database history, APIs, resilience, monitoring, backup/restore and workflow evidence | [Development record](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/public-data-monitor/README.md) · [Recorded green workflow commit](https://github.com/huntingthereferent/autobots-assemble/commit/4579d0a2c79aa30d24a3814f4e423b1200dfb933) — AWS production deployment is not demonstrated |
 | **Education and engineering experiments** | School placement/worksheet prototypes, security, ML, networking, embedded and smaller software projects | [Project inventory](showcase/PROJECT_INVENTORY.md) — individual implementations and tests; no asserted classroom outcomes or client deliveries |
 
-## The recent game and workstation work
+## The recent game and Tracework work
 
 **W12 source is back on GitHub.** The recovered original game and receipt-compatibility source were checked against the archived W12 evidence, including the original **32 native tests and 33 file hashes**. The original W12 rules and strict verifier remain the baseline. [Recovery record](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/W12_SOURCE_RESTORATION.md).
 
@@ -52,7 +54,7 @@ These are new *selected* entries above the longer earlier ledger, not a rewritte
 
 **The missing native adapter was subsequently implemented and merged in PR #49.** Its selected finite source runs in a copied local process and a distinct verifier compares its result with original W12 replay. Exact source, job ID, operator authorization, and fresh re-verification are required. The PR head recorded successful `protocol-tests`, `workspace-continuity`, and `workstation-w13-native-cp-worker` workflows, including the dedicated [native-worker run](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39012488604). Those CI jobs use temporary test environments. **They are not evidence that an authorized user actually admitted and executed a job in a separate private workstation journal.** The later `GAME-NATIVE-VERIFIER` checkpoint remains distinct. [Native operator contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/GAME_W13_NATIVE_CP_WORKER.md).
 
-Workstation construction and native delivery have also developed through [B9–B18](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/B18_COORDINATED_OBSERVED_NATIVE.md): source-scoped proposals, owner-bound returns, offline signature paths, operator key trust, local process coordination, and observed-journal recovery. These are opt-in local facilities with recorded contracts and tests. **No general self-expanding agent system, external owner enrollment, deployed service, or universal distributed-transaction guarantee follows from them.**
+Tracework source-edition construction and native delivery have also developed through [B9–B18](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/B18_COORDINATED_OBSERVED_NATIVE.md): source-scoped proposals, owner-bound returns, offline signature paths, operator key trust, local process coordination, and observed-journal recovery. These are opt-in local facilities with recorded contracts and tests. **No general self-expanding agent system, external owner enrollment, deployed service, or universal distributed-transaction guarantee follows from them.**
 
 ## Recovered finite correspondence source
 
