@@ -1,10 +1,10 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-AI is a routine part of building software, organizing work, and exploring ideas. It can also change a question while appearing to carry it forward: a generated explanation, program, or workflow may no longer preserve the relationship that prompted it.
+I develop finite mathematical constructions and test them through executable systems. The work starts with defined states, actions, and relationships, then examines what changes under permitted operations, what remains consistent, and where a proposed relationship fails.
 
-This repository examines that problem through finite mathematical constructions and experiments in software, interactive environments, and scientific data. AI is used to help build and operate the research workstation. The mathematics supplies relationships to investigate; it does not automatically generate the workstation's workers, branches, or code. When an assistant attributes its own implementation choices to the mathematics, that mismatch is recorded as interpretive drift.
+An AI-assisted workstation helps build implementations, run experiments, and retain results across software, interactive environments, and scientific data. Code, workflow activity, and AI explanations are not mathematical evidence on their own. The original definitions, observed returns, independent checks, and counterexamples determine what has been demonstrated.
 
-The work follows specifications through implementations, observed results, corrections, and further tests. The purpose is to see which relationships remain reproducible across changing conditions, and where they do not.
+This page links the mathematics to working experiments, source records, and open problems.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
@@ -25,9 +25,9 @@ These are reproducible or source-pinned observations, not claims that AI-generat
 
 ### What is being tested
 
-Closed finite constructions make states, operations, and expected relationships explicit. This provides a stable reference for checking whether an implementation or explanation has changed the original question. Tests in other environments examine what remains consistent when new inputs and conditions are introduced.
+Finite constructions make permitted actions and predicted states explicit. Each action is checked against the state actually returned. A mismatch is retained as a counterexample or an unresolved observation, rather than explained away.
 
-AI-generated workflows are part of the working environment, not mathematical conclusions. Their usefulness and their mistakes can both be observed. A passing software test establishes its stated result; broader mathematical claims require their own evidence.
+The workstation records execution across repeated tests and separate research lanes. The evidence distinguishes movement in the system—commits, workers, and workflow runs—from movement established in a mathematical construction or native environment.
 
 ## One finite example
 
@@ -72,17 +72,11 @@ The next section collects source-pinned observations, experiments, and test runs
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
-### Method note — testing relationships across workflow sequences
-
-The research uses finite mathematical relationships as reference conditions. AI-assisted implementations and workflow results are compared against those conditions; agreement in a written explanation does not establish mathematical correspondence.
-
-A single workflow may be insufficient to characterize the behavior of a sequence. The current question is whether repeated execution, interruption, and correction produce distinguishable patterns over time. The proposed wave-like behavior remains a hypothesis, not a measured result.
-
-The [Unstupid harness](https://github.com/huntingthereferent/autobots-assemble/tree/main/interfaces/math) provides finite-world probes and scripted challenge tests. Live AI-agent conditioning and its effect on subsequent task performance have not yet been established.
-
 ### Research method
 
-A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
+Start with a defined relationship and a testable prediction. Execute an admissible action, record the returned state, and compare the result with the prediction. Preserve both successful returns and counterexamples; use the difference to choose the next construction or test. Repeated actions and histories are examined when single-step observations are insufficient.
+
+The mathematical models, AI-assisted implementations, and GitHub workflows are recorded separately. An implementation or passing CI check does not establish that the mathematical relationship was preserved. Questions about workflow behavior over time and AI interaction with the [Unstupid finite-world harness](https://github.com/huntingthereferent/autobots-assemble/tree/main/interfaces/math) remain experiments, not demonstrated results.
 
 [Operational research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
 
