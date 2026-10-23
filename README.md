@@ -10,6 +10,19 @@ The work follows specifications through implementations, observed results, corre
 
 **Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
+## Selected evidence
+
+These are reproducible or source-pinned observations, not claims that AI-generated workflows were produced by the mathematics.
+
+| Investigation | Observed result | Original evidence and boundary |
+| --- | --- | --- |
+| **Finite A/B construction** | Two distinct action sequences, `BBAA` and `ABABB`, reach the same state `[2, 2, 1]` in a specified finite system, after 14 explored states. | [Native receipt](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/views/motion/convergence-receipt.json) · [Operators](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/work/arc_like_maze/math.py) · [Verifier](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/systems/workspace/ab_relational_cluster.py). This is a finite-system result, not general convergence. |
+| **ARC / original SP80 SDK** | Two native entries reached official level **4/6**; a later 52-reset level-4 experiment produced **no level-5/WIN**. | [Original level-4 native run](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [52-reset negative result](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534). Official game returns, not visual proxies. |
+| **NIH / AACT source comparison** | Two authenticated deposited exports share **432,597 study IDs** and differ in **1,345 status fields**. Depositors report collection dates of November 4 and 9, 2022. | [Whole-archive comparison](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) · [Original owner-date linkage](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_AACT_OWNER_DATE_LINK.md). Dates are owner-attested, not independently witnessed extraction times; per-study chronology remains unresolved. |
+| **WORLD / conditional finite motion** | Trial 31 checked **24 conservative inequalities** over **0.25 virtual-time units**; all three qualified hypothetical response cases lost a sufficient clearance bound within that horizon. | [Source handoff](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Original analytical CI](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339). Not a measured collision or physical-law result. |
+
+[**Full research register, source revisions, negative controls, and open questions →**](RESEARCH_REGISTER.md)
+
 ### What is being tested
 
 Closed finite constructions make states, operations, and expected relationships explicit. This provides a stable reference for checking whether an implementation or explanation has changed the original question. Tests in other environments examine what remains consistent when new inputs and conditions are introduced.
@@ -39,7 +52,7 @@ A separate [finite A/B convergence witness](https://github.com/huntingthereferen
 | **NIH and other scientific research** | Source-based comparisons and independent tests across biomedical data, biology, chemistry, economics, security, machine learning, and other fields. [Research records](RESEARCH_REGISTER.md) |
 | **Software and learning tools** | Applications, interfaces, creative tools, and an online school under active development. [Project inventory](showcase/PROJECT_INVENTORY.md) |
 
-## Current evidence
+## Detailed research and active continuations
 
 The next section collects source-pinned observations, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
 
