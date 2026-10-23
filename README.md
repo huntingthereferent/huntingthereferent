@@ -1,22 +1,20 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-AI-assisted development can drift away from the relationship it was asked to preserve. An assistant may generate plausible code, workflows, and explanations, then incorrectly attribute those outputs to the underlying mathematics. The generated software may run and its tests may pass without establishing that the mathematical construction produced it.
+AI is a routine part of building software, organizing work, and exploring ideas. It can also change a question while appearing to carry it forward: a generated explanation, program, or workflow may no longer preserve the relationship that prompted it.
 
-This repository records that distinction in practice. Finite mathematical specifications provide fixed relationships to test; AI-assisted workflows help implement and examine those tests. Original specifications, generated implementations, native execution results, and later interpretations are kept separate so mismatches can be traced and corrected. The attribution errors are part of the evidence, not conclusions supplied by the mathematics.
+This repository examines that problem through finite mathematical constructions and experiments in software, interactive environments, and scientific data. AI is used to help build and operate the research workstation. The mathematics supplies relationships to investigate; it does not automatically generate the workstation's workers, branches, or code. When an assistant attributes its own implementation choices to the mathematics, that mismatch is recorded as interpretive drift.
 
-The wider question is whether mathematical relationships can be preserved and reproduced across different environments. The workstation supports experiments in mathematics, software, interactive environments, and scientific data. Its activity demonstrates an ongoing testing process, not an already verified general-purpose construction system.
+The work follows specifications through implementations, observed results, corrections, and further tests. The purpose is to see which relationships remain reproducible across changing conditions, and where they do not.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![SYSTEMS](https://img.shields.io/badge/SYSTEMS-WORKSTATION-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
 **Start here:** [Watch the workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [See verified results](RESEARCH_REGISTER.md)
 
-### Current research problem
+### What is being tested
 
-The research tests whether specified mathematical relationships can be preserved and reproduced across different systems. A separate, observable difficulty is **AI attribution drift**: during workflow development, an AI assistant may generate code, workers, branches, or execution plans and then describe that activity as if it were produced or directed by the mathematics. That description is an AI interpretation, **not a mathematical derivation or a claim made by the researcher**.
+Closed finite constructions make states, operations, and expected relationships explicit. This provides a stable reference for checking whether an implementation or explanation has changed the original question. Tests in other environments examine what remains consistent when new inputs and conditions are introduced.
 
-This failure mode is not yet eliminated. For now, AI-generated workflow infrastructure is treated as an implementation aid and as a subject of audit. A workflow run can verify an explicitly defined test condition, but its existence, execution, or success does not establish that the mathematical construction generated the workflow. Corrections to mistaken attributions are retained as part of the drift record.
-
-Closed finite tests provide fixed states, operations, and expected relationships against which actual results can be checked. Cross-environment experiments then introduce additional conditions deliberately. The record distinguishes the original specification, AI-generated implementation, native execution, and independently supported mathematical conclusions.
+AI-generated workflows are part of the working environment, not mathematical conclusions. Their usefulness and their mistakes can both be observed. A passing software test establishes its stated result; broader mathematical claims require their own evidence.
 
 ## One finite example
 
@@ -34,16 +32,16 @@ A separate [finite A/B convergence witness](https://github.com/huntingthereferen
 
 | Area | What you can see |
 | --- | --- |
-| **Research workstation** | AI-assisted workflow infrastructure, automated tests, live execution records, and audits across projects; workflow generation is not attributed to the mathematics. [Open workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) |
+| **Research workstation** | AI-assisted workers, automated tests, execution records, and project audits. [Open workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html) |
 | **Mathematics** | Original finite constructions with programs and tests showing where a relationship holds or fails. [Explore mathematics](showcase/MATHEMATICS.md) |
 | **ARC and interactive environments** | Experiments that act in real game environments, compare predictions with returned states, and retain failed attempts. [ARC evidence](ARC_EVIDENCE.md) |
 | **WORLD** | Simulated motion and interaction studies, including cases where a prediction reaches its limit. [WORLD research](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
 | **NIH and other scientific research** | Source-based comparisons and independent tests across biomedical data, biology, chemistry, economics, security, machine learning, and other fields. [Research records](RESEARCH_REGISTER.md) |
-| **Software and learning tools** | AI-assisted application and interface development, creative tools, and an online school under active development; implementation does not establish mathematical generation. [Project inventory](showcase/PROJECT_INVENTORY.md) |
+| **Software and learning tools** | Applications, interfaces, creative tools, and an online school under active development. [Project inventory](showcase/PROJECT_INVENTORY.md) |
 
 ## Current evidence
 
-The next section distinguishes source-pinned experimental observations from AI-assisted workflow and software development, with links to revisions, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
+The next section collects source-pinned observations, experiments, and test runs. **A passing test means that particular check passed**, not that every larger question has been solved. Work still in development is labeled separately.
 
 **Selected source-pinned evidence — updated October 22, 2026.** [Current workstation source revision](https://github.com/huntingthereferent/autobots-assemble/commit/a0f4ed478122b4f4f049220900f6dea755e95f2b). These are separate lane records; open research branches are identified as **in progress**, not as merged or independently validated results.
 
@@ -57,13 +55,13 @@ The next section distinguishes source-pinned experimental observations from AI-a
 | **Workstation / production** | [Workspace-continuity CI](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39857976499) completed successfully; [Pages deployment](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39858779353) also succeeded. | [Inspector Gadget](https://github.com/huntingthereferent/autobots-assemble/actions/workflows/inspector-gadget-all-workflows.yml) observes workflow incidents; [CI reduction proposal](https://github.com/huntingthereferent/autobots-assemble/pull/458) and [viewer counting proposal](https://github.com/huntingthereferent/autobots-assemble/pull/431) remain open. Recent protocol-test failures require inspection rather than an assumed diagnosis. |
 | **Interactive tools / education** | Active implementation work includes [Science Notebook](https://github.com/huntingthereferent/autobots-assemble/pull/480), [Reading Room](https://github.com/huntingthereferent/autobots-assemble/pull/479), [Worksheet Studio](https://github.com/huntingthereferent/autobots-assemble/pull/476), and [learner dashboard](https://github.com/huntingthereferent/autobots-assemble/pull/474). | Open development branches, not verified end-user browser acceptance. |
 
-**Workflow generation is not mathematical generation:** workers, pull requests, and execution plans may be produced by an AI assistant. A successful run establishes only its stated checks, not the origin of the workflow or a general mathematical result. Mistaken AI attributions and their corrections are part of the interpretive-drift record.
+**Evidence boundary:** a successful run establishes its stated checks. Workflow activity, draft pull requests, and generated implementations are recorded separately from mathematical conclusions.
 
 [**Inspect the research register and original witnesses →**](RESEARCH_REGISTER.md) · [Evidence types and limits](PROVENANCE.md) · [Selected case studies](SELECTED_WORK.md)
 
 ### Research method
 
-A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. The provenance record also distinguishes AI-proposed workflows and code from mathematical specifications and verified consequences. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
+A bounded test records its source, predicted change, permitted action or transformation, returned result, and independent comparison. Failed predictions remain visible. Mathematical correspondence, executable behavior, language interpretation, and physical measurement each require their own evidence.
 
 [Operational research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Language Referent / A/B](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT.md)
 
@@ -77,7 +75,7 @@ This is independent work, not a claim of institutional affiliation or a finished
 
 ## Expansion model
 
-The operational pattern is **propose or construct → test → audit → retain evidence → continue**. AI may propose and implement workflows within that process; the pattern is not presented as a mathematically generated automation. A supported output can be considered for a further pass, and additional workers or branches can be introduced under explicit evidence, authorization, and resource conditions. Reaching a cap calls for inspecting an admissible alternate construction or expanding available resources; it does not guarantee unlimited continuation.
+The operational pattern is **propose or construct → test → audit → retain evidence → continue**. A supported output can be considered for a further pass, and additional workers or branches can be introduced under explicit evidence, authorization, and resource conditions. Reaching a cap calls for inspecting an admissible alternate construction or expanding available resources; it does not guarantee unlimited continuation.
 
 | Existing research / infrastructure | Capacity unlocked by expansion | Potential new capability |
 | --- | --- | --- |
@@ -124,4 +122,4 @@ These are possible capabilities unlocked by equipment, engineering, and funding�
 
 [Research method](docs/RESEARCH_METHOD.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
-*This work includes AI-generated workflows, code, and writing. These are distinguished from original mathematical specifications, source records, native execution, and independently verified results. Misattributions made during AI assistance are research observations, not claims of mathematical generation.*
+*AI assists with workflows, code, and writing. Source specifications, execution results, interpretations, and corrections remain distinguishable in the research record.*
