@@ -6,6 +6,8 @@ It is used to develop and test mathematical constructions, run experiments and s
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
+**Research instruments:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/research/math.html) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/research/arc.html) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/research/world.html) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/research/nih.html) · [All research tools](https://huntingthereferent.github.io/autobots-assemble/research/)
+
 **Start here:** [Watch Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [Inspect the research register](RESEARCH_REGISTER.md)
 
 ## What is operating
