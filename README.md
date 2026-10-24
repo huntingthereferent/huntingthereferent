@@ -6,7 +6,7 @@ It is used to develop and test mathematical constructions, run experiments and s
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](RESEARCH.md) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](showcase/MATHEMATICS.md) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-**Research instruments:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/research/math.html) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/research/arc.html) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/research/world.html) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/research/nih.html) · [All research tools](https://huntingthereferent.github.io/autobots-assemble/research/)
+**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Open research inside Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math)
 
 **Start here:** [Watch Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [Inspect the research register](RESEARCH_REGISTER.md)
 
@@ -16,7 +16,7 @@ The original mathematical research, **Tracework**, and the separate experimental
 
 | Layer | What it does | Inspect |
 | --- | --- | --- |
-| **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Mathematics](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
+| **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Explore in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [Mathematical source notes](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
 | **Tracework** | Preserves source identity, work state, lane relationships, native results, handoffs, and provenance through continuing execution. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
 | **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
 
@@ -53,9 +53,9 @@ A separate [convergence receipt](https://github.com/huntingthereferent/autobots-
 
 | Area | Where to inspect |
 | --- | --- |
-| **ARC native environments** | [Recorded state/action histories, failures, and level returns](ARC_EVIDENCE.md) |
-| **WORLD** | [Conditional virtual motion and native analytical results](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
-| **Scientific data / NIH** | [Source-owned comparisons, validation boundaries, and ongoing tests](RESEARCH_REGISTER.md) |
+| **ARC native environments** | [Inspect saved routes in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [Original evidence](ARC_EVIDENCE.md) |
+| **WORLD** | [Inspect in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [Source records](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
+| **Scientific data / NIH** | [Inspect in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Source-owned evidence](RESEARCH_REGISTER.md) |
 | **Software and tools** | [Programs, creative interfaces, online learning and applications](showcase/PROJECT_INVENTORY.md) |
 | **Tracework implementation** | [Runtime, source editions, independent work lanes and audit records](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) |
 
