@@ -8,8 +8,6 @@ It is used to develop and test mathematical constructions, run experiments and s
 
 **Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Open research inside Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math)
 
-*The factory must grow.*
-
 **Start here:** [Watch Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [Inspect the research register](RESEARCH_REGISTER.md)
 
 ## What is operating
@@ -72,3 +70,7 @@ The work is independent and does not claim institutional affiliation or a comple
 Everything presented here, **including the wording on this page**, has been developed and revised through Tracework (the environment previously called the AI-workstation) as part of the live research process. Generated language is not itself evidence; the source definitions, returned observations, tests and documented limits remain authoritative.
 
 [Research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Full project inventory](showcase/PROJECT_INVENTORY.md) · [Visual provenance](VISUAL_PROVENANCE.md)
+
+---
+
+*The factory must grow.*
