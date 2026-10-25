@@ -65,9 +65,11 @@ Specify the system and admissible actions, predict a return, execute at the rele
 
 The work is independent and does not claim institutional affiliation or a completed universal theory. The current platform includes opt-in and manually admitted operations; a public viewer is not proof of a fully unattended hosted system.
 
-**Reported direct cost:** $20 for the presented development setup. **Time:** documented work spans September–October 2026, with earlier mathematical groundwork predating this record; total working hours have not been measured. Monetary cost and time spent are different measures.
+### Development background
 
-Everything presented here, **including the wording on this page**, has been developed and revised through Tracework (the environment previously called the AI-workstation) as part of the live research process. Generated language is not itself evidence; the source definitions, returned observations, tests and documented limits remain authoritative.
+The public development record covers September–October 2026 and builds on mathematical work begun earlier. The reported direct expenditure for the setup presented here is **$20**; this is not an estimate of the project's total development cost or the value of the time invested. Working hours have not been formally tracked.
+
+This profile and the linked research materials have been developed and revised through Tracework, previously called the AI-workstation. The record distinguishes generated documentation from the underlying definitions, source observations, tests, and unresolved questions.
 
 [Research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Full project inventory](showcase/PROJECT_INVENTORY.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
