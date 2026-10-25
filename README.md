@@ -1,8 +1,14 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-**Tracework** is a workstation for organizing problems into finite working contexts, moving through their required relationships, and preserving what happens along the way. It supports independent research and construction lanes, human and software handoffs, source-based tests, and continued work without losing the original problem or its results.
+## James Muneoka
 
-It is used to develop and test mathematical constructions, run experiments and software projects, inspect results, and keep track of what changed, what survived, and what remains unresolved. Each project retains its own evidence; an automated check is not automatically proof of the larger research claim.
+I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
+
+### What I'm building
+
+**Tracework** is the workstation I use to organize problems into finite working contexts, follow their relationships, and keep a record of what happens. It connects independent research and software projects, source-based tests, human and software handoffs, and continuing work without losing the original question.
+
+The mathematical constructions, individual experiments, and Tracework infrastructure are related, but each has its own evidence. An automated check is not automatically proof of a broader research claim.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
