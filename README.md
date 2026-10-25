@@ -6,9 +6,11 @@ I'm an independent builder and researcher who likes following questions across s
 
 ### What I'm building
 
-**Tracework** is the workstation I use to organize problems into finite working contexts, follow their relationships, and keep a record of what happens. It connects independent research and software projects, source-based tests, human and software handoffs, and continuing work without losing the original question.
+**Tracework** is the finite-system environment I'm building: a way to take a real problem, preserve its source and relationships, move through bounded states and handoffs, compare expected and observed returns, and continue from what the evidence actually supports. Different projects keep their own models while sharing a traceable path through the work.
 
-The mathematical constructions, individual experiments, and Tracework infrastructure are related, but each has its own evidence. An automated check is not automatically proof of a broader research claim.
+**The version shown on GitHub is a public proof of concept and development preview**, not the complete standalone system. The repository contains working runtime components, finite mathematical examples, source-backed research, tests, and a read-only viewer. Together they demonstrate what a finite system can look like in practice: defined inputs and actions, inspectable transitions, explicit boundaries, recorded outcomes, and recoverable continuation. The public viewer shows only the evidence available to it; it is not a live view of every private process.
+
+The broader mathematical architecture is being developed through these components. The finite examples demonstrate their own stated properties; they do not by themselves prove a universal theory or imply that every planned Tracework capability is already implemented.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
@@ -23,7 +25,7 @@ The original mathematical research, **Tracework**, and the separate experimental
 | Layer | What it does | Inspect |
 | --- | --- | --- |
 | **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Explore in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [Mathematical source notes](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
-| **Tracework** | Preserves source identity, work state, lane relationships, native results, handoffs, and provenance through continuing execution. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
+| **Tracework / GitHub proof of concept** | Demonstrates finite, source-linked work through states, relationships, handoffs, native returns and provenance. The GitHub viewer is a public observation surface, not the entire standalone system. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
 | **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
 
 Tracework is the **current public name** of the environment previously described in the records as the *workstation*, *Process Workstation*, or *AI-workstation*. Existing file paths, runtime identifiers, dated witnesses, and historical labels retain their original meaning. A naming change does not retroactively change their evidence.
