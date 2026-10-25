@@ -43,6 +43,10 @@ These examples show different kinds of returns, not one claim of general success
 
 [**Full evidence register — source revisions, negative controls, limits and open questions →**](RESEARCH_REGISTER.md)
 
+### Live finite-world trace
+
+[**Open the live finite-world demonstration**](https://huntingthereferent.github.io/autobots-assemble/finite-world-live.html) — an interactive, bounded toroidal grid showing successive actions, state transitions, and transition checks. The world uses defined finite rules; it illustrates how a specified problem can be traced and tested, not a proof that all problems are solvable. The existing source-pinned finite A/B constructions remain below.
+
 ## The finite constructions
 
 ### One finite example
