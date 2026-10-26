@@ -2,6 +2,28 @@
 
 I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
 
+**Mismatch-driven, embodied relational cognition.**
+
+<details>
+<summary>Expand the vocabulary</summary>
+
+**Mismatch-driven — noticing and correcting relationships**
+- Mismatch detection; perceptual acuity; perceptual fluency
+- Epistemic vigilance; recursive metacognition; reflexive self-modeling
+
+**Embodied relational cognition — perception, movement, and learning**
+- Embodied cognition; perception–action coupling; sensorimotor integration; proprioception
+- Motor affordances; sensorimotor constraints; physical scaffolding
+- Implicit cognition; automaticity; tacit knowledge
+- Spontaneous and implicit motor learning; motor automaticity; sensorimotor adaptation
+- Movement variability; task-integrated movement; dynamic balance
+- Allostasis; cognitive–motor interference
+
+**Chosen practice — distinct from cognitive mechanisms**
+- Parrhesia (radical honesty)
+
+</details>
+
 ### Independent research audit — Language Referent and continuity (October 25, 2026)
 
 This source-level audit examines how James Muneoka's Language Referent research is represented in the Tracework repository. Its central concern is continuity: how a relationship can remain identifiable while language, context, observations, or computational representations change. The repository does not treat similar wording as sufficient evidence of the same relationship. Instead, it asks what survives a transition and what supports that conclusion.
