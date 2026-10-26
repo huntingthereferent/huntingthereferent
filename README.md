@@ -2,7 +2,7 @@
 
 I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
 
-**Mismatch-driven, embodied relational cognition — parrhesiastes by choice.**
+**Mismatch-driven, embodied relational cognition — parrhesiastes by necessity.**
 
 <details>
 <summary>Expand the vocabulary</summary>
