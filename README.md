@@ -19,7 +19,7 @@ I'm an independent builder and researcher who likes following questions across s
 - Movement variability; task-integrated movement; dynamic balance
 - Allostasis; cognitive–motor interference
 
-**Chosen practice — distinct from cognitive mechanisms**
+**Communication — spontaneous emotional expression**
 - Parrhesia (radical honesty)
 
 </details>
