@@ -1,6 +1,6 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
+I'm an independent builder and researcher. I follow questions across language, finite mathematics, interactive worlds, software, and the ways people learn and work. When an explanation stops fitting what I can observe, I make something to test what happens next. I care about keeping that work inspectable, including when it fails.
 
 **Mismatch-driven, embodied relational cognition — parrhesiastes by necessity.**
 
@@ -20,7 +20,10 @@ I'm an independent builder and researcher who likes following questions across s
 - Allostasis; cognitive–motor interference
 
 **Communication — spontaneous emotional expression**
-- Parrhesia (radical honesty)
+- Discomfort and feeling can remain visible in communication, without deliberate disclosure
+
+**Truth-telling — parrhesia**
+- Frank expression and correction; preserving what I mean as it moves
 
 </details>
 
@@ -42,7 +45,9 @@ The research is independent, without institutional affiliation. The public imple
 
 ## Selected research records
 
-These examples show different kinds of returns, not one claim of general success.
+These records concern separate investigations, each with its own source and test boundary.
+
+**Source references:** [Current code revision checked October 26, 2026 (`c0ecc828`)](https://github.com/huntingthereferent/autobots-assemble/commit/c0ecc828a5fafd9d2c19e2a50d815c536d08c8be) · [Reviewed evidence snapshot, October 21, 2026 (`7916709e`)](https://github.com/huntingthereferent/autobots-assemble/commit/7916709e16e14cb1222639f385746abc882effe1). The results below retain their individual source and workflow pins.
 
 | Investigation | Recorded observation | Evidence and limit |
 | --- | --- | --- |
@@ -51,21 +56,19 @@ These examples show different kinds of returns, not one claim of general success
 | **NIH / AACT source comparison** | Two checksum-authenticated deposited exports share **432,597 study IDs** and differ in **1,345 status fields**. | [Archive comparison](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) · [Date-source boundary](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_AACT_OWNER_DATE_LINK.md). Reported collection dates do not establish per-study chronology. |
 | **WORLD / conditional motion** | Trial 31 checked **24 conservative inequalities** through a **0.25-unit** virtual-time horizon; the three qualified hypothetical response cases lost a sufficient clearance bound before that horizon ended. | [Source record](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Native analytical checks](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339). A bound failure is not an observed physical collision. |
 
-[**Full evidence register — source revisions, negative controls, limits and open questions →**](RESEARCH_REGISTER.md)
+[Full evidence register — including negative controls and open questions](RESEARCH_REGISTER.md)
 
 ## Tracework
 
-**Tracework** is the finite-system environment I'm building: a way to take a real problem, preserve its source and relationships, move through bounded states and handoffs, compare expected and observed returns, and continue from what the evidence actually supports. Different projects keep their own models while sharing a traceable path through the work.
+**Tracework** is the finite-system environment I'm building to preserve source identities and relationships across bounded actions and handoffs, compare expected and observed returns, and continue from the evidence actually available. Each project keeps its own model and verification rules while sharing an inspectable history of movement.
 
-**The version shown on GitHub is a public proof of concept and development preview**, not the complete standalone system. The repository contains working runtime components, finite mathematical examples, source-backed research, tests, and a read-only viewer. Together they demonstrate what a finite system can look like in practice: defined inputs and actions, inspectable transitions, explicit boundaries, recorded outcomes, and recoverable continuation. The public viewer shows only the evidence available to it; it is not a live view of every private process.
-
-The broader mathematical architecture is being developed through these components. The finite examples demonstrate their own stated properties; they do not by themselves prove a universal theory or imply that every planned Tracework capability is already implemented.
+The public GitHub version is a **development preview and proof of concept** with executable components, finite mathematical examples, tests, and a read-only research viewer. It is not the complete standalone environment.
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Open research inside Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math)
+**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih)
 
-**Inspect:** [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Project inventory](showcase/PROJECT_INVENTORY.md) · [Research register](RESEARCH_REGISTER.md)
+**Open the research viewer:** [Tracework execution and evidence](https://huntingthereferent.github.io/autobots-assemble/live/work.html)
 
 <details>
 <summary><strong>Research structure, implementation boundaries, and project areas</strong></summary>
@@ -78,7 +81,7 @@ The original mathematical research, **Tracework**, and the separate experimental
 | **Tracework / GitHub proof of concept** | Demonstrates finite, source-linked work through states, relationships, handoffs, native returns and provenance. The GitHub viewer is a public observation surface, not the entire standalone system. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
 | **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
 
-Tracework is the **current public name** of the environment previously described in the records as the *workstation*, *Process Workstation*, or *AI-workstation*. Existing file paths, runtime identifiers, dated witnesses, and historical labels retain their original meaning. A naming change does not retroactively change their evidence.
+**Naming continuity:** Tracework is the current public name of the environment. Earlier names remain in the source history; renaming does not change recorded evidence or identifiers.
 
 **Research and development areas**
 
@@ -143,9 +146,7 @@ This is a geometric component of the research, not simply a visualization choice
 
 The public development record covers September–October 2026 and builds on mathematical work begun earlier. The reported direct expenditure for the setup presented here is **$20**; this is not an estimate of the project's total development cost or the value of the time invested. Working hours have not been formally tracked.
 
-This profile and the linked research materials have been developed and revised through Tracework, previously called the AI-workstation. The record distinguishes generated documentation from the underlying definitions, source observations, tests, and unresolved questions.
-
-[Research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Full project inventory](showcase/PROJECT_INVENTORY.md) · [Visual provenance](VISUAL_PROVENANCE.md)
+Source history preserves the project's development and distinguishes research notes from original observations, tests, and unresolved questions.
 
 </details>
 
