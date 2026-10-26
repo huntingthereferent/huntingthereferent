@@ -1,6 +1,6 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-**Mismatch-driven, embodied relational cognition — parrhesiastes by necessity.**
+**Mismatch-driven, embodied relational cognition — parrhesiastes.**
 
 <details>
 <summary>Expand the cognitive and communication vocabulary</summary>
