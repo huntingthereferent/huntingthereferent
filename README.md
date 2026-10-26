@@ -97,22 +97,17 @@ The original mathematical research, **Tracework**, and the separate experimental
 
 ## Finite A/B constructions
 
-<details>
-<summary><strong>View the source-linked finite A/B constructions</strong></summary>
+**Action order changes the state**
 
-**One finite example**
+![Finite A/B motion: different action orders produce different states](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg)
 
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion showing changes under defined actions" /></a>
+In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. [Inspect the visual source](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md).
 
-In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. The rendering is derived from a specified model, not a claim about unrelated systems.
+**Different A/B paths converge**
 
-**Where separate A/B paths meet**
+![Finite A/B convergence: two distinct action paths return to the same state](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg)
 
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Two distinct verified action paths returning to the same finite state" /></a>
-
-A separate [convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) verifies two different action histories reaching the same defined state. The two visualizations are examples of finite, checkable movement; Tracework is the infrastructure used to carry and inspect work across investigations.
-
-</details>
+The [convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) records different action histories reaching the same defined state. These are source-derived finite constructions, not a running Tracework worker.
 
 ## Technical notes and audits
 
