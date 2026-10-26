@@ -1,7 +1,5 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-## James Muneoka
-
 I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
 
 ### Research audit — Language Referent and continuity (October 25, 2026)
