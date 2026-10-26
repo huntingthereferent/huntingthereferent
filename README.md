@@ -4,6 +4,20 @@
 
 I'm an independent builder and researcher who likes following questions across subjects, finding where explanations stop fitting what I can observe, and making things to test what happens next. My interests range from language and finite mathematics to interactive worlds, software, and the ordinary ways people learn and work. I don't claim a formal affiliation or that every experiment leads somewhere; I care about keeping the work inspectable, including when it fails.
 
+### Research audit — Language Referent and continuity (October 25, 2026)
+
+A source-level review of my research workstation clarified how I have been modeling relationships through moving language. The work begins with a continuing referent: something being followed while its wording, context, representation, or conditions change. The important question is not whether two descriptions look alike, but what relationship actually survives the movement and what evidence supports that continuity.
+
+The implementation is more than a sequence of remembered statements. Each movement can retain its direction, surviving and changed relationships, evidence, unresolved boundaries, and the path by which the current state was reached. That retained ancestry makes it possible to return to an earlier observation without treating an old interpretation as current truth. When an explanation drifts, the system can preserve what was learned, mark what remains unknown, and reground the investigation. Its outputs can re-enter the same movement contract, allowing the process to inspect and correct its own earlier transitions.
+
+This is how I have been approaching *meta*: through the Language Referent and the retention, provenance, traversal, and correction systems developed around it. I am using observable movement in language to construct outward toward questions about how people retain and follow thought. It is a computational research approach, not an established neuroscience model or a claim to have measured another person's internal experience.
+
+The same method connects to finite mathematics and the workstation's developing computational worlds. Different investigations keep their native rules and evidence; they do not become identical because they can be connected. A representation may be expanded or reconstructed backward to accommodate the relationships under investigation. Its success must still be checked against what the original sources actually show.
+
+**Audit boundary:** This account comes from a read-only review of selected documentation and implementations in the research repository on October 25, 2026. The review confirmed the presence of these contracts and code structures; it did not execute the full test suite, validate a neurological mechanism, or prove that every cross-system relationship is preserved.
+
+**Inspect the underlying structures:** [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py) · [Natural provenance](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/provenance.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Backward construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Growing world](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/toroidal_projection.py)
+
 ### What I'm building
 
 **Tracework** is the finite-system environment I'm building: a way to take a real problem, preserve its source and relationships, move through bounded states and handoffs, compare expected and observed returns, and continue from what the evidence actually supports. Different projects keep their own models while sharing a traceable path through the work.
