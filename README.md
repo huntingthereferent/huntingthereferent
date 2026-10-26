@@ -5,7 +5,7 @@ I'm an independent builder and researcher who likes following questions across s
 **Mismatch-driven, embodied relational cognition — parrhesiastes by necessity.**
 
 <details>
-<summary>Expand the vocabulary</summary>
+<summary>Expand the cognitive and communication vocabulary</summary>
 
 **Mismatch-driven — noticing and correcting relationships**
 - Mismatch detection; perceptual acuity; perceptual fluency
@@ -24,53 +24,23 @@ I'm an independent builder and researcher who likes following questions across s
 
 </details>
 
-### Independent research audit — Language Referent and continuity (October 25, 2026)
+**Research links:** [Methods](#research-method) · [Research records](#selected-research-records) · [Tracework](#tracework) · [Live demonstration](#demonstrations) · [Evidence register](RESEARCH_REGISTER.md)
 
-This source-level audit examines how James Muneoka's Language Referent research is represented in the Tracework repository. Its central concern is continuity: how a relationship can remain identifiable while language, context, observations, or computational representations change. The repository does not treat similar wording as sufficient evidence of the same relationship. Instead, it asks what survives a transition and what supports that conclusion.
+## Research focus
 
-The implementations go beyond storing earlier statements. Referent traversal records the current relation and direction, the relationships that survived or changed, available evidence, unresolved boundaries, and provenance. Those records allow subsequent movement to revisit earlier observations without automatically restoring an outdated interpretation. When a proposed continuation fails, the system can retain the useful observations, expose the unresolved boundary, and attempt to reground the original inquiry.
+I investigate how relationships remain identifiable while language, context, observation, and computational representations change. My work connects language referents, finite mathematical systems, and interactive worlds through traceable transitions and source-backed comparisons.
 
-This also clarifies the role of *meta* in the work. Rather than defining it as a separate supervisory layer, the implementation permits the result of one movement to become input to another pass under the same evidence contract. Earlier movements can therefore become objects of inspection, correction, and continuation. Retention is modeled as preserved relational structure, not merely as a collection of remembered sentences.
+- **Language and continuity:** following what survives a change of context or representation. [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py)
+- **Finite systems and world geometry:** constructing bounded actions, tracing movement, and examining convergence and constraints. [Mathematical notes](showcase/MATHEMATICS.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md)
+- **Native investigations:** running separate ARC, WORLD, and scientific-data comparisons against each domain's own evidence. [Research register](RESEARCH_REGISTER.md) · [Selected work](SELECTED_WORK.md)
 
-James's broader research direction uses movement in language as an observable starting point for investigating how humans retain and follow thought. The repository supplies computational representations of parts of that inquiry; it does not establish a neural mechanism or an empirically validated model of the human brain.
+## Research method
 
-The same continuity requirements extend into finite mathematics, handoffs between independent systems, and the geometry of a growing computational world. Each domain retains its own evidence and rules; provenance connects their movements without asserting that the domains are identical.
+Specify the system and admissible actions, predict a return, execute at the relevant native boundary, compare the actual return, and preserve both witnesses and counterexamples. Keep **proposed**, **simulated**, **observed**, **independently checked**, and **still unresolved** distinct. Tracework can retain that history while work moves, but it does not replace the native source or proof criteria.
 
-**Geometric construction and world expansion.** The Language-Neutral Shape Contract includes a geometric construction principle: the finite world must be able to increase its representational capacity as additional objects, relationships, and movements need to be accommodated. The current bounded example uses a two-dimensional periodic lattice, mathematically a discrete torus, \(W_N = \\mathbb{Z}_N \\times \\mathbb{Z}_N\). Its side length \(N\) can increase, producing a larger periodic world rather than requiring the investigation to fit a permanently fixed grid. A scaling map \(E_k(x,y) = (kx,ky) \\bmod kN\), for integers \(k \\geq 2\), preserves the represented coordinates under the stated embedding. The original source identities and recorded relationships remain authoritative; geometric proximity or overlap cannot establish a relationship by itself. Moreover, an elementary one-cell displacement in the smaller world becomes a \(k\)-cell displacement after scaling, so movement preservation must be checked against the corresponding transformed trajectories rather than assumed.
+The research is independent, without institutional affiliation. The public implementations and their recorded evidence determine the scope of each claim.
 
-This is a geometric component of the research, not simply a visualization choice. The objective is for the representational world to accommodate the construction as it develops, while keeping earlier relations recoverable and subject to evidence-based checks. The published toroidal projection demonstrates a bounded portion of that principle; it does not yet implement the entire evolving world within Tracework.
-
-**Audit assessment:** The repository contains explicit contracts and code for traversal, regrounding, provenance, recursive re-entry, and evidence-bounded handoffs. The growing-world projection remains a limited implementation rather than an integrated canonical Tracework world. Quantitative retention measurements and neuroscience validation are not established by the inspected source. This was a read-only source audit, not an executed full test suite.
-
-**Inspect the underlying structures:** [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py) · [Natural provenance](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/provenance.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Continuous handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Growing finite-world projection](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/toroidal_projection.py) · [Animated toroidal tracing](https://huntingthereferent.github.io/autobots-assemble/growing-toroidal-world.html)
-
-### What I'm building
-
-**Tracework** is the finite-system environment I'm building: a way to take a real problem, preserve its source and relationships, move through bounded states and handoffs, compare expected and observed returns, and continue from what the evidence actually supports. Different projects keep their own models while sharing a traceable path through the work.
-
-**The version shown on GitHub is a public proof of concept and development preview**, not the complete standalone system. The repository contains working runtime components, finite mathematical examples, source-backed research, tests, and a read-only viewer. Together they demonstrate what a finite system can look like in practice: defined inputs and actions, inspectable transitions, explicit boundaries, recorded outcomes, and recoverable continuation. The public viewer shows only the evidence available to it; it is not a live view of every private process.
-
-The broader mathematical architecture is being developed through these components. The finite examples demonstrate their own stated properties; they do not by themselves prove a universal theory or imply that every planned Tracework capability is already implemented.
-
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
-
-**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Open research inside Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math)
-
-**Start here:** [Watch Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Explore the projects](showcase/PROJECT_INVENTORY.md) · [Inspect the research register](RESEARCH_REGISTER.md)
-
-## What is operating
-
-The original mathematical research, **Tracework**, and the separate experimental projects are related but not interchangeable:
-
-| Layer | What it does | Inspect |
-| --- | --- | --- |
-| **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Explore in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [Mathematical source notes](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
-| **Tracework / GitHub proof of concept** | Demonstrates finite, source-linked work through states, relationships, handoffs, native returns and provenance. The GitHub viewer is a public observation surface, not the entire standalone system. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
-| **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
-
-Tracework is the **current public name** of the environment previously described in the records as the *workstation*, *Process Workstation*, or *AI-workstation*. Existing file paths, runtime identifiers, dated witnesses, and historical labels retain their original meaning. A naming change does not retroactively change their evidence.
-
-## Selected source-pinned results
+## Selected research records
 
 These examples show different kinds of returns, not one claim of general success.
 
@@ -83,25 +53,34 @@ These examples show different kinds of returns, not one claim of general success
 
 [**Full evidence register — source revisions, negative controls, limits and open questions →**](RESEARCH_REGISTER.md)
 
-### Live finite-world trace
+## Tracework
 
-[**Open the live finite-world demonstration**](https://huntingthereferent.github.io/autobots-assemble/finite-world-live.html) — an interactive, bounded toroidal grid showing successive actions, state transitions, and transition checks. The world uses defined finite rules; it illustrates how a specified problem can be traced and tested, not a proof that all problems are solvable. The existing source-pinned finite A/B constructions remain below.
+**Tracework** is the finite-system environment I'm building: a way to take a real problem, preserve its source and relationships, move through bounded states and handoffs, compare expected and observed returns, and continue from what the evidence actually supports. Different projects keep their own models while sharing a traceable path through the work.
 
-## The finite constructions
+**The version shown on GitHub is a public proof of concept and development preview**, not the complete standalone system. The repository contains working runtime components, finite mathematical examples, source-backed research, tests, and a read-only viewer. Together they demonstrate what a finite system can look like in practice: defined inputs and actions, inspectable transitions, explicit boundaries, recorded outcomes, and recoverable continuation. The public viewer shows only the evidence available to it; it is not a live view of every private process.
 
-### One finite example
+The broader mathematical architecture is being developed through these components. The finite examples demonstrate their own stated properties; they do not by themselves prove a universal theory or imply that every planned Tracework capability is already implemented.
 
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion showing changes under defined actions" /></a>
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. The rendering is derived from a specified model, not a claim about unrelated systems.
+**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Open research inside Tracework](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math)
 
-### Where separate A/B paths meet
+**Inspect:** [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Project inventory](showcase/PROJECT_INVENTORY.md) · [Research register](RESEARCH_REGISTER.md)
 
-<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Two distinct verified action paths returning to the same finite state" /></a>
+<details>
+<summary><strong>Research structure, implementation boundaries, and project areas</strong></summary>
 
-A separate [convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) verifies two different action histories reaching the same defined state. The two visualizations are examples of finite, checkable movement; Tracework is the infrastructure used to carry and inspect work across investigations.
+The original mathematical research, **Tracework**, and the separate experimental projects are related but not interchangeable:
 
-## Research and development areas
+| Layer | What it does | Inspect |
+| --- | --- | --- |
+| **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Explore in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [Mathematical source notes](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
+| **Tracework / GitHub proof of concept** | Demonstrates finite, source-linked work through states, relationships, handoffs, native returns and provenance. The GitHub viewer is a public observation surface, not the entire standalone system. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
+| **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
+
+Tracework is the **current public name** of the environment previously described in the records as the *workstation*, *Process Workstation*, or *AI-workstation*. Existing file paths, runtime identifiers, dated witnesses, and historical labels retain their original meaning. A naming change does not retroactively change their evidence.
+
+**Research and development areas**
 
 | Area | Where to inspect |
 | --- | --- |
@@ -111,19 +90,66 @@ A separate [convergence receipt](https://github.com/huntingthereferent/autobots-
 | **Software and tools** | [Programs, creative interfaces, online learning and applications](showcase/PROJECT_INVENTORY.md) |
 | **Tracework implementation** | [Runtime, source editions, independent work lanes and audit records](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) |
 
-## Method and scope
+</details>
 
-Specify the system and admissible actions, predict a return, execute at the relevant native boundary, compare the actual return, and preserve both witnesses and counterexamples. Keep **proposed**, **simulated**, **observed**, **independently checked**, and **still unresolved** distinct. Tracework can retain that history while work moves, but it does not replace the native source or proof criteria.
+## Demonstrations
 
-The work is independent and does not claim institutional affiliation or a completed universal theory. The current platform includes opt-in and manually admitted operations; a public viewer is not proof of a fully unattended hosted system.
+[**Open the live finite-world demonstration**](https://huntingthereferent.github.io/autobots-assemble/finite-world-live.html) — an interactive, bounded toroidal grid showing successive actions, state transitions, and transition checks. The world uses defined finite rules; it illustrates how a specified problem can be traced and tested, not a proof that all problems are solvable. The existing source-pinned finite A/B constructions remain below.
 
-### Development background
+<details>
+<summary><strong>View the source-linked finite A/B constructions</strong></summary>
+
+**One finite example**
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B motion showing changes under defined actions" /></a>
+
+In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. The rendering is derived from a specified model, not a claim about unrelated systems.
+
+**Where separate A/B paths meet**
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Two distinct verified action paths returning to the same finite state" /></a>
+
+A separate [convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) verifies two different action histories reaching the same defined state. The two visualizations are examples of finite, checkable movement; Tracework is the infrastructure used to carry and inspect work across investigations.
+
+</details>
+
+## Technical notes and audits
+
+<details>
+<summary><strong>Language Referent and continuity — source audit (October 25, 2026)</strong></summary>
+
+This source-level audit examines how James Muneoka's Language Referent research is represented in the Tracework repository. Its central concern is continuity: how a relationship can remain identifiable while language, context, observations, or computational representations change. The repository does not treat similar wording as sufficient evidence of the same relationship. Instead, it asks what survives a transition and what supports that conclusion.
+
+The implementations go beyond storing earlier statements. Referent traversal records the current relation and direction, the relationships that survived or changed, available evidence, unresolved boundaries, and provenance. Those records allow subsequent movement to revisit earlier observations without automatically restoring an outdated interpretation. When a proposed continuation fails, the system can retain the useful observations, expose the unresolved boundary, and attempt to reground the original inquiry.
+
+This also clarifies the role of *meta* in the work. Rather than defining it as a separate supervisory layer, the implementation permits the result of one movement to become input to another pass under the same evidence contract. Earlier movements can therefore become objects of inspection, correction, and continuation. Retention is modeled as preserved relational structure, not merely as a collection of remembered sentences.
+
+James's broader research direction uses movement in language as an observable starting point for investigating how humans retain and follow thought. The repository supplies computational representations of parts of that inquiry; it does not establish a neural mechanism or an empirically validated model of the human brain.
+
+The same continuity requirements extend into finite mathematics, handoffs between independent systems, and the geometry of a growing computational world. Each domain retains its own evidence and rules; provenance connects their movements without asserting that the domains are identical.
+
+**Geometric construction and world expansion.** The Language-Neutral Shape Contract includes a geometric construction principle: the finite world must be able to increase its representational capacity as additional objects, relationships, and movements need to be accommodated. The current bounded example uses a two-dimensional periodic lattice, mathematically a discrete torus, \(W_N = \mathbb{Z}_N \times \mathbb{Z}_N\). Its side length \(N\) can increase, producing a larger periodic world rather than requiring the investigation to fit a permanently fixed grid. A scaling map \(E_k(x,y) = (kx,ky) \bmod kN\), for integers \(k \geq 2\), preserves the represented coordinates under the stated embedding. The original source identities and recorded relationships remain authoritative; geometric proximity or overlap cannot establish a relationship by itself. Moreover, an elementary one-cell displacement in the smaller world becomes a \(k\)-cell displacement after scaling, so movement preservation must be checked against the corresponding transformed trajectories rather than assumed.
+
+This is a geometric component of the research, not simply a visualization choice. The objective is for the representational world to accommodate the construction as it develops, while keeping earlier relations recoverable and subject to evidence-based checks. The published toroidal projection demonstrates a bounded portion of that principle; it does not yet implement the entire evolving world within Tracework.
+
+**Audit assessment:** The repository contains explicit contracts and code for traversal, regrounding, provenance, recursive re-entry, and evidence-bounded handoffs. The growing-world projection remains a limited implementation rather than an integrated canonical Tracework world. Quantitative retention measurements and neuroscience validation are not established by the inspected source. This was a read-only source audit, not an executed full test suite.
+
+**Inspect the underlying structures:** [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py) · [Natural provenance](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/provenance.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Continuous handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Growing finite-world projection](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/toroidal_projection.py) · [Animated toroidal tracing](https://huntingthereferent.github.io/autobots-assemble/growing-toroidal-world.html)
+
+</details>
+
+<details>
+<summary><strong>Development history and project provenance</strong></summary>
 
 The public development record covers September–October 2026 and builds on mathematical work begun earlier. The reported direct expenditure for the setup presented here is **$20**; this is not an estimate of the project's total development cost or the value of the time invested. Working hours have not been formally tracked.
 
 This profile and the linked research materials have been developed and revised through Tracework, previously called the AI-workstation. The record distinguishes generated documentation from the underlying definitions, source observations, tests, and unresolved questions.
 
 [Research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Full project inventory](showcase/PROJECT_INVENTORY.md) · [Visual provenance](VISUAL_PROVENANCE.md)
+
+</details>
+
+**Documentation:** [Research method](docs/RESEARCH_METHOD.md) · [Research notebook](RESEARCH.md) · [Evidence and provenance](PROVENANCE.md) · [Project inventory](showcase/PROJECT_INVENTORY.md) · [Visual provenance](VISUAL_PROVENANCE.md)
 
 ---
 
