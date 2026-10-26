@@ -1,7 +1,5 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-I'm an independent builder and researcher. I follow questions across language, finite mathematics, interactive worlds, software, and the ways people learn and work. When an explanation stops fitting what I can observe, I make something to test what happens next. I care about keeping that work inspectable, including when it fails.
-
 **Mismatch-driven, embodied relational cognition — parrhesiastes by necessity.**
 
 <details>
