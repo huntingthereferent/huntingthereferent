@@ -27,7 +27,7 @@ I'm an independent builder and researcher. I follow questions across language, f
 
 </details>
 
-**Research links:** [Methods](#research-method) · [Research records](#selected-research-records) · [Tracework](#tracework) · [Live demonstration](#demonstrations) · [Evidence register](RESEARCH_REGISTER.md)
+**Research links:** [Methods](#research-method) · [Research records](#selected-research-records) · [Tracework](#tracework) · [Finite A/B constructions](#finite-ab-constructions) · [Evidence register](RESEARCH_REGISTER.md)
 
 ## Research focus
 
@@ -95,9 +95,7 @@ The original mathematical research, **Tracework**, and the separate experimental
 
 </details>
 
-## Demonstrations
-
-[**Open the live finite-world demonstration**](https://huntingthereferent.github.io/autobots-assemble/finite-world-live.html) — an interactive, bounded toroidal grid showing successive actions, state transitions, and transition checks. The world uses defined finite rules; it illustrates how a specified problem can be traced and tested, not a proof that all problems are solvable. The existing source-pinned finite A/B constructions remain below.
+## Finite A/B constructions
 
 <details>
 <summary><strong>View the source-linked finite A/B constructions</strong></summary>
