@@ -172,8 +172,6 @@ I see this work in the context of a world already saturated with information, au
 
 Breakdowns do not have to arrive all at once. They can appear as smaller, traceable failures while a system still seems to function. My working direction is to build the continuity and evidence infrastructure *one step early*: preserve the original referent, record what actually changes, keep failures visible, and make regrounding possible before errors compound.
 
-This explains the motivation for Tracework; it does not claim that collapse is inevitable, that this one architecture is universally required, or that the current implementation already achieves that goal at civilizational scale.
-
 </details>
 
 <details>
