@@ -166,6 +166,17 @@ This is a geometric component of the research, not simply a visualization choice
 </details>
 
 <details>
+<summary><strong>Why build continuity infrastructure early?</strong></summary>
+
+I see this work in the context of a world already saturated with information, automation, and increasingly interconnected systems. Concern about where humanity is heading is not unusual. The question for me is not whether I can predict a civilizational collapse; it is what happens when systems keep growing faster than their ability to preserve sources, relationships, and reliable paths for correction.
+
+Breakdowns do not have to arrive all at once. They can appear as smaller, traceable failures while a system still seems to function. My working direction is to build the continuity and evidence infrastructure *one step early*: preserve the original referent, record what actually changes, keep failures visible, and make regrounding possible before errors compound.
+
+This explains the motivation for Tracework; it does not claim that collapse is inevitable, that this one architecture is universally required, or that the current implementation already achieves that goal at civilizational scale.
+
+</details>
+
+<details>
 <summary><strong>Development history and project provenance</strong></summary>
 
 The public development record covers September–October 2026 and builds on mathematical work begun earlier. The reported direct expenditure for the setup presented here is **$20**; this is not an estimate of the project's total development cost or the value of the time invested. Working hours have not been formally tracked.
