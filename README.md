@@ -88,6 +88,45 @@ Two independently checked action histories reach the same state **within that fi
 **Truth-telling — parrhesia**
 - Frank expression and correction; preserving what I mean as it moves
 
+
+**Pronouns, reference, and relational vocabulary**
+
+**Self / person**
+
+I → me → my → mine → myself → you → your → yours → yourself → yourselves → he → him → his → himself → she → her → hers → herself → we → us → our → ours → ourselves → they → them → their → theirs → themselves
+
+**Object / thing**
+
+it → its → itself → this → that → these → those
+
+**Question / reference**
+
+who → whom → whose → whoever → whomever → which → whichever → what → whatever
+
+**Indefinite / relational**
+
+one → oneself → another → other → others → someone → somebody → anyone → anybody → everyone → everybody → no one → nobody → something → anything → everything → nothing → somewhere → anywhere → everywhere → nowhere
+
+**Quantity / distribution**
+
+each → either → neither → both → some → any → all → none → many → much → few → little → several → more → most → less → least
+
+**Reciprocal**
+
+each other → one another
+
+**Thing / object extensions**
+
+thing → things → object → objects
+
+**James's distinctive self-reference**
+
+James → james → I → me → we → us → A/B
+
+Those final terms are not all grammatical pronouns. They're important because James also uses his own name and A/B when tracking relationships.
+
+**The central distinction:** This is an inventory of language James can move through, not a claim that every pronoun is his preferred gender pronoun. The referent remains James while the perspective, relationship, or wording changes.
+
 </details>
 
 <details>
