@@ -12,7 +12,7 @@ The [source-pinned research register](RESEARCH_REGISTER.md) is the latest dated 
 
 | Investigation | Latest reviewed finding | Evidence boundary |
 | --- | --- | --- |
-| ARC SP80 original SDK | Two native entries to level **4/6**; a separate **52-reset** trial produced **0 level-5/WIN advances** | Not a complete six-level win |
+| ARC SP80 original SDK | **2 of 50** original SDK resets reached official level **4/6**; a separate **52 of 52** level-4 resets produced **0 level-5/WIN advances** | [Native 2/50 witness](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [52/52 negative follow-up](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534); neither is a complete six-level win |
 | A/B WORLD Trial 31 | Three hypothetical response cases exceeded the sufficiency of at least one clearance bound before 0.25 virtual-time units; five no-response controls | Not a measured impact or physical collision |
 | NIH AACT archive comparison | 1,345 status-field differences among 432,597 shared IDs | Original per-study publication chronology remains unverified |
 | Finite mathematics and Tracework | Scoped mathematical witnesses and source-pinned worker/handoff tests | Not universal closure or a fully autonomous distributed system |
@@ -30,7 +30,7 @@ The October 17 and October 20 entries below remain historical records. Newer evi
 
 These are new *selected* entries above the longer earlier ledger, not a rewritten history of every worker and project. Original source revision, native result, counterexample, and unresolved condition determine how far each claim reaches.
 
-## Where the work stands
+## Where the work stands — historical inventory, revised by the October 21 frontier above
 
 | Work | What is available | Evidence and present boundary |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ These are new *selected* entries above the longer earlier ledger, not a rewritte
 | **Finite correspondence research** | CP20–CP30 integrated historical source reconstructed from a versioned baseline and deltas; finite tests and checkpoint records | [Recovered source](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/integrated/README.md) · [Checkpoint index](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/chatbot/research/README.md) — full owner-backed historical suite is not established |
 | **NIH temporal research** | Phase 1 prototypes plus authenticated original Phase 2 archival comparisons and 1,345 cross-source status differences | [Source comparison](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) · [CP automation](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/CP_AUTOMATION.md) — **source chronology unresolved**, not an NIH submission, award or validated clinical system |
 | **Finite mathematics** | Public constructions, counterexamples, scoped proofs and runnable tests for defined operators | [Mathematical work](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc_like_maze) · [Finite-state case](docs/FINITE_STATE_CONJUGACY.md) — no claim of general conjugacy or physical universality |
-| **ARC native-game investigations** | Saved historical routes and independently reproduced new original-SDK SP80 3/6 progress, with separate negative stage-3 source trials | [Current native results](ARC_EVIDENCE.md) · [Original ARC investigation](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc3) — **not a six-level win**; older saved-route successes are not independent first-contact autonomous solves |
+| **ARC native-game investigations** | Historical October 20 original-SDK **3/6** progress and negative stage-3 trials; **October 21 frontier: 2/50 official 4/6 entries**, followed by **0/52 official level-5/WIN advances** | [Dated ARC evidence and source-pinned runs](ARC_EVIDENCE.md) · [Original ARC investigation](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/arc3) — **not a six-level win**; saved-route successes are not independent first-contact autonomous solves |
 | **Multi-source data platform** | Acquisition, normalization, database history, APIs, resilience, monitoring, backup/restore and workflow evidence | [Development record](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/projects/public-data-monitor/README.md) · [Recorded green workflow commit](https://github.com/huntingthereferent/autobots-assemble/commit/4579d0a2c79aa30d24a3814f4e423b1200dfb933) — AWS production deployment is not demonstrated |
 | **Education and engineering experiments** | School placement/worksheet prototypes, security, ML, networking, embedded and smaller software projects | [Project inventory](showcase/PROJECT_INVENTORY.md) — individual implementations and tests; no asserted classroom outcomes or client deliveries |
 
