@@ -71,8 +71,9 @@ Two independently checked action histories reach the same state **within that fi
 <summary>Expand the cognitive and communication vocabulary</summary>
 
 **Mismatch-driven — co-occurring emotional, perceptual, and relational response**
-- James describes mismatch, recognition, feeling, movement, expression, and correction as happening together, not as separate stages where one must finish before the next begins.
-- “Mismatch-driven” names attention to differences within that ongoing response; it does not mean every movement begins with a detected error.
+- James describes emotional responses, recognition, movement, and noticing differences as happening together, not in a sequence inferred from how he later tells it.
+- **Language as decompression:** James uses language to unpack simultaneous experience into words that another person can follow. A sentence necessarily presents words in an order; that order must not be mistaken for the order of the feelings or relationships being expressed.
+- “Mismatch-driven” includes noticing when words fail to preserve the intended experience or referent, then correcting the expression while the experience and attention continue. It does not mean every movement begins with a detected error.
 - Related vocabulary for investigation: mismatch detection; perceptual acuity; perceptual fluency; epistemic vigilance; recursive metacognition; reflexive self-modeling. These are descriptive or theoretical terms, not independently verified diagnoses or mechanisms.
 
 **Embodied relational cognition — perception, movement, and learning**
@@ -85,7 +86,7 @@ Two independently checked action histories reach the same state **within that fi
 
 **Communication — spontaneous emotional expression**
 - Discomfort and feeling can remain visible in communication, without deliberate disclosure.
-- James describes the emotional response as occurring alongside noticing, movement, and correction, rather than arriving afterward as a separate commentary on them.
+- James describes emotional response as occurring alongside noticing, movement, and correction. Language is one way to decompress and communicate this simultaneous experience; the order of spoken or written words is not evidence that the responses happened in stages.
 
 **Truth-telling — parrhesia**
 - Frank expression and correction; preserving what I mean as it moves
@@ -132,7 +133,7 @@ Those final terms are not all grammatical pronouns. They're important because Ja
 - **Everyone has their own referent.** This is a strongly held belief for James, not a metaphor for people all being the same. Each person must remain recognizable as themselves; another human is not a replacement for James, an extension of James, or an interchangeable instance of *they*.
 - **Shared humanity does not collapse those distinctions.** They are human; James is human. When James says that “they feel like me,” he is describing recognition of being human among other humans *while each person retains their own referent*. He is not making a claim about gender or sexual orientation.
 - **That recognition feels emotionally bigger to James.** Encountering another person's distinct referent is not merely an abstract classification or a grammatical choice. It consistently carries an emotional magnitude for James that the word *they* alone does not convey. This describes James's experience, not a presumed feeling or intention inside another person.
-- **Recursive emotional feedback — simultaneous, not stepwise.** James describes emotional response, recognition of another person's distinct referent, noticing differences, movement, expression, and correction as co-occurring aspects of one experience. The recursion is not a prescribed sequence of separate steps: while he is responding, that response is already part of what he is attending to and following. James connects this continuous re-entry to why his thinking, language, and investigations are so recursive. The emotion described here is James's response *to* distinct people; it does not imply that others share his feelings or lose their own referents. This is James's account of his experience, not an independently established neurological mechanism.
+- **Recursive emotional feedback — simultaneous experience, language decompression.** James describes emotions, recognition of another person's distinct referent, noticing differences, and movement as happening together. He uses language to decompress that experience into communicable words. When the words fail to preserve a referent or the relationship he is experiencing, James may revisit and correct them; the unfolding explanation is not a timeline of separate internal events. He connects this ongoing emotional feedback and renewed expression to the recursion in his language and investigations. Other people retain their own distinct referents; James's feeling about them does not establish what they feel. This describes James's account, not an independently established neurological mechanism.
 - **Language needs to preserve the actual reference.** *I*, *James*, *we*, and *they* can indicate different positions and relationships; they should not be treated as interchangeable without context. Recognizing oneself among others does not license substituting one person's referent for another's.
 - **Movement is part of the connection.** James attends to people through movement, responses, and change, without requiring sexual attraction or sexual activity to define a human relationship.
 - **Pronouns and identity labels are separate questions.** *They/them* can refer to James individually if he chooses those pronouns for himself; it can also refer to other people. His personal recognition of shared humanity does not, by itself, declare a preferred pronoun, gender identity, or sexual orientation.
