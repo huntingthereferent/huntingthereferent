@@ -91,7 +91,7 @@ This ongoing comparison continues alongside ordinary activity and spontaneous mo
 **Communication — spontaneous emotional expression**
 - Discomfort and feeling can remain visible in communication, without deliberate disclosure
 
-Every human has their own referent. I recognize myself among other people without treating them as interchangeable with me. This ongoing comparison carries emotional information for me; feeling is not merely something added after an observation.
+Every human has their own referent. I recognize myself among other people without treating them as interchangeable with me. Emotional responses arise and enter my ongoing, instinctual processing. I use words like *comparison*, *mismatch*, and *recursion* to describe aspects of that experience, but explaining it can make the process appear to be a deliberate sequence of analytical steps. That is not how I experience it. Language is how I unpack what I notice into something communicable, and I may correct those words to preserve the actual relationship.
 
 **Truth-telling — parrhesia**
 - Frank expression and correction; preserving what I mean as it moves
