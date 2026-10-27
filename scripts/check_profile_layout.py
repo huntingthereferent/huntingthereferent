@@ -5,7 +5,7 @@ The previous guard checked a retired profile layout and a writing/README.md
 path no longer present in this repository. This baseline is the main-branch
 profile immediately before the 2026-10-27 source-to-evidence documentation edit.
 
-The guard retains banner bytes, badge links, research section order, and
+The guard retains banner bytes, badge links and placement, section order, and
 the two source-generated finite visuals, while permitting research prose edits.
 """
 from pathlib import Path
@@ -75,6 +75,15 @@ def main() -> int:
     elif now.count(after_badges) != 1:
         errors.append("Research badge strip is missing or duplicated.")
 
+    # The badges belong to the introduction before the single navigation row,
+    # not deep inside Tracework or a documentation table.
+    badge_at = now.find(after_badges) if after_badges else -1
+    nav_at = now.find("**Explore:**")
+    research_at = now.find("## Research focus\n")
+    intro_at = now.find("I investigate how relationships remain identifiable")
+    if not (0 <= intro_at < badge_at < nav_at < research_at):
+        errors.append("Research badges must sit below the introduction and above top navigation.")
+
     # Layout order is intentional; additions within sections may evolve.
     baseline_headings = [
         line for line in old.splitlines() if line.startswith("## ")
@@ -96,8 +105,8 @@ def main() -> int:
     finite_head = now.find("## Finite A/B constructions\n")
     first_caption = now.find("**Action order changes the state**")
     second_caption = now.find("**Different A/B paths converge**")
-    first_graphic = now.find("](" + FINITE + ")")
-    second_graphic = now.find("](" + CONVERGENCE + ")")
+    first_graphic = now.find('src="' + FINITE + '" width="680"')
+    second_graphic = now.find('src="' + CONVERGENCE + '" width="680"')
     next_section = now.find("## Technical notes and audits\n")
     if not (0 <= finite_head < first_caption < first_graphic <
             second_caption < second_graphic < next_section):
@@ -109,7 +118,7 @@ def main() -> int:
             print(" - " + error)
         return 1
     print("PROFILE VISUAL LOCK: PASSED")
-    print("Current banner, badges, section order and finite graphics are preserved.")
+    print("Banner, top badges, research section order, and 680px finite graphics are preserved.")
     print("Research prose may evolve without changing the agreed visual layout.")
     return 0
 
