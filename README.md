@@ -1,6 +1,73 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-**Mismatch-driven, embodied relational cognition — parrhesiastes.**
+**Independent research · Language referents · Finite systems · Native evidence**
+
+I investigate how relationships remain identifiable while language, context, observation, and computational representations change. The work uses finite mathematical constructions, interactive experiments, and source-backed comparisons to examine what survives a change—and what does not.
+
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
+**Explore:** [Research](#research-focus) · [Method](#research-method) · [Evidence](#selected-research-records) · [Tracework](#tracework) · [Finite A/B](#finite-ab-constructions)
+
+## Research focus
+
+- **Language and continuity** — following a referent through changes in wording, context, and interpretation. [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Traversal runtime](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py)
+- **Finite systems and world geometry** — constructing bounded actions, testing correspondences, and finding where a relation fails. [Mathematical notes](showcase/MATHEMATICS.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md)
+- **Native investigations** — comparing results against the original ARC, WORLD, and scientific-data sources, each under its own evidence rules. [Selected work](SELECTED_WORK.md) · [Research register](RESEARCH_REGISTER.md)
+
+## Research method
+
+Specify the system and admissible actions, predict a return, execute at the relevant native boundary, and compare what actually happened. Preserve successful witnesses **and** failed predictions. Keep proposed, simulated, observed, independently checked, and unresolved results distinct.
+
+**Follow a worked example:** [From relation to execution to evidence](docs/TRACEWORK_THEORY_TO_EVIDENCE.md) connects defined mathematics to its actual code and source receipts, while keeping separate experiments separate.
+
+I work independently, without institutional affiliation. The public implementations and their recorded evidence determine the scope of each claim.
+
+## Selected research records
+
+| Investigation | Native result and limit |
+| --- | --- |
+| **Finite A/B** | Distinct paths `BBAA` and `ABABB` reach `[2, 2, 1]` after 14 explored states **in one defined finite system**. [Pinned receipt](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/views/motion/convergence-receipt.json) · [Operators](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/work/arc_like_maze/math.py) |
+| **ARC / original SP80 SDK** | Two native entries reached official level **4/6**. A later 52-reset level-4 experiment **did not reach** level 5 or WIN. [Native witness](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [Failed follow-up](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534) |
+| **NIH / AACT** | Two authenticated deposited exports share **432,597 study IDs**, with **1,345 differing status fields**. Underlying extract chronology is unresolved; these are *not* proven chronological status transitions. [Source comparison](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) |
+| **WORLD / conditional motion** | Trial 31 checked **24 conservative inequalities** through a **0.25-unit** virtual-time horizon. Three hypothetical response cases lost a sufficient clearance bound; **no physical collision was observed**. [Source record](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Analytical check](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339) |
+
+[Complete evidence register, negative controls, and open questions](RESEARCH_REGISTER.md) · [Source-pinned code revision (October 26, 2026)](https://github.com/huntingthereferent/autobots-assemble/commit/c0ecc828a5fafd9d2c19e2a50d815c536d08c8be) · [Reviewed evidence snapshot (October 21, 2026)](https://github.com/huntingthereferent/autobots-assemble/commit/7916709e16e14cb1222639f385746abc882effe1)
+
+## Tracework
+
+**Tracework** is the finite-system environment I am developing to preserve source identities, relationships, handoffs, and observed returns as work continues. Each investigation retains its own model and verification rules. The public repository is a **development preview**, not the full standalone environment.
+
+**[Open Tracework — execution and evidence viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html)** · [Implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md)
+
+<details>
+<summary><strong>Implementation boundaries and research areas</strong></summary>
+
+| Layer | Inspect |
+| --- | --- |
+| **Mathematical research** — finite models, constraints, proofs, and counterexamples | [Source mathematics](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
+| **Tracework implementation** — bounded handoffs, provenance, and source-linked movement | [Runtime and architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Workspace sources](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
+| **ARC / WORLD / NIH** — independent experiments under native evidence rules | [ARC evidence](ARC_EVIDENCE.md) · [WORLD sources](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) · [NIH register](RESEARCH_REGISTER.md) |
+| **Other projects** — applications, software, and source editions | [Project inventory](showcase/PROJECT_INVENTORY.md) |
+
+Tracework was previously described as the *workstation*. Historical identifiers remain in the code where renaming would break provenance or compatibility. A shared evidence carrier does **not** make these research lanes one mathematical experiment.
+
+</details>
+
+## Finite A/B constructions
+
+**Action order changes the state**
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg" width="680" alt="Finite A/B: different action orders yield different states in a defined model" /></a>
+
+Different action orders produce different results in this [specified finite system](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py).
+
+**Different A/B paths converge**
+
+<a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B: two separately verified action histories arrive at the same state" /></a>
+
+Two independently checked action histories reach the same state **within that finite model**. [Source-generated visual and convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). This is not a running Tracework worker or evidence of universal convergence.
+
+## Technical notes and audits
 
 <details>
 <summary>Expand the cognitive and communication vocabulary</summary>
@@ -24,92 +91,6 @@
 - Frank expression and correction; preserving what I mean as it moves
 
 </details>
-
-**Research links:** [Methods](#research-method) · [Research records](#selected-research-records) · [Tracework](#tracework) · [Finite A/B constructions](#finite-ab-constructions) · [Evidence register](RESEARCH_REGISTER.md)
-
-## Research focus
-
-I investigate how relationships remain identifiable while language, context, observation, and computational representations change. My work connects language referents, finite mathematical systems, and interactive worlds through traceable transitions and source-backed comparisons.
-
-- **Language and continuity:** following what survives a change of context or representation. [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py)
-- **Finite systems and world geometry:** constructing bounded actions, tracing movement, and examining convergence and constraints. [Mathematical notes](showcase/MATHEMATICS.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md)
-- **Native investigations:** running separate ARC, WORLD, and scientific-data comparisons against each domain's own evidence. [Research register](RESEARCH_REGISTER.md) · [Selected work](SELECTED_WORK.md)
-
-## Research method
-
-Specify the system and admissible actions, predict a return, execute at the relevant native boundary, compare the actual return, and preserve both witnesses and counterexamples. Keep **proposed**, **simulated**, **observed**, **independently checked**, and **still unresolved** distinct. Tracework can retain that history while work moves, but it does not replace the native source or proof criteria.
-
-The research is independent, without institutional affiliation. The public implementations and their recorded evidence determine the scope of each claim.
-
-**Follow one relation into the code:** [From relation to execution to evidence](docs/TRACEWORK_THEORY_TO_EVIDENCE.md) connects a finite A/B result to its step function, independent replay, and JSON receipt; separately traces periodic coordinate scaling, original NIH/AACT source comparisons, and native ARC failure. It identifies where a recorded mismatch can support a next movement, and where the evidence still stops. These are distinct bounded demonstrations, not one theorem or a claim of universal Tracework verification.
-
-## Selected research records
-
-These records concern separate investigations, each with its own source and test boundary.
-
-**Source references:** [Current code revision checked October 26, 2026 (`c0ecc828`)](https://github.com/huntingthereferent/autobots-assemble/commit/c0ecc828a5fafd9d2c19e2a50d815c536d08c8be) · [Reviewed evidence snapshot, October 21, 2026 (`7916709e`)](https://github.com/huntingthereferent/autobots-assemble/commit/7916709e16e14cb1222639f385746abc882effe1). The results below retain their individual source and workflow pins.
-
-| Investigation | Recorded observation | Evidence and limit |
-| --- | --- | --- |
-| **Finite A/B construction** | The distinct action words `BBAA` and `ABABB` reach `[2, 2, 1]` in a specified finite system after 14 explored states. | [Native receipt](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/views/motion/convergence-receipt.json) · [Operators](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/work/arc_like_maze/math.py). This is a result in that finite model. |
-| **ARC / original SP80 SDK** | Two native entries reached official level **4/6**; a later 52-reset level-4 experiment did **not** reach level 5 or WIN. | [Level-4 native witness](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [Negative follow-up](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534). Native returns, not visual approximations. |
-| **NIH / AACT source comparison** | Two checksum-authenticated deposited exports share **432,597 study IDs** and differ in **1,345 status fields**. | [Archive comparison](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) · [Date-source boundary](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_AACT_OWNER_DATE_LINK.md). Reported collection dates do not establish per-study chronology. |
-| **WORLD / conditional motion** | Trial 31 checked **24 conservative inequalities** through a **0.25-unit** virtual-time horizon; the three qualified hypothetical response cases lost a sufficient clearance bound before that horizon ended. | [Source record](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Native analytical checks](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339). A bound failure is not an observed physical collision. |
-
-[Full evidence register — including negative controls and open questions](RESEARCH_REGISTER.md)
-
-## Tracework
-
-**Tracework** is the finite-system environment I'm building to preserve source identities and relationships across bounded actions and handoffs, compare expected and observed returns, and continue from the evidence actually available. Each project keeps its own model and verification rules while sharing an inspectable history of movement.
-
-The public GitHub version is a **development preview and proof of concept** with executable components, finite mathematical examples, tests, and a read-only research viewer. It is not the complete standalone environment.
-
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
-
-**Research instruments inside Tracework:** [Mathematical viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [ARC native records](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [WORLD investigations](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [NIH source comparisons](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih)
-
-**Open the research viewer:** [Tracework execution and evidence](https://huntingthereferent.github.io/autobots-assemble/live/work.html)
-
-<details>
-<summary><strong>Research structure, implementation boundaries, and project areas</strong></summary>
-
-The original mathematical research, **Tracework**, and the separate experimental projects are related but not interchangeable:
-
-| Layer | What it does | Inspect |
-| --- | --- | --- |
-| **Mathematical research** | Constructs defined finite models, predictions, comparisons, and counterexamples. | [Explore in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) · [Mathematical source notes](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
-| **Tracework / GitHub proof of concept** | Demonstrates finite, source-linked work through states, relationships, handoffs, native returns and provenance. The GitHub viewer is a public observation surface, not the entire standalone system. | [Live execution and research view](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) |
-| **Research and applications** | Test specific questions in ARC, WORLD, NIH/data work, software, interactive tools, and other independent lanes. | [Project inventory](showcase/PROJECT_INVENTORY.md) · [Selected work](SELECTED_WORK.md) |
-
-**Naming continuity:** Tracework is the current public name of the environment. Earlier names remain in the source history; renaming does not change recorded evidence or identifiers.
-
-**Research and development areas**
-
-| Area | Where to inspect |
-| --- | --- |
-| **ARC native environments** | [Inspect saved routes in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#arc) · [Original evidence](ARC_EVIDENCE.md) |
-| **WORLD** | [Inspect in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#world) · [Source records](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) |
-| **Scientific data / NIH** | [Inspect in workstation](https://huntingthereferent.github.io/autobots-assemble/live/work.html#nih) · [Source-owned evidence](RESEARCH_REGISTER.md) |
-| **Software and tools** | [Programs, creative interfaces, online learning and applications](showcase/PROJECT_INVENTORY.md) |
-| **Tracework implementation** | [Runtime, source editions, independent work lanes and audit records](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) |
-
-</details>
-
-## Finite A/B constructions
-
-**Action order changes the state**
-
-![Finite A/B motion: different action orders produce different states](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg)
-
-In this [finite construction](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/math.py), action order changes a defined state. [Inspect the visual source](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md).
-
-**Different A/B paths converge**
-
-![Finite A/B convergence: two distinct action paths return to the same state](https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg)
-
-The [convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md) records different action histories reaching the same defined state. These are source-derived finite constructions, not a running Tracework worker.
-
-## Technical notes and audits
 
 <details>
 <summary><strong>Language Referent and continuity — source audit (October 25, 2026)</strong></summary>
