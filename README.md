@@ -1,10 +1,10 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-I investigate how relationships remain identifiable while language, context, observation, and computational representations change. The work uses finite mathematical constructions, interactive experiments, and source-backed comparisons to examine what survives a change—and what does not.
+I investigate how relationships remain identifiable while language, context, observation, and computational representations change. I build finite test worlds, make bounded changes, and compare what actually happens with what I expected. The question for people who build complex systems is practical: what survives a change, what fails, and how can the next correction stay connected to the original problem?
 
-**Explore:** [Research](#research-focus) · [Method](#research-method) · [Evidence](#selected-research-records) · [Tracework](#tracework) · [Finite A/B](#finite-ab-constructions)
+**Explore:** [Research](#research-focus) · [Method](#research-method) · [Finite A/B](#finite-ab-constructions) · [Test results](#selected-research-records)
 
 ## Research focus
 
@@ -14,11 +14,34 @@ I investigate how relationships remain identifiable while language, context, obs
 
 ## Research method
 
-Specify the system and admissible actions, predict a return, execute at the relevant native boundary, and compare what actually happened. Preserve successful witnesses **and** failed predictions. Keep proposed, simulated, observed, independently checked, and unresolved results distinct.
+Start with a defined system and a change you can actually test. Record what you expect, make the movement, and compare it with what came back. Keep the failed attempts as well as the successes, so the next correction starts from the real difference. A simulated outcome, a native test result, and an independently checked result are not interchangeable.
 
 **Follow a worked example:** [From relation to execution to evidence](docs/TRACEWORK_THEORY_TO_EVIDENCE.md) connects defined mathematics to its actual code and source receipts, while keeping separate experiments separate.
 
 I work independently, without institutional affiliation. The public implementations and their recorded evidence determine the scope of each claim.
+
+<details>
+<summary><strong>How the work stays connected — Tracework</strong></summary>
+
+**Tracework** is the finite-system environment I am developing to keep track of what was changed, where it came from, what actually happened, and what remains unresolved. When a test moves forward, the source, the observed return, and the failures should remain traceable. Each investigation retains its own model and verification rules. The public implementation is a **development preview**, not the complete standalone environment.
+
+**[Open the interactive work and evidence viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html)**
+
+<details>
+<summary>Technical sources, implementation boundaries, and other research areas</summary>
+
+| Area | Inspect |
+| --- | --- |
+| **Mathematical research** — finite models, constraints, proofs, and counterexamples | [Source mathematics](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
+| **Tracework implementation** — bounded handoffs, provenance, and source-linked movement | [Runtime and architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) · [Workspace sources](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
+| **ARC / WORLD / NIH** — independent experiments under native evidence rules | [ARC evidence](ARC_EVIDENCE.md) · [WORLD sources](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) · [NIH register](RESEARCH_REGISTER.md) |
+| **Other projects** — applications, software, and source editions | [Project inventory](showcase/PROJECT_INVENTORY.md) |
+
+Tracework was previously described as the *workstation*. Historical identifiers remain in the code where renaming would break provenance or compatibility. A shared evidence carrier does **not** make these research lanes one mathematical experiment.
+
+</details>
+
+</details>
 
 ## Selected research records
 
@@ -30,26 +53,6 @@ I work independently, without institutional affiliation. The public implementati
 | **WORLD / conditional motion** | Trial 31 checked **24 conservative inequalities** through a **0.25-unit** virtual-time horizon. Three hypothetical response cases lost a sufficient clearance bound; **no physical collision was observed**. [Source record](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Analytical check](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339) |
 
 [Complete evidence register, negative controls, and open questions](RESEARCH_REGISTER.md) · [Source-pinned code revision (October 26, 2026)](https://github.com/huntingthereferent/autobots-assemble/commit/c0ecc828a5fafd9d2c19e2a50d815c536d08c8be) · [Reviewed evidence snapshot (October 21, 2026)](https://github.com/huntingthereferent/autobots-assemble/commit/7916709e16e14cb1222639f385746abc882effe1)
-
-## Tracework
-
-**Tracework** is the finite-system environment I am developing to preserve source identities, relationships, handoffs, and observed returns as work continues. Each investigation retains its own model and verification rules. The public repository is a **development preview**, not the full standalone environment.
-
-**[Open Tracework — execution and evidence viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html)** · [Implementation](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md)
-
-<details>
-<summary><strong>Implementation boundaries and research areas</strong></summary>
-
-| Layer | Inspect |
-| --- | --- |
-| **Mathematical research** — finite models, constraints, proofs, and counterexamples | [Source mathematics](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
-| **Tracework implementation** — bounded handoffs, provenance, and source-linked movement | [Runtime and architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Workspace sources](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
-| **ARC / WORLD / NIH** — independent experiments under native evidence rules | [ARC evidence](ARC_EVIDENCE.md) · [WORLD sources](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) · [NIH register](RESEARCH_REGISTER.md) |
-| **Other projects** — applications, software, and source editions | [Project inventory](showcase/PROJECT_INVENTORY.md) |
-
-Tracework was previously described as the *workstation*. Historical identifiers remain in the code where renaming would break provenance or compatibility. A shared evidence carrier does **not** make these research lanes one mathematical experiment.
-
-</details>
 
 ## Finite A/B constructions
 
@@ -63,7 +66,7 @@ Different action orders produce different results in this [specified finite syst
 
 <a href="https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md"><img src="https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg" width="680" alt="Finite A/B: two separately verified action histories arrive at the same state" /></a>
 
-Two independently checked action histories reach the same state **within that finite model**. [Source-generated visual and convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). This is not a running Tracework worker or evidence of universal convergence.
+Two independently checked action histories reach the same state **within that finite model**. [Source-generated visual and convergence receipt](https://github.com/huntingthereferent/autobots-assemble/blob/main/views/motion/README.md). This is not evidence of universal convergence or of a physical system doing the same thing.
 
 ## Technical notes and audits
 
