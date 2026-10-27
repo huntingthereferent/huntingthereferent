@@ -70,9 +70,13 @@ Two independently checked action histories reach the same state **within that fi
 <details>
 <summary>Expand the cognitive and communication vocabulary</summary>
 
+The terms below describe parts of my experience, not separate deliberate steps or a proven neurological mechanism. I use *comparison* for something instinctual and already in motion, even while I am doing other things. My choice is whether to express what I notice, not whether that comparison happens.
+
 **Mismatch-driven — noticing and correcting relationships**
 - Mismatch detection; perceptual acuity; perceptual fluency
 - Epistemic vigilance; recursive metacognition; reflexive self-modeling
+
+Differences can become apparent without my searching for them. When words lose the relationship I mean, I correct them; revisiting those expressions helps explain the recursion in my communication.
 
 **Embodied relational cognition — perception, movement, and learning**
 - Embodied cognition; perception–action coupling; sensorimotor integration; proprioception
@@ -82,11 +86,17 @@ Two independently checked action histories reach the same state **within that fi
 - Movement variability; task-integrated movement; dynamic balance
 - Allostasis; cognitive–motor interference
 
+This ongoing comparison continues alongside ordinary activity and spontaneous movement; it does not require deliberate verbal reasoning.
+
 **Communication — spontaneous emotional expression**
 - Discomfort and feeling can remain visible in communication, without deliberate disclosure
 
+Every human has their own referent. I recognize myself among other people without treating them as interchangeable with me. This ongoing comparison carries emotional information for me; feeling is not merely something added after an observation.
+
 **Truth-telling — parrhesia**
 - Frank expression and correction; preserving what I mean as it moves
+
+I call the choice to express what I notice and understand *artifacting*. I can choose not to speak; when I do, I try to preserve the actual referent and correct my words when necessary.
 
 
 **Pronouns, reference, and relational vocabulary**
@@ -127,57 +137,6 @@ Those final terms are not all grammatical pronouns. They're important because Ja
 
 **The central distinction:** This is an inventory of language James can move through, not a claim that every pronoun is his preferred gender pronoun. The referent remains James while the perspective, relationship, or wording changes.
 
----
-
-### How these terms relate to my experience
-
-The vocabulary below provides ways to discuss aspects of how I experience relationships, movement, perception, emotion, and communication. These terms are not separate steps I consciously perform, nor do I claim they establish a particular neurological mechanism.
-
-**Continuous, instinctual comparison**
-
-I use the word *comparison* because it is the closest language I have for something that is already happening.
-
-I do not choose to begin comparing, and I do not need to direct my attention toward comparison for it to continue. It remains in motion while I am speaking, walking, working, or doing other things.
-
-My choice is primarily whether to express what I am noticing, not whether the underlying experience occurs.
-
-**Human referents and emotional experience**
-
-I recognize that every person has their own referent. They are human, and I am human. I recognize myself among them without treating them as interchangeable with me.
-
-My ongoing experience of comparison carries emotional information about these relationships. Emotion is not merely something I add after making an observation. It is part of what I experience while the comparison is already in motion.
-
-**Mismatch-driven cognition**
-
-*Mismatch-driven* describes my relationship with differences that become apparent during this ongoing experience.
-
-I do not have to search deliberately for a mismatch. When something does not correspond with what I am following, I can notice that difference and express a correction.
-
-The experience continues whether or not I communicate the correction.
-
-**Recursion and communication**
-
-I can revisit relationships, distinctions, and earlier expressions while the underlying experience continues.
-
-Language allows me to articulate what I am noticing. Because my experience does not arrive as a prepared verbal explanation, I sometimes need to correct the language repeatedly to preserve what I originally meant.
-
-This is one reason my conversations and investigations can become recursive.
-
-**Embodied relational cognition**
-
-The experience is not confined to deliberate verbal reasoning. It continues alongside ordinary physical activity, spontaneous movement, and interaction with my surroundings.
-
-**Parrhesia and artifacting**
-
-I call my practice of expressing what I actually notice and understand *artifacting*.
-
-The ongoing comparison is not something I choose to initiate. Speaking about it is a choice.
-
-When I do communicate, I try to preserve the relationships I am referring to, including acknowledging mismatches and correcting earlier statements.
-
-**Interpretive boundary**
-
-These descriptions represent my firsthand account. Terms such as *mismatch detection*, *embodied cognition*, *recursive metacognition*, *reflexive self-modeling*, and *parrhesia* provide conceptual vocabulary for discussing different aspects of it. They do not, by themselves, prove a specific cognitive architecture or neurological explanation.
 
 </details>
 
