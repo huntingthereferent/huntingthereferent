@@ -5,7 +5,7 @@ The previous guard checked a retired profile layout and a writing/README.md
 path no longer present in this repository. This baseline is the main-branch
 profile immediately before the 2026-10-27 source-to-evidence documentation edit.
 
-The guard retains banner bytes, badge links and placement, section order, and
+The guard retains banner bytes, badge links and immediate-below-banner placement, section order, and
 the two source-generated finite visuals, while permitting research prose edits.
 """
 from pathlib import Path
@@ -75,14 +75,17 @@ def main() -> int:
     elif now.count(after_badges) != 1:
         errors.append("Research badge strip is missing or duplicated.")
 
-    # The badges belong to the introduction before the single navigation row,
-    # not deep inside Tracework or a documentation table.
+    # Keep the research badge strip directly below the banner, before prose.
+    # Do not allow it to drift into the Tracework section or below the intro.
+    expected_opening = now.splitlines()[0] + "\n\n" + (after_badges or "") + "\n\n"
+    if not after_badges or not now.startswith(expected_opening):
+        errors.append("Research badges must appear immediately below the banner.")
     badge_at = now.find(after_badges) if after_badges else -1
+    intro_at = now.find("I investigate how relationships remain identifiable")
     nav_at = now.find("**Explore:**")
     research_at = now.find("## Research focus\n")
-    intro_at = now.find("I investigate how relationships remain identifiable")
-    if not (0 <= intro_at < badge_at < nav_at < research_at):
-        errors.append("Research badges must sit below the introduction and above top navigation.")
+    if not (0 <= badge_at < intro_at < nav_at < research_at):
+        errors.append("Research introduction and navigation must follow the top badges.")
 
     # Layout order is intentional; additions within sections may evolve.
     baseline_headings = [
