@@ -41,6 +41,8 @@ Specify the system and admissible actions, predict a return, execute at the rele
 
 The research is independent, without institutional affiliation. The public implementations and their recorded evidence determine the scope of each claim.
 
+**Follow one relation into the code:** [From relation to execution to evidence](docs/TRACEWORK_THEORY_TO_EVIDENCE.md) connects a finite A/B result to its step function, independent replay, and JSON receipt; separately traces periodic coordinate scaling, original NIH/AACT source comparisons, and native ARC failure. It identifies where a recorded mismatch can support a next movement, and where the evidence still stops. These are distinct bounded demonstrations, not one theorem or a claim of universal Tracework verification.
+
 ## Selected research records
 
 These records concern separate investigations, each with its own source and test boundary.
