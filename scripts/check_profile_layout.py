@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
-"""Protect the agreed About Me visual sequence without freezing research writing.
+"""Protect the current research-profile visual sequence without freezing prose.
 
-Baseline: the source-owned 2026-10-21 profile commit 7cd48fa, immediately
-before the first-person introduction revision. Older layout locks are historical.
+The previous guard checked a retired profile layout and a writing/README.md
+path no longer present in this repository. This baseline is the main-branch
+profile immediately before the 2026-10-27 source-to-evidence documentation edit.
+
+The guard retains banner bytes, badge links, research section order, and
+the two source-generated finite visuals, while permitting research prose edits.
 """
 from pathlib import Path
 import re
@@ -10,101 +14,103 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "7cd48fa852c3cda1d726aa21c33661439f72d662"
+BASE = "d1ca11e31b0313488a209051c50867b2a34a9353"
 README = ROOT / "README.md"
 BANNER = "assets/observational/humanity-online-banner.webp"
-MAP = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/traces/internet-map.svg"
 FINITE = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/finite-motion.svg"
 CONVERGENCE = "https://raw.githubusercontent.com/huntingthereferent/autobots-assemble/main/views/motion/convergence-motion.svg"
+HEADINGS = (
+    "## Research focus",
+    "## Research method",
+    "## Selected research records",
+    "## Tracework",
+    "## Finite A/B constructions",
+    "## Technical notes and audits",
+)
 
 
 def frozen_file(path: str) -> bytes:
     return subprocess.check_output(["git", "show", f"{BASE}:{path}"], cwd=ROOT)
 
 
-def section(text: str, first: str, last: str) -> str:
-    if first not in text or last not in text:
-        raise ValueError(f"Missing section boundary: {first} / {last}")
-    return text.split(first, 1)[1].split(last, 1)[0]
-
-
-def visible_images(readme: str) -> list[str]:
+def visible_graphics(readme: str) -> list[str]:
     images = []
-    for m in re.finditer(
+    for match in re.finditer(
         r'!\[[^\]]*\]\(([^)]+)\)|<img\b[^>]*\bsrc="([^"]+)"',
         readme,
     ):
-        url = m.group(1) or m.group(2)
+        url = match.group(1) or match.group(2)
         if re.search(r"\.(?:svg|png|webp)(?:$|\?)", url):
             images.append(url)
     return images
+
+
+def badge_line(text: str) -> str | None:
+    return next((line for line in text.splitlines()
+                 if line.startswith("[![RESEARCH]")), None)
 
 
 def main() -> int:
     now = README.read_text(encoding="utf-8")
     old = frozen_file("README.md").decode("utf-8")
     errors = []
+
+    # The cover is still the actual image file, not a newly inserted rendering.
     if now.splitlines()[0] != old.splitlines()[0]:
-        errors.append("Humanity banner at the top changed.")
+        errors.append("The first-line Humanity banner changed.")
     if (ROOT / BANNER).read_bytes() != frozen_file(BANNER):
-        errors.append("Frozen humanity banner artwork changed.")
-    writings = (ROOT / "writing/README.md").read_text(encoding="utf-8")
-    wall_now = section(writings, "<!-- HUMAN_WALL_INTRO_BEGIN -->\n", "<!-- HUMAN_WALL_INTRO_END -->")
-    wall_old = section(old, "# THE HUMAN WALL\n", "## Research profile\n")
-    if wall_now != wall_old:
-        errors.append("The original Human Wall text was changed or lost in the writing archive.")
-    if "# THE HUMAN WALL" in now:
-        errors.append("Human Wall duplicated on the research profile.")
+        errors.append("The frozen Humanity banner bytes changed.")
 
-    def badge_line(s: str) -> str:
-        return next(line for line in s.splitlines() if line.startswith("[![RESEARCH]"))
-
-    if badge_line(now) != badge_line(old):
-        errors.append("Research badges changed from the frozen source set.")
-    if now.count(badge_line(now)) != 1:
-        errors.append("Research badges must appear exactly once.")
-    if "\n# James\n" in now:
-        errors.append("Redundant profile name heading returned.")
-    if not (now.find("**Independent researcher") < now.find(badge_line(now)) < now.find("[**Research overview**]")):
-        errors.append("Research badges must appear above the main navigation links.")
-
+    # Protect original graphic order and source; badges are not counted as graphics.
     expected = [BANNER, FINITE, CONVERGENCE]
-    found = visible_images(now)
-    if found != expected:
-        errors.append(f"Visible graphic order/set changed: {found!r}")
-    headings = [
-        "## Work and evidence", "### Research areas",
-        "### Evidence and verification", "### Research method",
-        "### Writings and conversations", "### Background",
-        "## One finite example", "## Where separate A/B paths meet",
-        "## Research records and paths",
-    ]
-    locations = [now.find(h + "\n") for h in headings]
-    if any(p < 0 for p in locations) or locations != sorted(locations):
-        errors.append("The frozen profile section order changed.")
+    if visible_graphics(old) != expected:
+        errors.append("Pinned main-branch baseline has an unexpected visual sequence.")
+    if visible_graphics(now) != expected:
+        errors.append(f"Graphic order/source changed: {visible_graphics(now)!r}")
 
-    for path in (FINITE, CONVERGENCE):
-        if not re.search(r'<img\b[^>]*src="' + re.escape(path) + r'"[^>]*width="680"', now):
-            errors.append(f"A/B graphic is missing its independent 680px presentation: {path}")
-    for unwanted in (
-        MAP,
-        "assets/observational/people-and-work.svg",
-        "assets/observational/continuity-loom.svg",
-        "assets/observational/continuity-legend.svg",
-        "assets/observational/movement.svg",
-        "views/world-continuity/latest.svg",
-    ):
-        if unwanted in now:
-            errors.append(f"Previously removed visual returned: {unwanted}")
+    before_badges = badge_line(old)
+    after_badges = badge_line(now)
+    if before_badges is None or after_badges != before_badges:
+        errors.append("Research badges or destinations changed.")
+    elif now.count(after_badges) != 1:
+        errors.append("Research badge strip is missing or duplicated.")
+
+    # Layout order is intentional; additions within sections may evolve.
+    baseline_headings = [
+        line for line in old.splitlines() if line.startswith("## ")
+    ]
+    current_headings = [
+        line for line in now.splitlines() if line.startswith("## ")
+    ]
+    if tuple(baseline_headings) != HEADINGS:
+        errors.append("Pinned profile baseline heading sequence is unexpected.")
+    if tuple(current_headings) != HEADINGS:
+        errors.append("The agreed research section order was changed.")
+
+    if "# THE HUMAN WALL" in now:
+        errors.append("The Human Wall was duplicated in the research profile.")
+    if "\n# James\n" in now:
+        errors.append("The redundant profile name heading returned.")
+
+    # Keep both generated graphics associated with their existing source captions.
+    finite_head = now.find("## Finite A/B constructions\n")
+    first_caption = now.find("**Action order changes the state**")
+    second_caption = now.find("**Different A/B paths converge**")
+    first_graphic = now.find("](" + FINITE + ")")
+    second_graphic = now.find("](" + CONVERGENCE + ")")
+    next_section = now.find("## Technical notes and audits\n")
+    if not (0 <= finite_head < first_caption < first_graphic <
+            second_caption < second_graphic < next_section):
+        errors.append("Finite A/B captions and source graphics no longer align.")
+
     if errors:
         print("PROFILE VISUAL LOCK: FAILED")
-        for e in errors:
-            print(" - " + e)
-        print("For an intentional layout redesign, update this guard in the same reviewed change.")
+        for error in errors:
+            print(" - " + error)
         return 1
     print("PROFILE VISUAL LOCK: PASSED")
-    print("Nested Human Wall, banner, badges, and both finite graphics preserve their source.")
-    print("Supporting research prose and source links may continue to evolve.")
+    print("Current banner, badges, section order and finite graphics are preserved.")
+    print("Research prose may evolve without changing the agreed visual layout.")
     return 0
 
 
