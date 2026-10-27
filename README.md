@@ -70,10 +70,9 @@ Two independently checked action histories reach the same state **within that fi
 <details>
 <summary>Expand the cognitive and communication vocabulary</summary>
 
-**Mismatch-driven — co-occurring emotional, perceptual, and relational response**
-- James describes mismatch, recognition, feeling, movement, expression, and correction as happening together, not as separate stages where one must finish before the next begins.
-- “Mismatch-driven” names attention to differences within that ongoing response; it does not mean every movement begins with a detected error.
-- Related vocabulary for investigation: mismatch detection; perceptual acuity; perceptual fluency; epistemic vigilance; recursive metacognition; reflexive self-modeling. These are descriptive or theoretical terms, not independently verified diagnoses or mechanisms.
+**Mismatch-driven — noticing and correcting relationships**
+- Mismatch detection; perceptual acuity; perceptual fluency
+- Epistemic vigilance; recursive metacognition; reflexive self-modeling
 
 **Embodied relational cognition — perception, movement, and learning**
 - Embodied cognition; perception–action coupling; sensorimotor integration; proprioception
@@ -84,8 +83,7 @@ Two independently checked action histories reach the same state **within that fi
 - Allostasis; cognitive–motor interference
 
 **Communication — spontaneous emotional expression**
-- Discomfort and feeling can remain visible in communication, without deliberate disclosure.
-- James describes the emotional response as occurring alongside noticing, movement, and correction, rather than arriving afterward as a separate commentary on them.
+- Discomfort and feeling can remain visible in communication, without deliberate disclosure
 
 **Truth-telling — parrhesia**
 - Frank expression and correction; preserving what I mean as it moves
@@ -127,17 +125,59 @@ James → james → I → me → we → us → A/B
 
 Those final terms are not all grammatical pronouns. They're important because James also uses his own name and A/B when tracking relationships.
 
-**Human reference — distinct referents, shared humanity, and movement**
+**The central distinction:** This is an inventory of language James can move through, not a claim that every pronoun is his preferred gender pronoun. The referent remains James while the perspective, relationship, or wording changes.
 
-- **Everyone has their own referent.** This is a strongly held belief for James, not a metaphor for people all being the same. Each person must remain recognizable as themselves; another human is not a replacement for James, an extension of James, or an interchangeable instance of *they*.
-- **Shared humanity does not collapse those distinctions.** They are human; James is human. When James says that “they feel like me,” he is describing recognition of being human among other humans *while each person retains their own referent*. He is not making a claim about gender or sexual orientation.
-- **That recognition feels emotionally bigger to James.** Encountering another person's distinct referent is not merely an abstract classification or a grammatical choice. It consistently carries an emotional magnitude for James that the word *they* alone does not convey. This describes James's experience, not a presumed feeling or intention inside another person.
-- **Recursive emotional feedback — simultaneous, not stepwise.** James describes emotional response, recognition of another person's distinct referent, noticing differences, movement, expression, and correction as co-occurring aspects of one experience. The recursion is not a prescribed sequence of separate steps: while he is responding, that response is already part of what he is attending to and following. James connects this continuous re-entry to why his thinking, language, and investigations are so recursive. The emotion described here is James's response *to* distinct people; it does not imply that others share his feelings or lose their own referents. This is James's account of his experience, not an independently established neurological mechanism.
-- **Language needs to preserve the actual reference.** *I*, *James*, *we*, and *they* can indicate different positions and relationships; they should not be treated as interchangeable without context. Recognizing oneself among others does not license substituting one person's referent for another's.
-- **Movement is part of the connection.** James attends to people through movement, responses, and change, without requiring sexual attraction or sexual activity to define a human relationship.
-- **Pronouns and identity labels are separate questions.** *They/them* can refer to James individually if he chooses those pronouns for himself; it can also refer to other people. His personal recognition of shared humanity does not, by itself, declare a preferred pronoun, gender identity, or sexual orientation.
+---
 
-**The central distinction:** James can recognize himself *among* other people without treating other people's referents as his own. A change in wording must preserve the intended referent. This vocabulary documents language James can move through, not a claim that every listed pronoun is his preferred gender pronoun.
+### How these terms relate to my experience
+
+The vocabulary below provides ways to discuss aspects of how I experience relationships, movement, perception, emotion, and communication. These terms are not separate steps I consciously perform, nor do I claim they establish a particular neurological mechanism.
+
+**Continuous, instinctual comparison**
+
+I use the word *comparison* because it is the closest language I have for something that is already happening.
+
+I do not choose to begin comparing, and I do not need to direct my attention toward comparison for it to continue. It remains in motion while I am speaking, walking, working, or doing other things.
+
+My choice is primarily whether to express what I am noticing, not whether the underlying experience occurs.
+
+**Human referents and emotional experience**
+
+I recognize that every person has their own referent. They are human, and I am human. I recognize myself among them without treating them as interchangeable with me.
+
+My ongoing experience of comparison carries emotional information about these relationships. Emotion is not merely something I add after making an observation. It is part of what I experience while the comparison is already in motion.
+
+**Mismatch-driven cognition**
+
+*Mismatch-driven* describes my relationship with differences that become apparent during this ongoing experience.
+
+I do not have to search deliberately for a mismatch. When something does not correspond with what I am following, I can notice that difference and express a correction.
+
+The experience continues whether or not I communicate the correction.
+
+**Recursion and communication**
+
+I can revisit relationships, distinctions, and earlier expressions while the underlying experience continues.
+
+Language allows me to articulate what I am noticing. Because my experience does not arrive as a prepared verbal explanation, I sometimes need to correct the language repeatedly to preserve what I originally meant.
+
+This is one reason my conversations and investigations can become recursive.
+
+**Embodied relational cognition**
+
+The experience is not confined to deliberate verbal reasoning. It continues alongside ordinary physical activity, spontaneous movement, and interaction with my surroundings.
+
+**Parrhesia and artifacting**
+
+I call my practice of expressing what I actually notice and understand *artifacting*.
+
+The ongoing comparison is not something I choose to initiate. Speaking about it is a choice.
+
+When I do communicate, I try to preserve the relationships I am referring to, including acknowledging mismatches and correcting earlier statements.
+
+**Interpretive boundary**
+
+These descriptions represent my firsthand account. Terms such as *mismatch detection*, *embodied cognition*, *recursive metacognition*, *reflexive self-modeling*, and *parrhesia* provide conceptual vocabulary for discussing different aspects of it. They do not, by themselves, prove a specific cognitive architecture or neurological explanation.
 
 </details>
 
