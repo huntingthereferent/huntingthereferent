@@ -1,8 +1,8 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-I investigate how relationships remain identifiable while language, context, observation, and computational representations change. The work uses finite mathematical constructions, interactive experiments, and source-backed comparisons to examine what survives a change—and what does not.
-
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![TRACEWORK](https://img.shields.io/badge/TRACEWORK-EXECUTION_%26_EVIDENCE-506977?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
+
+I investigate how relationships remain identifiable while language, context, observation, and computational representations change. The work uses finite mathematical constructions, interactive experiments, and source-backed comparisons to examine what survives a change—and what does not.
 
 **Explore:** [Research](#research-focus) · [Method](#research-method) · [Evidence](#selected-research-records) · [Tracework](#tracework) · [Finite A/B](#finite-ab-constructions)
 
