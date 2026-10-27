@@ -25,7 +25,7 @@ I work independently, without institutional affiliation. The public implementati
 | Investigation | Native result and limit |
 | --- | --- |
 | **Finite A/B** | Distinct paths `BBAA` and `ABABB` reach `[2, 2, 1]` after 14 explored states **in one defined finite system**. [Pinned receipt](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/views/motion/convergence-receipt.json) · [Operators](https://github.com/huntingthereferent/autobots-assemble/blob/702326a0d9c0dc8e9225b4cdd4d9a8c333b778f5/work/arc_like_maze/math.py) |
-| **ARC / original SP80 SDK** | Two native entries reached official level **4/6**. A later 52-reset level-4 experiment **did not reach** level 5 or WIN. [Native witness](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [Failed follow-up](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534) |
+| **ARC / original SP80 SDK** | **2 of 50** native resets reached official level **4/6** on October 21. A later **52 of 52** level-4 resets **did not reach** level 5 or WIN. [Native witness](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39616395169) · [Failed follow-up](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39636174534) |
 | **NIH / AACT** | Two authenticated deposited exports share **432,597 study IDs**, with **1,345 differing status fields**. Underlying extract chronology is unresolved; these are *not* proven chronological status transitions. [Source comparison](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/systems/workspace/NIH_P2_STATUS_DIFFERENCE_SEARCH.md) |
 | **WORLD / conditional motion** | Trial 31 checked **24 conservative inequalities** through a **0.25-unit** virtual-time horizon. Three hypothetical response cases lost a sufficient clearance bound; **no physical collision was observed**. [Source record](https://github.com/huntingthereferent/autobots-assemble/blob/7916709e16e14cb1222639f385746abc882effe1/work/ab_world/TRIAL31_SOURCE_HANDOFF.md) · [Analytical check](https://github.com/huntingthereferent/autobots-assemble/actions/runs/39531157339) |
 
@@ -91,7 +91,9 @@ Two independently checked action histories reach the same state **within that fi
 </details>
 
 <details>
-<summary><strong>Language Referent and continuity — source audit (October 25, 2026)</strong></summary>
+<summary><strong>Language Referent and continuity — AI-assisted repository self-audit (October 25, 2026)</strong></summary>
+
+*An AI-assisted internal reading of public source files, not independent peer review or a fresh execution of the complete test suite.*
 
 This source-level audit examines how James Muneoka's Language Referent research is represented in the Tracework repository. Its central concern is continuity: how a relationship can remain identifiable while language, context, observations, or computational representations change. The repository does not treat similar wording as sufficient evidence of the same relationship. Instead, it asks what survives a transition and what supports that conclusion.
 
