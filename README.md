@@ -125,7 +125,14 @@ James → james → I → me → we → us → A/B
 
 Those final terms are not all grammatical pronouns. They're important because James also uses his own name and A/B when tracking relationships.
 
-**The central distinction:** This is an inventory of language James can move through, not a claim that every pronoun is his preferred gender pronoun. The referent remains James while the perspective, relationship, or wording changes.
+**Human reference — shared humanity and movement**
+
+- James describes recognizing himself among other humans: they are human, and James is human. When he says that “they feel like me,” he is describing recognition of shared humanity, not making a claim about gender or sexual orientation.
+- People remain distinct individuals even when James recognizes something shared with them. The words *I*, *James*, *we*, and *they* can mark different positions and referents within a relationship; they should not be treated as interchangeable without context.
+- James attends to relationships through movement, responses, and change. Following that movement does not require defining the connection by sexual attraction or activity.
+- *They/them* can refer to James individually if he chooses those pronouns for himself; *they/them* can also refer to other people. A personal reason for identifying with the word *they* is distinct from its grammatical number and from any gender label.
+
+**The central distinction:** This is an inventory of language James can move through, not a claim that every pronoun is his preferred gender pronoun. When James is the referent, changes of wording or perspective must preserve James as the referent. When *they* refers to other people, the referent is those people; recognizing shared humanity does not erase the distinction.
 
 </details>
 
