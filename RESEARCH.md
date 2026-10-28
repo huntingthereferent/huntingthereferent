@@ -6,9 +6,9 @@ I usually begin with something I can observe but cannot yet describe accurately.
 
 The wording can change along the way. So can the tools and the problem I thought I was working on. That does not mean every new description is a different investigation, or that everything I encounter belongs to one theory.
 
-## Verified movement — October 20, 2026
+## Dated observations — October 20, 2026
 
-The [current evidence register](RESEARCH_REGISTER.md) is pinned to the source revision it actually inspected; it separates native outcomes from conditional mathematics and tests that merely exercise a proposed adapter. Selected results:
+The [October 21 evidence register](RESEARCH_REGISTER.md) is pinned to the source revision it actually inspected; it separates native outcomes from conditional mathematics and tests that merely exercise a proposed adapter. The table below retains the **October 20** frontier. Later [October 21 ARC evidence](ARC_EVIDENCE.md) records level 4 of 6 in 2 of 50 independent native resets; it must not be silently read back into the earlier result. Selected October 20 observations:
 
 | Lane | Current witnessed boundary | What remains unresolved |
 | --- | --- | --- |
