@@ -151,50 +151,6 @@ Those final terms are not all grammatical pronouns. They're important because Ja
 
 </details>
 
-<details>
-<summary><strong>Language Referent and continuity — AI-assisted repository self-audit (October 25, 2026)</strong></summary>
-
-*An AI-assisted internal reading of public source files, not independent peer review or a fresh execution of the complete test suite.*
-
-This source-level audit examines how James Muneoka's Language Referent research is represented in the Tracework repository. Its central concern is continuity: how a relationship can remain identifiable while language, context, observations, or computational representations change. The repository does not treat similar wording as sufficient evidence of the same relationship. Instead, it asks what survives a transition and what supports that conclusion.
-
-The implementations go beyond storing earlier statements. Referent traversal records the current relation and direction, the relationships that survived or changed, available evidence, unresolved boundaries, and provenance. Those records allow subsequent movement to revisit earlier observations without automatically restoring an outdated interpretation. When a proposed continuation fails, the system can retain the useful observations, expose the unresolved boundary, and attempt to reground the original inquiry.
-
-This also clarifies the role of *meta* in the work. Rather than defining it as a separate supervisory layer, the implementation permits the result of one movement to become input to another pass under the same evidence contract. Earlier movements can therefore become objects of inspection, correction, and continuation. Retention is modeled as preserved relational structure, not merely as a collection of remembered sentences.
-
-James's broader research direction uses movement in language as an observable starting point for investigating how humans retain and follow thought. The repository supplies computational representations of parts of that inquiry; it does not establish a neural mechanism or an empirically validated model of the human brain.
-
-The same continuity requirements extend into finite mathematics, handoffs between independent systems, and the geometry of a growing computational world. Each domain retains its own evidence and rules; provenance connects their movements without asserting that the domains are identical.
-
-**Finite toroidal mapping and world expansion.** The current finite two-coordinate periodic example is the set
-
-\[
-W_N=(\mathbb{Z}/N\mathbb{Z})\times(\mathbb{Z}/N\mathbb{Z}),\qquad N\in\mathbb{Z}_{>0}.
-\]
-
-A finite system's movement requires a specified transition function \(F_N:W_N\times U_N\to W_N\), with \(U_N\) its admitted inputs or actions. The periodic coordinate space alone does not define movement or determine relationships. A relationship can be represented explicitly at each step, for example by \(R_n\subseteq W_N\times W_N\); the rule relating \(R_n\) to \(R_{n+1}\) must be specified and tested rather than inferred from a drawing.
-
-For an integer scale factor \(k\geq 2\), the map
-
-\[
-E_{N,k}([x]_N,[y]_N)=([kx]_{kN},[ky]_{kN})
-\]
-
-embeds the finite coordinate set \(W_N\) into \(W_{kN}\). It does not, on its own, prove that movement is preserved. Given an explicit action correspondence \(\iota_{N,k}:U_N\to U_{kN}\), the transition-compatibility condition is
-
-\[
-E_{N,k}(F_N(w,u))=F_{kN}(E_{N,k}(w),\iota_{N,k}(u)).
-\]
-
-This equality is a condition to verify for the chosen systems, not an established universal result. The smooth torus \(\mathbb{T}^2=S^1\times S^1\), the finite periodic set \(W_N\), and the separately implemented finite cubical three-torus are distinct mathematical constructions. A rendered torus is not itself evidence that an implementation preserves the intended movement.
-
-James describes continuity geometrically as a **moving torus**. Finite systems are used to map aspects of its movement and changing relationships; their bounded representations must not be mistaken for the entirety of continuity. The existing projection is one research construction, not the completed Tracework environment. [Finite mapping definitions and test obligations](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md).
-
-**Audit assessment (October 25 source review, with the geometric framing clarified October 28):** The repository contains explicit contracts and code for traversal, regrounding, provenance, recursive re-entry, and evidence-bounded handoffs. The growing-world projection remains a limited implementation rather than an integrated canonical Tracework world. Quantitative retention measurements and neuroscience validation are not established by the inspected source. This was a read-only source audit, not an executed full test suite.
-
-**Inspect the underlying structures:** [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py) · [Natural provenance](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/provenance.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Continuous handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Growing finite-world projection](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/toroidal_projection.py) · [Animated toroidal tracing](https://huntingthereferent.github.io/autobots-assemble/growing-toroidal-world.html)
-
-</details>
 
 <details>
 <summary><strong>Why build continuity infrastructure early?</strong></summary>
