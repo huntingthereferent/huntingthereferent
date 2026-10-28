@@ -1,8 +1,8 @@
 ![Humanity, pop culture, internet culture and shared connections across the world](assets/observational/humanity-online-banner.webp)
 
-I follow the **Language Referent**: the actual relationship as language, observation, and context change. I experience movement, relationships, and the changing container together—not as motion inside a fixed space. I describe this geometrically as a **moving torus**. **A/B** names my movement through differences, not conventional A/B testing.
+Language is already in motion. Words and meanings change over time as people use them in different contexts. I follow what is being referred to through those changes, rather than assume an earlier description still fits. **Language Referent** (earlier **A/B**) names the relationship being followed, not the words used to describe it.
 
-**Mathematics is a witness, not the referent.** Finite models let me record what changes, what remains connected, and whether one movement can become the next valid input. **Tracework** carries this practice through AI conversations and bounded experiments, preserving sources, corrections, and observed differences.
+I describe continuity as a **moving torus**: movement, relationships, and the changing container considered together. Finite mathematical and computational models help me record and test particular relationships; they are not the referent itself. **Tracework** keeps sources, observations, and corrections available as the work continues.
 
 **Explore the work:** [Tracework repository](https://github.com/huntingthereferent/autobots-assemble) · [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Finite geometry](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Research records](RESEARCH_REGISTER.md) · [Provenance](PROVENANCE.md)
 
