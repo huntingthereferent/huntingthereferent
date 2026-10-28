@@ -28,28 +28,7 @@ The research direction is broader than any individual harness. **Tracework is be
 
 I work independently, without institutional affiliation. Claims about implemented behavior are limited to what their particular sources and tests support.
 
-<details>
-<summary><strong>How the work stays connected — Tracework</strong></summary>
-
-**Tracework** is the developing finite-system research and implementation environment in which I map movement and relationships while retaining what was changed, where it came from, what actually happened, and what remains unresolved. When a test moves forward, the source, the observed return, and the failures should remain traceable. Each investigation retains its own model and verification rules. The public implementation is **incomplete by design and under active development**: its bounded systems and evidence do not yet constitute a complete mathematical or executable model of moving toroidal continuity.
-
-**[Open the interactive work and evidence viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html)**
-
-<details>
-<summary>Technical sources, implementation boundaries, and other research areas</summary>
-
-| Area | Inspect |
-| --- | --- |
-| **Mathematical research** — finite models, constraints, proofs, and counterexamples | [Source mathematics](showcase/MATHEMATICS.md) · [Method](docs/RESEARCH_METHOD.md) |
-| **Tracework implementation** — bounded handoffs, provenance, and source-linked movement | [Runtime and architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/TRACEWORK.md) · [Architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) · [Workspace sources](https://github.com/huntingthereferent/autobots-assemble/blob/main/systems/workspace/README.md) |
-| **ARC / WORLD / NIH** — independent experiments under native evidence rules | [ARC evidence](ARC_EVIDENCE.md) · [WORLD sources](https://github.com/huntingthereferent/autobots-assemble/tree/main/work/ab_world) · [NIH register](RESEARCH_REGISTER.md) |
-| **Other projects** — applications, software, and source editions | [Project inventory](showcase/PROJECT_INVENTORY.md) |
-
-Tracework was previously described as the *workstation*. Historical identifiers remain in the code where renaming would break provenance or compatibility. A shared evidence carrier does **not** make these research lanes one mathematical experiment.
-
-</details>
-
-</details>
+**Provenance and source material.** I used Tracework chiefly to keep track of sources, prompts, mathematical proposals, generated code, corrections, and test returns as I repeatedly directed AI assistance through the research. It should not be read as an autonomous researcher or as the source of my mathematical direction. The repository contains AI-assisted artifacts and finite implementations whose claims depend on their actual evidence, not on the fact that they were written down. [Explore the work and evidence](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Technical architecture](https://github.com/huntingthereferent/autobots-assemble/blob/main/ARCHITECTURE.md) · [Research records](RESEARCH_REGISTER.md).
 
 ## Selected research records
 
