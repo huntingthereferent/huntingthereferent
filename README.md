@@ -2,19 +2,19 @@
 
 [![RESEARCH](https://img.shields.io/badge/RESEARCH-SOURCES_%26_TESTS-477765?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#research) [![MATH](https://img.shields.io/badge/MATH-FINITE_MODELS-536C91?style=flat-square&labelColor=111827)](https://huntingthereferent.github.io/autobots-assemble/live/work.html#math) [![EVIDENCE](https://img.shields.io/badge/EVIDENCE-SOURCE_RECORDS-856840?style=flat-square&labelColor=111827)](PROVENANCE.md)
 
-I investigate how relationships remain identifiable while language, context, observation, and computational representations change. I build finite test worlds, make bounded changes, and compare what actually happens with what I expected. The question for people who build complex systems is practical: what survives a change, what fails, and how can the next correction stay connected to the original problem?
+I investigate continuity through movement and changing relationships. My geometric research direction uses a moving torus: finite systems map aspects of that movement through explicitly defined states, transitions, and relationships. I build bounded mathematical and computational worlds, compare their actual results with expected results, and use the differences to determine what to correct next. The public repository is an evolving body of research and implementation, not a finished theory or a complete realization of continuity.
 
 **Explore:** [Research](#research-focus) · [Method](#research-method) · [Finite A/B](#finite-ab-constructions) · [Test results](#selected-research-records)
 
 ## Research focus
 
 - **Language and continuity** — following a referent through changes in wording, context, and interpretation. [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Traversal runtime](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py)
-- **Finite systems and world geometry** — constructing bounded actions, testing correspondences, and finding where a relation fails. [Mathematical notes](showcase/MATHEMATICS.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md)
+- **Finite systems and moving toroidal geometry** — specifying finite periodic spaces, actual transition rules, changing relationships, and tests of whether correspondences survive changes in resolution. [Mathematical notes](showcase/MATHEMATICS.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md)
 - **Native investigations** — comparing results against the original ARC, WORLD, and scientific-data sources, each under its own evidence rules. [Selected work](SELECTED_WORK.md) · [Research register](RESEARCH_REGISTER.md)
 
 ## Research method
 
-Start with a defined system and a change you can actually test. Record what you expect, make the movement, and compare it with what came back. Keep the failed attempts as well as the successes, so the next correction starts from the real difference. A simulated outcome, a native test result, and an independently checked result are not interchangeable.
+Start with an explicitly defined finite system, its permitted movement, and the relationships being tested. Record what the transition predicts, execute it, and compare the observed result with the prediction. Keep the failed attempts as well as the successes, so the next correction starts from the real difference. A simulated outcome, a native test result, and an independently checked result are not interchangeable.
 
 **Follow a worked example:** [From relation to execution to evidence](docs/TRACEWORK_THEORY_TO_EVIDENCE.md) connects defined mathematics to its actual code and source receipts, while keeping separate experiments separate.
 
@@ -23,7 +23,7 @@ I work independently, without institutional affiliation. The public implementati
 <details>
 <summary><strong>How the work stays connected — Tracework</strong></summary>
 
-**Tracework** is the finite-system environment I am developing to keep track of what was changed, where it came from, what actually happened, and what remains unresolved. When a test moves forward, the source, the observed return, and the failures should remain traceable. Each investigation retains its own model and verification rules. The public implementation is a **development preview**, not the complete standalone environment.
+**Tracework** is the developing finite-system research and implementation environment in which I map movement and relationships while retaining what was changed, where it came from, what actually happened, and what remains unresolved. When a test moves forward, the source, the observed return, and the failures should remain traceable. Each investigation retains its own model and verification rules. The public implementation is **incomplete by design and under active development**: its bounded systems and evidence do not yet constitute a complete mathematical or executable model of moving toroidal continuity.
 
 **[Open the interactive work and evidence viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html)**
 
@@ -158,11 +158,31 @@ James's broader research direction uses movement in language as an observable st
 
 The same continuity requirements extend into finite mathematics, handoffs between independent systems, and the geometry of a growing computational world. Each domain retains its own evidence and rules; provenance connects their movements without asserting that the domains are identical.
 
-**Geometric construction and world expansion.** The Language-Neutral Shape Contract includes a geometric construction principle: the finite world must be able to grow as additional objects, relationships, and movements need to be represented. The current example uses a two-dimensional wraparound grid (a discrete torus): moving past the right edge brings you back on the left, and moving past the top brings you back at the bottom. Rather than keeping the grid permanently fixed, the model can expand its width and height by the same whole-number factor of two or more. Each original position is mapped to the larger grid by multiplying both of its coordinates by that factor, with the coordinates wrapping around the new grid where needed. The original source identities and recorded relationships remain authoritative; objects appearing near each other or overlapping on the grid does not, by itself, establish a relationship. A one-cell movement in the smaller grid becomes a multi-cell movement in the enlarged grid, so corresponding paths must be checked rather than assumed to remain equivalent.
+**Finite toroidal mapping and world expansion.** The current finite two-coordinate periodic example is the set
 
-This is a geometric component of the research, not simply a visualization choice. The objective is for the representational world to accommodate the construction as it develops, while keeping earlier relations recoverable and subject to evidence-based checks. The published toroidal projection demonstrates a bounded portion of that principle; it does not yet implement the entire evolving world within Tracework.
+\[
+W_N=(\mathbb{Z}/N\mathbb{Z})\times(\mathbb{Z}/N\mathbb{Z}),\qquad N\in\mathbb{Z}_{>0}.
+\]
 
-**Audit assessment:** The repository contains explicit contracts and code for traversal, regrounding, provenance, recursive re-entry, and evidence-bounded handoffs. The growing-world projection remains a limited implementation rather than an integrated canonical Tracework world. Quantitative retention measurements and neuroscience validation are not established by the inspected source. This was a read-only source audit, not an executed full test suite.
+A finite system's movement requires a specified transition function \(F_N:W_N\times U_N\to W_N\), with \(U_N\) its admitted inputs or actions. The periodic coordinate space alone does not define movement or determine relationships. A relationship can be represented explicitly at each step, for example by \(R_n\subseteq W_N\times W_N\); the rule relating \(R_n\) to \(R_{n+1}\) must be specified and tested rather than inferred from a drawing.
+
+For an integer scale factor \(k\geq 2\), the map
+
+\[
+E_{N,k}([x]_N,[y]_N)=([kx]_{kN},[ky]_{kN})
+\]
+
+embeds the finite coordinate set \(W_N\) into \(W_{kN}\). It does not, on its own, prove that movement is preserved. Given an explicit action correspondence \(\iota_{N,k}:U_N\to U_{kN}\), the transition-compatibility condition is
+
+\[
+E_{N,k}(F_N(w,u))=F_{kN}(E_{N,k}(w),\iota_{N,k}(u)).
+\]
+
+This equality is a condition to verify for the chosen systems, not an established universal result. The smooth torus \(\mathbb{T}^2=S^1\times S^1\), the finite periodic set \(W_N\), and the separately implemented finite cubical three-torus are distinct mathematical constructions. A rendered torus is not itself evidence that an implementation preserves the intended movement.
+
+James describes continuity geometrically as a **moving torus**. Finite systems are used to map aspects of its movement and changing relationships; their bounded representations must not be mistaken for the entirety of continuity. The existing projection is one research construction, not the completed Tracework environment. [Finite mapping definitions and test obligations](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md).
+
+**Audit assessment (October 25 source review, with the geometric framing clarified October 28):** The repository contains explicit contracts and code for traversal, regrounding, provenance, recursive re-entry, and evidence-bounded handoffs. The growing-world projection remains a limited implementation rather than an integrated canonical Tracework world. Quantitative retention measurements and neuroscience validation are not established by the inspected source. This was a read-only source audit, not an executed full test suite.
 
 **Inspect the underlying structures:** [Language Referent contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Shape contract](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Referent traversal](https://github.com/huntingthereferent/autobots-assemble/blob/main/runtime/referent_traversal.py) · [Natural provenance](https://github.com/huntingthereferent/autobots-assemble/blob/main/protocols/core/provenance.md) · [Regrounding](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/REGROUNDING.md) · [Continuous handoff](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/handoff/CONTINUOUS_HANDOFF.md) · [Growing finite-world projection](https://github.com/huntingthereferent/autobots-assemble/blob/main/work/arc_like_maze/toroidal_projection.py) · [Animated toroidal tracing](https://huntingthereferent.github.io/autobots-assemble/growing-toroidal-world.html)
 
