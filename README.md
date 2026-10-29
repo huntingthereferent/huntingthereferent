@@ -6,7 +6,9 @@ I'm part of that too. I've spent my life observing people and following the rela
 
 This is **humanity's investigation**, not a claim that James stands outside it or has the final answer. I'm driving this part for now because I don't see someone else doing it. If someone can challenge it and take it further, I'm happy to hand over the wheel.
 
-**Language Referent** (earlier **A/B**) is one way I'm exploring how references and relationships change. Its finite mathematical models are things to test, not proof of a universal shape of human continuity. **Tracework** carries the same attention to sources, observations, corrections, and unresolved differences into work with AI and computational experiments.
+Following relationships comes naturally to me. Stopping to name and explain each part is harder. That's where AI has been useful: helping me put words to what I'm observing and turn parts of the work into code and artifacts others can inspect. AI didn't give me the observations or a destination.
+
+**Language Referent** (earlier **A/B**) is the name we've used while exploring how references and relationships change. As I kept following those relationships and worked with AI to express and build around them, **Tracework** grew along the way. Its experiments and finite mathematical models are open to testing and correction; they aren't proof of a universal shape of human continuity.
 
 Everyone is welcome to question, test, contribute, or build beyond what I've done. The work matters more than who is driving it.
 
