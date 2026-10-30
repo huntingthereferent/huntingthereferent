@@ -12,6 +12,6 @@ Following relationships comes naturally to me. Stopping to name and explain each
 
 Everyone is welcome to question, test, contribute, or build beyond what I've done. The work matters more than who is driving it.
 
-**Explore the work:** [Tracework repository](https://github.com/huntingthereferent/autobots-assemble) · [Live viewer](https://huntingthereferent.github.io/autobots-assemble/live/work.html) · [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Finite geometry](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Research records](RESEARCH_REGISTER.md) · [Provenance](PROVENANCE.md)
+**Explore the work:** [Tracework repository](https://github.com/huntingthereferent/autobots-assemble) · [Live viewer](https://huntingthereferent.github.io/autobots-assemble/docs/live/work.html) · [Language Referent](https://github.com/huntingthereferent/autobots-assemble/blob/main/LANGUAGE_REFERENT_CONTRACT.md) · [Finite geometry](https://github.com/huntingthereferent/autobots-assemble/blob/main/language/SHAPE_CONTRACT.md) · [Research records](RESEARCH_REGISTER.md) · [Provenance](PROVENANCE.md)
 
 *The factory must grow.*
